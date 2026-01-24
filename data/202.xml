@@ -1,61 +1,68 @@
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Über Göthes Hermann und Dorothea</title>
             <author>
-               <surname>Humboldt</surname>
-               <forename>Wilhelm von</forename>
+                <persName ref="gnd-118554727">
+                    <surname>Humboldt</surname>
+                    <forename>Wilhelm von</forename>
+                </persName>
             </author>
-            <editor>
-               <surname>Berigüete Pastor</surname>
-               <forename>Silvia</forename>
-            </editor>
             <respStmt>
-               <resp>Curator</resp>
-               <persName xml:id="sbp">
-                  <surname>Berigüete Pastor</surname>
-                  <forename>Silvia</forename>
-               </persName>
+                <resp>Editor and curator of the digital edition</resp>
+                <persName xml:id="sbp">
+                    <forename>Silvia</forename>
+                    <surname>Berigüete Pastor</surname>
+                </persName>
             </respStmt>
          </titleStmt>
          <editionStmt>
-            <edition>
-               <title>Wilhelm von Humboldt: Schriften</title>
+            <edition n="1">
+                <label>Digital scholarly edition</label>
+                <date when="2025"/>
             </edition>
-         </editionStmt>
+        </editionStmt>
+        <seriesStmt>
+            <title>Wilhelm von Humboldt: Schriften</title>
+            <idno type="URI">https://www.wvh-schriften.de</idno>
+        </seriesStmt>
          <publicationStmt>
-            <publisher>Independent Online Edition</publisher>
-            <date when="2025-10">Oktober 2025</date>
-            <availability>
+            <publisher>Wilhelm von Humboldt: Schriften</publisher>
+            <date when="2025-05">August 2025</date>
+            <availability status="restricted">
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
                   Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
             </availability>
             <idno type="URI">https://www.wvh-schriften.de</idno>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <biblStruct>
                <title>Wilhelm von Humboldts Werke. Zweiter Band</title>
                <editor>
-                  <surname>Leitzmann</surname>
-                  <forename>Albert</forename>
+                  <persName ref="gnd-116890657">
+                    <surname>Leitzmann</surname>
+                    <forename>Albert</forename>
+                  </persName>
                </editor>
                <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
                <pubPlace>Berlin</pubPlace>
                <date when="1904">1904</date>
                <idno type="URI">https://archive.org/details/gesammelteschrif02humbuoft/page/n1/mode/2up</idno>
-            </bibl>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines. The text is based on the 1903 critical edition edited by Albert Leitzmann.</p>
+        </editorialDecl>
+    </encodingDesc>
       <profileDesc>
          <creation>
             <date when="1798">1798-04</date>
+            <placeName ref="geo-2988507">Paris</placeName>
          </creation>
-         <settingDesc>
-            <setting>
-               <placeName ref="geo-2988507">Paris</placeName>
-            </setting>
-         </settingDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
          </langUsage>
