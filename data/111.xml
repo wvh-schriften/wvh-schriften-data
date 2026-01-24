@@ -11,23 +11,13 @@
                 </persName>
             </author>
             <respStmt>
-                <resp>Editor and curator of the digital edition</resp>
+                <resp>TEI enconding</resp>
                 <persName xml:id="sbp">
                     <forename>Silvia</forename>
                     <surname>Berigüete Pastor</surname>
                 </persName>
             </respStmt>
          </titleStmt>
-         <editionStmt>
-            <edition n="1">
-                <label>Digital scholarly edition</label>
-                <date when="2025"/>
-            </edition>
-        </editionStmt>
-        <seriesStmt>
-            <title>Wilhelm von Humboldt: Schriften</title>
-            <idno type="URI">https://www.wvh-schriften.de</idno>
-        </seriesStmt>
          <publicationStmt>
             <publisher>Wilhelm von Humboldt: Schriften</publisher>
             <date when="2025-05">August 2025</date>
