@@ -1,0 +1,35 @@
+{
+  "label" : "Wilhelm von Humboldt: Schriften",
+  "odds" : [ "wvh-schriften.odd", "wvh-schriften.odd" ],
+  "id" : "https://e-editiones.org/apps/wvh",
+  "defaults" : {
+    "odd" : "wvh-schriften.odd"
+  },
+  "extends" : [ "base10", "demo-data", "theme-base10", "registers", "serafin", "landing-page", "edition-navigation", "timeline", "docker", "sitemap", "ci" ],
+  "features" : {
+    "register" : {
+      "enabled" : true
+    },
+    "toolbar" : {
+      "navigation" : false
+    }
+  },
+  "theme" : {
+    "logo" : {
+      "image" : "../images/icon.png"
+    },
+    "menubar" : {
+      "background-image" : "../images/klassik.png"
+    },
+    "colors" : {
+      "palette" : "beige"
+    },
+    "splash" : {
+      "image" : "../images/splash.png"
+    }
+  },
+  "pkg" : {
+    "abbrev" : "wvh"
+  },
+  "description" : ""
+}

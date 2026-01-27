@@ -1,0 +1,439 @@
+{
+  "actions" : [ {
+    "app" : "jinks",
+    "description" : "Reindex the data",
+    "label" : "Reindex data",
+    "name" : "reindex"
+  }, {
+    "description" : "Rebuild list of ODDs and recompile",
+    "label" : "Fix ODDs",
+    "name" : "fix-odds"
+  }, {
+    "app" : "jinks",
+    "description" : "Download the app as a `.xar` file",
+    "label" : "Download",
+    "name" : "download"
+  }, {
+    "app" : "jinks",
+    "description" : "Sync the app to a directory on the local file system",
+    "label" : "Sync",
+    "name" : "file-sync",
+    "parameters" : [ {
+      "required" : true,
+      "description" : "The path to the target directory",
+      "label" : "Directory",
+      "name" : "target"
+    } ]
+  }, {
+    "description" : "Generate a sitemap.xml containing all document URLs and their pages",
+    "label" : "Sitemap",
+    "name" : "sitemap"
+  } ],
+  "profiles" : [ "base10", "demo-data", "theme-base10", "registers", "serafin", "landing-page", "edition-navigation", "timeline", "docker", "sitemap", "ci" ],
+  "shortname" : "register",
+  "label" : "Wilhelm von Humboldt: Schriften",
+  "version" : "1.0.0",
+  "id" : "https://e-editiones.org/apps/wvh",
+  "styles" : [ "https://cdn.jsdelivr.net/npm/theme-toggles@4.10.1/css/classic.min.css", "resources/css/pico-components.css", "resources/css/jinks-theme.css" ],
+  "_noDeploy" : false,
+  "ci" : {
+    "provider" : "github",
+    "enabled" : true
+  },
+  "template-suffix" : "\\.tpl",
+  "ignore" : [ "repo.xml", "resources/odd/teilite.rng", "resources/css/components.css" ],
+  "target" : "/db/apps/wvh",
+  "menu" : {
+    "language" : true,
+    "delete" : true,
+    "dark-mode" : true,
+    "items" : [ {
+      "url" : "browse.html",
+      "id" : "Start"
+    }, {
+      "url" : "people",
+      "id" : "people"
+    }, {
+      "url" : "places",
+      "id" : "places"
+    }, {
+      "url" : "auxiliary/about.xml",
+      "id" : "about"
+    }, {
+      "url" : "browse.html",
+      "id" : "explore"
+    } ],
+    "login" : true,
+    "download" : true,
+    "search" : true
+  },
+  "theme" : {
+    "layout" : {
+      "search" : "before",
+      "footer" : {
+        "mobile" : {
+          "enabled" : true
+        }
+      },
+      "after" : {
+        "width" : "min(30vw, 356px)",
+        "hidden" : false,
+        "toggle" : true
+      },
+      "before" : {
+        "width" : "min(30vw, 356px)",
+        "hidden" : false,
+        "toggle" : true
+      },
+      "max-width" : "84rem",
+      "before-width" : "min(30vw, 420px)",
+      "class" : "fixed-layout"
+    },
+    "landing" : {
+      "hero" : {
+        "background-position" : "center",
+        "background-color" : "rgba(0, 0, 0, 0.6)",
+        "class" : "two-column",
+        "background-size" : "cover",
+        "background-image" : "../images/typewriter1.jpg",
+        "background-repeat" : "no-repeat"
+      },
+      "bottom" : {
+        "background-color" : "rgba(0, 0, 0, 0.4)",
+        "background-size" : "cover",
+        "background-image" : "../images/typewriter3.jpg",
+        "background-repeat" : "no-repeat"
+      }
+    },
+    "menubar" : {
+      "background-color" : "var(--jinks-colors-500)",
+      "color" : "#ffffff",
+      "background-image" : "../images/klassik.png"
+    },
+    "registers" : {
+      "columns" : 2
+    },
+    "splash" : {
+      "width" : "320px",
+      "image" : "../images/splash.png",
+      "height" : "auto"
+    },
+    "body" : {
+      "background-color" : "var(--jinks-colors-100)"
+    },
+    "logo" : {
+      "width" : "48px",
+      "image" : "../images/icon.png",
+      "height" : "48px"
+    },
+    "breadcrumbs" : {
+      "max" : "40ch"
+    },
+    "content" : {
+      "max-width" : "70ch"
+    },
+    "texture" : {
+      "background-image" : null
+    },
+    "colors" : {
+      "palettes" : {
+        "green" : "palette-green.css",
+        "teal" : "palette-teal.css",
+        "neutral" : "palette-neutral.css",
+        "blue" : "palette-blue.css",
+        "beige" : "palette-beige.css",
+        "dark" : "palette-dark.css"
+      },
+      "palette" : "beige"
+    },
+    "fonts" : {
+      "toc" : {
+        "size" : "1.125rem"
+      },
+      "menubar" : {
+        "size" : "14px"
+      },
+      "footnote" : {
+        "size" : "0.9em"
+      },
+      "base" : {
+        "family" : "'Inter', 'Noto', sans-serif",
+        "line-height" : "1.4",
+        "size" : "16px",
+        "weight" : "400"
+      },
+      "heading" : {
+        "family" : "'Inter', 'Noto', sans-serif",
+        "size" : "1.2rem",
+        "weight" : "400"
+      },
+      "breadcrumbs" : {
+        "size" : "0.9rem"
+      },
+      "content" : {
+        "family" : "JunicodeVF, Georgia, 'Times New Roman', serif",
+        "line-height" : "150%",
+        "size" : "1.25rem",
+        "weight" : "400"
+      }
+    },
+    "toolbar" : {
+      "background-color" : "var(--jinks-colors-200)",
+      "color" : "var(--jinks-color-primary)"
+    }
+  },
+  "features" : {
+    "menubar" : true,
+    "register" : {
+      "description" : null,
+      "enabled" : true
+    },
+    "sitemap" : {
+      "custom" : [ "index.html" ],
+      "base-uri" : "http://dev.tei-publisher.com"
+    },
+    "timeline" : {
+      "document-view" : false,
+      "enabled" : true
+    },
+    "toolbar" : {
+      "zoom" : true,
+      "navigation" : false,
+      "enabled" : true,
+      "progress" : {
+        "subscribe" : "transcription",
+        "enabled" : true
+      }
+    },
+    "toolbar-toggles" : {
+      "toggle-reading" : false,
+      "enabled" : false
+    },
+    "hero" : false,
+    "toc" : {
+      "collapse" : false,
+      "enabled" : false
+    },
+    "edition-navigation" : {
+      "in-correspondence" : false,
+      "navigation" : false
+    },
+    "browse" : {
+      "sort" : {
+        "options" : [ {
+          "label" : "Category",
+          "value" : "category",
+          "key" : "browse.category"
+        }, {
+          "label" : "Title",
+          "value" : "title",
+          "key" : "browse.title"
+        }, {
+          "label" : "Author",
+          "value" : "author",
+          "key" : "browse.author"
+        }, {
+          "label" : "Date",
+          "value" : "date",
+          "key" : "browse.date"
+        } ],
+        "default" : "date"
+      },
+      "field" : {
+        "options" : [ {
+          "label" : "Content",
+          "value" : "text",
+          "key" : "search.content"
+        }, {
+          "label" : "Title",
+          "value" : "title",
+          "key" : "search.title"
+        } ],
+        "default" : "text"
+      }
+    }
+  },
+  "indexing" : {
+    "tei" : {
+      "enable" : true,
+      "context" : "div"
+    },
+    "docbook" : {
+      "enable" : true
+    },
+    "jats" : {
+      "enable" : true
+    }
+  },
+  "data" : {
+    "landing" : "landing/landing.xml"
+  },
+  "_lastModified" : "2026-01-21T17:15:10.245Z",
+  "pkg" : {
+    "website" : "http://tei-publisher.org",
+    "abbrev" : "wvh",
+    "author" : "Wolfgang Meier et al.",
+    "version" : "1.0.0",
+    "dependencies" : [ {
+      "semver" : "1",
+      "package" : "http://e-editiones.org/roaster"
+    }, {
+      "semver" : "6",
+      "package" : "http://existsolutions.com/apps/tei-publisher-lib"
+    }, {
+      "semver" : "1",
+      "package" : "http://tei-publisher.com/library/jinks-templates"
+    } ],
+    "permissions" : "rw-r--r--",
+    "user" : {
+      "password" : "simple",
+      "name" : "tei",
+      "group" : "tei"
+    }
+  },
+  "description" : "",
+  "_dry" : false,
+  "source" : "/db/apps/jinks/profiles/ci",
+  "type" : "feature",
+  "skip" : [ "^doc/.*$", "setup.xql", "config.json" ],
+  "odds" : [ "teipublisher.odd", "dta.odd", "shakespeare.odd", "vangogh.odd", "osinski.odd", "serafin.odd", "landing.odd", "wvh-schriften.odd" ],
+  "docker" : {
+    "eXist" : "6.4.0",
+    "features" : {
+      "nodejs" : false,
+      "xst" : false,
+      "ner" : false,
+      "tex" : false
+    },
+    "jwt" : "2.0.1",
+    "roaster" : "1.11.0",
+    "ports" : {
+      "https" : 8443,
+      "http" : 8080
+    },
+    "crypto" : "6.0.1",
+    "tei-publisher-lib" : "6.0.2",
+    "ant" : "1.10.15",
+    "jinks-templates" : "1.2.0"
+  },
+  "category" : "development",
+  "_overwrite" : "quick",
+  "defaults" : {
+    "data" : "data",
+    "landing" : "index.html",
+    "address-by-id" : false,
+    "odd-root" : "resources/odd",
+    "languages" : [ "bg", "cs", "zh_CN", "zh_TW", "de", "en", "es", "el", "fr", "fi", "it", "ka", "nl", "no", "pl", "pt", "ro", "ru", "sl", "sv", "tr", "uk" ],
+    "data-default" : "letters",
+    "direction" : "ltr",
+    "template" : "serafin.html",
+    "browse" : "browse-custom.html",
+    "search" : "div",
+    "view" : "div",
+    "data-exclude" : [ "doc($config:data-root || '/taxonomy.xml')//tei:text", "collection($config:register-root)//tei:text" ],
+    "odd" : "wvh-schriften.odd",
+    "pagination" : {
+      "fill" : 5,
+      "depth" : 10
+    },
+    "media" : [ "web", "print", "epub", "fo" ],
+    "register-root" : "registers"
+  },
+  "templating" : {
+    "use" : [ "templates/register-blocks.html", "templates/edition-navigation-blocks.html", "templates/timeline-blocks.html" ],
+    "modules" : {
+      "http://teipublisher.com/ns/templates/browse" : {
+        "at" : "modules/templates/browse.xqm",
+        "prefix" : "browse"
+      },
+      "http://teipublisher.com/ns/templates/landing-page" : {
+        "at" : "modules/templates/landing-page.xqm",
+        "prefix" : "landing"
+      },
+      "http://teipublisher.com/ns/templates/page" : {
+        "at" : "modules/templates/page.xqm",
+        "prefix" : "page"
+      }
+    }
+  },
+  "script" : {
+    "custom" : [ ],
+    "webcomponents" : "3.0.5",
+    "extra-components" : [ ],
+    "cdn" : "https://cdn.jsdelivr.net/npm/@teipublisher/pb-components"
+  },
+  "order" : 102,
+  "$schema" : "../../schema/jinks.json",
+  "collection-config" : {
+    "auxiliary" : {
+      "template" : "basic.html"
+    }
+  },
+  "_update" : true,
+  "i18n" : [ "registers", "serafin", "landing-page", "edition-navigation" ],
+  "api" : [ {
+    "spec" : "registers-api.json",
+    "prefix" : "rview",
+    "id" : "http://teipublisher.com/api/registers/view",
+    "path" : "registers-api.xql"
+  }, {
+    "prefix" : "ridx",
+    "id" : "http://tei-publisher.com/jinks/serafin/index",
+    "path" : "serafin-static-index.xql"
+  }, {
+    "spec" : "timeline-api.json",
+    "prefix" : "timeline",
+    "id" : "http://teipublisher.com/api/timeline",
+    "path" : "timeline-api.xql"
+  }, {
+    "spec" : "sitemap-api.json",
+    "prefix" : "sitemap",
+    "id" : "http://tei-publisher.org/api/sitemap",
+    "path" : "sitemap.xql"
+  } ],
+  "depends" : [ "base10", "registers", "edition-navigation", "timeline", "ci", "docker" ],
+  "static" : {
+    "fields" : {
+      "index" : [ "content", "translation", "commentary" ],
+      "store" : [ "content", "translation", "commentary", "title", "link", "places" ]
+    },
+    "redirect" : {
+      "" : "1/index.html"
+    },
+    "templating" : {
+      "use" : [ "static/templates/register-static-blocks.html" ]
+    },
+    "styles" : [ "resources/css/static.css", "transform/serafin.css" ],
+    "facets" : [ "places" ],
+    "collections" : {
+      "" : {
+        "index" : "single",
+        "path-prefix" : "letters",
+        "paginate" : {
+          "toc" : false,
+          "parts" : [ {
+            "xpath" : "//text[@type = 'source']",
+            "view" : "single",
+            "odd" : "serafin.odd"
+          }, {
+            "xpath" : "//text[@type = 'translation']",
+            "id" : "translation",
+            "view" : "single",
+            "odd" : "serafin.odd"
+          }, {
+            "user.mode" : "breadcrumb",
+            "id" : "breadcrumb",
+            "view" : "single",
+            "odd" : "serafin.odd"
+          }, {
+            "user.mode" : "register",
+            "id" : "register",
+            "odd" : "serafin.odd"
+          } ],
+          "template" : "static/templates/serafin.html"
+        },
+        "template" : "static/templates/index.html"
+      }
+    }
+  }
+}

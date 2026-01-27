@@ -8,6 +8,9 @@ declare variable $exist:controller external;
 declare variable $exist:prefix external;
 declare variable $exist:root external;
 
+
+declare variable $landingPage := "index.html";
+
 declare variable $allowOrigin := local:allowOriginDynamic(request:get-header("Origin"));
 
 declare function local:allowOriginDynamic($origin as xs:string?) {
@@ -36,7 +39,7 @@ if ($exist:path eq '') then
 else if ($exist:path eq "/") then
     (: forward root path to index.xql :)
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
-        <redirect url="index.html"/>
+        <redirect url="{$landingPage}"/>
     </dispatch>
 
 (: static HTML page for API documentation should be served directly to make sure it is always accessible :)
@@ -48,6 +51,7 @@ else if ($exist:path eq '/api.html') then
 (: static resources from the resources, transform, templates, odd or modules subirectories are directly returned :)
 else if (matches($exist:path, "^.*/(resources|transform|templates)/.*$")
     or matches($exist:path, "^.*/odd/.*\.css$")
+    or $exist:path eq '/robots.txt'
     or matches($exist:path, "^.*/modules/.*\.json$")) then
     let $dir := replace($exist:path, "^.*/(resources|transform|modules|templates|odd)/.*$", "$1")
     return
@@ -77,7 +81,7 @@ else
     let $main :=
         if (matches($exist:path, "^/+api/+(?:odd|lint)")) then 
             "api-odd.xql" 
-        else if (matches($exist:path, "/+tex$") or matches($exist:path, "/+api/+apps/+generate$")) then
+        else if (matches($exist:path, "/+tex$") or matches($exist:path, "/+api/+(?:actions/reindex|actions/file-sync)$")) then
             "api-dba.xql"
         else 
             "api.xql"
