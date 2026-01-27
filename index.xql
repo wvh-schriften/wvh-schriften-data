@@ -18,6 +18,8 @@ declare variable $idx:app-root :=
             $rawPath
     ;
 
+declare variable $idx:registers := collection($idx:app-root || '/data/registers');
+
 (:~
  : Helper function called from collection.xconf to create index fields and facets.
  : This module needs to be loaded before collection.xconf starts indexing documents
@@ -27,6 +29,37 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
     let $header := $root/tei:teiHeader
     return
         switch ($field)
+            case "persName" return
+                for $p in $header//tei:correspDesc/tei:correspAction/tei:persName/@key
+                return 
+                    idx:resolve-person($p)
+            case "person" return
+                for $persName in (
+                    $header//tei:correspDesc/tei:correspAction/tei:persName/@key,
+                    $root//tei:text[@type="source"]//tei:persName/@key
+                )
+                return
+                    $persName
+            case "place" return
+  let $places-reg := doc("/db/apps/wvh/data/registers/places.xml")
+  
+  (: get creation place refs :)
+  let $refs := distinct-values($header//tei:profileDesc/tei:creation//tei:placeName/@ref)
+  
+  (: fallback to settingDesc if none :)
+  let $refs := if (empty($refs)) then
+                 distinct-values($header//tei:profileDesc/tei:settingDesc//tei:placeName/@ref)
+               else $refs
+
+  let $names := for $ref in $refs
+                let $entry := $places-reg//place[@xml:id = $ref]  (: NO tei: prefix :)
+                let $name := normalize-space($entry/placeName[@type='main'][1])
+                return if ($name) then $name else $ref
+  return if (empty($names)) then ("unknown") else $names
+
+
+            case "year" return 
+                substring($header//tei:correspDesc/tei:correspAction/tei:date/@when, 1, 4)
             case "title" return
                 string-join((
                     $header//tei:msDesc/tei:head, $header//tei:titleStmt/tei:title[@type = 'main'],
@@ -35,12 +68,6 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
                     root($root)//article-meta/title-group/article-title,
                     root($root)//article-meta/title-group/subtitle
                 ), " - ")
-            case "author" return (
-                $header//tei:correspDesc/tei:correspAction/tei:persName,
-                $header//tei:titleStmt/tei:author,
-                $root/dbk:info/dbk:author,
-                root($root)//article-meta/contrib-group/contrib/name
-            )
             case "language" return
   distinct-values(
     (
@@ -49,6 +76,21 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
       $header//tei:langUsage/tei:language/@ident/string()
     )
   )
+            case "date" return
+    let $d :=
+        ($header//tei:correspDesc/tei:correspAction/tei:date[1])[1]
+    let $raw :=
+        if ($d/@when) then normalize-space(string($d/@when))
+        else if ($d/@notBefore) then normalize-space(string($d/@notBefore))
+        else if ($d/@notAfter) then normalize-space(string($d/@notAfter))
+        else ()
+    let $norm :=
+        if (matches($raw, '^\d{4}-\d{2}-\d{2}$')) then $raw
+        else if (matches($raw, '^\d{4}-\d{2}$')) then $raw || '-01'
+        else if (matches($raw, '^\d{4}$')) then $raw || '-01-01'
+        else ()
+    return
+        if ($norm) then xs:date($norm) else ()
 
             case "genre" return
   let $vals := distinct-values(
@@ -64,16 +106,72 @@ case "keywords" return
   )
   return if (empty($vals)) then ("none") else $vals
 
-case "place" return
-  let $refs := distinct-values($header//tei:profileDesc/tei:settingDesc//tei:placeName/@ref)
-  let $places-reg := doc("/db/apps/wvh-schriften/resources/registers/places.xml")
-  let $names := for $ref in $refs
-                let $entry := $places-reg//place[@xml:id = $ref]  (: NO tei: prefix :)
-                let $name := normalize-space($entry/placeName[@type='main'][1])
-                return if ($name) then $name else $ref
-  return if (empty($names)) then ("unknown") else $names
-
-
+            case "category" return
+                (root($root)/tei:TEI/@n, "ZZZ")[1]
+            case "feature" return (
+                idx:get-classification($header, 'feature'),
+                $root/dbk:info/dbk:keywordset[@vocab="#feature"]/dbk:keyword
+            )
+            case "form" return (
+                idx:get-classification($header, 'form'),
+                $root/dbk:info/dbk:keywordset[@vocab="#form"]/dbk:keyword
+            )
+            case "period" return (
+                idx:get-classification($header, 'period'),
+                $root/dbk:info/dbk:keywordset[@vocab="#period"]/dbk:keyword
+            )
+            case "content" return (
+                root($root)//body,
+                $root/dbk:section
+            )
             default return
                 ()
+};
+
+declare function idx:resolve-person($key) {
+    $idx:registers/id($key)/tei:persName
+};
+
+declare function idx:resolve-place($key) {
+    $idx:registers/id($key)/tei:placeName
+};
+
+declare function idx:get-genre($header as element()?) {
+    for $target in $header//tei:textClass/tei:catRef[@scheme="#genre"]/@target
+    let $category := id(substring($target, 2), doc($idx:app-root || "/data/taxonomy.xml"))
+    return
+        $category/ancestor-or-self::tei:category[parent::tei:category]/tei:catDesc
+};
+
+declare function idx:get-classification($header as element()?, $scheme as xs:string) {
+    for $target in $header//tei:textClass/tei:catRef[@scheme="#" || $scheme]/@target
+    let $category := id(substring($target, 2), doc($idx:app-root || "/data/taxonomy.xml"))
+    return
+        $category/ancestor-or-self::tei:category[parent::tei:category]/tei:catDesc
+};
+
+declare function idx:get-date($date as element()?) as xs:date? {
+  if (empty($date)) then ()
+  else
+    try {
+      if ($date/@when)
+        then xs:date(idx:normalize-date($date/@when))
+      else if ($date/@notBefore)
+        then xs:date(idx:normalize-date($date/@notBefore))
+      else if ($date/@notAfter)
+        then xs:date(idx:normalize-date($date/@notAfter))
+      else ()
+    } catch * {
+      ()
+    }
+};
+
+
+declare function idx:normalize-date($date as xs:string) {
+    if (matches($date, "^\d{4}-\d{2}$")) then
+        $date || "-01"
+    else if (matches($date, "^\d{4}$")) then
+        $date || "-01-01"
+    else
+        $date
 };

@@ -1,1 +1,14 @@
-<meta xmlns="http://exist-db.org/xquery/repo"><description>Wilhelm von Humboldt: Schriften</description><author/><status>beta</status><license>GNU-LGPL</license><copyright>true</copyright><type>application</type><prepare>pre-install.xql</prepare><finish>post-install.xql</finish><target>wvh-schriften</target><permissions user="tei-demo" group="tei" mode="rw-r--r--"/><deployed>2025-08-09T09:59:32.318Z</deployed></meta>
+<meta xmlns="http://exist-db.org/xquery/repo" commit-id="@commit-id@" commit-time="@commit-time@">
+    <description>Wilhelm von Humboldt: Schriften</description>
+    <author>Silvia Berigüete Pastor</author>
+    <website>http://wvh-schriften.de</website>
+    <status>stable</status>
+    <license>GPLv3</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>wvh</target>
+    <prepare>pre-install.xql</prepare>
+    <finish>post-install.xql</finish>
+    <permissions user="tei" group="tei" mode="rw-rw-r--"/>
+<deployed>2026-01-24T12:13:36.118Z</deployed>
+</meta>
