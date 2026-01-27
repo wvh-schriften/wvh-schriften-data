@@ -1,0 +1,208 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Über die Edition</title>
+                <editor>Silvia Berigüete Pastor </editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+        <div type="about" xml:lang="de">
+                <head>Über das Projekt</head>
+                <p>
+                    <hi>Wilhelm von Humboldt: Schriften</hi> ist eine Digitalausgabe, die Humboldts
+                    Werke in einer modernen, zuverlässigen und nachhaltigen Form zugänglich macht.
+                    Grundlage des Projekts sind zwei zentrale Editionen: die historische
+                        <hi>Leitzmann-Ausgabe (1903)</hi> und die <hi>Studienausgabe der WBG
+                        (Flitner/Giel, 1960–1981)</hi>.</p>
+                <p>Alle Texte werden sorgfältig digitalisiert, ediert und im <hi>TEI-XML-Format</hi>
+                    veröffentlicht. So entsteht eine durchsuchbare und interaktive Digitalausgabe,
+                    die sowohl wissenschaftlichen als auch praktischen Ansprüchen gerecht wird.</p>
+                <p>Ein unverzichtbares Werkzeug für dieses Projekt war <ref target="https://teipublisher.com/">TEI Publisher</ref>, eine
+                    Open-Source-Applikation, die die Veröffentlichung von TEI-codierten Texten
+                    bedeutend vereinfacht.</p>
+                <p>Die Edition richtet sich an Wissenschaftler:innen, Studierende sowie alle
+                    Interessierten an Humboldts Sprachphilosophie, Bildungstheorie und politischen
+                    Schriften.</p>
+                    
+                <head>Warum dieses Projekt?</head>
+
+                <p>Wilhelm von Humboldts Schriften sind heute nur schwer zugänglich – selbst in
+                    gedruckter Form:</p>
+                <list type="bulleted">
+                    <item>Die meisten <hi>Originalmanuskripte</hi> Humboldts wurden im Zweiten
+                        Weltkrieg stark beschädigt, viele davon unwiederbringlich.</item>
+                    <item>Die <hi>Leitzmann-Edition</hi> (1903), bis heute die verlässlichste
+                        Sammlung, ist nur als gescanntes PDF verfügbar und trotz OCR-Verwendung kaum
+                        durchsuchbar.</item>
+                    <item>Die <hi>Studienausgabe der WBG</hi> (1960–1981) bietet nur eine begrenzte
+                        Auswahl an Texten und ist zudem online nicht frei zugänglich.</item>
+                </list>
+                <p>Dennoch fehlte bislang eine digitale Edition, die sowohl wissenschaftlichen
+                    Standards genügt als auch einen einfachen, funktionalen Zugang bietet.</p>
+                <p>
+                    <hi>Genau hier setzt dieses Projekt an</hi>: Es schafft einen modernen,
+                    nutzerfreundlichen Zugang zu Humboldts zahlreichen Schriften. Die Texte werden
+                    hier nicht nur digitalisiert, sondern so aufbereitet, dass sie durchsucht,
+                    analysiert und mit weiterführenden Informationen verknüpft werden können:</p>
+                <list type="bulleted">
+                    <item>Personen- und Ortsnamen sind direkt im Text verlinkt.</item>
+                    <item>Fußnoten von Humboldt und Leitzmann bieten zusätzlichen Kontext.</item>
+                    <item>Leitzmanns Bemerkungen zur Entstehungsgeschichte der Texte helfen, deren
+                        Hintergründe besser zu verstehen.</item>
+                </list>
+                <p>Eine wichtige inhaltliche und technische Vorlage war dabei das Projekt <ref target="https://wvh-briefe.bbaw.de/">Wilhelm von Humboldt:
+                        Sprachwissenschaftliche Korrespondenz</ref> (2004-2018) der <ref target="https://bbaw.de/">Berlin-Brandenburgischen Akademie der
+                        Wissenschaften</ref>, das Humboldts Briefwechsel zu sprachwissenschaftlichen
+                    Themen digital zugänglich macht. Für die dort geleistete Pionierarbeit bin ich
+                    sehr dankbar.</p>
+            
+                <head>Wie werden die Texte aufbereitet?</head>
+                <p>Die digitale Edition folgt einem klaren, mehrstufigen Prozess:</p>
+                <list type="bulleted">
+                    <item>
+                        <hi>Digitalisierung</hi>: Verwendung gescannter Ausgaben der
+                        Leitzmann-Ausgabe aus dem <ref target="https://archive.org/details/gesammelteschrif01humbuoft/page/n1/mode/2up/">Internet Archive</ref>. </item>
+                    <item>
+                        <hi>Texterfassung</hi>: Automatisierte Texterkennung (OCR-Technologie mit
+                            <ref target="https://www.transkribus.org/">Transkribus</ref>)
+                        anschließend sorgfältige manuelle Korrektur. </item>
+                    <item>
+                        <hi>TEI-XML-Auszeichnung</hi>: Formatierung mit <ref target="https://www.oxygenxml.com/">Oxygen XML Editor</ref> zur
+                        langfristigen und standardisierten Bereitstellung. </item>
+                </list>
+                <p>Da es sich um ein umfangreiches Vorhaben handelt, wird die Digitalausgabe
+                    fortlaufend erweitert – sie wächst Stück für Stück und versteht sich als
+                        <hi>work in progress</hi>.</p>
+            
+                <head>Wo werden die Projektdaten gesichert?</head>
+                <p>Alle Projektdateien (darunter die TEI-XML-Daten, Stylesheets und Skripte) sind
+                    frei zugänglich auf <ref target="https://github.com/wvh-schriften">GitHub</ref>
+                    und werden zusätzlich auf <ref target="https://zenodo.org/records/16942573">Zenodo</ref> archiviert.</p>
+                <p>
+                    <hi>GitHub</hi> dient als Arbeits- und Veröffentlichungsplattform: Hier können
+                    der Quellcode eingesehen, frühere Versionen nachvollzogen und
+                    Verbesserungsvorschläge eingereicht werden.</p>
+                <p>
+                    <hi>Zenodo</hi>, betrieben von der Europäischen Organisation für Kernforschung
+                    (CERN), gewährleistet die Zitierfähigkeit, internationale Sichtbarkeit und
+                    sichere, dauerhafte Archivierung der Edition. Jede veröffentlichte Version
+                    erhält einen eigenen DOI und bleibt somit langfristig referenzierbar.</p>
+                <p>So entsteht eine digitale Edition, die nicht nur offen nutzbar ist, sondern auch
+                    den Prinzipien wissenschaftlicher Integrität und Nachhaltigkeit verpflichtet
+                    bleibt.</p>
+            
+            
+                <head>Wie kannst Du helfen?</head>
+                <p>Dieses Projekt wird derzeit <hi>privat finanziert</hi> – und lebt hauptsächlich
+                    von eigenen Mitteln. Die Kosten umfassen v.a. die Verwaltung des Hostings sowie
+                    Domainnamens. Du kannst auf verschiedene Weise mitwirken:</p>
+                <list type="bulleted">
+                    <item>
+                        <hi>Spenden</hi>: Jede kleine Spende hilft, die Website zu unterstützen! →
+                            <ref target="https://ko-fi.com/wvhschriften">Ko-fi.com</ref>
+                    </item>
+                    <item>
+                        <hi>Fehler melden</hi>: Hast Du Tippfehler, Formatprobleme oder
+                        Unstimmigkeiten entdeckt? Ich freue mich über Hinweise!</item>
+                    <item>
+                        <hi>Prioritäten setzen</hi>: Gibt es einen Text, der Dich besonders
+                        interessiert? Sag Bescheid, ich priorisiere ihn gern.</item>
+                </list>
+                <p>Kontakt: <ref target="mailto:kontakt@wvh-schriften.de">kontakt@wvh-schriften.de</ref>
+                </p>
+            
+            
+                <head>Über die Kuratorin</head>
+                <p>
+                    <hi>Silvia Berigüete Pastor (2000-)</hi> studierte Philosophie an der
+                        <hi>Universidad Autónoma de Madrid</hi> und Klassische Philologie und
+                    Sinologie an der Albert-Ludwigs-Universität Freiburg. Ihre Forschung über
+                    Wilhelm von Humboldt begann sie 2020 während ihrer Tätigkeit als
+                    Forschungsassistentin am Philosophischen Seminar an der <hi>Universidad Autónoma
+                        de Madrid</hi>. Von 2021 bis 2025 war sie Lehrassistentin am Lehrstuhl für
+                        <hi>Epistemology and Theory of Science</hi> am University College Freiburg.
+                    Derzeit arbeitet sie in Spanien als Gymnasiallehrerin.</p>
+            </div>
+            <div type="about" xml:lang="en">
+                <head>About the project</head>
+                <p>
+                    <hi>Wilhelm von Humboldt: Schriften</hi> is a digital edition that aims to make Humboldt’s writings available in a modern, reliable, and sustainable form. The project draws on two key editions: the historical Leitzmann edition (1903) and the <hi>Studienausgabe</hi> published by WBG (Flitner/Giel, 1960–1981).</p>
+                <p>All texts are carefully digitised, edited, and published in TEI-XML format. This makes the edition fully searchable and interactive, while remaining suitable for both academic use and practical consultation.</p>
+                <p>A crucial tool for the project is <ref target="https://teipublisher.com/">TEI Publisher</ref>, an open-source application that greatly simplifies the publication of TEI-encoded texts.</p>
+                <p>The edition is intended for researchers, students, and anyone interested in Humboldt’s philosophy of language, educational theory, and political writings.</p>
+                    
+                <head>Why this project?</head>
+
+                <p>Access to Wilhelm von Humboldt’s writings remains surprisingly difficult, even today:</p>
+                <list type="bulleted">
+                    <item>Most of Humboldt’s <hi>original manuscripts</hi> were severely damaged during the Second World War, many of them beyond recovery.</item>
+                    <item>The <hi>Leitzmann edition</hi> (1903), still the most reliable collection, is only available as scanned PDFs and remains barely searchable despite OCR.</item>
+                    <item>The <hi>WBG Studienausgabe</hi> (1960–1981) includes only a limited selection of texts and is not freely available online.</item>
+                </list>
+                <p>What has been missing so far is a digital edition that combines scholarly reliability with clear, functional access.</p>
+                <p>This project responds to that gap by offering a modern, user-friendly way of engaging with Humboldt’s extensive writings. The texts are not simply digitised, but prepared in a form that allows them to be searched, analysed, and connected to further contextual material:</p>
+                <list type="bulleted">
+                    <item>Names of people and places are linked directly within the text.</item>
+                    <item>Footnotes by Humboldt and Leitzmann provide additional context.</item>
+                    <item>Leitzmann’s remarks on the genesis of individual texts help to clarify their historical background.</item>
+                </list>
+                <p>An important intellectual and technical point of reference has been the project <ref target="https://wvh-briefe.bbaw.de/">Wilhelm von Humboldt:
+                        Sprachwissenschaftliche Korrespondenz</ref> (2004-2018) at the <ref target="https://bbaw.de/">Berlin-Brandenburg Academy of Sciences and Humanities</ref>, which made Humboldt’s linguistic correspondence digitally accessible. I am deeply grateful for the pioneering work carried out there.</p>
+            
+                <head>How are the texts prepared?</head>
+                <p>The digital edition follows a clear, step-by-step workflow:</p>
+                <list type="bulleted">
+                    <item>
+                        <hi>Digitisation</hi>: scanned volumes of the Leitzmann edition from the <ref target="https://archive.org/details/gesammelteschrif01humbuoft/page/n1/mode/2up/">Internet Archive</ref>. </item>
+                    <item>
+                        <hi>Text capture</hi>: automated OCR using <ref target="https://www.transkribus.org/">Transkribus</ref>)
+                        followed by careful manual correction. </item>
+                    <item>
+                        <hi>TEI-XML encoding</hi>: mark-up in <ref target="https://www.oxygenxml.com/">Oxygen XML Editor</ref> to ensure consistency and long-term sustainability.</item>
+                </list>
+                <p>As this is a long-term process, the edition is continuously expanded. It grows gradually and is explicitly conceived as a <hi>work in progress</hi>.</p>
+            
+                <head>Where is the project data stored?</head>
+                <p>All project files (including TEI-XML data, stylesheets, and scripts) are openly available on <ref target="https://github.com/wvh-schriften">GitHub</ref> and are also archived on <ref target="https://zenodo.org/records/16942573">Zenodo</ref> archiviert.</p>
+                <p>
+                    <hi>GitHub</hi> serves as both a working environment and a publication platform: the source code can be consulted, version histories traced, and suggestions for improvement submitted.</p>
+                <p>
+                    <hi>Zenodo</hi>, operated by the European Organization for Nuclear Research (CERN), ensures citability, international visibility, and secure long-term archiving. Each released version receives its own DOI and remains permanently citable.</p>
+                <p>The result is a digital edition that is not only openly accessible, but also committed to scholarly integrity and long-term sustainability.</p>
+                <head>How can you help?</head>
+                <p>The project is currently <hi>privately funded</hi> and relies solely on personal resources. The main costs are hosting and domain management. There are several ways to contribute:</p>
+                <list type="bulleted">
+                    <item>
+                        <hi>Donations</hi>: even small contributions help to keep the website running →
+                            <ref target="https://ko-fi.com/wvhschriften">Ko-fi.com</ref>
+                    </item>
+                    <item>
+                        <hi>Reporting errors</hi>: if you notice typos, formatting issues, or inconsistencies, I would be very grateful for a note.</item>
+                    <item>
+                        <hi>Setting priorities</hi>: if there is a particular text you would like to see processed sooner, let me know—I am happy to prioritise it.</item>
+                </list>
+                <p>Contact: <ref target="mailto:kontakt@wvh-schriften.de">kontakt@wvh-schriften.de</ref>
+                </p>
+            
+            
+                <head>About the curator</head>
+                <p>
+                    <hi>Silvia Berigüete Pastor (2000-)</hi> studied Philosophy at the <hi>Universidad Autónoma de Madrid</hi>, and Classics Sinology at the <hi>Albert-Ludwigs-University of Freiburg</hi>. She began working on Wilhelm von Humboldt in 2020 while employed as a research assistant at the Department of Philosophy at the <hi>Universidad Autónoma
+                        de Madrid</hi>. From 2021 to 2025, she worked as a teaching assistant at the Chair of Epistemology and Theory of Science at <hi>University College Freiburg</hi>. She currently works as a secondary-school teacher in Spain.</p>
+                        
+            </div>
+            
+        </body>
+    </text>
+</TEI>
