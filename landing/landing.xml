@@ -1,0 +1,247 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="landing">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm von Humboldt: Schriften Homepage</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="hero" xml:lang="en" rend="two-column">
+                <head>
+                    <hi>Wilhelm von Humboldt: Schriften</hi>
+                </head>
+                <p>Welcome to <hi>Wilhelm von Humboldt: Schriften</hi>, an independent digital edition of the complete works of Wilhelm von Humboldt (1767–1835). Designed to be modern, accessible, and sustainable, the project offers TEI-encoded texts that are fully searchable and easy to explore.</p>
+                <list type="links">
+                    <item>
+                        <ref target="#">explore</ref>
+                    </item>
+                </list>
+            </div>
+            <div type="hero" xml:lang="de" rend="two-column">
+                <head>
+                    <hi>Wilhelm von Humboldt: Schriften</hi>
+                </head>
+                <p>Willkommen bei <hi>Wilhelm von Humboldt: Schriften</hi>, einer unabhängigen digitalen Edition des Gesamtwerks von Wilhelm von Humboldt (1767–1835). Das Projekt ist modern, zugänglich und nachhaltig konzipiert und bietet TEI-codierte Texte, die vollständig durchsuchbar und leicht zu erkunden sind.</p>
+            </div>
+            <div type="about" xml:lang="en" n="About" rend="two-column">
+                <head>An Independent Digital Scholarly Edition</head>
+                <p>No grant, no office, no team — just a laptop, a few tutorials, and many late evenings. That’s how <hi>Wilhelm von Humboldt: Schriften</hi> began.</p>
+                <p>In autumn 2024, a young humanities graduate set herself an ambitious goal: to make Wilhelm von Humboldt’s writings freely accessible online. Unfortunately, most of his original manuscripts were lost during World War II, leaving only a printed edition from the early 1900s as the complete reference. Despite their significance in the German-speaking world, Humboldt’s works remain surprisingly hard to find online. Out of this frustration, <hi>Wilhelm von Humboldt: Schriften</hi> was born.</p>
+                <p>Working independently in her spare time, she began building the edition from scratch, using TEI Publisher and guidance from <hi>e-editiones</hi> (such as tutorials, blog posts, and personal mentorship). By May 2025, a simple static version of the website went live. Since then, the project has evolved into a dynamic digital edition, offering full-text search, facets, registers of persons and places, and a visual timeline.</p>
+                <p>Though still very much a work in progress, <hi>Wilhelm von Humboldt: Schriften</hi> aims to meet the academic standards of a scholarly digital edition, demonstrating that small-scale digital humanities initiatives can be both imaginative and rigorous when they leverage open-source tools and community support.</p>
+            </div>
+            <div type="about" xml:lang="de" n="About" rend="two-column">
+                <head>Ein unabhängiges, digitales Editionsprojekt</head>
+                <p>Keine Förderung, kein Büro, kein Team – nur ein Laptop, ein paar Tutorials und viele lange Abende. So begann <hi>Wilhelm von Humboldt: Schriften</hi>
+                </p>
+                <p>Vor einem Jahr setzte sich eine junge Geisteswissenschaftlerin ein ehrgeiziges Ziel: Sie wollte die Schriften von Wilhelm von Humboldt frei online zugänglich machen. Leider sind die meisten Originalmanuskripte Humboldts während des Zweiten Weltkriegs verloren gegangen. Die einzige vollständige Referenz ist eine gedruckte Ausgabe aus den frühen 1900er Jahren. Trotz ihrer Bedeutung im deutschsprachigen Raum sind Humboldts Werke im Internet nach wie vor schwer zu finden. Aus dieser Frustration entstand <hi>Wilhelm von Humboldt: Schriften</hi>.</p>
+                <p>Die Kuratorin begann in ihrer Freizeit und völlig eigenständig mit dem Aufbau der Edition. Sie nutzte TEI Publisher und griff auf die Ressourcen von <hi>e-editiones</hi> zurück – darunter Tutorials, Blogbeiträge und persönliche Betreuung. Im Mai 2025 ging eine erste statische Version der Website online. Seitdem hat sich das Projekt zu einer dynamischen digitalen Ausgabe entwickelt, die Volltextsuche, Facetten, Personen- und Ortsregister sowie eine visuelle Zeitleiste bietet.</p>
+                <p>Die Edition befindet sich weiterhin im Aufbau. Dennoch orientiert sie sich an den akademischen Standards einer wissenschaftlichen digitalen Ausgabe und zeigt, dass kleine Initiativen im Bereich Digital Humanities sowohl kreativ als auch rigoros sein können, wenn sie auf Open-Source-Tools und die Unterstützung der Community setzen.</p>
+            </div>
+            <div type="highlights" xml:lang="en">
+                <head>Features</head>
+                <list>
+                    <item n="Corpus">
+                        <desc>Texte</desc>
+                        <note>Wilhelm von Humboldt's works can be searched using various facets and filters.</note>
+                        <ptr type="image" target="resources/images/humboldt1.jpg"/>
+                        <list type="links">
+                            <item>
+                                <ref target="#">Search</ref>
+                            </item>
+                        </list>
+                    </item>
+                    <item n="Indexes">
+                        <desc>Registers</desc>
+                        <note>Registers of individuals and places mentioned in the corpus offer a point of entry into the intricate social and geographical network of that era.</note>
+                        <ptr type="image" target="resources/images/preussen.jpg"/>
+                        <list type="links">
+                            <item>
+                                <ref target="places">Show</ref>
+                            </item>
+                        </list>
+                    </item>
+                </list>
+            </div>
+            <div type="highlights" xml:lang="de">
+                <head>Merkmale</head>
+                <list>
+                    <item n="Corpus">
+                        <desc>Texte</desc>
+                        <note>Die Werke Wilhelm von Humboldts können über verschiedene Facetten und Filter durchsucht werden.</note>
+                        <ptr type="image" target="resources/images/humboldt1.jpg"/>
+                        <list type="links">
+                            <item>
+                                <ref target="#">Suchen</ref>
+                            </item>
+                        </list>
+                    </item>
+                    <item n="Indexes">
+                        <desc>Register</desc>
+                        <note>Personen- und Ortsregister bieten einen Einstieg in das komplexe soziale und geografische Netzwerk der Zeit.</note>
+                        <ptr type="image" target="resources/images/preussen.jpg"/>
+                        <list type="links">
+                            <item>
+                                <ref target="places">Zeigen</ref>
+                            </item>
+                        </list>
+                    </item>
+                </list>
+            </div>
+            <div type="section" xml:lang="en" n="More" rend="two-column">
+                <head>Other resources</head>
+                <p>This section brings together external resources and collaborations related to the project <hi>Wilhelm von Humboldt: Schriften</hi>.</p>
+                <div>
+                    <head>Presentation of the project at <hi>e-editiones</hi>
+                    </head>
+                    <p>In November 2025, the project was presented at the <hi>e-editiones</hi> Community Meeting. The talk (in English) introduces the digital edition, outlines its methodological framework, and reflects on how the project emerged, as well as on practical challenges.</p>
+                    <list type="links">
+                        <item>
+                            <ref target="https://www.e-editiones.org/posts/community-event-w-v-humboldt-schriften/" rend="blank">Blogpost in <hi>e-editiones</hi>
+                            </ref>
+                        </item> —————
+                        <item>
+                            <ref target="https://youtu.be/-EH72StlkmE?si=3YrPSX4lIUkZgh6l" rend="blank">YouTube Video</ref>
+                        </item>
+                    </list>
+                </div>
+                <div>
+                    <head>Cooperation with the Text+ initiative</head>
+                    <p>
+                        <hi>Wilhelm von Humboldt: Schriften</hi> is part of the Text+ research data infrastructure and is included in the metacorpus <hi>Metakorpus Historische Korpora</hi>. Through this cooperation, the corpus is made accessible via the DTA/DWDS infrastructure and linked to a broader ecosystem of historical text corpora.</p>
+                    <list type="links">
+                        <item>
+                            <ref target="https://www.dwds.de/d/korpora/wvh-schriften" rend="blank">DWDS Address</ref>
+                        </item> —————    
+                        <item>
+                            <ref target="https://www.dwds.de/d/korpora/wvh-schriften" rend="blank">Text+ Registry</ref>
+                        </item>
+                    </list>
+                </div>
+            </div>
+            <div type="section" xml:lang="de" n="Mehr" rend="two-column">
+                <head>Weitere Ressourcen</head>
+                <p>Dieser Bereich versammelt externe Ressourcen und Kooperationen, die im Zusammenhang mit <hi>Wilhelm von Humboldt: Schriften</hi> stehen.</p>
+                <div>
+                    <head>Projektvorstellung bei <hi>e-editiones</hi>
+                    </head>
+                    <p>Im November 2025 wurde das Projekt auf dem Community-Meeting von <hi>e-editiones</hi> (auf Englisch) vorgestellt.
+                        Die Präsentation gibt einen Überblick über die digitale Edition, erläutert ihre methodischen Grundlagen und zeigt, wie das Projekt entstanden ist.</p>
+                    <list type="links">
+                        <item>
+                            <ref target="https://www.e-editiones.org/posts/community-event-w-v-humboldt-schriften/" rend="blank">Eintrag bei <hi>e-editiones</hi>
+                            </ref>
+                        </item> —————   
+                        <item>
+                            <ref target="https://youtu.be/-EH72StlkmE?si=3YrPSX4lIUkZgh6l" rend="blank">Video auf YouTube</ref>
+                        </item>
+                    </list>
+                </div>
+                <div>
+                    <head>Kooperation mit der Text+-Initiative</head>
+                    <p>
+                        <hi>Wilhelm von Humboldt: Schriften</hi> ist Teil der Text+-Forschungsdateninfrastruktur und im <hi>Metakorpus Historische Korpora</hi> eingebunden.
+                        Im Rahmen dieser Kooperation ist das Korpus über die DTA/DWDS-Infrastruktur zugänglich und mit weiteren historischen Textsammlungen vernetzt.</p>
+                    <list type="links">
+                        <item>
+                            <ref target="https://www.dwds.de/d/korpora/wvh-schriften" rend="blank">DWDS Adresse</ref>
+                        </item> —————  
+                        <item>
+                            <ref target="https://www.dwds.de/d/korpora/wvh-schriften" rend="blank">Text+ Register</ref>
+                        </item>
+                    </list>
+                </div>
+            </div>
+            <div type="team" xml:lang="en" n="Core Team">
+                <head>Team</head>
+                <p>This project is currently being run by the curator:</p>
+                <listPerson>
+                    <person n="Project Managment">
+                        <persName>Silvia Berigüete Pastor</persName>
+                        <occupation>M.A.</occupation>
+                        <ptr type="avatar" target="resources/images/team/silvia.jpeg"/>
+                        <note type="contact">
+                            <ref target="mailto:kontakt@wvh-schriften">kontakt@wvh-schriften.de</ref>
+                        </note>
+                    </person>
+                </listPerson>
+            </div>
+            <div type="team" xml:lang="de" n="Team">
+                <head>Team</head>
+                <p>Dieses Projekt wird im Moment von der Kuratorin betrieben:</p>
+                <listPerson>
+                    <person n="Projektleitung">
+                        <persName>Silvia Berigüete Pastor</persName>
+                        <occupation>M.A.</occupation>
+                        <ptr type="avatar" target="resources/images/team/silvia.jpeg"/>
+                        <note type="contact">
+                            <ref target="mailto:kontakt@wvh-schriften">kontakt@wvh-schriften.de</ref>
+                        </note>
+                    </person>
+                </listPerson>
+            </div>
+            <div type="partners" xml:lang="en" n="Partners">
+                <head>Collaboration</head>
+                <p>This project is currently working with the following organisations and institutions:</p>
+                <list rend="partner-logos">
+                    <item>
+                        <ref type="uri" target="https://www.deutschestextarchiv.de/">
+                            <graphic url="resources/images/dta.svg"/>
+                        </ref>
+                    </item>
+                    <item>
+                        <ref type="uri" target="https://jinntec.de">
+                            <graphic url="resources/images/text-plus.svg"/>
+                        </ref>
+                    </item>
+                    <item>
+                        <ref type="uri" target="https://e-editiones.org">
+                            <graphic url="resources/images/e-editiones-logo-color.svg"/>
+                        </ref>
+                    </item>
+                    <item>
+                        <ref type="uri" target="https://teipublisher.org">
+                            <graphic url="resources/images/tei-publisher-logo-color.svg"/>
+                        </ref>
+                    </item>
+                </list>
+            </div>
+            <div type="partners" xml:lang="de" n="Partners">
+                <head>Kooperation</head>
+                <p>Dieses Projekt arbeitet mit folgenden Organisationen bzw. Einrichtungen zusammen:</p>
+                <list rend="partner-logos">
+                    <item>
+                        <ref type="uri" target="https://www.deutschestextarchiv.de/">
+                            <graphic url="resources/images/dta.svg"/>
+                        </ref>
+                    </item>
+                    <item>
+                        <ref type="uri" target="https://jinntec.de">
+                            <graphic url="resources/images/text-plus.svg"/>
+                        </ref>
+                    </item>
+                    <item>
+                        <ref type="uri" target="https://e-editiones.org">
+                            <graphic url="resources/images/e-editiones-logo-color.svg"/>
+                        </ref>
+                    </item>
+                    <item>
+                        <ref type="uri" target="https://teipublisher.org">
+                            <graphic url="resources/images/tei-publisher-logo-color.svg"/>
+                        </ref>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>
