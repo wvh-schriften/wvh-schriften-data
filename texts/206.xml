@@ -1,0 +1,990 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die gegenwärtige französische tragische Bühne</title>
+            <author>
+                <persName ref="gnd-118554727">
+                    <surname>Humboldt</surname>
+                    <forename>Wilhelm von</forename>
+                </persName>
+            </author>
+            <respStmt>
+                <resp>TEI enconding</resp>
+                <persName xml:id="sbp">
+                    <forename>Silvia</forename>
+                    <surname>Berigüete Pastor</surname>
+                </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Wilhelm von Humboldt: Schriften</publisher>
+            <date when="2025-05">August 2025</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+            <idno type="URI">https://www.wvh-schriften.de</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <title>Wilhelm von Humboldts Werke. Zweiter Band</title>
+               <editor>
+                  <persName ref="gnd-116890657">
+                    <surname>Leitzmann</surname>
+                    <forename>Albert</forename>
+                  </persName>
+               </editor>
+               <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+               <pubPlace>Berlin</pubPlace>
+               <date when="1904">1904</date>
+               <idno type="URI">https://archive.org/details/gesammelteschrif02humbuoft/page/n1/mode/2up</idno>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines. The text is based on the 1903 critical edition edited by Albert Leitzmann.</p>
+        </editorialDecl>
+    </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date when="1799-08">August 1799</date>
+            <placeName ref="geo-2988507">Paris</placeName>
+         </creation>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#type">
+               <term>Brief</term>
+            </keywords>
+            <keywords scheme="#topic">
+               <term>Ästhetik</term>
+               <term>Literatur</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="2.377" xml:id="pbII377"/>
+            <head>
+               <title type="main">Über die gegenwärtige <placeName ref="geo-3017382">franz</placeName>ösische tragische Bühne</title>
+               <title type="sub">Aus Briefen</title>
+            </head>
+            <opener>
+               <dateline>
+                        <placeName ref="geo-2988507">Paris</placeName> im <date when="1799-08">August 1799</date>.</dateline>
+            </opener>
+            <p>— Besonders über die Schauspielkunst hatte <persName ref="gnd-118554727">ich</persName> Ursache viel zu denken und es ist <persName ref="gnd-118554727">mir</persName> über sie manches neue Licht aufgegangen.</p>
+            <p>
+                    <persName ref="gnd-118554727">Ich</persName> bin weit entfernt zu behaupten, dass die
+               hiesigen Schauspieler, auch die bessern, mehr und etwas Höheres wären, als unsere
+               guten, oder wenigstens als diese seyn würden, wenn bei uns diese Kunst mehr
+               begünstigt wäre; aber die Mimik ist hier mit den bildenden Künsten in genauere
+               Verbindung gebracht. Wenn sie bei uns nur zur Einbildungskraft, zur Empfindung
+               spricht, so gewährt sie hier auch dem blossen Auge einen grössern Reiz. Da man in dem
+                  <placeName ref="geo-3017382">Franz</placeName>ösischen Schauspieler zugleich den
+               Mahler, den Bildhauer und den pantomimischen Tänzer vereinigt sieht, da auch
+               derjenige Theil seines Spiels, der an sich nicht bedeutend ist, künstlerische
+               Harmonie und Schönheit besitzt; so glaubt man einen engern Bund aller Künste zu
+               erblicken und ahndet eine, vielleicht minder grosse und tiefe, aber gewiss eine
+               ästhetische Stimmung. Der Mensch, bloss als Mensch betrachtet, hat unstreitig bei dem
+               hiesigen Theater einen kleinem Genuss; allein einen desto höhern der Künstler.
+               Besonders würde der <pb n="2.378" xml:id="pbII378"/> fremde Schauspieler gezwungen
+               werden hier über seine Kunst nachzudenken, zu reflectiren, da er hier deutlichere
+               Spuren des Kunstfleisses, als bei uns entdecken müsste.</p>
+            <p>Freilich aber ist die <placeName ref="geo-3017382">Franz</placeName>ösische tragische
+               Bühne jetzt eigentlich wenig; was <persName ref="gnd-118554727">ich</persName> hier
+               sage, habe <persName ref="gnd-118554727">ich</persName> bloss von einem einzigen
+               Schauspieler abstrahirt, von <persName ref="gnd-117198838">Talma</persName>.<note type="footnote" n="i)" resp="gnd-116890657">
+                        <persName ref="gnd-117198838">François
+                     Joseph Talma</persName> (<date from="1763" to="1826">1763-1826</date>), in der
+                     <placeName ref="geo-3017382">franz</placeName>ösischen Schauspielkunst
+                  besonders durch seine realistische Spielweise und durch die Einführung des
+                  historischen Kostüms epochemachend, trat zuerst <date when="1787">1787</date> im
+                     <hi xml:lang="fr">
+                            <orgName ref="gnd-115269-5">Théâtre français</orgName>
+                        </hi>
+                  auf; später begründete er das <hi xml:lang="fr">
+                            <orgName ref="gnd-115269-5">Théâtre de la republique</orgName>
+                        </hi>; bekannt ist <persName ref="gnd-118586408">Napoleon</persName>s Vorliebe für ihn.</note>
+            </p>
+            <p>Was die übrigen betrift, so kann man nur bei einigen die Vorzüge dieses Mannes in
+               sehr mässigem Grade, bei andern, was in ihm vielleicht Element eines Fehlers genannt
+               werden könnte, in Karrikatur sehen. Zwar giebt es noch sehr gute Schauspieler für die
+               Komödie, <persName ref="gnd-104273941">Molé</persName>, <persName ref="gnd-1157591612">Fleury</persName>, <persName ref="gnd-116667966">
+                        <hi xml:lang="fr">Mlle</hi> Contat</persName>, <persName ref="gnd-116106123">Baptiste</persName>, <persName ref="gnd-1117496996">Dugazon</persName>, <persName ref="person-000032">Grandmesnil</persName>, von welchen nachher einige Worte
+               besonders. Gegenwärtig von den tragischen Schauspielern.</p>
+            <p>
+                    <persName ref="gnd-117198838">Talma</persName> ist erst seit 11 bis 12 Jahren auf dem
+               Theater, er hat <persName ref="gnd-116890703">le Kain</persName>
+                    <note type="footnote" n="ii)" resp="gnd-116890657">
+                        <persName ref="gnd-116890703">Henri Louis
+                     Lekain</persName> (<date from="1728" to="1778">1728-1778</date>), besonders von
+                     <persName ref="gnd-118627813">Voltaire</persName> als Darsteller grosser
+                  Leidenschaften sehr hoch geschätzt, war <date from="1752">seit 1752</date>
+                  Mitglied der <hi xml:lang="fr">
+                            <orgName ref="gnd-115269-5">Comédie
+                        française</orgName>
+                        </hi> gewesen.</note> nicht mehr gesehen, und niemand zum
+               Muster nehmen können. Er spielt jetzt, und schon seit der Revolution, sehr oft, da
+               man die alten Stücke selten giebt, Rollen, die vor ihm nie gespielt worden sind, und
+               die er neu hat schaffen müssen. Er hatte also einige Freiheit und nähere
+               Veranlassung, sich einen eignen Stil zu bilden, und ob es gleich für den, der die
+               ältern und besten <placeName ref="geo-3017382">Franz</placeName>ösischen Schauspieler
+               nicht mehr gesehen hat, bedenklich ist eine solche Behauptung zu wagen; so glaube
+                  <persName ref="gnd-118554727">ich</persName> doch mit Grunde sagen zu können, dass
+               die <placeName ref="geo-3017382">Franz</placeName>ösische Schauspielkunst durch ihn
+               eine Erweiterung gewonnen hat. In der malerischen Schönheit der Stellungen und
+               Bewegungen kann er nicht leicht von jemand übertroffen worden seyn, da ihn für diesen
+               Theil der Kunst schon die Natur so sehr begünstigt hat.</p>
+            <p>Zwar ist er eher klein, als gross, und so geht ihm etwas allerdings für den Ausdruck
+               der Würde verloren; allein sonst ist er eine der wohlgebildetsten und harmonischsten
+               Gestalten, die man sehen kann. Sein Gesicht ist zugleich von feinem und kraftvollem
+               Ausdruck, ein kleines rundliches Oval, eine kleine, an der Stirn etwas eingebogne,
+               aber fein geschnittne Nase, schwarze, <pb n="2.379" xml:id="pbII379"/> feurige Augen,
+               sehr ausgearbeitete und ausdrucksvolle Wangenzüge, besonders um den Mund herum. Sein
+               Wuchs ist schlank und fein, die Arme, auf die es beim Heldencostüme, wo man sie oft
+               nackt sieht, sehr ankommt, gut gebildet, die Lenden, Schenkel und Füsse von
+               musterhafter Schönheit.</p>
+            <p>Mit dieser Gestalt verbindet er offenbar eine sehr malerische Einbildungskraft. Er
+               hat, wie seine Kunst überhaupt, so insbesondre das Costüme sehr sorgfältig und nach
+               den besten Hülfsmitteln studirt. Er zeichnet selbst, und man sieht ihm an, dass jede
+               Situation, die er sich denkt, auch vor seiner Phantasie als malerische Gestalt
+               dasteht. Auf dem Theater ist jede seiner Bewegungen schön und harmonisch, sein
+               Anstand durchaus edel und graziös. Er mag sitzen, stehen, niederknien, so wird es der
+               Maler immer werth finden diese Stellungen zu studiren. Wenn man bei andern
+               Schauspielern wohl hie und da einzeln ein schönes Gemälde, wie man es hier nennt,
+               bemerkt, so zeigt sein Spiel eine ununterbrochne Folge derselben, einen harmonischen
+               Rhythmus aller Bewegungen, wodurch denn das Ganze wieder zur Natur zurückkehrt, aus
+               der diese Art zu spielen, einzeln genommen, schlechterdings heraustritt.</p>
+            <p>In diesem Theil der Kunst mag indess <persName ref="gnd-117198838">Talma</persName>
+               seine Vorgänger nur erreicht oder übertroffen haben, eigen ist wohl sein Studium des
+               Costüme, in welchem er unstreitig unübertrefbar ist, so wie auch dass er dasjenige,
+               was die übrigen vielleicht nur als blossen Anstand und Heldenwürde angesehen haben,
+               auf eine ächt künstlerische Weise, als schöne und malerische Natur, behandelt.</p>
+            <p>Worin er aber vorzüglich um einige Schritte weiter gegangen zu seyn scheint, ist die
+               Wahrheit und Stärke des Ausdrucks. Man sieht, dass er nicht, wie es sonst die Art der
+               hiesigen Schauspieler ist, welche die meisten ihrer Rollen durch Tradition empfangen,
+               nur andre Schauspieler, sondern dass er die Natur selbst studirt hat, und es ist
+               nicht unwahrscheinlich, dass ihm die Begebenheiten der Revolution hierzu einen
+               reichen Stoff dargeboten haben.</p>
+            <p>Sein Minenspiel ist erstaunlich ausdrucksvoll, seine Gebehrden natürlich und minder
+               regelmässig abgemessen. Er lässt den Zuschauer nie kalt, sondern reisst ihn hin und
+               erschüttert ihn. Das bloss Rührende würde ihm, glaube <persName ref="gnd-118554727">ich</persName>, weniger gelingen.</p>
+            <p>Er nimmt sich mehr Freiheiten, als es die <placeName ref="geo-3017382">Franz</placeName>ösische Bühne sonst erlaubt. Er spricht wirklich mit den
+               Personen des Stücks, nicht, wie es hier noch meistentheils geschieht, mit den
+               Zuschauern. <pb n="2.380" xml:id="pbII380"/> Er thut, wenn es Gelegenheit giebt,
+               einige Schritte gegen den Hintergrund des Theaters und zeigt den Zuschauern den
+               Rücken, er hält nie, wie andre, in einzelnen Gemälden, auch wenn ihn der Beifall des
+               Publikums unterbricht, so statuenhaft inne, mit Einem Wort er ist bei weitem
+               ungebundener und natürlicher.</p>
+            <p>Einige haben behaupten wollen, dass er sich nach der <placeName ref="geo-6269131">Engl</placeName>ischen Bühne gebildet habe, aber dies Vorgeben scheint keinen
+               Grund zu haben. Zwar ist er grösstentheils in <placeName ref="geo-6269131">England</placeName> erzogen worden, doch da er sich damals noch nicht zum
+               Schauspieler bestimmte, so hat er, wie <persName ref="gnd-118554727">ich</persName>
+               ihn selbst bedauern hörte, das dortige Theater nicht benutzen können. Seinen
+               eigentlichen Schauspielerunterricht hat er in der <hi xml:lang="fr">école
+                  dramatique</hi>, die es hier ehmals vor der Revolution gab, erhalten, und sein
+               besondrer Lehrer ist <persName ref="gnd-1117496996">Dugazon</persName> gewesen, ein
+               guter komischer Schauspieler, der auch sonst viel Theaterkenntniss besitzen soll.</p>
+            <p>Seine gewöhnlichen Rollen, soviel <persName ref="gnd-118554727">ich</persName> sie
+               kenne, sind: Titus im Brutus, Nero im Britannicus, und in dem neuen <persName ref="gnd-100506178">Legouvé</persName>’schen Stück <title xml:lang="fr">Néron et
+                  Epicharis</title>, Orest in der <title>Iphigenie</title> von <persName ref="gnd-141671300">de la Touche</persName>, Aegisth im <title>Agamemnon</title>,
+               Macbeth und Othello in den Umarbeitungen dieser Stücke von <persName ref="gnd-119097222">Ducis</persName>, <title>Carl 9.</title> in <persName ref="gnd-118669184">Cheniers</persName> Stück, Moncassin in den
+                  <title>Vénitiens</title> von <persName ref="gnd-116342439">Arnault</persName>
+               (einem Stück, das viel tragisches Talent verräth) u. s. f.<note type="footnote" n="iii)" resp="gnd-116890657">
+                        <title>Brutus</title> ist von <persName ref="gnd-118627813">Voltaire</persName> (<date when="1731">1731</date>),
+                     <title>Britannicus</title> von <persName ref="gnd-118597523">Racine</persName>
+                     (<date when="1699">1669</date>), <title>Agamemnon</title> von <persName ref="gnd-116896299">Lemercier</persName> (<date when="1795">1795</date>;
+                     <persName ref="gnd-100506178">Legouvé</persName>s <title xml:lang="fr">Epicharis ou la mort de Neron</title> kam <date when="1793">1793</date> auf
+                  die Buhne, <persName ref="gnd-141671300">Delatouche</persName>s <title xml:lang="fr">Iphigénie en Tauride</title> 1757, <persName ref="gnd-119097222">Ducis</persName>’ Bearbeitungen des <title>Macbeth</title> und
+                     <title>Othello</title>
+                  <date when="1784">1784</date> und <date when="1792">1792</date>, <persName ref="gnd-118669184">Chénier</persName>s <title>Karl IX.</title>
+                  <date when="1789">1789</date>, <persName ref="gnd-116342439">Arnault</persName>s
+                     <title xml:lang="fr">Blanche et Montcassin ou les Vénitiens</title>
+                  <date when="1798">1798</date>.</note>
+            </p>
+            <p>
+                    <title>Carl 9.</title> hat ihm zuerst Namen verschaft, ob er gleich auch vorher, wo
+               er wegen seiner Jugend nur Nebenrollen erhielt, schon einige von diesen sehr
+               herauszuheben verstand.</p>
+            <p>Sein Organ, das vielleicht keinen sehr grossen Umfang hat, weiss er sehr geschickt zu
+               brauchen, und an sich hat es einen unendlich tragischen Ton, der unmittelbar das
+               Innerste ergreift.</p>
+            <p>
+                    <persName ref="gnd-117198838">Talma</persName>’s Stärke überhaupt liegt wohl in dem
+               Ausdruck der hochtragischen, finstem und melancholischen Momente, wo der Geist und
+               die Leidenschaft über sich selbst brüten, und die letztere noch verhalten ist.
+               Wenigstens hat er auf <persName ref="gnd-118554727">mich</persName> in diesen Stellen
+               einen grösser Eindruck gemacht, als in denen, wo die Leidenschaft in Heftigkeit
+               ausbricht, ob er gleich auch da nicht <pb n="2.381" xml:id="pbII381"/> allein das
+               nöthige Feuer besitzt, sondern sich immer mit Weisheit mässigt und beherrscht. Ob ihm
+               das bloss Zärtliche und Rührende gut gelingen würde? möchte <persName ref="gnd-118554727">ich</persName> nicht sagen.</p>
+            <p>
+                    <persName ref="gnd-118554727">Ich</persName> habe erst hier ein sehr sonderbares
+               Stück kennen lernen, <title>Abufar</title> von <persName ref="gnd-119097222">Ducis</persName>.<note type="footnote" n="iv)" resp="gnd-116890657">
+                        <title>Abufar
+                     ou la famille arabe</title> erschien <placeName ref="geo-2988507">Paris</placeName>
+                  <date when="1795">1795</date>.</note> Theils des Mangels an Handlung, theils der
+               Entwicklung wegen, ist es kaum eine Tragödie zu nennen; aber es mangelt ihm nicht an
+               tragischem Stoff.</p>
+            <p>In der Familie eines Anführers einer Arabischen Horde verlieben sich Bruder und
+               Schwester in einander. Der Bruder entflicht, um seiner Leidenschaft zu entgehen,
+               allein eben dieselbe treibt ihn wieder zurück; und da er auch jetzt nicht hoffen
+               kann, auf irgend eine Weise in seiner Liebe glücklich zu seyn, so entschliesst er
+               sich endlich zu einer neuen Flucht. Er entdeckt es seiner geliebten Zulima und sein
+               Vater Abufar erfährt nun das Geheimniss. Es zeigt sich jetzt, dass Zulima nur ein
+               angenommenes Kind, nicht dessen Tochter ist, und beide Liebende werden mit einander
+               verbunden.</p>
+            <p>Dies ist der einfache Plan dieses sonderbaren, aber an schönen Versen und
+               dichterischen Naturbeschreibungen reichen Stücks, das durch eine Episode noch
+               einigermassen verwickelt wird.</p>
+            <p>
+                    <persName ref="gnd-117198838">Talma</persName> spielt die Rolle des Pharan, des
+               entflohnen und zurückkehrenden Sohnes, und sie gelingt ihm vortreflich. Er weiss die
+               fürchterliche und schwarze Stimmung, welche der Seele die hofnungslose Verzweiflung
+               einer von Göttern und Menschen gemisbilligten Leidenschaft, das Verlassen eines
+               geliebten und, nach den Sitten seines Volks, beinah göttlich verehrten Vaters, und
+               der Entschluss zu einer Flucht in die Wüste, bei der er sich jeden Gedanken an
+               Rückkehr abschneidet, einflösst, auf eine solche Art zu schildern, dass man sich ganz
+               in diese Lage versetzt und in die Empfindung mit fortgerissen fühlt.</p>
+            <p>Er wird auch hier sehr gut durch die Schauspielerin, welche Zulima spielt,
+               unterstützt. <persName ref="gnd-133062825X">
+                        <hi xml:lang="fr">Mlle</hi>
+                  Vanhove</persName> besitzt ein vorzügliches tragisches Talent, das besonders in
+               einigen Rollen eine bewundernswürdige Wirkung hervorbringt. Am besten finde <persName ref="gnd-118554727">ich</persName> sie in der Cassandra in <persName ref="gnd-116896299">Lemercier</persName>s <title>Agamemnon</title>, einer Rolle,
+               die ihr auch ganz eigenthümlich angehört, da bisher auf der <placeName ref="geo-3017382">Franz</placeName>ösischen Bühne keine ähnliche vorhanden
+               war.</p>
+            <p>Mit grossem Vergnügen habe <persName ref="gnd-118554727">ich</persName> neulich auch
+                  <persName ref="gnd-117198838">Talma</persName> im Cid <pb n="2.382" xml:id="pbII382"/> gesehen. Er hatte, was viel sagen will, Würde genug, um das
+               Gigantische dieses Stücks nicht lächerlich erscheinen zu lassen. Die Scene, wo er
+               zwischen Liebe und Ehre kämpft, die Scene, wo er in Chimenes Haus tritt, und andere
+               spielte er meisterhaft. Was soll man überhaupt zu diesem Stücke sagen! Es gehört doch
+               etwas dazu, einen solchen Stoff, und zum Theil eine solche Ausführung zu wagen, und
+               noch jetzt hier Theilnahme und Bewunderung zu erregen.</p>
+            <p>Es ist äusserst schwer, bei einer so schnell vorübergehenden Kunst, wie die Mimik
+               ist, Vergleichungen zwischen zwei verschiedenen Stilen anzustellen, wenn man den
+               einen unmittelbar vor sich hat und den andern bloss im Gedächtniss trägt. Wie man in
+               einer Gallerie von dem Bilde eines Meisters zu dem eines andern übergeht, so habe
+                  <persName ref="gnd-118554727">ich</persName> oft gewünscht, mich in wenig Minuten
+               von hier auf ein <placeName ref="geo-2921044">Deutsch</placeName>es oder <placeName ref="geo-6269131">Engl</placeName>isches Theater versetzen zu können.</p>
+            <p>Die <placeName ref="geo-3017382">Franz</placeName>ösische Bühne hat indess doch
+               einige sehr auffallende Eigenthümlichkeiten, und <persName ref="gnd-118554727">ich</persName> glaube nicht zu irren, wenn <persName ref="gnd-118554727">ich</persName> folgende Züge charakteristisch an ihr nenne.</p>
+            <p>Der <placeName ref="geo-3017382">franz</placeName>ösische tragische Schauspieler hat
+               durchaus einen mehr leidenschaftlichen Ausdruck, als der <placeName ref="geo-2921044">Deutsch</placeName>e. Er spielt, wenn <persName ref="gnd-118554727">ich</persName> so sagen darf, mehr die Leidenschaft, als den Charakter, hält den
+               Zuschauer mehr bei dem augenblicklichen Zustand seines Gemüths fest, lässt ihn
+               weniger in das Innere seiner Seele und das Ganze seiner Empfindungsart schauen. Daher
+               ist in verschiedenen Rollen weniger Abwechslung und weniger Individualität. Man
+               könnte ein Bild eines tragischen Helden im Allgemeinen entwerfen, und würde in
+               einzelnen Rollen dasselbe Bild, mit ziemlicher Vollständigkeit, wiederfinden.</p>
+            <p>Ebendaher ist, ungeachtet der bei guten Schauspielern freilich sehr künstlich
+               berechneten Steigerung des Affekts, doch der Ausdruck, auch gleich von Anfang herein,
+               bewegter und leidenschaftlicher, als bei uns.</p>
+            <p>Bei seinem ersten Hereintreten sieht man es dem Schauspieler an, dass er von
+               Leidenschaften bestürmt, mit schrecklichen Ereignissen im Kampf seyn werde. Der
+               Ausdruck der Leidenschaft selbst ist weit mehr der physische der Natur, als der
+               höhere und idealische. Die Leidenschaft ist vorzüglich von der Seite des Erliegens
+               unter einer fremden Gewalt genommen, und es ist vergessen, dass sie auf der andern
+               Seite, in edlen und grossen Indi-<pb n="2.383" xml:id="pbII383"/> viduen, aus einer
+               Tiefe herstammt, die wir selbst nicht ergründen können, und dass sie dort selbst mit
+               unsern höchsten Kräften, sogar mit der Vernunft in Uebereinstimmung stehen kann, der
+               sie nur, entweder in einzelner Anwendung, oder in dem, was wir uns mit Begriffen
+               deutlich zu machen und zu entziffern verstehen, widerspricht.</p>
+            <p>Der <placeName ref="geo-3017382">Franz</placeName>ösische Schauspieler fühlt nicht,
+               und lässt den Zuschauer nicht empfinden, dass die Leidenschaft oft Ausbruch einer
+               Seele ist, die, aus Unvermögen entwickelnder Kräfte, also aus Dumpfheit, oder aus
+               Fülle und Grösse der Kraft, wo alsdann der Moment der Leidenschaft zugleich der
+               Moment der höchsten Klarheit ist, sich sonst nicht verständlich zu machen weiss.</p>
+            <p>Was <persName ref="gnd-118554727">ich</persName> bei den hiesigen Schauspielern
+               Naturausdruck von Leidenschaft nenne, kann <persName ref="gnd-118554727">ich</persName> Ihnen durch einige Beispiele deutlich machen.</p>
+            <p>Unter den Schauspielerinnen zeigt jetzt <persName ref="gnd-131241559">
+                        <hi xml:lang="fr">Mlle</hi> Raucour</persName>
+                    <note type="footnote" n="v)" resp="gnd-116890657">F<persName ref="gnd-131241559">rançoise Clairien
+                     (Saucerotte), genannt Raucourt</persName> (<date from="1753" to="1815">1753-1815</date>), spielte <date from="1772">seit 1772</date> am <hi xml:lang="fr">
+                            <orgName ref="gnd-115269-5">Théâtre français</orgName>
+                        </hi> die
+                  heroisch-tragischen Rollen.</note> unstreitig am meisten die Reste der ehmaligen
+               grossen Talente. Niemand kann ihr absprechen, dass sie ihre Rollen mit vieler
+               Einsicht behandelt, dass sie den Ausdruck der Leidenschaft in ihrer Gewalt hat, dass
+               sie mit dem spielt, was man hier <emph xml:lang="fr">âme</emph> nennt, und was
+                  <persName ref="gnd-118554727">ich</persName> zu schwach mit
+                  <emph>Empfindung</emph> und nicht ganz richtig mit <emph>Seele</emph> übersetzen
+               würde, da dies letztere Wort bei uns eine sanftere und feinere Bedeutung hat.</p>
+            <p>
+                    <persName ref="gnd-118554727">Ich</persName> habe sie meistentheils stolze,
+               ehrgeizige und heftige Rollen spielen sehen. Ihre Gestalt und ihr jetzt zu starkes,
+               männliches Organ machen sie dazu vorzüglich geschickt; aber stellenweise findet sich
+               manches Anstössige. Plötzliche und rasch veränderte Beugungen der Stimme, abgebrochne
+               Bewegungen der Arme, ein uns wenigstens oft widriges Werfen des Kopfs, ein
+               affectirter Gang, und besonders ein Ton der Stimme, der nur der Ton des heftig
+               geäusserten Affects, nicht der einer tief empfundenen Leidenschaft ist, kurz wenn man
+               es stark ausdrücken soll: wie man es bei wirklich schlechten Schauspielern sieht, ein
+               stolzes und anmaassliches Wesen, das unmittelbar ans Gemeine gränzt.</p>
+            <p>
+                    <persName ref="gnd-118554727">Ich</persName> bescheide mich, dass <persName ref="gnd-104270608">Clairon</persName> und <persName ref="gnd-11536076X">Dumesnil</persName>
+                    <note type="footnote" n="vi)" resp="gnd-116890657">
+                        <persName ref="gnd-104270608">Claire Josephe Hippolyte Leyris de la Tude, genannt
+                     Clairon</persName> (<date from="1723" to="1803">1723-1803</date>), <date from="1743">seit 1743</date> an der <hi xml:lang="fr">
+                            <orgName ref="gnd-115269-5">Comédie française</orgName>
+                        </hi>, und <persName ref="gnd-11536076X">Marie Françoise Marchand Dumesnil</persName> (<date from="1713" to="1803">1713-1803</date>), <date from="1737">seit 1737</date> am
+                     <hi xml:lang="fr">
+                            <orgName ref="gnd-115269-5">Théâtre français</orgName>
+                        </hi>,
+                  waren die beiden bedeutendsten tragischen Darstellerinnen in <placeName ref="geo-2988507">Paris</placeName>
+                  <date from="1750" to="1800">um die Mitte des 18. Jahrhunderts</date>.</note> noch
+               weniger <pb n="2.384" xml:id="pbII384"/> in diese Fehler verfallen sind; aber Gattung
+               und Stil müssen im Ganzen immer dieselben gewesen seyn.</p>
+            <p>Bei kämpfenden Leidenschaften fehlt dem hiesigen Spiel, wie mich dünkt, vorzüglich
+               der Ausdruck des Punkts, aus dem sie im Innern der Seele gemeinschaftlich
+               entspringen. Zu häufig wird hier die eine als wahre innre Empfindung dargestellt, die
+               andre, als entstünde sie aus Betrachtung des fremden Urtheils, und so verliert das
+               Ganze an Idealität.</p>
+            <p>So erinnere <persName ref="gnd-118554727">ich</persName> mich, dass z. B. die
+                  <persName ref="gnd-131241559">Raucour</persName> jene Stelle in der
+                  <title>Phädra</title>, wo diese in eine Art wahnsinniger Träumerei versinkt,
+               meisterhaft spielte, und vorzüglich die schönen Verse: <lg type="poem" xml:lang="fr">
+                  <l>
+                            <hi>Dieux! que ne suis-je assise aux ombres des forêts !</hi>
+                        </l>
+                  <l>
+                            <hi>Quand pourrai-je au travers d'une noble poussière</hi>
+                        </l>
+                  <l>
+                            <hi>Suivre de l'oeil un char fuyant dans la carrière.</hi>
+                            <note type="footnote" n="vii)" resp="gnd-116890657">
+                                <bibl>
+                                    <author>
+                                        <persName ref="gnd-118597523">Racine</persName>
+                                    </author>, <title>Phèdre</title>
+                           <biblScope unit="verse" n="176">Vers 176</biblScope>
+                                </bibl>.</note>
+                  </l>
+               </lg> vortreflich sagte.</p>
+            <p>Wie sie nun aber wieder zu sich kam, waren Ton und Gebehrde zu brusque, gar nicht
+               mehr auf die innere Empfindung, nur auf das äussere Urtheil berechnet.</p>
+            <p>Statt innern Schmerzes und innerer Verwirrung über diese unglückliche Zerrüttung
+               ihres Gemüths, schien sie nur in Verdruss auszubrechen, sich so verrathen zu haben,
+               und das höhere und idealische Gefühl wurde dem kleinlichen aufgeopfert. Freilich
+               zeigte ihr der Dichter hier selbst das Spiel an; allein die wahrhaft seelenvolle
+               Schauspielerin würde den Contrast hier lieber gemildert haben, statt ihn
+               herauszuheben.</p>
+            <p>An <persName ref="gnd-117198838">Talma</persName> würde man so etwas nicht sehen. Er
+               ist durchaus edel, und zeigt die echte Würde des Charakters, nicht den bloss
+               angeerbten Heldenstolz. Er ist in allem natürlicher und freier, aber auch in ihm ist
+               der Naturausdruck der Leidenschaft stärker, als wir es werigstens immer wünschen. Die
+               Arbeit seines Gemüths zeigt sich oft für uns zu stark in seinen Athemzügen und seinen
+               Stellungen; seine Gesichtszüge verrathen ganz eigentliches Leiden, und wenn <persName ref="gnd-11855333X">Homer</persName>s Helden sich nicht scheuen zu weinen, so
+               scheut der <placeName ref="geo-3017382">Franz</placeName>ösische Schauspieler sich
+               nicht die physische Anstrengung der Leidenschaft zu zeigen, sollte auch das Erliegen
+               unter derselben ins Unmännliche übergehen. Ja er <pb n="2.385" xml:id="pbII385"/>
+               hütet sich sogar nicht immer vor unästhetischen Verzerrungen des Gesichts. Sein Spiel
+               drückt also mehr Leidenschaft, als Charakter und Gemüth aus, die Leidenschaft mehr in
+               ihren physischen Aeusserungen, als in ihrer innern Gestalt, ihren Wirkungen auf die
+               Empfindung. Er stellt weniger den idealischen, als den Naturmenschen dar.</p>
+            <p>Wird diese Manier übertrieben, so ist sie entsetzlich und weder Natur noch Idealität,
+               sondern die mit sichtbarer und daher natürlicherweise manierirter Kunst nachgeahmte
+               gemeine Wirklichkeit.</p>
+            <p>Ist sie durch natürliches Gefühl und ästhetischen Sinn gemässigt, so macht sie eine
+               grosse und starke Wirkung; aber <persName ref="gnd-118554727">ich</persName> habe
+               wenigstens immer dabei zu empfinden geglaubt, dass die Seele nicht ganz befriedigt
+               wird, und dass noch etwas Höheres erwartet wird.</p>
+            <p>Doch sind bei den guten Schauspielern die Schattirungen natürlich sehr sein, und es
+               fehlt da nur die letzte Vollendung der innern Harmonie der Empfindung. Die Wirkung
+               ist nur nicht so geistig, als man wünschte, sie setzt unser Gemüth nicht in eine so
+               energische und fruchtbare Bewegung.</p>
+            <p>In dem Gebehrdenspiel ist der <placeName ref="geo-3017382">Franz</placeName>ösische
+               Schauspieler, wie schon oben bemerkt worden, mehr malend, als der <placeName ref="geo-2921044">Deutsch</placeName>e, der nur fast ausdrückende Gebehrden kennt;
+               doch lässt sich bei guten Schauspielern hierin nur selten eine Uebertreibung
+               wahrnehmen.</p>
+            <p>Es sind nicht die häufigen Gesten der mittäglichen Völker, aber es sind zum Theil,
+               der Zahl und der Art nach, von dem Sinn der Rede wenigstens nicht nothwendig
+               hervorgebrachte Bewegungen. Es scheint vielmehr, als müsse der Rhythmus und die
+               Cadence der Verse zugleich durch eine eben solche Folge von Bewegungen begleitet
+               werden, die nur da, wo der Sinn mehr Gewicht bekommt, eigentlich bedeutend werden.
+               Dies hängt genau mit der Versification der Stücke zusammen, mit der Feierlichkeit der
+               ganzen Composition einer Tragödie, und mit der Art der Declamation.</p>
+            <p>Die Declamation ist zwar ganz frei, der Reim wird sogar absichtlich versteckt, und
+               der Vers in andre Glieder zertheilt, als ihm die Scansion anweist; allein da die
+                  <placeName ref="geo-3017382">Franz</placeName>ösische Sprache und Declamation
+               keinen Silbenaccent kennt, da die <placeName ref="geo-3017382">Franz</placeName>osen
+               im Lesen mit einer besondern Eigenthümlichkeit, die, soviel <persName ref="gnd-118554727">ich</persName> weiss, keine andre Nation hat, nicht ihre
+               Accente nach dem Sinngewicht der <pb n="2.386" xml:id="pbII386"/> Worte, oder doch
+               wenigstens nicht beständig und regelmässig vertheilen, sondern hierin mehr einem
+               durch Gebrauch und Wohlklang bestimmten Rhythmus folgen, nach welchem oft das
+               Adjectivum vor dem Substantivum, oft eine Partikel vor beiden, und meistentheils das
+               unbedeutende Endwort eines Commas vor seinen bedeutenden Vorgängern den Vorzug
+               erhält, da in der poetischen Declamation gewöhnlich in jedem Vers Ein Wort
+               herausgehoben wird, so muss auch das Gebehrdenspiel, das die Declamation begleitet,
+               solchen Gesetzen folgen.</p>
+            <p>In dieses mischt sich nun aber vornemlich das Bestreben nach malerischen Bewegungen,
+               das überall auf der Bühne herrschend ist, daher sieht man auch oft Attitüden
+               verlängern, die bei uns schneller wechslen würden. So geht der Schauspieler, nach
+               einer bedeutenden Scene, mit einer gleichsam verlängerten Gebehrde von der Bühne ab,
+               da wir es nicht billigen würden, wenn sich jemand z. B. mit aufgehobenen Armen
+               entfernen und, bis er vor dem Zuschauer verschwindet, so bleiben wollte.</p>
+            <p>Wenn es bei uns geschähe, würde es wenigstens mit Heftigkeit und Schnelligkeit
+               geschehen, hier behält es noch immer die zögernde Ruhe, die allen ästhetischen
+               Stellungen eigen ist.</p>
+            <p>Das Malerische des Spiels macht hier einen wichtigen Theil aus, und hierin muss man,
+               glaub’ <persName ref="gnd-118554727">ich</persName>, einen Vorzug selbst über das
+               zugestehen, was wir von unsern Schauspielern auch nur wünschen.</p>
+            <p>Dies für uns fremdartige Gebehrdenspiel mag, ob <persName ref="gnd-118554727">ich</persName> es gleich historisch nicht weiss, verschiedne Stufen durchgegangen
+               seyn. Anfangs war es vielleicht bloss Ausdruck pathetischer Würde, und man bewegte
+               die Arme vermuthlich eben so regelmässig, als man die Alexandriner nach ihren
+               Abschnitten herrollen liess. Nachher mischte sich einerseits der Verstand hinein und
+               brachte das Malen hervor, und anderseits gab der besser gebildete ästhetische Sinn
+               Rhythmus und gefällige Harmonie, spät erst haben Empfindung und Ausdruck ihr Recht
+               erhalten.</p>
+            <p>Was <persName ref="gnd-118554727">mir</persName>
+               <persName ref="gnd-117198838">Talma</persName>’s Spiel so werth macht, ist dass er
+               dies alles so gut verbunden hat, dass er das Malerische der Stellungen, den Ausdruck
+               der Empfindung und die Feierlichkeit, die man der <placeName ref="geo-3017382">Franz</placeName>ösischen tragischen Bühne schlechterdings nicht nehmen darf,
+               weil einmal die Dichtungen selbst alle darauf berechnet sind, vollkommen mit einander
+               zu verschmelzen weiss.</p>
+            <p>Der letzte charakteristische Zug der <placeName ref="geo-3017382">Franz</placeName>ösischen Schauspieler <pb n="2.387" xml:id="pbII387"/> scheint
+                  <persName ref="gnd-118554727">mir</persName> endlich der, dass sie mehr, als
+               unsre, an das Publikum denken. Wie unsre Schriftsteller oft nur für sich schreiben,
+               so spielen auch unsre Schauspieler oft nur für sich, und glücklich genug, wenn sie
+               nur noch an die Personen denken, mit denen sie reden. Dies wird dem <placeName ref="geo-3017382">Franz</placeName>osen nie begegnen, aber er verfällt in den
+               entgegengesetzten Fehler, viel zu viel gegen das Publikum zu reden.</p>
+            <p>Ueber die Art, wie sie sich im Gespräch gegen einander stellen, liesse sich
+               überhaupt, besonders wenn man im Ganzen, nicht bloss von den besten, redet,
+               mancherlei aussetzen.</p>
+            <p>Sobald sie mit einander in Uneinigkeit sind, so wenden sie sich leicht auf eine
+               wirklich unhöfliche Weise von einander ab, und drehen sich, soviel sie nur können,
+               den Rücken zu, als wollten sie nun auch gar nichts mehr von einander wissen und
+               hören.</p>
+            <p>Im Ganzen scheint es <persName ref="gnd-118554727">mir</persName> also, als gäbe uns
+               zwar die <placeName ref="geo-3017382">Franz</placeName>ösische Schauspielkunst ein
+               weniger hohes und idealisches Bild von dem Menschencharakter, als das ist, nach dem
+               wir bei uns streben, aber sie trägt offenbar mehr den Charakter der Kunst im besten
+               Verstande an sich, ist immer ästhetisch, und benutzt mehr die Vorzüge der ihr
+               verwandten Künste.</p>
+            <p>Wir Ausländer pflegen ihr Unwahrheit und Unnatur zuzuschreiben, und unstreitig nicht
+               ohne Grund. Die <placeName ref="geo-3017382">Franz</placeName>osen selbst glauben
+               hingegen jetzt der Natur so nahe zu seyn, als es nur immer möglich ist, ihr zu
+               kommen. Wie soll man diesen Widerspruch auflösen?</p>
+            <p>Eine Auflösung ist eigentlich nicht möglich, erklären lässt er sich aber vielleicht
+               dadurch, <emph>dass jede Nation einen eignen Begriff von Natur hat</emph>, dass sie
+               das so nennt, was ihr leicht und gewöhnlich ist. Kein Begriff ist bei der Kenntniss
+               nationeller Verschiedenheiten so wichtig, und keiner vielleicht müsste zum Behuf der
+               Charakterbildung so sorgfältig bestimmt werden. Denn wer sich den reinsten und
+               würdigsten Begriff von dem, was man Natur nennt, zu eigen gemacht hat, ist unstreitig
+               auch der gehaltvollste Mensch, da man immer von selbst alsdann zu einer solchen Natur
+               hinstrebt.</p>
+            <p>Die <placeName ref="geo-3017382">Franz</placeName>osen verbinden mit dem Ausdruck:
+                  <emph>Natur</emph> fast ausschliessend den Begriff des Einfachen, Leichten,
+               durchaus Gehaltnen. Da sie nun auch die Kunst nur fast von eben dieser Seite, der
+               Seite des Geschmacks, der sich nichts Anstössiges <pb n="2.388" xml:id="pbII388"/>
+               erlaubt, kennen, so verbinden sich diese beiden Begriffe leicht mit einander, und so
+               ist es begreiflich, dass sie ihr Spiel durchaus natürlich nennen, weil es nach ihrem
+               Geschmack nichts Uebertriebnes enthält, wenn wir gleich, was aber freilich mehr die
+               Schuld der Dichter, als der Schauspieler ist, den Gehalt, die Wahrheit und die auf
+               sich selbst beruhende Freiheit der Natur vergebens darin aufsuchen. An einen reinen
+               Gegensatz der Natur und Kunst ist, so scheint es, bei ihnen nicht zu denken; aber
+               weil sie einen sehr leicht gereizten Ekel vor der rohen und selbst der derben
+               Wirklichkeit haben, so erscheinen sie oft ästhetischer, als sie eigentlich sind.</p>
+            <p>Ist aber der Begriff der Kunst und Natur irgendwo schwer zu unterscheiden, so ist er
+               es in der Schauspielkunst, welche die Kunst der Kunst, nicht die Darstellung der
+               Natur, sondern die Darstellung einer andern vorhergegangenen künstlerischen
+               Darstellung ist.</p>
+            <p>Welche Veränderung geht eigentlich mit der Natur vor, wenn sie zum Kunstwerk gemacht
+               wird? Sie wird in einen <emph>Gedanken</emph> umgeschaffen, dadurch erhält sie
+               zweierlei: sie wird der menschlichen Natur ähnlicher gemacht, da menschliche Kräfte
+               sie in ihrer Vorstellung zusammenfassen, und sie erhält eigne, einschränkende Grenzen
+               und wechselseitige Bestimmung ihrer Theile von der Phantasie, weil aus dem
+               unermesslichen All der Natur Ein Stück herausgerissen und in ein selbstständiges
+               Ganzes verwandelt ist.</p>
+            <p>In der Natur ist immer mehr, als in der Kunst, immer etwas Unendliches, aber diesen
+               Charakter uns mit unsrer Einbildungskraft vorzustellen, kann uns nur ein Kunstwerk
+               begeistern, weil es uns an einem Theil der Natur ein Bild der Harmonie und Vollendung
+               zeigt, welche sie zwar in der Wirklichkeit, aber nur in ihrem für uns unübersehbaren
+               Ganzen an sich trägt. Die Kunst führt nie wieder auf die Kunst, sondern nur auf die
+               Natur hin, und niemanden wird es einfallen, sich bei Lesung einer Tragödie die
+               Schauspieler, und nicht die handelnden Personen zu denken.</p>
+            <p>Da alle Kunst, ihrem Wesen nach, Nachahmung ist, so hat der Künstler immer ein
+               Vorbild, das er auf seine Weise darstellt. Das Vorbild des Schauspielers nun ist
+               nicht gerade die Natur, sondern ein vor ihm und sogar unabhängig von ihm gemachtes
+               Kunstwerk, die Tragödie des Dichters. Seine Kunst ist daher <pb n="2.389" xml:id="pbII389"/> gebundner, als andre, und das Natürliche oder Unnatürliche
+               seines Spiels darf daher nicht mehr durch eine unmittelbare Vergleichung mit der
+               Natur, sondern durch eine mittelbare mit der Behandlung derselben durch den Dichter
+               beurtheilt werden. Man darf nicht fragen: könnte <persName ref="gnd-119059738">Agamemnon</persName>, könnte <persName ref="gnd-118983504">Clytemnestra</persName> diese Bewegungen machen? sondern: könnte es der <persName ref="gnd-119059738">Agamemnon</persName>, der diese Gesinnungen äussert, diese
+               Worte sagt?</p>
+            <p>Die Kunst verräth sich durch zweierlei als Kunst, durch ihre höhere, über die
+               Wirklichkeit hinausgehende Idealität und durch das, was in ihr, als einem Machwerk
+               des Menschen, an Willkühr und Convention erinnert. Je mehr Conventionelles nun das
+               Werk des Dichters enthält, einen desto grössem Antheil davon wird man auch im
+               Schauspieler ertragen, ohne sein Spiel unnatürlich zu nennen, ja man wird es von ihm
+               fodern, weil sonst offenbar die nothwendige Harmonie gestört ist. Darum können die
+                  <placeName ref="geo-3017382">Franz</placeName>osen, die einmal, aus andern
+               Gründen, ihre Tragödie natürlich finden, unmöglich von ihren Schauspielern ein
+               entgegengesetztes Urtheil fällen. Sie können sie nicht einmal da übertrieben nennen,
+               wenn sie uns so erscheinen. Denn es gehört mit zu der, durch den Dichter und mit
+               Bewilligung des Zuschauers, festgesetzten Uebereinkunft, dass der tragische Held ein
+               andrer Mensch ist, als der gewöhnliche Mensch und daher auch stärkere Aeusserungen
+               seiner Empfindung hat, wozu denn die grössere natürliche Lebhaftigkeit der Nation
+               noch ausserdem das Ihrige beiträgt.</p>
+            <p>Gegen den Dichter gehalten, ist dann der Schauspieler wieder mehr Natur, mehr
+               Wirklichkeit, da er uns das Werk des Dichters anschaulich macht, und dies neue
+               Verhältniss bringt auch neue Momente in unsrer Beurtheilung hervor. Bei allem
+               Kunstgenuss macht die Einbildungskraft allein die Unkosten, es ist nie das Kunstwerk
+               selbst und allein, das uns entzückt, es ist das Bild, das wir, durch dieselbe
+               begeistert, vielleicht ebensosehr in dasselbe hinein, als aus ihm heraussehen. Nun
+               zerfallen alle darstellenden Künste in zwei Klassen, solche, wo die Einbildungskraft
+               den Gegenstand selbst, ganz oder zum Theil, bilden muss, und solche, die ihn selbst
+               unmittelbar hinstellen und wo sie nur gleichsam das Idealische darin mithervorbringen
+               hilft. Die letztem, glaube <persName ref="gnd-118554727">ich</persName> mit
+               Sicherheit behaupten zu können, müssen einen weit höhern Grad der Vollkommenheit
+               besitzen, um einen gleich starken Eindruck zu machen. Von einem Gemälde und von einer
+               Statue z. B., die gleich mittelmässig sind, wird doch das erstere <pb n="2.390" xml:id="pbII390"/> noch mehr interessiren, weil es uns doch wenigstens das
+               Geschäft auferlegt, uns die dargestellte Scene, die dort nur in Umrissen und Farben
+               gezeichnet ist, wirklich vorzustellen.</p>
+            <p>Die Statue lässt uns durchaus kalt, und ist uns dann nicht mehr, als der rohe Stein.
+               Der schlechte Schauspieler geräth sogar in Gefahr, uns Ekel zu erregen, und je
+               reizbarer der Zuschauer gegen die rohe Wirklichkeit ist, desto mehr muss sich jener
+               auf der Linie der Kunst halten. Die <placeName ref="geo-3017382">Franz</placeName>osen nun besitzen nicht nur diese Reizbarkeit in hohem Grade,
+               sondern sie suchen auch in der Kunst weniger die hoch idealisirte Natur, als nur die
+               Kunstmanier, die Regelmässigkeit, Zierlichkeit und Symmetrie, die den Künstler
+               verräth. Sie nennen daher die letzte Linie natürlich, von der man nicht tiefer
+               herabsteigen dürste, ohne, ihren Begriffen nach, dem Kunstcharakter zu schaden — eine
+               Linie, die wir ganz anders bestimmen würden.</p>
+            <p>Der <placeName ref="geo-2921044">Deutsch</placeName>e Schauspieler, könnte man
+               vielleicht sagen, setzt mehr, nur auf seine Weise, bloss die Arbeit des Dichters
+               fort; die Sache, die Empfindung, der Ausdruck sind ihm das Erste, oft das Einzige,
+               worauf er sieht. Der <placeName ref="geo-3017382">Franz</placeName>ösische verbindet
+               mehr mit dem Werke des Dichters das Talent des Musikers und des Malers, darum ist er
+               aber auch weniger stark in dem Charakterausdruck und macht eine weniger tiefe
+               Wirkung. Allein eigentlich ist selbst dies nur die Schuld des Dichters, der wieder
+               auch hier mehr Kunstmanier, als künstlerisch dargestellte Natur hat.</p>
+            <p>Wenn man sich ein Ideal eines Schauspielers denkt, so ist kein Zweifel, dass derselbe
+               beide Vorzüge mit einander verbinden sollte. Er soll den handelnden Menschen, und
+               zwar in seiner ganzen Persönlichkeit darstellen, und wenn gleich in der Natur gewiss
+               nicht alle Stellungen und Bewegungen selbst des am meisten idealisch gebildeten
+               Menschen immer edel und graziös sind, so ist der Schauspieler dafür
+                  <emph>Künstler</emph>, dass er sich diese Ungleichheiten der Natur nicht zu
+               Schulden kommen lassen soll. Da er als Künstler die Natur durch eigne Mittel
+               nachahmt, so ist er verbunden, was er hinzufügt, vollkommen künstlerisch zu
+               verarbeiten, und in durchgängige Harmonie zu bringen.</p>
+            <p>In der Wirklichkeit kann und muss vieles unbedeutend bleiben, man verzeiht sogar eins
+               um des andern willen, und compensirt das Einzelne gegen einander, indem man sich
+               allein an das Resultat hält. In der Kunst hingegen ist nichts gleichgültig, kann
+               nichts auf Verzeihung oder Entschuldigung rechnen. Auf dem Theater <pb n="2.391" xml:id="pbII391"/> besonders, wo das ganze Leben eines Menschen in wenige Stunden
+               zusammengedrängt wird, muss alles bedeutend seyn, alles sich wechselseitig halten und
+               tragen. Gerade wenn der Schauspieler auch nur einen einzigen Augenblick seine Natur
+               sehen lässt, erinnert er daran, dass der Ueberrest Kunst ist. Diese Bedeutung jedes,
+               auch des kleinsten, einzelnen Theils, diese enge Verbindung aller, dieses genaue
+               Zusammenschliessen derselben in Ein eng beschränktes Ganzes giebt gerade das
+               nothwendige und wesentliche Gepräge eines Kunstwerks, den feinen glänzenden Hauch,
+               der es bekleiden muss, wenn der feiner Gebildete, denn der andre bemerkt ihn nicht,
+               oder liebt ihn nicht einmal, einen ächt künstlerischen Genuss daran finden soll.</p>
+            <p>Dass die <placeName ref="geo-3017382">Franz</placeName>osen dies mehr und strenger
+               fodern, würde wirklich mehr ästhetischen Sinn in ihnen beweisen, wenn sie theils das
+               innere Wesen der Kunst tiefer fühlten, theils stark genug beleidigt würden, wenn
+               jener höhere Glanz der Kunst nicht mehr bloss als die natürliche Blüthe eines
+               jugendlichen und kraftvollen Körpers, sondern als willkührlich aufgetragene Schminke
+               erscheint. Denn gewiss ist die Gränzlinie hier fein gezogen und der Geschmack sehr
+               selten, welchen die manierirte Kunst ebenso anekelt, als die rohe Natur.</p>
+            <p>Uns <placeName ref="geo-2921044">Deutsch</placeName>en kann man, glaub’ <persName ref="gnd-118554727">ich</persName>, den Vorwurf machen, dass wir auf diesen
+               eigentlichen Kunstglanz zu wenig Gewicht legen. Die Ursach mag darin zu suchen seyn,
+               dass wir nicht sinnlich genug ausgebildet sind, unser Ohr nicht musikalisch, unser
+               Auge nicht malerisch genug. <persName ref="gnd-118554727">Mir</persName> ist oft
+               aufgefallen, dass der <placeName ref="geo-2921044">Deutsch</placeName>e in
+               Vergleichung mit dem <placeName ref="geo-3017382">Franz</placeName>osen, <persName ref="gnd-118554727">ich</persName> möchte sagen mit dem Ausländer, aber <persName ref="gnd-118554727">ich</persName> wage es nicht, über meine Beobachtung hinaus zu
+               gehen, <emph>weniger die Nothwendigkeit der Zeichen kennt</emph>, dass er unmittelbar
+               und unabhängig von denselben auf die Sache zu gehen strebt.</p>
+            <p>Der <placeName ref="geo-3017382">Franz</placeName>ose, dies giebt schon die gemeinste
+               Beobachtung, hat für jeden Gedanken einen fertigen Ausdruck, auch der ungebildete
+               spricht geläufig, klar und präcis; der <placeName ref="geo-2921044">Deutsch</placeName>e sucht seinen Ausdruck mit Mühe, stockt nicht selten, und
+               auch der Fertigste spricht nicht immer so rund, als er wünscht. Jener zählt bloss
+               sein Geld, dieser prägt sich seine Münze selbst. Daher giebt der <placeName ref="geo-3017382">Franz</placeName>ose, weil in diesem Tauschhandel kein Wechslen
+               gilt, bald mehr, bald weniger, als er sollte, und ohne es zu wissen, da der <pb n="2.392" xml:id="pbII392"/>
+               <placeName ref="geo-2921044">Deutsch</placeName>e sich immer bewusst ist, wie
+               vollwichtig oder nicht seine Münze sey.</p>
+            <p>Wollen Sie andre Beweise, so nehmen Sie den verschiednen Geist beider Sprachen, auf
+               deren Bildung nichts so viel Einfluss gehabt hat, als diese Eigenthümlichkeit. Nehmen
+               sie, wie der <placeName ref="geo-3017382">Franz</placeName>ose im Gespräch, bei
+               seinen Schriftstellern, seinen Dichtern immer beim Ausdruck zuerst stehen bleibt,
+               daran krittelt und klaubt, oft nicht tiefer eingeht, und nicht selten der gemeinsten
+               Empfindung, dem gewöhnlichsten Gedanken wegen einer glücklichen Wendung Eingang
+               verstattet; wie gutmüthig dagegen der <placeName ref="geo-2921044">Deutsch</placeName>e immer gleich nach dem Sinn hascht, Dunkelheit und selbst
+               Unkorrektheit verzeiht, wenn nur sein Herz und sein Geist Befriedigung findet.</p>
+            <p>Nehmen Sie, wie die <placeName ref="geo-3017382">Franz</placeName>ösische
+                  <emph>Metaphysik</emph>, wenn es eine solche giebt, fast einzig in <emph>dem
+                  Einfluss der Zeichen auf die Begriffe</emph> das ganze Geheimniss der Philosophie
+               vergraben glaubt, und alles auf Wortstreit zurückführen will — ein Wahn, den bei uns
+               nur die Populärphilosophie gehegt, unter unsern eigentlichen Philosophen aber nur
+               Mendelssohn in seinen letzten Zeiten begünstigt hat.</p>
+            <p>Der <placeName ref="geo-2921044">Deutsch</placeName>e möchte unmittelbar mit seinem
+               Geist und seiner Empfindung vernehmen, er möchte die Kluft überspringen, die Seyn von
+               Seyn und Kraft von Kraft so trennt, dass sie sich nur durch vermittelnde Zeichen
+               verständlich machen können. Was er fühlt und denkt, stellt sich nicht sogleich im
+               Ausdruck dar, dem Sprechenden nicht in bestimmten Worten, dem Dichter nicht immer in
+               Harmonie und Rhythmus, dem Maler und Bildner nicht sogleich in Gestalt, und vor allen
+               dem Schauspieler, weil wir wirklich eine sehr gebehrdenlose Nation sind, nicht
+               sogleich in Mine und Gebehrde. Er hat in der That weniger Sprache, als andre
+               Nationen, und doch, <persName ref="gnd-118554727">ich</persName> sage es frei, weil
+                  <persName ref="gnd-118554727">ich</persName> es einmal nicht anders empfinden
+               kann, hätte er sich so viel Mehr und Besseres zu sagen.</p>
+            <p>Der Kunst kann diese Stimmung ohne Zweifel nachtheilig werden. Sie macht, dass unsre
+               Dichter z. B. meistentheils in dem Reichthum und der Schönheit des Rhythmus, in der
+               sinnlichen Pracht der Diction nicht nur den alten, sondern oft auch den neuern
+               nachstehen, und dadurch wenn nicht geringere Kraft, doch wenigstens geringern
+               poetischen Schwung besitzen.</p>
+            <p>Es ist, dies im Vorbeigehen zu bemerken, wunderbar, dass <pb n="2.393" xml:id="pbII393"/> ein ächt <placeName ref="geo-2921044">Deutsch</placeName>
+               gebildetes Genie, dass ein Mann, der, wenn gleich mit allen Musen des Auslands
+               vertraut, gewiss keiner nachahmend gehuldigt hat, dass gerade Voss hierin die
+               Ausnahme macht. Wenn man erst, was jetzt noch lange der Fall nicht ist, dahin
+               gekommen seyn wird, allgemein zu verstehen, was er fordert und leistet, so muss in
+               diesem Punkt eine Revolution entstehen, die um so wohlthätiger seyn wird, als sie
+               bloss uns selbst angehört.</p>
+            <p>Wie unendlich mehr ist aber von dieser Seite an unserm Schauspiel zu vermissen! Man
+               hat oft geklagt, dass es auf unsrer Bühne an edlem, freiem und graziösem Anstand
+               fehle; allein, was <persName ref="gnd-118554727">ich</persName> hier meyne, ist noch
+               mehr und etwas andres.</p>
+            <p>Es geschieht bei unsrer Tragödie überhaupt nicht genug für das Auge, nicht genug in
+               ästhetischer, und noch weniger in sinnlicher Rücksicht. Und doch wäre wenigstens das
+               Erstere durchaus nothwendig. Wir verlangen ja von einer guten malerischen
+               Composition, dass die verschiednen Gruppen, auch nur als Massen und Formen und ohne
+               Rücksicht auf den Sinn der Darstellung betrachtet, in angenehmen Verhältnissen stehen
+               und gefällige Umrisse bilden sollen. Die gleiche Forderung ergeht an die rhythmischen
+               Verhältnisse der Perioden bei dem Dichter und selbst dem Prosaiker, und sogar von
+               einer Reihe nach einander erregter Empfindungen wollen wir noch, dass sie, wie eine
+               Reihe zusammenstimmender Töne, eine harmonische Folge ausmache. Es giebt mit einem
+               Wort eine eigne Energie unsrer Einbildungskraft, vermöge welcher sie bloss mit leeren
+               Formen spielt, und die blossen Theile des Raumes und der Zeit in gefälligen
+               Verhältnissen an einander zu reihen strebt, und dies rein ästhetische Bedürfniss
+               unsrer Phantasie fordert bei jedem Werke Befriedigung, das irgend einen Anspruch auf
+               Kunst zu machen wagt. Diese Befriedigung darf auch der Schauspieler dem Zuschauer
+               nicht versagen, und er, der bestimmt ist, zugleich als redender und als bildender
+               Künstler zu wirken, leistet nur das Erstere, wenn er jenen Vorzug vernachlässigt.
+               Selbst den bloss sinnlichen Theil der Kunst sollte man weniger verachten. Decoration,
+               Costüme und, wenn der Schauspielkunst eine eigne Erziehung gewidmet würde, vor allem
+               die Bildung des Körpers selbst, sollten mit mehr Sorgfalt behandelt werden. Freilich
+               müssten dann auch unsre Tragödien um eine Stufe höher steigen, und sich in ein Gewand
+               kleiden, das auch auf den blossen Sinn einen grössern <pb n="2.394" xml:id="pbII394"/> Eindruck machte. Ein Schritt geschieht schon dadurch, dass die Versification zu
+               einem wesentlichen Erforderniss gemacht wird, auf diesen können die andern leicht
+               folgen.</p>
+            <p>Aber für den Schauspieler bleibt immer das Wesentliche das, dass er das Dichterische
+               und Malerische seiner Kunst nicht trenne, und noch weniger dem letztem den Vorzug
+               einräume, denn sonst sinkt er nicht bloss vom Gipfel der wahren Kunst herab, sondern
+               versperrt sich auch auf ewig allen Rückweg dazu. Keine Kunst ist der Schauspielkunst
+               in gewisser Rücksicht so nahe verwandt, als der Tanz. Wie nun der gute Tänzer sich
+               nie begnügt, einzelne Schönheiten zu zeigen, sondern nach Schönheit und Harmonie im
+               Ganzen strebt, wie er nie einzelne edle und graziöse Bewegungen, sondern einen Körper
+               zeigen will, der sich nicht anders, als edel und graziös zu bewegen vermag, wie er
+               den Zuschauer endlich dahin bringt, nichts als die innere organische Kraft zu
+               bewundern, die sich in tausend mannigfaltigen Gestalten entwickelt, und alle
+               beherrscht, und in allen ästhetisch harmonisch erscheint; so muss der Schauspieler
+               die Einbildungskraft seines Zuschauers allein auf die Seele versammlen, die ihn
+               belebt, und die zugleich aus seiner Stimme, seinen Minen und Gebehrden
+               hervorstralt.</p>
+            <p>Dies thut der <placeName ref="geo-3017382">Franz</placeName>ösische nie, und kann es
+               nicht, bis sein Spiel die Werke andrer Dichter begleitet. Er zeigt und malt den
+               ganzen Zustand der Seele, die Empfindung, die Leidenschaft, den Entschluss, aber
+               nicht das von Empfindungen zerrissne, von Leidenschaften bestürmte, zu kühnen und
+               raschen Entschlüssen gestählte Herz selbst.</p>
+            <p>Wie könnte aber der Schauspieler darstellen, was seinem Wesen nach nicht darstellbar
+               ist? Freilich kann er uns nur die Aeusserungen zeigen, aber es giebt unläugbar eine
+               Stimmung im Menschen, wo, in der engsten Verbindung aller Empfindungen und
+               Gesinnungen, jeder sein individuelles Wesen ganz und rein fühlt. Wenn sich der
+               Schauspieler in diese Stimmung versetzt, wenn er Stimme, Mine, Gebehrde allein nur
+               aus ihr abfliessen lässt, so erregt er dieselbe Stimmung in uns, und es entsteht nun
+               wirklich, was bei jedem grossen Kunsteffect der Fall ist, dass der Zuschauer mehr
+               sieht, als der Künstler unmittelbar darzustellen vermag.</p>
+            <p>Es ist in der That eine ungeheure Aufgabe, alle Gefühle der Menschheit zu erregen,
+               die tiefsten und mächtigsten Kräfte der <pb n="2.395" xml:id="pbII395"/> Natur zu
+               beschwören, und sie doch nur als Kunst wirken zu lassen und ästhetisch zu
+               beherrschen. Und dies ist doch, was wir vom Schauspieler verlangen, dessen
+               Kunstsprache, wenn <persName ref="gnd-118554727">ich</persName> so sagen darf, das
+               ganze menschliche Empfinden, Reden und Handeln ist. Das Studium seiner Kunst führt
+               auf die äussersten Feinheiten der Psychologie. Wie jeder Künstler ist er verbunden zu
+               idealisiren, sein Idealisiren aber besteht darin, dass er seiner Rolle durchaus
+                  <emph>Charakter</emph> giebt, dass er alle Eigenschaften, die ihr der Dichter
+               beilegt, als Individualität darstellt. Wie individuell auch die Poesie sey, so hat
+               sie immer, als blosses Gedankenbild, etwas Vages und Unbestimmtes; dies soll der
+               Schauspieler fixiren, und zwar fixiren in seiner wirklichen Person, die ihm oft fast
+               unübersteigliche Hindernisse in den Weg legt. Was er also zu studiren hat, ist die
+               Form des Charakters, die Art, wie der Mensch durchgängige Einheit und Nothwendigkeit
+               besitzen kann.</p>
+            <p>In der Wirklichkeit wäre diese Aufgabe unausführbar, denn sie hiesse nichts anders,
+               als ein idealisch gebildeter Mensch und noch dazu in einer fremden Individualität
+               seyn. Er soll sie aber vor der Einbildungskraft und durch dieselbe ausführen, machen,
+               dass alle seine einzelnen Aeusserungen aus einer Einheit herzustammen scheinen, und
+               uns veranlassen diese zu suchen, zu ahnden, und zu finden. Das Letzte ist ohne
+               Täuschung nicht möglich, und diese Täuschung hervorzubringen, ist das Geheimniss des
+               Schauspielers. Er muss in allem, was Ausdruck von Gedanken, Empfindungen und
+               Gesinnungen ist, die Kraft und die Wahrheit der Natur zeigen, ganz darin zu leben,
+               damit allein beschäftigt scheinen und im Zuschauer alles wecken, was darauf Bezug
+               hat; zugleich aber muss sein Spiel durchaus künstlerisch berechnet seyn, Stimme, Mine
+               und Gebehrde müssen die Einheit, die Nothwendigkeit, die Wechselbestimmung des
+               gebundensten Kunstwerks besitzen; beides muss er so eng verbinden, dass auch der
+               geübteste Zuschauer es nicht mehr trennen kann. Diese Verbindung wird ihm unfehlbar
+               gelingen, sobald er in seinem Studium ganz Künstler ist, in der Ausführung aber nur
+               den Menschen zu zeigen sucht, alsdann ist der Zuschauer ganz und gar, wie bei den
+                  <placeName ref="geo-3017382">Franz</placeName>osen fast nie der Fall seyn kann,
+               mit der Gesinnung und dem Charakter der handelnden Personen, also mit dem
+               Wesentlichen des Gedichts beschäftigt und glaubt die Einheit und Nothwendigkeit, die
+               eigentlich in der gebundnen Form des Kunstvortrags liegt, in diesem zu erblicken, und
+               so ist die Idealisirung <pb n="2.396" xml:id="pbII396"/> geschehen, welche der
+               Schauspieler der Idealisirung durch den Dichter hinzufügt.</p>
+            <p>Denn hinzufügen soll er, nicht bloss den Dichter begleiten. Versäumt er die feinere
+               Kunstform, die Regelmässigkeit und Schönheit seines Spiels, so thut er im besten
+               Falle nichts, als die Wirkung des Dichters durch den lebendigen Vortrag verstärken.
+               Geht er aber darin noch einen Schritt weiter, so wirkt er gar nicht mehr als
+               Künstler, sondern so wie es der Anblick der Natur, wenn man sie ohne künstlerische
+               Absicht bloss nachahmte, thun würde, und verlässt entweder den Dichter, oder zieht
+               ihn mit zu sich herab.</p>
+            <p>An eine eigentliche Verschmelzung des Menschen mit dem Künstler im Schauspieler ist
+               in <placeName ref="geo-3017382">Frankreich</placeName> nicht zu denken, vielmehr
+               sucht er, so wie sein Publikum, hier immer nur eine blosse Verbindung
+               deklamatorischer, musikalischer, mimischer und malerischer Schönheiten. Darum ist
+               auch das hiesige Spiel so oft manierirt, ein Fehler, von dem selbst die besten
+               Schauspieler nicht frei sind. Bald sind sie manierirt in dem malerischen Theile, man
+               sieht Stellungen, welche der Sinn der Rede nicht fordert, oder Verlängerungen andrer,
+               welche die Natur nicht verträgt, oder ein plötzliches Abbrechen und Wechslen, das dem
+               hiesigen Geschmack vielleicht piquant vorkommt, aber den, der alle Bewegungen nur aus
+               Einer Quelle will herfliessen sehen, nur stört. Eine andre Art des Manierirten ist
+               die Uebertreibung und nicht gehörig abgemessene Abstufung des Ausdrucks; eine dritte,
+               die zwar bei guten Schauspielern am seltensten vorkommt, <persName ref="gnd-118554727">mir</persName> aber auch am meisten widersteht, ist die
+               Wiederholung gewisser Tiraden von Gesten, wenn <persName ref="gnd-118554727">ich</persName> so sagen darf, die ein Schauspieler dem andern nachmacht, und die
+               gleichsam Theatergewohnheit sind. Vorzüglich in Momenten des heftigsten Affects
+               fällt, habe <persName ref="gnd-118554727">ich</persName> bemerkt, manchmal ein Punkt
+               ein, wo derjenige, der an die hiesige Bühne gewöhnt ist, nun die ganze Folge von
+               Zuckungen und Verzerrungen voraussieht, die ihm bevorsteht.</p>
+            <p>Wie unsre Bühne und besonders, wie unsre dramatischen Dichter auf der einen Seite den
+               sinnlichen Schwung und Glanz, auf der andern die rein ästhetische Freiheit und
+               Vollendung, die uns im Ganzen, meiner Meynung nach, noch fehlen, erlangen können,
+               glaube <persName ref="gnd-118554727">ich</persName> deutlich einzusehen. Es ist dazu
+               nur ein Fortschreiten nöthig. Wie dagegen die <placeName ref="geo-3017382">Franz</placeName>ösische Tragödie zur Kraft und Wahrheit der Natur, zu einer
+               seelenvollen und <pb n="2.397" xml:id="pbII397"/> idealischen Darstellung der
+               Menschheit kommen solle, sehe <persName ref="gnd-118554727">ich</persName> nicht ab.
+                  <persName ref="gnd-118554727">Ich</persName> glaube in der That, sie müssen erst
+               zum Drama zurück, und von da zur bürgerlichen Tragödie, ehe sie wieder an eine
+               heroische denken können. Ein solches Umkehren aber ist ein saurer Schritt; denn
+               offenbar ist das Drama, das sie jetzt haben könnten, ihre Tragödie nicht werth.
+               Indess glaube <persName ref="gnd-118554727">ich</persName> doch in ihren neuen
+               Stücken eine Tendenz dahin zu bemerken, und dies macht, dass <persName ref="gnd-118554727">ich</persName> am meisten <persName ref="gnd-116896299">Lemercier</persName>'s <title>Agamemnon</title> liebe, weil er <persName ref="gnd-118554727">mir</persName> noch das reinste Bild der ehmaligen Gattung
+               giebt.</p>
+            <p>Wunderbar ist es, dass die sonst so verschiedenen Griechen einen ähnlichen Weg
+               gingen; denn <persName ref="gnd-118554727">ich</persName> stimme ganz Ihrer Meynung
+               bei, dass einige Stücke des <persName ref="gnd-118531395">Euripides</persName> sich
+               zum Drama hinneigen.<note type="footnote" n="viii)" resp="gnd-116890657">
+                        <persName ref="gnd-118540238">Goethe</persName> hatte am <date when="1799-05-20">20. Mai
+                     1799</date> an <persName ref="gnd-118554727">Humboldt</persName> geschrieben
+                        (<bibl>
+                            <title>Briefe</title>
+                     <biblScope unit="volume" n="14">14</biblScope>, <biblScope unit="page" n="103">103</biblScope>
+                        </bibl>): <quote>Da <persName ref="gnd-118554727">Sie</persName> bei Gelegenheit des <persName ref="gnd-118565796">kotzebu</persName>ischen Stücks etwas über das Drama äussern, so fallt
+                        <persName ref="gnd-118540238">mir</persName> ein, was wir neulich bei
+                     Durchlesung der <persName ref="gnd-118531395">euripidis</persName>chen Stücke
+                     zu bemerken glaubten: dass sich nämlich zu der Zeit dieses Autors der Geschmack
+                     schon offenbar nach dem, was wir Drama nennen, hinneigte.</quote>
+                    </note> Es ist
+               nicht mehr die furchtbare Herrschaft des Schicksals, es sind mehr menschliche
+               Leidenschaften und Gesinnungen, es sind nicht mehr die tragische Furcht und das
+               Schrecken, es ist mehr Rührung, es ist endlich nicht mehr der rasche gebundene Gang,
+               es ist mehr Laxität und Breite. <persName ref="gnd-118554727">Ich</persName> finde
+               schon im <persName ref="gnd-118531395">Euripides</persName> nicht mehr die Kraft und
+               Grösse seiner Vorgänger, <persName ref="gnd-118554727">ich</persName> sehe nicht, wie
+               man nach ihm in diesen noch hätte weiter kommen können. Ewig schade, dass <persName ref="gnd-118647253">Agathon</persName>
+                    <note type="footnote" n="ix)" resp="gnd-116890657">Nach <persName ref="gnd-118650130">Aristoteles</persName>'
+                  Bericht im neunten Kapitel seiner <title>Poetik</title> hatte <persName ref="gnd-118647253">Agathon</persName> es gewagt, in seiner Tragödie <title xml:lang="grc">Ἄνθος</title> einen freierfundenen Stoff zu behandeln.</note>
+               und andre für uns verloren sind, und dass wir kein Stück haben, dessen Stoff selbst
+               dem Dichter angehört, wie sie deren besassen.</p>
+            <p>Wie überall, so kommt es auch bei dem Schauspieler ausserordentlich darauf an, in
+               welchen Gesichtspunkt er sich stellt. Immer zwar hat er eine ihm vom Dichter gegebene
+               Rolle vor einem Publikum vorzutragen; allein sein Spiel ist anders, je nachdem er
+               sich einen oder den andern Theil dieses Geschäfts mehr oder minder deutlich
+               denkt.</p>
+            <p>Der <placeName ref="geo-3017382">Franz</placeName>ösische Schauspieler ist weit mehr
+               Deklamator seiner Rolle, d. h. er geht mehr davon aus, und bleibt strenger dabei
+               seine Rolle herzusagen und mit Gebehrden zu begleiten, und spielt weniger frei aus
+               sich heraus, um eigentlich den Charakter, der ihm angewiesen ist, darzustellen. Er
+               äussert mehr <pb n="2.398" xml:id="pbII398"/> Achtung für den Dichter, und hebt jede
+               einzelne Schönheit sorgfältiger in ihm heraus, als der <placeName ref="geo-2921044">Deutsch</placeName>e, der nur zu oft dem Dichter Unrecht thut und bloss auf den
+               Effect im Ganzen hinarbeitet. Ausser dem den <placeName ref="geo-3017382">Franz</placeName>osen, wie <persName ref="gnd-118554727">ich</persName> schon
+               oben äusserte, eigenthümlichen grössern Respect für den Ausdruck, thut dazu die
+               gebundne Form der Dichter sehr viel. Es ist ganz etwas anders Prosa, als Verse, und
+               wieder gereimte Alexandriner, als Jamben vorzutragen. Der <placeName ref="geo-3017382">Franz</placeName>ösische Schauspieler geht wirklich in Fesseln,
+               in denen sich nur eine ausserordentliche Kraft noch mit Freiheit und Leichtigkeit
+               bewegen kann.</p>
+            <p>Wahrscheinlich aber kommt es von der Gewohnheit dieses Zwanges, dass die <placeName ref="geo-3017382">Franz</placeName>ösischen Schauspieler so wenig im Drama
+               befriedigen. <persName ref="gnd-118554727">Ich</persName> wenigstens gestehe gern,
+               dass <persName ref="gnd-118554727">ich</persName> hier auch bei den guten, wie z. B.
+                  <persName ref="gnd-104273941">Molé</persName>, <persName ref="gnd-120844141">Monvel</persName>, der <persName ref="gnd-116667966">Contat</persName> (<persName ref="gnd-117198838">Talma</persName> spielt es nur ausserordentlich selten) bald
+               Stücke tragischen, bald komischen Spiels, nirgends aber Einheit und Harmonie gefunden
+               habe. Sobald überhaupt keine Gelegenheit mehr zu malerischen Schönheiten da ist, und
+               sich auch nicht die gesellschaftliche, ganz unpathetische Leichtigkeit der guten
+               Comödie, in der sie wohl unübertroffne Meister sind, zeigen kann, so verliert ihre
+               Kunst den grössten Theil ihrer Vorzüge. So kann z. B. zwar niemand läugnen, dass
+                  <persName ref="gnd-120844141">Monvel</persName>
+                    <note type="footnote" n="x)" resp="gnd-116890657">
+                        <persName ref="gnd-120844141">Jacques Marie Boutet de
+                     Monvel</persName> (<date from="1745" to="1811">1745-1811</date>) wirkte <date from="1772">seit 1772</date> am <hi xml:lang="fr">
+                            <orgName ref="gnd-115269-5">Théâtre français</orgName>
+                        </hi> als tragischer Schauspieler.</note> mit
+               grosser Kunst und Einsicht spielt, dass seine Declamation und sein Minenspiel eine
+               ungewöhnliche Stärke und Wahrheit besitzen, dass er auf der <placeName ref="geo-3017382">Franz</placeName>ösischen Bühne sich seinen eignen Charakter
+               geschaffen hat, und in diesem allein dasteht; aber weil er alt ist, weil er ein
+               unangenehmes Organ, eine wahre Grabstimme hat, weil er nichts Malerisches in seinen
+               Stellungen und Bewegungen besitzt, so erscheint sein Spiel doch trocken und hart,
+               bringt nur heftige Erschütterung hervor, oder zwingt uns kalte Bewundrung ab. Wir
+               sehen ihn gern, aber vorzüglich nur, weil wir ihn immer studiren können, er hat
+               einige Hauptvorzüge seiner Nation aufgegeben, und auf der andern Seite doch nicht das
+               Höchste erreicht, es fehlt ihm besonders an Schönheitssinn, an ästhetischer Harmonie
+               und Milde.</p>
+            <p>Ein sehr merklicher Unterschied zwischen den <placeName ref="geo-2921044">Deutsch</placeName>en und <placeName ref="geo-3017382">Franz</placeName>ösischen
+               Schauspielern ist es noch, wie <persName ref="gnd-118554727">ich</persName> schon
+               oben sagte, dass bei diesen letztem das Gefühl der Gegenwart des <pb n="2.399" xml:id="pbII399"/> Publikums immer gleich lebhaft ist, da die erstem dieselbe
+               wirklich manchmal zu vergessen scheinen. Sie erinnern Sich vielleicht, dass <persName ref="gnd-118525263">Diderot</persName> vorgiebt seinen <emph>natürlichen
+                  Sohn</emph> gesehen zu haben, wie ihn die handelnden Personen, als die
+               Wiederholung einer wirklichen Begebenheit spielten.<note type="footnote" n="xi)" resp="gnd-116890657">In dem kurzen Vorwort zum <title xml:lang="fr">Fils
+                     naturel</title>.</note> Er lässt deutlich merken, dass er nur da eigentlich
+               Natur und Wahrheit gesehen habe, dass da der Dichter und Schauspieler gleich viel
+               hätten lernen können. Es mag eine erbauliche Sittenübung seyn, eine interessante
+               Scene des Lebens gleichsam theatralisch zu wiederholen, was das aber für ein
+               Kunstwerk seyn könnte, das auf keinen Zuschauer berechnet wäre, begreife <persName ref="gnd-118554727">ich</persName> nicht und ebensowenig, was <persName ref="gnd-118525263">Diderot</persName>, als Künstler, in seiner Ecke, in der er
+               versteckt sass, daraus lernen konnte; er sah wenigstens gewiss weder Natur noch
+               Kunst, und ein drittes ist doch nun einmal nicht zu finden.</p>
+            <p>In <placeName ref="geo-2988507">Paris</placeName> indess begreift man es dennoch, wie
+                  <persName ref="gnd-118525263">Diderot</persName> auf diesen bizarren Einfall
+               gerathen konnte, denn unter allen Misbräuchen der hiesigen Bühne ist das Buhlen um
+               das Beifallklatschen des Publikums der unangenehmste in meinen Augen. Indess ist auch
+               das Publikum selbst Schuld daran. Auf der einen Seite zwar ist es offenbar
+               kritischer, als das unsrige, und kommt grösstentheils um den Dichter, den
+               Schauspieler zu beurtheilen, aber diesen trennt es von seiner Rolle, ergötzt sich an
+                  <hi xml:lang="fr">tours de force</hi>. Es bleibt mit seinem Beifall und Tadel bei
+               dem Einzelnen stehen, und übersieht das Spiel nicht im Ganzen. Der eigentliche Genuss
+               wird selbst durch das häufige, lange und entsetzliche Klatschen <persName ref="gnd-118554727">mir</persName> wenigstens auf eine unleidliche Weise gestört;
+               aber diese starken Äeusserungen des Beifalls gehören zur Lebhaftigkeit der Nation.
+               Man klatscht hier auch in einer Gesellschaft, wo jemand singt, spielt, oder ein
+               Gedicht hersagt, man klatscht in den öffentlichen Versammlungen des Instituts, wo man
+               doch nicht die Rechte des Theaterpublikums hat, kurz sehr oft da, wo bei uns ein so
+               dreist ertheilter und lärmender Beifall unanständig scheinen würde.</p>
+            <p>Wenn man von den Mängeln spricht, die allen Schauspielern eines Volks
+               gemeinschaftlich sind, so klagt man eigentlich mit Unrecht sie an. Der Schauspieler
+               steht so gedrängt und gebunden zwischen dem Dichter und der Nation, dass er nur den
+               Richtungen folgen darf, die beide ihm geben. Er kann keine andern Charak-<pb n="2.400" xml:id="pbII400"/> tere zeigen, als er vom Dichter empfängt, und diese
+               nicht anders darstellen, als die Nation sich selbst darstellt. Wenn der <placeName ref="geo-3017382">Franz</placeName>ösische nur Leidenschaft, und fast niemals
+               eigentlichen Charakter schildert, so ist das die Schuld seiner Dichter, die auch nur
+               Leidenschaft zeichnen, und fast nie lebendige Individuen schaffen, die Schuld der
+               Philosophen, die, fast nur mit dem logischen Theil ihrer Wissenschaft beschäftigt,
+               das Gebiet der Empfindung und der Gesinnungen nicht genug in seiner Mannigfaltigkeit
+               beobachten und bearbeiten, die Schuld der Metaphysiker, die nie auf das zurückgehen,
+               nie das anerkennen wollen, was ursprünglich und unerklärbar ist.</p>
+            <p>Wenn die <placeName ref="geo-3017382">Franz</placeName>ösischen Schauspieler oft
+               manierirt sind, wenn sie, auch noch in pathetischen Stellen, das Frappirende und
+               Contrastirende suchen und überhaupt zum Nachtheil des Ganzen das Einzelne
+               herausheben, so ist es die Schuld der Nation, die das will, und oft selbst thut.
+               Ebenso liessen sich die Fehler der unsrigen erklären, nur mit dem Unterschiede, dass
+               die <placeName ref="geo-3017382">Franz</placeName>ösische Bühne wohl ihr mögliches
+               Ziel erreicht hat, da die unsrige hinter den Fortschritten der übrigen Künste zurück
+               zu seyn scheint.</p>
+            <p>An eine vollständige Zergliederung der Schauspielkunst einer Nation müsste sich also
+               eine gleich ausführliche ihrer Dichtkunst und ihres Charakters überhaupt
+               anschliessen. Um ganz zu begreifen, wie die <placeName ref="geo-3017382">Franz</placeName>ösischen Schauspieler diesen hohen Grad von Vollkommenheit
+               besitzen und doch zu keinem höhern hinaussteigen, müsste man aus dem Leben und den
+               Schriftstellern, vorzüglich aus denen, welche Empfindungen und Charaktere schildern
+               und zergliedern, ein Bild der <placeName ref="geo-3017382">Franz</placeName>ösischen
+               Empfindungsweise zusammentragen: aber <persName ref="gnd-118554727">ich</persName>
+               erschrecke vor dem Umfange eines solchen Geschäfts und breche eine Erörterung ab, die
+               schon bei weitem zu lang für einen Brief ist.</p>
+         </div>
+         <div type="notes">
+            <head>
+               <title type="main">Bemerkungen zur Entstehungsgeschichte </title>
+            </head>
+            <p>Erster Druck: <bibl>
+                        <author>
+                            <persName ref="gnd-118540238">Goethe</persName>s</author>
+                  <title>Propyläen</title>
+                  <biblScope unit="volume" n="3">3</biblScope>, <biblScope unit="issue" n="1">1</biblScope>, <biblScope unit="page" from="66" to="109">66-109</biblScope>
+                     (<date when="1800">1800</date>)</bibl>. Der zu Grunde liegende Brief an
+                  <persName ref="gnd-118540238">Goethe</persName> vom <date when="1799-08-18">18.
+                  August 1799</date> konnte mehrfach zur Berichtigung von Lesefehlern Goethes, die
+               in den Druck übergegangen sind, herangezogen werden.</p>
+            <p>Noch aus dem Studium einer andern Kunst erhoffte <persName ref="gnd-118554727">Humboldt</persName> in <placeName ref="geo-2988507">Paris</placeName> die
+               fruchtbarsten Aufschlüsse über das Wesen des <placeName ref="geo-3017382">franz</placeName>ösischen Nationalcharakters, aus dem der Schauspielkunst. Das
+                  <placeName ref="geo-2988507">paris</placeName>er Tagebuch enthält reiche Notizen
+               über den Besuch der Theater und die dabei von Dramen und Schauspielern gewonnenen
+               Eindrücke; ebenso berichteten seine Briefe aus dieser Zeit, von denen uns leider
+               viele, vor allem alle an <persName ref="gnd-118607626">Schiller</persName>
+               gerichteten verloren sind, häufig von theatralischen Dingen (an Körner, <date when="1797-12-21">21. Dezember 1797</date>; vgl. auch <bibl>
+                        <author>
+                            <persName ref="gnd-118540238">Goethe</persName>s</author>
+                  <title>Briefe</title>
+                  <biblScope unit="volume" n="13">13</biblScope>, <biblScope unit="page" n="88">88</biblScope>
+                    </bibl> und <bibl>
+                        <author>
+                            <persName ref="gnd-118754971">Charlotte von Schiller</persName>
+                        </author>
+                  <biblScope unit="volume" n="2">2</biblScope>, <biblScope unit="page" n="175">175</biblScope>
+                    </bibl>). Das ausführlichste Gesammtbild entwarf ein am <date when="1799-08-18">18. August 1799</date> an <persName ref="gnd-118540238">Goethe</persName> gerichtetes langes Schreiben. Schon früher hatte <persName ref="gnd-118540238">Goethe</persName>
+               <persName ref="gnd-118554727">Humboldt</persName> gegenüber den Wunsch ausgesprochen,
+               interessante Stellen seiner an ihn und <persName ref="gnd-118607626">Schiller</persName> gerichteten Briefe in den <title>Propyläen</title> abdrucken zu dürfen
+                     (<bibl>
+                        <title>Briefe</title>
+                  <biblScope unit="volume" n="14">14</biblScope>, <biblScope unit="page" n="99">99</biblScope>
+                    </bibl>). In demselben Schreiben, das den großen Theaterbericht
+               enthält, erklärte sich <persName ref="gnd-118554727">Humboldt</persName> mit diesem
+               Gedanken durchaus einverstanden, vorausgesetzt daß es sich nur um ein unter <persName ref="gnd-118540238">Goethe</persName>s Leitung stehendes Journal handle und daß
+               die Anonymität gewahrt bliebe. Daraufhin unternahm es <persName ref="gnd-118540238">Goethe</persName> sogleich im <date when="1799-09">September</date> die
+               betreffenden Bogen des Briefes einem Schreiber abzudiktieren und dabei durch hie und
+               da angebrachte kleine Änderungen für das Erscheinen in den <title>Propyläen</title> zu bearbeiten
+                     (<bibl>
+                        <title>Tagebücher</title>
+                  <biblScope unit="volume" n="2">2</biblScope>, <biblScope unit="page" n="258">258</biblScope>. <biblScope unit="page" n="259">259</biblScope>. <biblScope unit="page" n="261">261</biblScope>. <biblScope unit="page" n="262">262</biblScope>. <biblScope unit="page" n="263">263</biblScope>
+                    </bibl>;
+                     <bibl>
+                        <title>Briefe</title>
+                  <biblScope unit="volume" n="14">14</biblScope>, <biblScope unit="page" n="178">178</biblScope>. <biblScope unit="page" n="209">209</biblScope>
+                    </bibl>);
+               einige hierbei unterlaufene Lesefehler <persName ref="gnd-118540238">Goethe</persName>s sind im obigen Abdruck nach dem Original des Briefes
+               verbessert. Als dann <persName ref="gnd-118554727">Humboldt</persName> für diese
+               Verwertung seiner Beobachtungen <persName ref="gnd-118540238">Goethe</persName>
+               seinen Dank aussprach, konnte er die Befürchtung nicht unterdrücken, er möchte der
+                  <placeName ref="geo-2921044">deutsch</placeName>en Bühne der <placeName ref="geo-3017382">franz</placeName>ösischen gegenüber aus mangelhafter Kenntnis
+               nicht gehörig Gerechtigkeit haben widerfahren lassen (an <persName ref="gnd-118540238">Goethe</persName>, <date when="1799-11-28">28. November
+                  1799</date>). <persName ref="gnd-118554727">Humboldt</persName>s Würdigung der
+                  <placeName ref="geo-3017382">franz</placeName>ösischen Tragödie kam gerade zu der
+               Zeit in <placeName ref="geo-2812482">Weimar</placeName> an, als <persName ref="gnd-118540238">Goethe</persName> mit der Bearbeitung des
+                  <title>Mahomet</title> von <persName ref="gnd-118627813">Voltaire</persName>
+               beschäftigt war, und machte daher auf die <placeName ref="geo-2812482">weimar</placeName>er Freunde einen ganz besondern Eindruck. <persName ref="gnd-118540238">Goethe</persName> erklärte, der Aufsatz habe seine und
+                  <persName ref="gnd-118607626">Schiller</persName>s Ansichten vom <placeName ref="geo-3017382">franz</placeName>ösischen Theater erst völlig ins Klare
+               gebracht, bei dem Experiment der Ver<placeName ref="geo-2921044">deutsch</placeName>ung des <title>Mahomet</title> sei ihm die Charakteristik der
+               Bühnen beider Nationen ein äußerst glücklicher Leitstern und die Bühnenwirkung des
+               Stückes werde Humboldts Bemerkungen durchaus bestätigen (<bibl>
+                        <title>Briefe</title>
+                  <biblScope unit="volume" n="14">14</biblScope>, <biblScope unit="page" n="209">209</biblScope>
+                    </bibl>); dieser Überzeugung gab er auch öffentlichen Ausdruck
+               in der kurzen Vorrede zu den im gleichen <title>Propyläen</title>heft erschienenen Szenen des
+                  <title>Mahomet</title> (<bibl>
+                        <title>Werke</title>
+                  <biblScope unit="volume" n="40">40</biblScope>, <biblScope unit="page" n="67">67</biblScope>
+                  <pubPlace>
+                            <placeName ref="geo-2812482">weimar</placeName>ische
+                  Ausgabe</pubPlace>
+                    </bibl>). <persName ref="gnd-118607626">Schiller</persName> war
+               hierin mit seinem großen Freunde ganz einig und seine im <date when="1800-01">Januar
+                  1800</date> gedichteten Stanzen „An <persName ref="gnd-118540238">Goethe</persName>, als er den <title>Mahomet</title> von <persName ref="gnd-118627813">Voltaire</persName> auf die Bühne brachte“ lassen das deutlich
+               erkennen. Urteile <persName ref="gnd-11856448X">Körner</persName>s oder der
+               Romantiker sind, soviel <persName ref="gnd-118554727">ich</persName> sehen kann,
+               nicht bekannt. Bei den Kritikern der <title>Propyläen</title> fand der Aufsatz gleichfalls Beifall
+                        (<bibl>
+                        <author>
+                            <persName ref="gnd-121429741">Braun</persName>
+                        </author>,
+                        <title>
+                            <persName ref="gnd-118540238">Goethe</persName> im Urteile seiner
+                     Zeitgenossen</title>
+                  <biblScope unit="volume" n="2">2</biblScope>, <biblScope unit="page" n="395">395</biblScope>
+                    </bibl>); einer Übersetzung ins <placeName ref="geo-3017382">Franz</placeName>ösische gedenkt <persName ref="gnd-118554727">Humboldt</persName> selbst einmal (an <persName ref="gnd-118540238">Goethe</persName>, <date when="1800-05-30">30. Mai 1800</date>).</p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>

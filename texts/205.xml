@@ -1,0 +1,1308 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Musée des petits Augustins</title>
+            <author>
+                <persName ref="gnd-118554727">
+                    <surname>Humboldt</surname>
+                    <forename>Wilhelm von</forename>
+                </persName>
+            </author>
+            <respStmt>
+                <resp>TEI enconding</resp>
+                <persName xml:id="sbp">
+                    <forename>Silvia</forename>
+                    <surname>Berigüete Pastor</surname>
+                </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Wilhelm von Humboldt: Schriften</publisher>
+            <date when="2025-05">August 2025</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+            <idno type="URI">https://www.wvh-schriften.de</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <title>Wilhelm von Humboldts Werke. Zweiter Band</title>
+               <editor>
+                  <persName ref="gnd-116890657">
+                    <surname>Leitzmann</surname>
+                    <forename>Albert</forename>
+                  </persName>
+               </editor>
+               <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+               <pubPlace>Berlin</pubPlace>
+               <date when="1904">1904</date>
+               <idno type="URI">https://archive.org/details/gesammelteschrif02humbuoft/page/n1/mode/2up</idno>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines. The text is based on the 1903 critical edition edited by Albert Leitzmann.</p>
+        </editorialDecl>
+    </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date when="1799-08">August 1799</date>
+            <placeName ref="geo-2988507">Paris</placeName>
+         </creation>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#type">
+               <term>Brief</term>
+            </keywords>
+            <keywords scheme="#topic">
+               <term>Ästhetik</term>
+               <term>Geschichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="2.345" xml:id="pbII345"/>
+            <head>
+               <title type="main">Musée des petits Augustins</title>
+               <title type="sub">An <persName ref="gnd-118540238">Goethe</persName>.</title>
+            </head>
+            <div type="letter" n="1">
+               <head>
+                  <title type="sub">[Erster Brief.]</title>
+               </head>
+               <p>Unter allen hiesigen Kunstsammlungen hat mich kaum eine andre so angezogen, als
+                  das Museum der <placeName ref="geo-3017382">Franz</placeName>ösischen
+                     Denkmäler<note type="footnote" n="i)" resp="gnd-116890657">
+                            <quote>Museum der
+                           <placeName ref="geo-3017382">Franz</placeName>ösischen Denkmäler</quote>
+                     verbessert aus <quote xml:lang="fr">Musée Français</quote>.</note> in der
+                  Strasse des petits Augustins. <persName ref="gnd-118540238">Sie</persName> wissen,
+                  dass man dort alle Kunstwerke zusammengebracht hat, die bisher in Kirchen,
+                  öffentlichen Gebäuden und auf Plätzen zerstreut standen, und die es möglich
+                  gewesen ist den Händen der muthwilligen Zerstörung während der Revolution zu
+                  entreissen. Der Aufseher <persName ref="gnd-116909080">Lenoir</persName>
+                        <note type="footnote" n="ii)" resp="gnd-116890657">Genaueres über <persName ref="gnd-116909080">Alexandre Marie Lenoir</persName> (<date from="1761" to="1839">1761-1839</date>) und seine Tätigkeit für Erhaltung der
+                     mittelalterlichen Kunstdenkmäler <placeName ref="geo-3017382">Frankreich</placeName>s gibt <bibl>
+                                <author>
+                                    <persName ref="gnd-116880449">Nagler</persName>
+                                </author>, <title>Neues allgemeines
+                           Künstlerlexikon</title>
+                        <biblScope unit="volume" n="7">7</biblScope>, <biblScope unit="page" n="430">430</biblScope>
+                            </bibl>. Seine <title>Déscription historique et
+                        chronologique des monuments de sculpture, réunis au musée</title> erschien
+                        <placeName ref="geo-2988507">Paris</placeName>
+                     <date when="1795">1795</date>. Seit der Aufhebung des Museums im Jahre <date when="1816">1816</date> befinden sich die hier beschriebenen Denkmäler an
+                     verschiedenen Orten, größtenteils im <orgName ref="gnd-1006837-5">Louvre</orgName> und in <placeName ref="geo-2980916">St.
+                     Denis</placeName>.</note> hat sie, soviel es ihm die Enge des Raums
+                  verstattete, nach der Zeitfolge geordnet und es ist in der That ein einziger
+                  Anblick, in wenigen Sälen die Fortschritte der Kunst mehrere Jahrhunderte hindurch
+                  verfolgen zu können.</p>
+               <p>Für mich, gestehe <persName ref="gnd-118554727">ich</persName>, besitzt diese
+                  Reihe von Denkmälern noch einen andren und höheren Reiz.<note type="footnote" n="iii)" resp="gnd-116890657">Nach <quote>Reiz</quote> gestrichen: <quote>Wem
+                        die Beobachtung des Menschen werth ist, wer in der Geschichte gern der
+                        Bildung seines Geistes und seines Charakters nachspürt, und die Gesetze
+                        aufsucht, nach welchen in ihren einzelnen Verschiedenheiten allgemeine
+                        Aehnlichkeit, in ihren Fortschritten zusammenhängende Folge ist, in dem muss
+                        der Wunsch, einen lebendigen Blick in entfernte Jahrhunderte zu werfen, oft
+                        bis zur quälenden Sehnsucht steigen.</quote>
+                        </note> Bei der Beobachtung <pb n="2.346" xml:id="pbII346"/> des Menschen kommt alles auf das anschauliche Bild
+                  des Gegenstandes an; das Deuten und Erklären von Handlungen, das Entziffern von
+                  Reden und Schriften selbst ist nur wenig ohne den wirklichen Anblick der Person.
+                  Ist es nun unmöglich einen lebendigen Blick in die Vorzeit zu werfen, so führt uns
+                  die bildende Kunst wenigstens einzelne bedeutende Gestalten zurück. Die
+                  Einbildungskraft heftet sich an ihnen fest, und findet wenigstens so einige
+                  Anleitung, das Bild jener Jahrhunderte zu zeichnen. Es ist nicht, dass man gerade
+                  dadurch neue Angaben empfienge, vorher unbekannte Seiten kennen lernte; aber man
+                  lernt besser verstehen und vollständiger zusammenfügen, was der todte Buchstabe
+                  der Geschichte nur unvollkommen und einzeln zu liefern vermag. In den Handlungen
+                  und noch mehr in den Gedanken und Empfindungen der Menschen sind Abstufungen,
+                  Schattirungen und Feinheiten, für welche die Sprache kaum mehr Zeichen
+                     besitzt<note type="footnote" n="iv)" resp="gnd-116890657">Nach
+                        <quote>besitzt</quote> gestrichen: <quote>oder die wenigstens bei der
+                        Uebersetzung aus einer in die andre verloren gehen. Und eine Uebersetzung
+                        findet nicht bloss bei Sprachen verschiedner Nationen, sondern auch bei
+                        derselben Sprache in verschiedenen Zeiten Statt. Ja im Grunde ist alles
+                        Verstehen nur ein Uebersetzen von der Mundart des einen in die des
+                        andern.</quote>
+                        </note> und die durch die Ueberlieserung verloren gehen.
+                  Diese füllt der Anblick der Gestalt und der Mine aus, bringt dadurch unsre
+                  Kenntniss der Vergangenheit der näher, die wir von der Gegenwart haben, und macht
+                  nun erst eine vollständige und zweckmässige Vergleichung beider möglich.</p>
+               <p>Vorzüglich also in physiognomischer Rücksicht bin <persName ref="gnd-118554727">ich</persName> diese Säle durchwandert, in welchen die Statuen, Büsten oder
+                  Reliefs vieler der merkwürdigsten Menschen <placeName ref="geo-3017382">Frankreich</placeName>s von <persName ref="gnd-118675958">Chlodovig</persName>s bis zu <persName ref="gnd-118729438">Ludwigs XV.</persName>
+                  Zeiten versammelt sind. <persName ref="gnd-118554727">Ich</persName> habe die
+                  einzelnen Köpfe, die mir am meisten bemerkenswerth schienen, genau betrachtet,
+                  ihren Charakter in ihren Zügen und dem Ausdruck ihrer Physiognomie studirt, sie in
+                  Gedanken auf mannigfaltige Weise an einander gestellt, und verglichen, bald in der
+                  Mannigfaltigkeit der Zeiten das Allgemeine der Nation, bald hierin die
+                  Verschiedenheit der Jahrhunderte aufgesucht.</p>
+               <p>Physiognomische Studien sollten vielleicht eher physiogno-<pb n="2.347" xml:id="pbII347"/> mische Träume heissen. Indess kann doch niemand die
+                  Thatsache abläugnen, dass zwischen gewissen Gesichtszügen bis in die festesten
+                  Theile hinein und gewissen Charakteren eine so offenbare Aehnlichkeit liegt, dass
+                  jeder an dieselbe erinnert wird. Die Physiognomik<note type="footnote" n="v)" resp="gnd-116890657">
+                            <quote>Die Physiognomik</quote> verbessert aus
+                        <quote>Diese Kunst (wenn <persName ref="gnd-118540238">Sie</persName> ihr
+                        diesen Namen gönnen wollen)</quote>
+                        </note> ist nur dadurch so verdächtig
+                  geworden, dass man sie zu einem Mittel herabgewürdigt hat, das Innre des Menschen
+                  in seinem Aeussern zu lesen, und dadurch der eigentlichen, Zeit und Gelegenheit
+                  kostenden Prüfung zuvorzukommen — ein sonderbarer Vorschlag in der That, die
+                     zuverlässige<note type="footnote" n="vi)" resp="gnd-116890657">
+                            <quote>zuverlässige</quote> verbessert aus <quote>sichre</quote> und dieses
+                     aus <quote>einfache</quote>.</note> und deutliche Sprache der Handlungen und
+                  selbst der Reden gegen die zweideutige<note type="footnote" n="vii)" resp="gnd-116890657">
+                            <quote>zweideutige</quote> verbessert aus
+                        <quote>zusammengesetzte</quote>.</note> und dunkle einiger so oder anders
+                  gekrümmter Umrisse zu vertauschen. Gerade umgekehrt ist sehr oft die auf andern
+                  Wegen erlangte Kenntniss des inneren Charakters nothwendig, um die Gesichtsbildung
+                  nur zu entziffern und zu verstehen; auf alle Fälle muss das Studium beider immer
+                  Hand in Hand gehen, und wenigstens ist die echte Physiognomik für die Bedürfnisse
+                  der gewöhnlichen Menschenkenntniss eben so zweckwidrig, als sie für die höhere
+                  unentbehrlich ist. Der gewöhnliche Menschenbeobachter, so wie ihn das thätige
+                  Leben fordert, sucht nur die auffallenden, praktisch wichtigen Eigenschaften auf,
+                  Vorzüge und Fehler, die aus mannigfaltigen Ursachen entstehen, fremd angenommen
+                  oder in der Anlage vorhanden, nachher aber unterdrückt seyn können. Für diesen ist
+                  die Sprache der wahren Physiognomik bei weitem zu fein. Was für ihn gerade die
+                  Hauptseiten sind, davon zeigt sie ihm entweder keine Spur, oder sie zeigt sie in
+                  andern eigenthümlichern Eigenschaften, die ihre entfernte Quelle ausmachen, und
+                  aus welchen man sie nur mit Mühe ableiten würde. Er braucht daher besonders nur
+                  die Kenntniss des Minenspiels und das Mehrere, was er ausser diesem Gebiete dazu
+                  erwerben wollte, brächte ihn nur in Gefahr sich zu verwickeln und zu
+                  verwirren.</p>
+               <p>So bleibt also die eigentliche, theoretische Physiognomik immer nur ein Geschäft
+                  für müssige Grübler, und gleichsam ein Luxus des menschlichen Verstandes. Dennoch
+                  können zwei Personen einen hohen und würdigen Gebrauch von ihr machen, der
+                  Philosoph und der Künstler. Der Philosoph studirt den Menschen bis in seine
+                  kleinsten Seiten hinein, und achtet auch noch auf die Fein-<pb n="2.348" xml:id="pbII348"/> heiten der Feinheiten. Denn seine Absicht ist die geistige
+                  Bildung desselben, in allen ihren Verhältnissen, in ihrer vollkommnen Einheit. und
+                  daher giebt es nichts, was er ungestraft vernachlässigen dürfte. Hier dient ihm
+                  nun die Physiognomik auf eine doppelte Weise. Sie giebt ihm eine Anleitung auf den
+                  ersten Anblick, orientirt ihn, und weist ihm ohngefähr die Classe an, in die er
+                  das Individuum zu setzen hat; hernach aber, wenn er sich eine gewissermassen
+                  hinreichende Kenntniss des innren Charakters verschaft hat, wird sie ihm ein
+                  nothwendiger Vergleichungspunkt, und lehrt ihn vorzüglich, nicht zu sehr durch die
+                  Beobachtung zu trennen, was in der Natur verbunden, nicht zu übersehen, was in ihr
+                  nur schwach angedeutet, und selbst das nicht zu verlieren, was in ihr nur in der
+                  Anlage vorhanden ist. Von dem, was er nur in Begriffen erkannt hat, giebt sie ihm
+                  ein Bild und führt dadurch alle Vortheile der Anschaulichkeit mit sich.</p>
+               <p>Allein immer, muss man gestehen, wird die Kenntniss des Charakters öfter dazu
+                  dienen die Gesichtsbildung, als diese jenen verständlich zu machen, und der wahre
+                  Zweck der Physiognomik sollte also kein andrer, als die Kenntniss der menschlichen
+                  Physiognomien, unabhängig von allem innern Charakterstudium, seyn. Die
+                  Gesichtszüge und die ganze äussere Bildung des Menschen sind einmal ebensogut ein
+                  Theil der Natur, als seine innere Einrichtung; es sind Formen, in welchen, Spiele
+                  des Zufalls abgerechnet, offenbar eine gewisse Regelmässigkeit obwaltet. An der
+                  Aufsuchung dieser den Geist zu üben, wäre schon an sich ein hinreichender Zweck,
+                  einen Gegenstand mehr zu erhalten, der uns ein verständlicher und durchaus in
+                  Gedanken übersetzbarer Stoff ist, wäre an sich wichtig, es wäre es um so mehr, als
+                  dies Studium (wenn Sie ihm diesen Namen vergönnen) uns überall hin begleiten,
+                  jeden Augenblick ausfüllen kann, und keiner andern Beschäftigung einen einzigen zu
+                  entziehen braucht. Aber es empfiehlt sich noch mehr dadurch, dass es uns ein neues
+                  und anschauliches Bild der Menschheit giebt. Denn mit dem Worte wie mit dem
+                  Begriff der Physiognomik ist nothwendig immer der Ausdruck und die Bedeutung der
+                  Züge verbunden, und alles, was man zu vermeiden hat, ist nur diese Bedeutung den
+                  Sinn der Hieroglyphe — und ihre Kenntniss zum Endzweck zu machen.<note type="footnote" n="viii)" resp="gnd-116890657">Nach <quote>machen</quote>
+                     gestrichen: <quote>weil man sonst Gefahr läuft dem Charakter oder den Zügen
+                        anzudichten, was sie an sich nicht besitzen</quote>.</note> An dieses Bild
+                  reiht <pb n="2.349" xml:id="pbII349"/> man und mit ihm vergleicht man den
+                  intellektuellen, aus andern Quellen geschöpften Begriff und setzt so das ganze
+                  Individuum in seinen Gedanken aus dieser doppelten Art des Erscheinens zusammen.
+                  Es kommt nicht darauf an, die innere Bildung aus der äusseren zu errathen, allein
+                  der Mensch ist höher und schöner, wenn die erstere auch seine Mine und seine
+                  Gestalt lebendiger durchstralt.</p>
+               <p>Wenn es mir gelingt, die Physiognomik ganz in das Feld der Naturbeobachtung
+                  hinüberzuziehen, so bin <persName ref="gnd-118554727">ich</persName>
+                  <persName ref="gnd-118540238">Ihrer</persName> Theilnahme gewiss. Denn in diesem
+                  Gebiet, und besonders wie der Künstler dessen zu seinem Geschäfte bedarf, ist kein
+                     Punkt<note type="footnote" n="ix)" resp="gnd-116890657">Nach
+                        <quote>Punkt</quote> gestrichen: <quote>wie unbedeutend er auch
+                        schiene</quote>.</note>
+                  <persName ref="gnd-118540238">Ihnen</persName> gleichgültig.<note type="footnote" n="x)" resp="gnd-116890657">Nach <quote>gleichgültig</quote> gestrichen:
+                        <quote>Wer, wie <persName ref="gnd-118540238">Sie</persName>, so viele und
+                        mannigfaltige Kunstwerke gesehen hat, dem können</quote>.</note> Auch
+                     <persName ref="gnd-118540238">Ihnen</persName> nun sind gewiss die Fehler,
+                  welche selbst grosse Künstler in dem physiognomischen Theil ihrer Werke begehen,
+                  nicht unbemerkt geblieben. <persName ref="gnd-118554727">Ich</persName> will hier
+                  nicht wiederholen, was <persName ref="gnd-118570293">Lavater</persName> einigemal
+                  sehr scharfsinnig gezeigt hat, dass sie hie und da Züge in demselben Gesichte mit
+                  einander verbinden, die in der Natur nie zusammen angetroffen werden. Grobe
+                  Widersprüche dieser Art können nur den unaufmerksamsten Beobachtern der Natur
+                  begegnen, und die feineren bleiben auch dem Kenner verborgen. Allein was <persName ref="gnd-118554727">ich</persName> vorzüglich vermisse, ist Einheit in mehrern
+                  zusammengehörenden Physiognomieen, Mannigfaltigkeit in verschiedenen, und
+                  Naturcharakter in jeder einzelnen. Kann man auch den Künstler nur selten
+                  eigentlicher Versehen zeihen, (wozu schon der Sinn der Zuschauer bei weitem mehr
+                  für diesen Gegenstand geschärft seyn müsste) so muss man doch meistentheils
+                  gestehen, dass er in einen und in einen nicht unwichtigen Theil seines Werkes
+                  nicht genug Gehalt gelegt hat, und <persName ref="gnd-118554727">ich</persName>
+                  weiss kaum, welcher dieser beiden Mängel störender ist. Der physiognomische Theil
+                  eines Gemäldes wäre einer grossen Wirkung fähig und bringt gewöhnlich nur eine
+                  sehr kleine hervor. Dadurch aber entsteht ein störendes Misverhältniss im Ganzen,
+                  und man sucht vergebens in diesem Theil die Einheit, Mannigfaltigkeit und Wahrheit
+                  der Natur.</p>
+               <p>Was soll man z. B. dazu sagen, wenn man in demselben Bilde, ja in derselben
+                  Familie antike und moderne Gesichtsbildungen neben einander antrift, ein Fehler,
+                  dessen einige, und <pb n="2.350" xml:id="pbII350"/> nicht mit Unrecht einige
+                  Gemälde <persName ref="gnd-118523945">David</persName>s<note type="footnote" n="xi)" resp="gnd-116890657">
+                            <persName ref="gnd-118523945">Jacques Louis
+                        David</persName> (<date from="1748" to="1825">1748-1825</date>), der
+                     Begründer der neueren <placeName ref="geo-3017382">franz</placeName>ösischen
+                     Malerschule, während der Revolution Jakobiner, Mitglied des Nationalkonvents
+                     und Freund Robespierres, nach dessen Sturz er längere Zeit in Gefangenschaft
+                     saß, wurde dann unter <persName ref="gnd-118586408">Napoleon</persName> trotz
+                     seiner antikisierenden Richtung der offizielle Maler des Kaisertums und seiner
+                     glänzenden Feste. Eine Beschreibung seines Gemäldes <title>Versöhnung der
+                           <placeName ref="geo-8354456">Röm</placeName>er und Sabiner</title> aus
+                     der Feder <persName ref="gnd-118554719">Karolinens von Humboldt</persName> hat
+                        <persName ref="gnd-118540238">Goethe</persName> in Überarbeitung in die
+                           <bibl>
+                                <publisher>Propyläen</publisher> (<biblScope unit="volume" n="3">3</biblScope>, <biblScope unit="volume" n="1">1</biblScope>, <biblScope unit="page" n="117">117</biblScope>)</bibl> aufgenommen.</note>
+                  beschuldigen. Ausserdem dass man dadurch unmittelbar an den Künstler und sein
+                     Ideal<note type="footnote" n="xii)" resp="gnd-116890657">
+                            <quote>Ideal</quote>
+                     verbessert aus <quote>Modell</quote>.</note> erinnert wird, so kann die
+                  Einbildungskraft nicht mehr ungestört von einer Gestalt zu der andern übergehen,
+                  von der Mutter zur Tochter hinab- und von ihr zu dem Vater hinaufsteigen. Zwar
+                  lassen sich allerdings auch in der Wirklichkeit dergleichen Sprünge aufzeigen.
+                  Allein der Künstler soll die Natur, nicht den Zufall, also nicht ihre Ausnahmen,
+                  sondern ihre Gesetzmässigkeit nachahmen. Ein andrer höchst gewöhnlicher Fehler ist
+                  es, dass fast jeder Maler seine Lieblingsphysiognomien hat, die er immer, oder
+                  wenigstens oft in verschiedenen Lagen, und nur mit unbedeutenden Abänderungen
+                  wiederbringt. Hierzu werden <persName ref="gnd-118540238">Ihnen</persName> die
+                  Belege augenblicklich von selbst einfallen. Es ist nicht zu läugnen, dass dieser
+                  Fehler besonders bei Köpfen, die an das Idealische gränzen, schwer zu vermeiden
+                  ist, aber es ist darum nicht minder gewiss, dass er die Wahrheit der Natur auf
+                  eine sehr unangenehme Weise stört.</p>
+               <p>Was aber, wenn man die höchste Wirkung der Kunst verlangt, am meisten Schaden
+                  thut, ist wenn die Mine von der Physiognomie, die augenblickliche Lage der
+                  Gesichtszüge von der habituellen nicht deutlich unterschieden ist. Dieser Fehler
+                  kann fast in allen Künsten statt finden, und man wird besonders in <placeName ref="geo-3017382">Frankreich</placeName> auf denselben aufmerksam gemacht, da
+                  es der beständige und beinahe charakteristische der <placeName ref="geo-3017382">Franz</placeName>ösischen Theaterdichter und Schauspieler ist, bei denen immer
+                  der individuelle Charakter in der allgemeinen Leidenschaft untergeht. Er ist in
+                  den bildenden Künsten, die wirklich immer nur Einen Augenblick darstellen, sogar
+                  minder störend, aber er bleibt nichts desto weniger immer eine tadelnswürdige
+                  Unvollkommenheit. Man darf nicht lange suchen, um hiefür Beispiele aufzufinden.
+                     <persName ref="gnd-118554727">Ich</persName> erinnere <persName ref="gnd-118540238">Sie</persName> nur an Eins, an <persName ref="gnd-118560557">Katharine von Medici</persName>s, wie sie <persName ref="gnd-11860354X">Rubens</persName>
+                  <pb n="2.351" xml:id="pbII351"/> in dem Augenblick nach ihrer Niederkunft
+                     darstellt.<note type="footnote" n="xiii)" resp="gnd-116890657">Gemeint ist die
+                     Königin <persName ref="gnd-118577778">Maria von Medici</persName>, die Gemahlin
+                     König <persName ref="gnd-118548174">Heinrichs IV.</persName>; eins der
+                     allegorisierenden Gemälde von <persName ref="gnd-11860354X">Rubens</persName>
+                     im <placeName ref="geo-2988507">paris</placeName>er <orgName ref="gnd-1006837-5">Louvre</orgName>, die eine Reihe von Szenen aus ihrem
+                     Leben darstellen, hat die Geburt <persName ref="gnd-11872942X">Ludwigs
+                        XIII.</persName> zum Gegenstand.</note> Man hat gerade dies Stück
+                  vorzugsweise als ein Muster des Ausdrucks an geführt, und es ist wenigstens unter
+                     <placeName ref="geo-3017382">franz</placeName>ösischen Kunstrichtern Sitte
+                  geworden, über diese Vermischung des Ausdrucks schmerzhafter Ermattung und
+                  mütterlicher Liebe in Bewunderung auszubrechen. Was <persName ref="gnd-118554727">ich</persName> aber hier vermisse, ist der Ausdruck des eigentlichen und
+                  bleibenden Charakters, der nur hier in diese Gefühle übergeht, <persName ref="gnd-118554727">ich</persName> vermisse ihn um so mehr, als es nothwendiger
+                  war, eine Lage, die überhaupt schwer auf eine künstlerische Weise behandelt werden
+                  kann, und einen Moment, in dem die Seele nothwendig und zum Theil körperlich
+                  abgespannt ist, durch eine höhere Würde zu halten und zu erheben. Dagegen sehe
+                     <persName ref="gnd-118554727">ich</persName> hier mehr eine gebährende Mutter,
+                  als die Königin, die Millionen einen neuen Beschützer und Wohlthäter schenkt.
+                  Vielleicht schaden auch der Hauptfigur die Nebenfiguren. Von lauter allegorischen,
+                  übermenschlichen Gestalten umgeben, erscheint Katharine auf ihrem Sessel
+                  hingestreckt minder gross und erhaben. Ueberhaupt aber sollte wohl bei allen
+                  sanften oder gar abspannenden Leidenschaften der Charakterausdruck
+                  hervorstechender seyn, als bei den entgegengesetzten, da diese letztem schon für
+                  sich die Züge mehr heben, und auch weniger etwas anders neben sich ertragen.</p>
+               <p>Was <persName ref="gnd-118554727">ich</persName> in diesen verschiedenen Fällen
+                  tadle, ist also eigentlich Mangel an der Wahrheit und dem Reichthum der Natur.
+                  Wenn <persName ref="gnd-118554727">ich</persName> auf der Strasse gehe, wenn
+                     <persName ref="gnd-118554727">ich</persName> eine Wachparade vorbeimarschiren
+                  sehe, wenn <persName ref="gnd-118554727">ich</persName> mich unter einer
+                  versammelten Volksmasse befinde, so geniesse <persName ref="gnd-118554727">ich</persName> nicht nur eines angenehmen und ergötzenden Schauspiels, sondern
+                  das Bild der Menschheit in meiner Phantasie gewinnt auch neue und interessante
+                  Seiten mehr, besonders wenn, wie hier in <placeName ref="geo-3017382">Frankreich</placeName>, auch die untersten Volksklassen, durch einen höhern
+                  Grad der Kultur, eine grössere Individualität der Gesichtszüge besitzen. Erinnern
+                     <persName ref="gnd-118540238">Sie</persName> Sich wohl oft dasselbe bei einem
+                     Gemälde<note type="footnote" n="xiv)" resp="gnd-116890657">Nach
+                        <quote>Gemälde</quote> gestrichen: <quote>mit vielen Figuren</quote>.</note>
+                  erfahren zu haben? <persName ref="gnd-118554727">Ich</persName> zweifle sehr. Zum
+                  Theil entsteht dies freilich sehr natürlich daher, dass die Handlung, die in dem
+                  historischen Gemälde das Herrschende <pb n="2.352" xml:id="pbII352"/> ist, dem
+                  Ganzen eine Einheit giebt, die selbst den Zuschauer hierauf zu achten und
+                  gleichsam müssig unter den handelnden Personen umherzuschweifen verhindert. Aber
+                  es ist nicht das allein; untersuchen <persName ref="gnd-118540238">Sie</persName>
+                  nur die einzelnen Bildungen genauer, und <persName ref="gnd-118540238">Sie</persName> werden nur selten in Einer den eigentlichen Naturcharakter
+                  finden, den Charakter, der <persName ref="gnd-118540238">Ihnen</persName> den
+                  Menschen, wie er <persName ref="gnd-118540238">Ihnen</persName> im Leben begegnet,
+                  nur als ein Ganzes der Phantasie, vors Auge bringt.</p>
+               <p>Freilich ist die Sache auch in hohem Grade schwierig. Für die Gesichtsbildung
+                  lässt sich selten ein Modell finden, der Künstler kann also nur selten nach der
+                  Natur arbeiten. Will er erfinden, so fällt ihm, möchte <persName ref="gnd-118554727">ich</persName> wetten, meistentheils zuerst die Handlung,
+                  der Ausdruck ein, danach bestimmt er die Mine, nach der Mine die Züge und so wird
+                  natürlich, was das erste seyn sollte, das Letzte und Unbestimmteste, und entsteht,
+                  statt aus der Natur genommen zu seyn, nach einem Begriff. Ein Beweis dieses
+                  Vorwaltens des moralischen Ausdrucks scheint mir noch folgender zu seyn. Gehen
+                     <persName ref="gnd-118540238">Sie</persName> in Gedanken die vorzüglichsten
+                  Weiberköpfe durch, die <persName ref="gnd-118540238">Sie</persName> Sich erinnern
+                  auf Gemälden gesehen zu haben, und <persName ref="gnd-118554727">ich</persName>
+                  müsste mich sehr irren, oder <persName ref="gnd-118540238">Sie</persName> werden
+                  in ihnen weniger Mannigfaltigkeit finden, als in den männlichen. Eben so in den
+                  Jünglingsköpfen weniger als in den ausgebildeten, und am besten gerathen immer die
+                  alten. Schwerlich würden <persName ref="gnd-118540238">Sie</persName> dasselbe von
+                  den weiblichen Physiognomieen z. B. in der Natur behaupten wollen. Der Unterschied
+                  kommt also wohl nur daher, dass die meisten Maler ihre Gesichter mehr nach dem
+                  moralischen Ausdruck, als nach den physischen Formen variiren, und diesem Ausdruck
+                  in der sanftern und harmonischeren Weiblichkeit natürlich weniger Herrschaft
+                  einräumen können.</p>
+               <p>Nicht also als moralische Hieroglyphen, sondern als reine Naturformen (mit oder
+                  ohne Bedeutung) muss man die Gesichtsbildungen betrachten, wenn die Physiognomik
+                  dem Künstler brauchbar werden soll. Ihre Ausgabe ist nur die: wie verfährt die
+                  Natur bei Bildung derjenigen menschlichen Formen, welche die innere allgemeine
+                  Organisation gleichgültig lässt? und schon diese Aufgabe selbst zeigt deutlich
+                  genug, auf welchen Boden der Physiognomiker auftritt, nemlich auf einen solchen,
+                  wo wenigstens scheinbar der Zufall regiert.<note type="footnote" n="xv)" resp="gnd-116890657">
+                            <p>Statt des letzten Satzes hinter dem Fragezeichen hieß
+                        es ursprünglich: <quote>
+                                    <p>und diese Aufgabe kann allein durch eine genaue,
+                              sorgfältig angestellte Beobachtung und eine zweckmässige Ordnung des
+                              Beobachteten aufgelöst werden.</p>
+                           <p>Der Zusatz, den <persName ref="gnd-118554727">ich</persName> so eben
+                              hinzufügte, dass die Physiognomik nur diejenigen Formen angeht, die
+                              durch die Gesetze der Organisation nicht bestimmt sind, muss mit den
+                              gehörigen Einschränkungen verstanden werden. Wäre die individuelle
+                              Organisation eines Menschen vollständig bekannt, so würde sich
+                              unstreitig aus derselben seine ganze äussere Bildung, als nothwendig
+                              in ihr gegründet, erklären lassen. Hier aber sind nur die allgemeinen
+                              Organisationsgesetze verstanden, so wie unsre Versuche und unser
+                              Nachdenken sie erforschen können. Der Zusatz ist nur nothwendig, damit
+                              man gleich sieht, auf welchen Boden der Physiognomiker auftritt,
+                              nemlich auf einen solchen, der scheinbar vom Zufall regiert wird, und
+                              auf dem sich kein eigentliches Gesetz, das nemlich die Nothwendigkeit
+                              einer gewissen Bildung aus Begriffen erklärte, aufstellen
+                           lässt.“</p>
+                                </quote>
+                            </p>
+                        </note>
+               </p>
+               <pb n="2.353" xml:id="pbII353"/>
+               <p>Vielleicht wundern <persName ref="gnd-118540238">Sie</persName> Sich,<note type="footnote" n="xvi)" resp="gnd-116890657">
+                            <quote>wundern <persName ref="gnd-118540238">Sie</persName> Sich</quote> verbessert aus
+                        <quote>machen <persName ref="gnd-118540238">Sie</persName> mir ferner den
+                        Einwurf</quote>.</note> dass <persName ref="gnd-118554727">ich</persName>
+                  die Bildung der Gesichtszüge bloss der Natur zuschreibe, da doch der Geist, der
+                  dieselben belebt, offenbar einen so grossen und mächtigen Einfluss darauf ausübt.
+                  Allein wenn <persName ref="gnd-118540238">Sie</persName> das abrechnen, was bloss
+                  Mine (pathognomisch) ist, bloss willkührliche Bewegung eines beweglichen und der
+                  Willkühr unterworfenen Muskels, so kann der Geist selbst seinen Einfluss nur in
+                  Theilen zeigen, deren Umwandlungen ganz und gar den allgemeinen Gesetzen der
+                  körperlichen Natur folgen. Die Veränderungen, die er in ihnen hervorbringt, müssen
+                  jenen Gesetzen gemäss seyn, und so kann man seine Einwirkung geradezu auch als
+                  Natur ansehen, weil sie durch die Gesetzmässigkeit dieser modificirt wird.</p>
+               <p>
+                        <persName ref="gnd-118554727">Ich</persName> darf nicht fürchten, dass <persName ref="gnd-118540238">Sie</persName> auch nur die ersten Grundzüge einer
+                  theoretischen Physiognomik hier von mir erwarten. Bin <persName ref="gnd-118554727">ich</persName>
+                        <note type="footnote" n="xvii)" resp="gnd-116890657">
+                            <quote>Bin <persName ref="gnd-118554727">ich</persName>
+                            </quote> verbessert aus <quote>Aber wenn <persName ref="gnd-118554727">ich</persName> auch dem Vorwurf entgegensehe, dass
+                           <persName ref="gnd-118554727">ich</persName>
+                            </quote>.</note> aber auch
+                  schon zu tief in die Theorie eingegangen, so müssten <persName ref="gnd-118540238">Sie</persName> mir doch noch, ehe <persName ref="gnd-118554727">ich</persName>
+                  von meiner Abschweifung zurückkehre, Eine Bemerkung erlauben.</p>
+               <p>Der Physiognomiker muss darauf Verzicht thun, Gesetze aufzustellen. Er kennt nur
+                  Typen. Der Unterschied zwischen Typus und Gesetz ist freilich wohl kein andrer,
+                  als, dass wir uns begnügen müssen in seiner Gestalt als wirklich zu erkennen, was
+                  es uns unmöglich ist, aus Begriffen als nothwendig einzusehen; allein er ist darum
+                  für uns nicht weniger wesentlich. Was man also zuerst zu thun hat, ist die
+                  verschiednen Typen der menschlichen Physiognomien aufzusuchen, und wo möglich ihre
+                  Zahl <pb n="2.354" xml:id="pbII354"/> und Unterordnung zu bestimmen.<note type="footnote" n="xviii)" resp="gnd-116890657">Nach <quote>bestimmen</quote>
+                     gestrichen: <quote>Freilich ein unermessliches Geschäft und dessen Vollendung
+                        nie und unter keinerley Umständen ganz möglich ist eine Betrachtung, die
+                        aber schlechterdings nicht von der Unternehmung desselben abschrecken darf,
+                        da auch jeder vollendete Theil desselben schon seinen Nutzen
+                     bringt.</quote>
+                        </note> Ohne auf die Unterschiede der Racen, Nationen, und
+                  Familien, die immer feiner sind und denen man leicht Einbildungen beimischt, Acht
+                  zu geben, muss man seinen ganzen Vorrath beobachteter Physiognomien nur durchgehn,
+                  und ordnen, grössere und kleinere Klassen absondern, die Individuen auszeichnen,
+                  die als Muster einer oder der andern gelten können, und die nicht vergessen, die
+                  zwischen zweien in der Mitte stehen.</p>
+               <p>Erst auf die so beobachtete Form darf das Studium des Ausdrucks folgen. Denn der
+                  Ausdruck lässt sich nie von der Physiognomie trennen, das was sie recht eigentlich
+                  zur Physiognomie macht, das Ganze, liegt sogar nur darin, und ist nur dadurch zu
+                  bezeichnen. Nur muss sich der Physiognomiker nicht darum bekümmern, ob das
+                  Individuum selbst in seinem Charakter die Seiten besitzt, die dieser Ausdruck
+                  andeutet, oder nicht. Diess ist eigentlich der Physiognomik überhaupt, und
+                  wenigstens ihm jetzt noch schlechterdings fremd. Der Ausdruck liegt weniger in der
+                  Form, als in den kleinen mit Worten nicht mehr auszudrückenden Zügen, dem Licht
+                  und Schatten u. s. f. Man muss ihn mit der Form vergleichen und untersuchen, ob,
+                  wenn auch an sich jeder mit jeder Form vereinbar ist, doch nicht gewisse
+                  vorzügliche Wahlverwandtschaften unter beiden Statt finden.</p>
+               <p>Wären die Gesichtsbildungen auf diese Weise als reine Naturformen beobachtet, so
+                  könnte man nachher die Art durchgehn, wie sie in der Wirklichkeit angetroffen
+                  werden, als Charaktere der Nationen, Familien, Stände, Beschäftigungen u. s. f.
+                  und endlich auch ihr Verhältniss zur innern Gesinnung bestimmen, wobei man indess
+                  nie einzelne Züge mit einzelnen Eigenschaften, immer nur die ganze Gesichtsbildung
+                  mit dem ganzen Charakter vergleichen dürfte, um daraus die vollständige
+                  Individualität zusammenzusetzen.</p>
+               <p>Diese allgemeinen Bemerkungen glaubte <persName ref="gnd-118554727">ich</persName>
+                  vorausschicken zu müssen, wenn <persName ref="gnd-118540238">Ihnen</persName> das
+                  Folgende ganz klar seyn sollte. Denn überall, werden <persName ref="gnd-118540238">Sie</persName> finden, habe <persName ref="gnd-118554727">ich</persName> auf
+                  den Typus der <pb n="2.355" xml:id="pbII355"/> Physiognomien und darauf geachtet,
+                  ob die Natur dieselben mehrere Jahrhunderte hindurch, in denselben oder
+                  verschiednen Familien in einer gewissen und regelmässigen Folge bildet.</p>
+               <p>Ausserdem dass der Mensch in seinem geistigen Fortschreiten einen freien, durch
+                  keine Regel zu bestimmenden Gang nimmt, entwickelt er sich zugleich nach
+                  allgemeinen Gesetzen der Natur, und wohl allein auf diese Weise entsteht das, was
+                  man den allgemeinen Charakter der Familien, Nationen und Jahrhunderte nennt. Nur
+                  die Untersuchung des gegenseitigen Einflusses dieser doppelten Einwirkung kann
+                  einigermassen den Zusammenhang erklären, in welchem mehrere Menschenalter mit
+                  einander stehen, und der Lösung der grossen Aufgabe näher führen, auf welche Weise
+                  sich der Einzelne so auszubilden vermag, dass er am dauerhaftesten und
+                  zweckmässigsten auf sein Zeitalter, seine Nation und endlich durch diese und eine
+                  Menge andrer mittlerer Stufen hindurch auf das ganze Menschengeschlecht einwirkt?
+                  Keine andre hat daher für die allgemeine Geschichte der menschlichen Bildung eine
+                  so grosse und ausgebreitete Wichtigkeit.</p>
+               <p>Allein <persName ref="gnd-118554727">ich</persName> kehre zu meinem Gegenstande
+                  zurück. Doch scheue <persName ref="gnd-118554727">ich</persName> mich, auf diese
+                  allgemeinen Betrachtungen einige einzelne und zerstreute Beobachtungen folgen zu
+                  lassen. <persName ref="gnd-118554727">Ich</persName> schliesse also für heute und
+                  verspare die Beschreibung des Museums, die <persName ref="gnd-118554727">ich</persName>
+                  <persName ref="gnd-118540238">Ihnen</persName> versprach, auf ein andermal.</p>
+            </div>
+            <div type="letter" n="2">
+               <head>
+                  <title type="sub">Zweiter Brief.</title>
+               </head>
+               <p>Das Kloster der kleinen Augustiner ist ein kleines, und zu dem Zweck, zu dem man
+                  es jetzt bestimmt hat, wenig bequemes Gebäude. Der Raum ist für die Menge der
+                  Denkmäler, die man darin aufstellen will, bei weitem zu eng, die Säle haben nicht
+                  Höhe und Licht genug, und die schönsten Statuen und Monumente verlieren dadurch an
+                  Grösse und Würde.</p>
+               <p>In der Mitte des viereckten Klostergebäudes ist ein kleiner Garten, um denselben
+                  herum gehen vier Kreuzgänge, und an diese stossen mehrere grössere und kleinere
+                  Säle. Ausserdem hat das Gebäude zwei Höfe und einen grösseren, zum Theil mit
+                  Bäumen besetzten Platz. Die Denkmäler, Bildsäulen und Büsten sind in diesen
+                  verschiedenen Abtheilungen zum Theil wirklich <pb n="2.356" xml:id="pbII356"/>
+                  aufgestellt; grossentheils aber liegen sie noch in den Kreuzgängen und besonders
+                  auf den Höfen in sonderbarer Verwirrung umher. Denn ausser dem Garten und zwei
+                  Kreuzgängen sind erst vier Säle so gut als gänzlich vollendet. An den andern wird
+                  noch gearbeitet.</p>
+               <p>Es war ein glücklicher Gedanke, diese in so vielen zum Theil abgelegenen Kirchen
+                  zerstreuten Kunstwerke zusammenzubringen und in chronologischer Folge
+                     aufzustellen.<note type="footnote" n="xix)" resp="gnd-116890657">Nach
+                        <quote>aufzustellen</quote> gestrichen: <quote>Oft in dunkeln
+                        Winkeln</quote>.</note> Sobald sie aufhörten als historische Denkmäler, oder
+                  als Gegenstände religiöser Ehrfurcht geachtet zu werden, konnte nur der Schutz der
+                  Kunst sie vor künftigen Mishandlungen sichern, und bei der jetzigen Einrichtung
+                  gewinnt man noch ausserdem den Vortheil alle auf einmal zu übersehen. Auch muss
+                  man gestehn, dass für die schrecklichen Auftritte, welche <placeName ref="geo-2988507">Paris</placeName> und die umliegende Gegend in diesen letzten
+                  zehn Jahren erlebt hat, bei weitem mehr, als man denken sollte, den Händen der
+                  Zertrümmerer entrissen worden ist. Desto mehr aber ist es zu bedauern, dass man
+                  die neue Aufstellung nicht gleich nach einem grösseren Plan und in einem schöneren
+                  Gebäude angefangen hat. In glücklicheren Zeiten, wo es wieder möglich seyn wird,
+                  grössere Summen auf die Kunst zu wenden, wird man es schwerlich ertragen können,
+                  diese Denkmäler auf eine ihrer so wenig würdige Art aufgestellt zu sehen, und eine
+                  Veränderung führt alsdann neue Kosten, neuen Zeitverlust, sogar Gefahr für die
+                  Kunstwerke selbst mit sich. Indess ist es immer unbegreiflich viel, dass diese
+                  Anstalt bis jetzt auch nur soweit gediehen ist, und das Publikum verdankt es
+                  allein dem unermüdlichen Eifer des Aufsehers <persName ref="gnd-116909080">Lenoir</persName>, der sich ganz und gar der Einrichtung dieses Museums
+                  gewidmet zu haben scheint.</p>
+               <p>Der kleine Klostergarten ist wie ein Elysium angelegt. Auf Rasenplätzen erheben
+                  sich unter dem Schatten von Cypressen und Pappeln ältere und neuere Grabmäler. Der
+                     <persName ref="gnd-118719238">Connetable Bertrand du Guesclin</persName> an der
+                  Seite seines Freundes, <persName ref="gnd-122729129">Leon von Lusignan</persName>,
+                  letzter König von <placeName ref="geo-174982">Klein Armenien</placeName>, und
+                  andere ruhen hier neben einander, und in der Mitte sieht man ein Ueberbleibsel von
+                     <persName ref="gnd-118548980">Héloise</persName>ns Grabstein neben einem
+                  Denkmal auf <persName ref="gnd-118790943">Rohault</persName>, <persName ref="gnd-118524844">Descartes</persName>'s Freund, und einem andern eines
+                     <placeName ref="geo-3017382">Franz</placeName>ösischen Schauspielers, der im
+                  Anfang der Revolution starb. Wenn auch dieser Platz ganz und gar weder den
+                  feierlichen Ernst, noch die melancholische <pb n="2.357" xml:id="pbII357"/> Ruhe
+                  verkündigt, die man ihm hat geben wollen, und man gleich gestehn muss, dass es
+                  nicht der Mühe werth war, die Zeitfolge der Denkmäler zu unterbrechen, um diese
+                  Wirkung hervorzubringen, so machen die Statuen mitten unter dem Laub der Bäume,
+                  das sie zum Theil bedeckt, immer einen guten und überraschenden Effekt. An den
+                  Wänden des Klostergebäudes ranken sich Weinstöcke herauf, und zwischen ihnen steht
+                  auf Consolen eine Reihe von Büsten. Unter diesen im Garten selbst sind Bildsäulen
+                  von Heiligen und einigen allegorischen Figuren aufgestellt, unter welchen einige
+                  gut gearbeitete sind. Auf den Rasenplätzen in der Mitte endlich befinden sich die
+                  Grabmäler. Aber <persName ref="gnd-118554727">ich</persName> kehre zu dem Gebäude
+                  zurück, um die verschiednen Kunstwerke der Zeitfolge nach flüchtig zu
+                  durchlaufen.</p>
+               <p>Der Saal des dreizehnten Jahrhunderts ist der erste. Ein nicht grosses, ziemlich
+                  dunkles, in der Mitte von zwei Pfeilern unterstütztes Kreuzgewölbe enthält die
+                  Cenotaphe der Vorgänger <persName ref="gnd-118729411">Ludwigs 9.</persName>, die
+                  meistentheils unter seiner Regierung und auf seinen Befehl gearbeitet sind. Die
+                  Verzierungen dieses Saals sollen dem Zeitalter analog seyn. Die Thüren sind in
+                  Gothischer Form, mit Gothischen Inschriften, die Fenster mit gemahlten
+                  Glasscheiben, und in der Mitte hängen einige Grablampen. Die einzelnen Stücke, die
+                  man zu diesen Verzierungen gebraucht hat, sind zum Theil selbst Alterthümer und
+                     aus<note type="footnote" n="xx)" resp="gnd-116890657">Nach <quote>aus</quote>
+                     gestrichen: <quote>ganz oder zum Theil</quote>.</note> jetzt zerstörten
+                  Gebäuden genommen. So ist z. B. die Einfassung der Thüren aus <placeName ref="geo-2980916">St. Denis</placeName>. Obgleich diese Verzierungen im Ganzen
+                  ziemlich gut angeordnet sind, so sind sie doch, wie fast alle in diesem Museum,
+                  nicht frei von kleinlichem, modern-<placeName ref="geo-3017382">franz</placeName>ösischem Geschmack, durchaus zu bunt, und schaden daher der
+                  Wirkung, die man hat erreichen wollen.</p>
+               <p>Die Cenotaphe sind von mehrern Königen aus den ersten drei <placeName ref="geo-3017382">Franz</placeName>ösischen Königsgeschlechtern von <persName ref="gnd-118675958">Chlodovig</persName> bis auf <persName ref="gnd-118742175">Philipp den Schönen</persName>. Ihre Statuen, sämmtlich (die <persName ref="gnd-118791850">Philipps des Kühnen</persName> und <persName ref="gnd-113643142X">seiner Gemalin</persName> allein ausgenommen, die von
+                  schwarzem Marmor sind) in Sandstein ausgehauen, liegen auf den Grabsteinen, neben
+                  ihnen ruhen meistentheils bei den früheren zur Rechten, bei den späteren zur
+                  Linken ihre Gemahlinnen, und zu ihren Füssen sieht man kleine Löwen oder Hunde.
+                  Alle diese Arbeiten sind wenn nicht von demselben Meister, doch zu derselben Zeit
+                     ge-<pb n="2.358" xml:id="pbII358"/> macht. Indess scheint es beinahe, als habe
+                  der Künstler eine Art der Täuschung hervorbringen und ein Fortschreiten der Kunst
+                  andeuten wollen. Wenigstens sind die Gewänder, obgleich alle der ältern Könige
+                  dieselbe Kleidung tragen, bei den frühesten ganz einfach und geradeheruntergehend,
+                  bei den spätern hingegen reicher, seiner geschlagen, und mit mehreren und
+                  mannigfaltigeren Falten. Die Frauen sind fast ganz ebenso gekleidet, als die
+                  Männer, und der weibliche Körperbau ist besonders bei den ältesten nur äusserst
+                  schwach angedeutet.</p>
+               <p>Die meisten dieser Grabmäler sind aus <placeName ref="geo-2980916">St.
+                     Denis</placeName> hiehergebracht worden. Die Statuen sind fast alle mehr oder
+                  weniger verstümmelt und beschädigt. Doch rührt dies nicht allein aus den Zeiten
+                  der Revolution her. Zur Zeit der Ligue drangen die Ligueurs in die Abtei
+                     <placeName ref="geo-2980916">St. Denis</placeName> ein und verstümmelten viele
+                  der Denkmäler, die sie dort fanden. Auch ist der an sich lockre Sandstein
+                  unstreitig von selbst verwittert.</p>
+               <p>Weder in Rücksicht der Arbeit, noch der Physiognomie zeichnen sich unter diesen
+                  Statuen einzelne aus. Unter allen herrscht, ob es ihnen gleich nicht an
+                  Individualität fehlt, doch im Ganzen dieselbe Gesichtsform. Es sind grosse
+                  länglichte, sehr knochenstarke Gesichter, mit wenigem, höchstens frommem und
+                  gutmüthigem Ausdruck. Ihr langer Bart vermehrt noch das Sonderbare ihres Anblicks
+                  und sie gleichen nicht wenig den steifen Königsfiguren, die man auf alten
+                  Holzschnitten und noch jetzt auf unsern Karten sieht.</p>
+               <p>Nur <persName ref="gnd-118675958">Chlodovig</persName> unterscheidet sich merklich
+                  von allen andern. Seine Statue, die allein auf seinem Grabmal liegt, ist nicht aus
+                     <placeName ref="geo-2980916">St. Denis</placeName>, sondern aus der Kirche
+                  Généviève hierhergebracht worden. Sie ist zwar gewiss nicht<note type="footnote" n="xxi)" resp="gnd-116890657">Nach <quote>nicht</quote> gestrichen:
+                        <quote>unmittelbar</quote>.</note> aus seinem Jahrhundert, aber, wie es
+                  scheint, auch nicht mit den übrigen unter <persName ref="gnd-118729411">Ludwig
+                     9.</persName> gearbeitet. Da diese Kirche nach den Zerstörungen, die sie im
+                  9ten Jahrhundert erlitten hatte, unter <persName ref="gnd-118789066">Robert dem
+                     Weisen</persName> wieder hergestellt ist, so vermuthet man, dass sie bald nach
+                  dieser Zeit verfertigt worden sey. Der Künstler scheint gefühlt zu haben, dass er
+                  die Bildsäule eines grossen Mannes zu machen hatte; wenigstens treten die Züge bei
+                  weitem klarer und mächtiger, als selbst in den spätern Statuen, aus einander, und
+                  besonders ruht auf der Stirn, den Augenbraunen, und dem Anfang der Nase (denn die
+                     <pb n="2.359" xml:id="pbII359"/> Spitze ist restaurirt) eine gewisse
+                  unverkennbare Grösse. Seine Kleidung ist wie die der übrigen Könige, nur hat er
+                  auf dem Kopf ein Diadem, und im Gürtel einen Almosenbeutel.</p>
+               <p>Das Gesicht <persName ref="gnd-118729411">Ludwigs 9.</persName> in der Statue, die
+                  in diesem Sale steht, und noch nicht die beste von denen seyn soll, die man ehmals
+                  von ihm hier gehabt hat, trägt unverkennbare Züge der Schwäche und Gutmüthigkeit,
+                  besonders um den Mund und das Kinn herum an sich. Wenn man sie mit den Kupfern
+                  vergleicht, die nach Siegeln und Münzen gemacht sind, so ist sie diesen sehr
+                  ähnlich und hat nur einen bessern und angenehmern Ausdruck.</p>
+               <p>Zwischen den Pfeilern, die in der Mitte des Saals das Gewölbe tragen, steht das
+                  Grabmal der beiden Söhne <persName ref="gnd-118729411">Ludwigs 9.</persName>
+                  Ludwig und Johann, die beide jung starben. An dem Küssen, auf welchem der Kopf des
+                  einen, wahrscheinlich Ludwigs, des ältesten, der nach seiner Grossmutter Tode, in
+                  der Abwesenheit seines Vaters, die Regentschaft vertrat, ruht, knieen 2 Engel, wie
+                  Chorknaben gekleidet. An den Seiten des Cenotaphs sind Basreliefs, die Ludwigs
+                  Leichenbestattung vorstellen. Es sind bloss einzelne Figuren vermuthlich aus dem
+                  Zuge, welcher der Leiche folgte, die wie in einem gothischen Bogengange, jede in
+                  einem einzelnen Bogen, allein, stehen. Fast bei allen sind die Köpfe abgeschlagen,
+                  aber man sieht an dem Wurf der Gewänder, bei denen das verschiedne Costüme der
+                  Stände und Würden beobachtet ist, dass die Arbeit für die Zeit, in der sie gemacht
+                  war, nicht ohne Werth gewesen seyn kann.</p>
+               <p>Noch hängen in diesem Saal drei andere Basreliefs, von denen <persName ref="gnd-118554727">ich</persName> Ihnen ein Wort sagen muss.</p>
+               <p>Eins besteht aus zwei zusammengehörenden Tafeln von Sandstein und stellt die
+                  Gründung des Klosters der Heiligen Katharine im <hi xml:lang="fr">Val des
+                     écoliers</hi>
+                        <note type="footnote" n="xxii)" resp="gnd-116890657">Nach <quote xml:lang="fr">écoliers</quote> gestrichen: <quote>durch <persName ref="gnd-118729411">Ludwig 9.</persName>
+                            </quote>
+                        </note> nach dem Siege
+                  bei der Brücke von <placeName ref="geo-3030721">Bovines</placeName> (im Jahre
+                     1200)<note type="footnote" n="xxiii)" resp="gnd-116890657">Der Tag der Schlacht
+                     ist der <date when="1214-07-27">27. Juli 1214</date>.</note> vor. Es ist
+                  eigentlich kein Basrelief. Denn die Figuren sind nicht erhoben gearbeitet, sondern
+                  ihre Umrisse sind in den Stein gegraben, und diese Vertiefungen ehmals, wie man
+                  noch deutlich sieht, mit Farben und Gold ausgefüllt gewesen. Auf dem einen Stein
+                  stehen 2 Krieger und ein Mönch, auf dem andern wieder 2 Krieger und <persName ref="gnd-118729411">Ludwig der Heilige</persName>. An allen diesen 6 Figuren
+                  sind bloss die Umrisse und diese sehr roh und <pb n="2.360" xml:id="pbII360"/>
+                  ohne alle Beobachtung der Perspective gezeichnet. Sie stehen einzeln, und es würde
+                  unmöglich seyn ihre Verbindung und den Sinn der ganzen Vorstellung zu errathen,
+                  wenn der Künstler nicht dafür durch eine doppelte Inschrift gesorgt hätte. Der
+                  Grund ist nicht leer gelassen, sondern mit bunten, aber regelmässigen den Lilien
+                  ähnlichen Figuren angefüllt. Das Ganze ist daher eigentlich ein Gemälde, wo die
+                  Farbe in eingegrabnen Vertiefungen aufgetragen ist, nur ohne Licht und Schatten,
+                  und ohne alles, was die eigentliche Kunst charakterisirt.</p>
+               <p>Eine andre Tafel, gleichfalls in Sandstein, stellt die Marter des <persName ref="gnd-118551418">Heiligen Hippolytus</persName> vor. <persName ref="gnd-118551418">Der Heilige</persName> ist nackt, nur mit einem Tuch um die
+                  Lenden zwischen zwei Reutern ausgespannt, die ihre Pferde nach verschiednen Seiten
+                  hin sprengen. Dicht über dieser Gruppe heben zwei Engel den <persName ref="gnd-118551418">Märtyrer</persName>, nach überstandener Marter, in einem
+                  Tuch, aus welchem er betend und knieend mit halbem Leibe hervorblickt, zum Himmel
+                  empor. Dies Stück ist bloss wegen der sonderbaren Symmetrie in der Composition
+                  merkwürdig. Die Reuter und die Engel bilden vollkommen ein verschobenes Viereck,
+                  in ihrer Mitte hängt <persName ref="gnd-118551418">der knieende Heilige</persName>
+                  herab, und auch an beiden Enden des Basreliefs sind symmetrisch gestellte Figuren.
+                  Es erinnert an einige ähnlich geordnete Compositionen auf Etrurischen und andern
+                  antiken Gefässen.</p>
+               <p>Das dritte ist bei weitem besser, als dies gearbeitet, ob es gleich noch einen
+                  vollkommnen Mangel an allem Begriff von Composition verräth. Auf derselben Tafel
+                  und ohne alle Abtheilung dazwischen sind mehrere heilige Gegenstände vorgestellt.
+                  In der Mitte die Kreuzigung, dann zu beiden Seiten Märtirer, und andere
+                  Vorstellungen. Vorzüglich zeichnet sich Graf Hubert von Thüringen aus. Er kniet,
+                  der bekannten Erzählung zufolge, vor dem Hirsch, den er gejagt hat, und da dicht
+                  hinter ihm sein Pferd steht, so macht dies eine wirklich wunderbare und
+                  charakteristische Gruppe, bei der man nur bedauert, dass der Heilige wie mehrere
+                  Figuren auf diesem Stück seinen Kopf eingebüsst hat. Die Gewänder dieses Reliefs
+                  sind für sein Alter sehr gut gearbeitet und kommen in der Manier mit denen auf dem
+                  Grabmal der Söhne Ludwigs überein; bei weitem weniger gut hingegen ist das Nackte,
+                  bei dem die Muskeln kaum angedeutet sind.</p>
+               <p>Die Denkmäler des 14ten und 15ten Jahrhunderts haben kaum einen andren, als
+                  historischen Werth. Sie sind zwar alle, nur einige wenige ausgenommen, von Marmor,
+                  aber in keinem zeichnet <pb n="2.361" xml:id="pbII361"/> sich die Arbeit so aus,
+                  dass es besonders herausgehoben zu werden verdiente. Die Form der Königsgrabmäler
+                  ist noch im Ganzen dieselbe mit der, die wir so eben gesehen haben. Die Statuen
+                  liegen bekleidet, nur einzeln, nicht die Königinnen zur Seite ihrer Gemahle, auf
+                  den Grabsteinen.</p>
+               <p>Die Physiognomien würde man, auch die Kleidung und die Nebensachen abgerechnet,
+                  leicht von selbst in diese Jahrhunderte der Rohheit und Unwissenheit setzen, in
+                  denen kaum ein schwacher Funke eines werdenden Lichts aufdämmert. Fast alle tragen
+                  in ihren Zügen die Spuren abergläubischer Frömmigkeit und mönchischer
+                  Beschränktheit, und da sie einzeln hinlängliche Individualität besitzen, so
+                  scheint dies nicht die Schuld des Künstlers zu seyn. Um wenigstens die Reihe der
+                  Könige, die in diesem Museum nicht alle vorhanden sind, vollständig durchzugehen,
+                  habe <persName ref="gnd-118554727">ich</persName> die Sammlungen ihrer Abbildungen
+                  auf dem hiesigen Kupferstichkabinette verglichen, unter welchen besonders eine
+                  nach alten Siegeln, Münzen, illuminirten <hi xml:lang="fr">vignetten</hi> in Manuscripten u. s. f.
+                  verfertigte, von historischer Glaubwürdigkeit ist. Auch hier habe <persName ref="gnd-118554727">ich</persName> den Charakter, wie <persName ref="gnd-118554727">ich</persName> ihn so eben beschrieb, wiedergefunden.
+                  Nichts Grosses, nichts Freies, selten sogar nur die Kraft und Kühnheit, die noch
+                  neben der Rohheit bestehen kann, vor allem aber Mangel an Adel und Hohheit. Die
+                  Theile, welche am sichtbarsten das Gepräge des Geistes und der Menschlichkeit
+                  tragen, die Stirn, und die Augen sind unbedeutend, und kündigen sich auf keine
+                  Weise an, da hingegen die stark hervortretenden Backenknochen die Hauptparthie des
+                  Gesichts ausmachen. Auch fehlt es den einzelnen Theilen an Einheit und man trift
+                  hier die bizarresten Formen an.</p>
+               <p>So muss es nicht leicht eine wunderbarere Hässlichkeit geben können, als die
+                     <persName ref="gnd-118720864">Carls 6.</persName> ist. Das Gesicht ist mager
+                  und spitz, der Stirnknochen über der Nase steht weit hervor, die Nase ist
+                  ungeheuer lang, hat einen grossen Höcker und geht so tief herab, dass ihre Spitze
+                  fast auf der stark aufgeworfenen Oberlippe aufliegt. So ist nemlich die
+                  Physiognomie auf Münzen und auf einem Kupfer nach einem Stück aus dem Cabinet <hi xml:lang="fr">de <persName ref="gnd-140255842">Du Val</persName>, Sécretaire du
+                     Roi es langues Orientales</hi>.<note type="footnote" n="xxiv)" resp="gnd-116890657">
+                            <persName ref="gnd-140255842">Jean Baptiste
+                        Duval</persName> († <date when="1632">1632</date>) gab <placeName ref="geo-2988507">Paris</placeName>
+                     <date when="1619">1619</date> eine vermehrte Bearbeitung von <persName ref="gnd-119099950">Vico</persName>s <title>Imagines imperatorum et
+                        augustorum</title> heraus; als Orientalist unbedeutend, war er ein
+                     hervorragender Kenner <placeName ref="geo-3017382">franz</placeName>ösischer
+                     Münzen und Medaillen.</note> Die Statue ist ganz anders. Indess sieht <pb n="2.362" xml:id="pbII362"/> man offenbar, dass das Kupfer ähnlicher ist, da
+                  man noch in <persName ref="gnd-100736416">Carl 7.</persName> dieselbe Nase, nur
+                  minder stark und hässlich wiedererkennt.</p>
+               <p>Selbst der Enkel, <persName ref="gnd-118574930">Ludwig 11.</persName>, kann diese
+                  Züge nicht verläugnen. Doch ist sein Gesicht in dieser Reihe das am meisten
+                  ausgearbeitete. <persName ref="gnd-118574930">Er</persName> hat einen eben so
+                  aufgeworfenen Mund, als <persName ref="gnd-118720864">sein Grossvater</persName>,
+                  aber eine kürzere, mehr vorstehende Nase, überhaupt ein kürzeres Gesicht, und
+                  tiefe, grosse, und scharfblickende Augen. Ein grosser Ausdruck von Klugheit ist in
+                  seinen Zügen unverkennbar, doch ist es mehr Verschlagenheit und List, als Stärke
+                  des Geistes und das gerade Gegentheil von Grösse und Würde. Seine Statue<note type="footnote" n="1)" resp="gnd-118554727">In <placeName ref="geo-2980916">St.
+                        Denis</placeName> war keine von ihm vorhanden. Eine andre, die, <persName ref="gnd-118554727">ich</persName> erinnere mich jetzt nicht wo, stand, ist
+                     zertrümmert worden.</note> ist nicht im Museum, aber ein guter Kupferstich von
+                  ihm, nach einem Gemälde in <placeName ref="geo-3018074">Fontainebleau</placeName>,
+                  auf dem Kupferstichkabinet.</p>
+               <p>Eine Karrikatur andrer Art, als <persName ref="gnd-118720864">Carl 6.</persName>
+                  ist <persName ref="gnd-120193795">Johann der Gute</persName>. Ein ungewöhnlich
+                  langes und doch dabei breites Gesicht, eine lange und dicke Nase, gar schmale,
+                  langgeschnittene Augen dicht zusammenstehend an der Nase. Diese letztem sind es
+                  besonders, die dem Gesicht einen ganz eignen Charakter und einen solchen Ausdruck
+                  von Einfalt geben, als man sich schwerlich je gesehen zu haben erinnern wird —
+                  eine im eigentlichsten Verstande reine Einfalt, ohne Gutmüthigkeit und sogar ohne
+                  Eigensinn.</p>
+               <p>Wo sich in den Formen dieser Zeit Muth und Kraft ankündigt, da ist der Ausdruck
+                  bloss derb und fest, aber ohne Feuer und ohne Grösse, das Kraftvolle liegt allein
+                  in der Stärke des Knochenbaus und der Muskeln. So ist z. B. die Physiognomie des
+                  bekannten Grasen von Dunois, des Bastards Ludwigs von Orléans. Ein kurzes
+                  vierecktes Gesicht, eine gerade und kleine Nase, und stark hervorstehende
+                  Backenknochen, die Muth und Kraft, aber ohne Adel und Feuer andeuten. Dieser Form
+                  mehr oder weniger ähnlich findet man die meisten der berühmten Krieger dieser
+                  Zeit.</p>
+               <p>Dass indess auch jene Zeit der Bildung einen schönen und edlen Charakter zu geben
+                  fähig war, dass natürliche Sanftmuth und Milde, verbunden mit stiller und
+                  anspruchloser Frömmigkeit, sich auf eine zugleich rührende und erhebende Weise in
+                  den Zügen spiegeln konnte, dies zeigt uns diese Sammlung wenigstens in einem
+                  weiblichen Kopfe. <persName ref="gnd-118540238">Sie</persName> erinnern Sich
+                  vielleicht aus älteren <pb n="2.363" xml:id="pbII363"/> Beschreibungen von
+                     <placeName ref="geo-2988507">Paris</placeName>, dass es in der Kirche der
+                  Celestiner eine reiche Kapelle gab, die man die Orléanssche nannte. Der bekannte
+                     <persName ref="gnd-119096986">Herzog Ludwig von Orléans</persName>, Bruder
+                     <persName ref="gnd-118720864">Karls 6.</persName>, berüchtigt durch seine
+                  Ausschweifungen und seine Bigotterie, seine Streitigkeiten mit seinem Onkel, dem
+                     <persName ref="gnd-118742159">Herzog von Bourgogne</persName>, und seinen
+                  unglücklichen Tod, hatte sie gestiftet, und <persName ref="gnd-118780735">Ludwig
+                     12.</persName>, sein Enkel, liess darin ihm und seiner Familie ein Grabmal
+                  errichten, welches sich jetzt, obgleich noch nicht zusammengesetzt, in dem Museum
+                  befindet. <persName ref="gnd-118554727">Ich</persName> sage <persName ref="gnd-118540238">Ihnen</persName> nichts von der Anordnung dieses Grabmals
+                  und den Statuen des Herzogs und seiner beiden Söhne. <persName ref="gnd-118540238">Sie</persName> können die ausführliche Beschreibung derselben in <persName ref="gnd-117044237">Millin</persName>s antiquités nationales. (Th. I. nr. III.
+                  S. 77.) finden, einem Werke, das jeder Freund der Kunst und der Alterthümer gern
+                  zur Hand haben wird.<note type="footnote" n="xxv)" resp="gnd-116890657">Es
+                     erschien in fünf Bänden <placeName ref="geo-2988507">Paris</placeName>
+                     <date from="1790" to="1795">1790-95</date>.</note> Nur ein Paar Worte über
+                     <persName ref="gnd-119096986">Ludwig</persName>s Gemahlin, <persName ref="gnd-133638502">Valentina von Mailand</persName>.</p>
+               <p>
+                        <persName ref="gnd-118554727">Ich</persName> werde nie vergessen, wie <persName ref="gnd-118554727">ich</persName>, bald nach meiner Ankunft hier, als die
+                  Denkmäler in diesem Museum noch ungeordneter lagen, auf diese Gestalt stiess, in
+                  welches freudige Erstaunen <persName ref="gnd-118554727">ich</persName> versetzt
+                  wurde, als <persName ref="gnd-118554727">ich</persName>, mitten unter den theils
+                  gemeinen, theils bizarren Figuren, auf einmal diese wahrhaft idealischen und doch
+                  der Natur so augenscheinlich treu nachgebildeten Züge erblickte, und immer wird
+                  dieser Kopf für mich zu den Formen gehören, in welchen die Einbildungskraft einen
+                  idealisch schönen Charakter auf eine menschliche Weise, und mit bestimmter
+                  Andeutung individueller Verhältnisse wiedererkennt.</p>
+               <p>Es ist eine liegende bekleidete Statue wie alle auf den Grabmälern dieser Zeit,
+                  mit einem Hunde zu ihren Füssen. Das Gewand, dessen Costüme ein wenig von den
+                  übrigen gleichzeitigen abweicht, ist gut gearbeitet, doch zeichnet sich weder
+                  hierin, noch in der übrigen Figur gerade etwas aus; das Merkwürdige ist allein der
+                  Charakter der Physiognomie, und gehört vielleicht mehr dem Originale, als dem
+                  Künstler an. </p>
+               <p>Das Gesicht ist mehr rund, als länglicht, die Stirn frei und schön gewölbt, die
+                  Augenbraunen und Augenknochen sind mit wunderbarer Bestimmtheit und Reinheit
+                  gezeichnet; die Augen gross, aber weder tiefliegend, noch vorstehend, die Nase
+                  edel und gerade absteigend. Der Punkt, der einem zuerst in diesem Gesicht
+                  auffällt, und auf den man immer zurückkehrt, ist die Stirn zwischen <pb n="2.364" xml:id="pbII364"/> den Augen. Von da breitet sich über das ganze übrige Gesicht
+                  ein unbegreiflicher Schatz weiblicher Reinheit, Sanftmuth und Stille aus, und nur
+                  selten erblickt man eine so schöne Symmetrie, und einen so harmonischen Ausdruck,
+                  als in dieser Stirnwölbung und in diesen Augen herrscht.</p>
+               <p>Was mir aber diesen Kopf eigentlich merkwürdig macht, ist gerade das. wodurch er
+                  zum Ideal des Künstlers untauglich wird. Denn unläugbar trägt diese Physiognomie
+                  Spuren des Drucks jenes Jahrhunderts an sich. In der volleren Dicke der Backen, in
+                  den schwer geschlossnen Augenliedern, selbst in der vollmondartigen Ründung des
+                  Gesichts liegt etwas Phlegmatisches, Melancholisches, ein Ausdruck einer gewissen
+                  dumpfen Verworrenheit des Sinns. Es ist keine reine und schlanke Natur, wie die
+                  Alten uns bildeten; der Charakter allein ist es, der sich unmittelbar zuerst aus
+                  diesen Zügen hervordrängt, und darum noch rührender auf uns einwirkt, weil wir
+                  eine schöne und edle Seele zu sehn glauben, die über sich selbst nicht klar zu
+                  werden, sich nicht rein zu entwickeln vermag. Es ist kein Ideal der Kunst, aber
+                  ein Ideal einer schönen Menschheit in den Fesseln und unter dem Druck eines
+                  abergläubischen und ungebildeten Zeitalters.</p>
+               <p>Wieviel in diesen Zügen historisch wahr seyn mag? ist schwer zu entscheiden und in
+                  künstlerischer Hinsicht kaum wichtig. Der Statue selbst nach zu urtheilen, wäre
+                  sie unmittelbar nach der Natur gemacht, da sie weit mehr fleissige Nachahmung
+                  dieser, als Genie des Künstlers verräth. Allein es ist historisch gewiss, dass sie
+                  beinah 100 Jahre<note type="footnote" n="2)" resp="gnd-118554727">
+                            <persName ref="gnd-133638502">Valentine</persName> starb <date when="1408">1408</date>. und <date when="1504">1504</date>. liess <persName ref="gnd-118780735">Ludwig 12.</persName> dies Grabmal aufrichten.</note>
+                  nach <persName ref="gnd-133638502">Valentine</persName>ns Tode versertigt
+                     ist.<note type="footnote" n="xxvi)" resp="gnd-116890657">Nach
+                        <quote>ist</quote> gestrichen: <quote>so ist es nicht glaublich, dass der
+                        Künstler mehr als Gemälde vor sich gehabt hat.</quote>
+                        </note> Fragt man die
+                  Geschichtschreiber um Rath, so urtheilen sie nicht günstig über <persName ref="gnd-133638502">Valentine</persName>n. Ihre Verbindung mit <persName ref="gnd-119096986">Ludwig</persName> konnte unmöglich sehr eng seyn, da sie
+                  seinen Verhältnissen mit seiner Schwägerin <persName ref="gnd-118639838">Isabelle
+                     von Baiern</persName> mit vieler Gleichgültigkeit zusah. Der Eifer, mit dem sie
+                  auf Rache seines Todes drang, und der Gram, der sie, wie sie erzählen, in Blois
+                  über ihre vergeblichen Bemühungen verzehrte, entstand vielmehr aus Hass gegen die
+                  Herzoge von Bourgogne, und aus Eifersucht gegen die Herzogin, die, als ihre Tante,
+                  den Rang vor ihr hatte. Der Hauptzug ihres Charakters war nach ihnen Stolz und
+                  Ehrgeiz. Indess erzählen sie <pb n="2.365" xml:id="pbII365"/> doch auch, dass sie
+                  allein Mitleid mit des unglücklichen <persName ref="gnd-118720864">Karls
+                     6.</persName> Wahnsinn bezeigte, sie allein im Stande war, ihn einigermassen zu
+                  besänftigen, und sie allein in der fürchterlichen Krise seiner Krankheit <date when="1405">1405</date>., wo er beinah 6 Monate ohne sich ausziehn zu wollen
+                  blieb, und sich heimlich ein Stück Eisen in das Fleisch gebohrt hatte, wo alle,
+                  selbst seine Frau, ihn verliessen, oft um ihn war, und ihn wartete. Wenn man die
+                  Geschichte dieser unglücklichen Regierung wieder liest, wenn man sich an die
+                  wunderbaren und fürchterlichen Vorfälle erinnert, mit denen sie angefüllt war, so
+                  begreift man, wie vorzüglich fromme und abergläubische Gemüther von dumpfem
+                  Schrecken getroffen seyn mussten. Der plötzliche Ausbruch der Wuth des Königs, wo
+                  er mit eigner Hand drei seiner Officire ermordete, von zufälligen aber wunderbaren
+                  Umständen begleitet, die fernem Anfälle derselben, wenn man sich ihm nicht anders,
+                  als durch einen Harnisch gegen den Dolch, den er immer trug, geschützt, und in
+                  abentheuerlicher Gestalt, um ihn zu schrecken, nahen durfte, der Auftritt bei der
+                  Maskerade, wo der <persName ref="gnd-119096986">Herzog von Orléans</persName>
+                  unvorsichtigerweise mehrere als Satyrn in haarichten Pechkleidern maskirte,
+                  zusammengekettete Personen, und mit ihnen den König selbst in Brand steckte, die
+                  grausame Ermordung dieses Prinzen durch Meuchelmörder, dazu das Elend des Volks,
+                  die allgemeine Verwirrung des Landes, die abergläubische Stimmung des Herzogs und
+                     <persName ref="gnd-133638502">Valentine</persName>ns selbst, da beide viel mit
+                  Zeichendeutern und Wahrsagern umgingen, und ersterer barfuss die Strassen von
+                     <placeName ref="geo-2988507">Paris</placeName> durchwallte und sich bei den
+                  Celestinern zur Busse geisselte, die fürchterlichen Ausschweifungen und Laster,
+                  denen er und die andern Grossen sich ergaben — wie mussten alle diese
+                  schreckensvollen Bilder auf das Gemüth eines armen unglücklichen Weibes wirken,
+                  die mehr als einmal angeklagt wurde, den König bezaubert zu haben, und der man es
+                  selbst zum Verbrechen anrechnete, dass er sich nur durch sie besänftigen liess,
+                  weil sie allein ihm mit Güte begegnete.<note type="footnote" n="xxvii)" resp="gnd-116890657">Nach <quote>begegnete</quote> gestrichen: <quote>wie
+                        mussten sie es in dumpfe Verworrenheit senken, so dass sie, auch ohne gerade
+                        Ludwig zu lieben, auf die Rache seines Todes, wie auf die Erfüllung einer
+                        heiligen Pflicht drang, wirklich aus Gram über ihn ihm ein Jahr später ins
+                        Grab folgte, und mit inniger und rührender Wahrheit dem Thränengefäss, das
+                        sie zur Devise nahm, die Worte [vgl. im Text] zur Inschrift
+                     gab.</quote>
+                        </note> Wie natürlich ist es, dass in einer solchen Zeit die Seele
+                  in dumpfe Verworrenheit versinkt und bei abergläubischer Frömmigkeit ihre <pb n="2.366" xml:id="pbII366"/> Zuflucht sucht, wie viel, statt dem Strudel der
+                  Verderbniss zu folgen, noch die Tugenden der Wohlthätigkeit zu üben, zu denen die
+                  Gelegenheit sich darbietet, wie verzeihlich wären da einige weibliche Schwächen,
+                  und wie still und sanft muss das Gemüth, wie milde die Phantasie gestimmt seyn,
+                  die mitten im Gram über den Tod eines Gatten und den vergeblichen Versuch seinem
+                  Schatten Genugthuung zu verschaffen ein so einfaches und rührendes Denkzeichen
+                  wählt als ein Thränengefäss und die Worte sind <lg type="poem">
+                     <l>Nichts ist mir mehr,</l>
+                     <l>mehr ist mir nichts.</l>
+                  </lg> Wenn in <placeName ref="geo-3017382">Frankreich</placeName> je hätte ein
+                  Shakespeare aufstehen können, so hätte das Leben Karls 6. ihm eine Reihe
+                  tragischer und wahrhaft theatralischer Scenen dargeboten. Nur in jenen dunkeln
+                  Jahrhunderten schienen Gottes Gerichte unmittelbar die frevelnde Menschheit zu
+                  verfolgen, weil ihre schwarze und gespensterreiche Einbildungskraft sie ewig auf
+                  sich herabrief, nur sie sind voll von ungewöhnlichen und schauderhaften
+                  Auftritten, weil die Unmässigkeit roher Begierden, weder durch Vernunft gezügelt,
+                  noch durch Geschmack geleitet, auf ungewöhnliche Befriedigungsmittel verfiel.</p>
+               <p>Gerade die Art der Schönheit und des Interesses, die mich in dieser Statue
+                  anzieht, finde <persName ref="gnd-118554727">ich</persName> auch in der rohen aber
+                  oft ausdrucksvollen Dichtkunst dieser und selbst noch der spätern Zeit bis gegen
+                  das 17te Jahrhundert hin. Diese Zeiten konnten nicht die freien und edlen
+                  Schönheiten des Alterthums besitzen, aber sie kennen einen so naiven Ausdruck des
+                  menschlichen Gefühls und der menschlichen Schwäche, dass sie an Tiefe und Rührung
+                  gewinnen, was ihnen an Glanz und an Grösse abgeht.</p>
+               <p>
+                        <persName ref="gnd-118554727">Ich</persName> finde nirgends angezeigt, von welchem
+                  Künstler dies Grabmal der Orleans verfertigt ist. Ueberhaupt ist es wunderbar,
+                  dass man in einem Lande, wie <placeName ref="geo-3017382">Frankreich</placeName>,
+                  so wenige und unvollkommene Untersuchungen über die Geschichte der vaterländischen
+                  Kunst angestellt hat. Alle Schriften, die <persName ref="gnd-118554727">ich</persName> über diesen Gegenstand habe auftreiben können, fangen nur mit
+                     <persName ref="gnd-1055508503">Jean Cousin</persName> und <persName ref="gnd-118718290">Jean Goujeon</persName> an,<note type="footnote" n="xxviii)" resp="gnd-116890657">
+                            <persName ref="gnd-1055508503">Jean
+                        Cousin</persName> (<date from="1501" to="1590">1501-1590</date>), der
+                        <placeName ref="geo-3017382">franz</placeName>ösische <persName ref="gnd-118582143">Michelangelo</persName> genannt, wirkte als Bildhauer
+                     und Maler im Renaissancegeschmack und hat auch kunsttheoretische Arbeiten
+                     hinterlassen. <persName ref="gnd-118718290">Jean Goujon</persName> (etwa <date from="1510" to="1566">1510-1566</date>), der <placeName ref="geo-3017382">franz</placeName>ösische <persName ref="gnd-118593765">Phidias</persName>
+                     genannt, war als Bildhauer und Architekt im <placeName ref="geo-8354456">röm</placeName>isch-antiken Geschmack tätig.</note> und alles, was
+                     <persName ref="gnd-118554727">ich</persName> von Bild-<pb n="2.367" xml:id="pbII367"/> hauern<note type="footnote" n="3)" resp="gnd-118554727">Von
+                     Mahlern dieser Zeit, die indess bloss Portraitmahler gewesen zu seyn scheinen,
+                     findet man ein ziemlich langes Namensverzeichniss in dem <bibl>
+                                <title xml:lang="fr">abregé de la vie des peintres</title>. <pubPlace>
+                                    <placeName ref="geo-2988507">Paris</placeName>
+                                </pubPlace>. <date when="1699">1699</date>. <biblScope unit="volume" n="8">8</biblScope>. S. <biblScope unit="page" n="457">457</biblScope>.</bibl>
+                  </note> vor dieser Zeit aufgefunden, sind nur zwei Namen: <persName ref="gnd-133656918">Jean Jüste</persName> und <persName ref="gnd-143864173">François Gentil</persName>. Beide lebten in <placeName ref="geo-2971549">Troyes</placeName>
+                  <date from="1540" to="1550">zwischen 1540. und 1550</date>. Mit ihnen zugleich
+                  arbeitete für <persName ref="gnd-118780735">Ludwig 12</persName>. Der <placeName ref="geo-3176959">Florent</placeName>iner <persName ref="gnd-1233496263">Paul
+                     Ponce</persName>
+                        <note type="footnote" n="xxix)" resp="gnd-116890657">
+                            <persName ref="gnd-1233496263">Paul Ponce Trebati</persName> (etwa <date from="1500" to="1565">1500-1565</date>), vielleicht ein Schüler <persName ref="gnd-118582143">Michelangelo</persName>s, war <date from="1530">seit
+                        1530</date> in <placeName ref="geo-2988507">Paris</placeName>, meist in
+                     Verbindung mit <persName ref="gnd-118718290">Goujon</persName> tätig.</note>
+                  und vermuthlich rührt auch dies Grabmal von diesem her.</p>
+               <p>Von <persName ref="gnd-1233496263">Paul Ponce</persName> muss <persName ref="gnd-118554727">ich</persName> noch eines Basreliefs an dem Grabmale
+                     <persName ref="gnd-118521721">Philipps von Commines</persName> erwähnen. Es
+                  stellt den Kampf des Ritters George mit dem Drachen vor. Der Ritter sprengt eben
+                  auf das Ungeheuer los und durchbohrt ihm den Hals; in der Ferne kniet die
+                  Prinzessin, die er davon befreit, und betet für das Gelingen seiner Unternehmung.
+                  In dem Ritter, seinem Streitross und dem Ungeheuer ist viel Charakter, das Ganze
+                  ist gut gearbeitet, und dies Stück ist offenbar das Erste, welches, wenn man der
+                  Zeitfolge nachgeht, in Absicht der Kunst Aufmerksamkeit verdient.</p>
+            </div>
+            <div type="letter" n="3">
+               <head>
+                  <title type="sub">Dritter Brief.</title>
+               </head>
+               <p>Mit <persName ref="gnd-118780735">Ludwig 12.</persName> beginnt eine neue Form von
+                  Grabmälern. Die Statuen der Könige liegen nicht mehr bekleidet, sondern nackt, als
+                  Leichname abgebildet auf den Särgen. Nur der Unterleib ist bei den Königinnen
+                  grösstentheils, bei den Königen nur um die Hüften herum mit einem Tuche
+                  bedeckt.</p>
+               <p>Das Grabmal <persName ref="gnd-118780735">Ludwigs 12.</persName>, das an den
+                  Verzierungen und Nebenfiguren sehr viel gelitten hat, wird in diesem Augenblick
+                  eben wieder zusammengesetzt. <persName ref="gnd-118540238">Sie</persName> finden
+                  eine ausführliche Beschreibung desselben in <persName ref="gnd-116909080">Lenoir</persName>s Verzeichniss der Denkmäler dieses Museums. Die Hauptfiguren
+                  sind von <persName ref="gnd-1233496263">Paul Ponce Trebati</persName>, sie haben
+                  durch die Zertrümmerer nur ein Paar Finger und Zehen verloren, die man jetzt
+                  wieder restaurirt hat.</p>
+               <p>Wer alles Schreckliche und Schauderhafte des Todes auf ein-<pb n="2.368" xml:id="pbII368"/> mal sehen will, muss bei diesen beiden Bildsäulen verweilen.
+                  Der Künstler hat die Natur sklavisch nachgeahmt; er hat einen Leichnam abbilden
+                  wollen, wie er, ohne allen mildernden oder erhebenden Ausdruck, das Werk und das
+                  wahre Bild des Todes, in der Wirklichkeit daliegt, die Menschheit unterliegend im
+                  Kampf mit der physischen Natur, ohne alle, auch nur die leiseste Erinnerung an
+                  ihre innere und eigenthümliche Stärke. Seine Einbildungskraft scheint ihn sogar
+                  noch über die Natur hinausgeführt zu haben. Denn nur selten wird man in der
+                  Wirklichkeit so schreckliche, so, möchte <persName ref="gnd-118554727">ich</persName> sagen, von Menschen und Göttern verlassene Leichname erblicken.
+                  Leiteten vielleicht, während er arbeitete, religiose<note type="footnote" n="xxx)" resp="gnd-116890657">
+                            <quote>religiose</quote> verbessert aus
+                        <quote>abergläubische</quote>.</note> Vorstellungen seinen Meissel? glaubte
+                  er vielleicht die Hohheit der Königswürde lebendiger unter dem allgemeinen Loose
+                  der Menschheit niedergebeugt darzustellen, wenn er die Personen, die sie zu dem
+                  Gipfel ihrer Grösse erhob, in diesen fürchterlichen Momenten dem Niedrigsten und
+                  Verlassensten unter den Sterblichen gleichmachte? oder fand er diese Entsetzen
+                  erregenden Züge wirklich in den Originalen, die er abbilden sollte, und entlehnte
+                  er sie unmittelbar aus der Natur? Dann muss uns ein Jahrhundert mit Wehmuth
+                  erfüllen, in dem auch ein wohlwollender und geliebter König dem Tode nicht mehr
+                  ruhige Heiterkeit oder standhaften Muth entgegenzusetzen wusste.</p>
+               <p>
+                        <persName ref="gnd-118780735">Ludwig 12.</persName> trägt noch die lebhaften
+                  Spuren eines schmerzhaften Todeskampfs an sich. Sein Kopf ist ein wenig empor
+                  gegen ein Kissen gelehnt, die Hände über der Brust gefaltet. Man glaubt ihn zu
+                  sehen, wie er sich zum letztenmal emporgerichtet hat, wie er, schon besinnungslos,
+                  mit den Augen vor sich hinstarrt, und die letzten Zuckungen des Todes sein Gesicht
+                     entstellen.<note type="footnote" n="xxxi)" resp="gnd-116890657">Nach
+                        <quote>entstellen</quote> gestrichen: <quote>man glaubt das
+                        fürchterliche</quote>.</note> Der Mund ist krampfhaft geöfnet, und die
+                  hagern zurückgezognen Lippen lassen beide Reihen der Zähne unbedeckt. Gleich
+                  krampfhafte Anstrengung ist in den übrigen Gliedern. Der Ausdruck des Gesichts ist
+                  durchaus gemein, der Mensch, der so stirbt, kann gut, redlich und wohlwollend
+                  gewesen seyn, aber nie hat er einen Funken höhern Muths in der Seele getragen;
+                  sklavisch hat er einem fremden Gesetz gehorcht, aber fremd sind ihm eigne
+                  unabhängige Kraft und freier Schwung der Phantasie gewesen. </p>
+               <pb n="2.369" xml:id="pbII369"/>
+               <p>Solche die Menschheit entstellende Verzerrungen, wie sie uns in jenen Zeiten sogar
+                  die Kunst noch zeigt, werden, wie es mir scheint, jetzt auch in der Wirklichkeit
+                  seltner. Statt dass damals die Schreckbilder des Aberglaubens auch den Starken
+                  niederdrückten, setzen jetzt selbst gewöhnlichere Seelen dem Schicksal mehr
+                  Fassung und ruhigen Muth entgegen. Diese schönere Milde wirkt auf die Physiognomie
+                  ein, und so lässt sich eine fortschreitende Veredlung der Menschengestalt, in
+                  ihren festen Zügen, wie in ihrem beweglichen Minenspiel mit Wahrscheinlichkeit
+                  annehmen. Selbst in der Erfahrung glaube <persName ref="gnd-118554727">ich</persName> nicht unbedeutende Spuren davon zu erblicken.<note type="footnote" n="xxxii)" resp="gnd-116890657">Statt dieses Absatzes stand
+                     zuerst folgender: <quote>In jenen Jahrhunderten des Aberglaubens drückten die
+                        Schreckbilder der Religion gerade in den entscheidendsten Momenten auch den
+                        Starken nieder. Es ist eine wohlthätige Folge der neueren Aufklärung, dass
+                        selbst gewöhnlichere Seelen dem Schicksal eine grössere Fassung und
+                        ruhigeren Muth entgegensetzen. Diese edlere Milde wirkt nothwendig auch auf
+                        die Physiognomie ein, und die Menschheit entstellende Verzerrungen, wie sie
+                        uns in jenen Zeiten sogar die Kunst noch zeigt, werden jetzt auch in der
+                        Wirklichkeit seltner.</quote>
+                        </note>
+               </p>
+               <p>
+                        <persName ref="gnd-119020688">Anna von Bretagne</persName>, <persName ref="gnd-118780735">Ludwig</persName>s Gemahlin, hat einen andern Charakter.
+                  Der Kopf ist hinten über gebeugt, das losgebundne Haar sinkt unordentlich und
+                  sträubend an der Scheitel herab; Arme und Füsse sind starr ausgestreckt. Sie
+                  gleicht einer Unglücklichen, die an der Ecke eines Waldes von Räubern erschlagen
+                  und ausgeplündert ist. Sie giebt uns nicht mehr den schrecklichen Anblick einer
+                  Sterbenden, aber den unangenehmen eines entstellten Leichnams. Wunderbar ist es
+                  noch, dass Arme und Füsse einen durchaus männlichen Charakter haben, dieselbe
+                  Stärke der Knochen und Muskeln, nichts Schwächres oder Weichres. Würde man nicht
+                  durch die mit fast ekelhafter Wahrheit behandelte Brust an das Geschlecht
+                  erinnert, so hielte man es für die Bildsäule eines männlichen Leichnams.</p>
+               <p>Noch muss <persName ref="gnd-118554727">ich</persName> bei beiden Statuen
+                  erinnern, dass sie in einzelnen Theilen nur sehr wenig bearbeitet sind, und kaum
+                  beendigt scheinen. So ist Anna‘s Kopf mehr angelegt, als fertig zu nennen.</p>
+               <p>
+                        <persName ref="gnd-118554727">Ich</persName> würde mich nicht so lang bei diesen
+                  scheuslichen Bildern aufgehalten haben, wenn <persName ref="gnd-118554727">ich</persName>
+                  <persName ref="gnd-118540238">Sie</persName> nicht dabei hätte an einen Stil in
+                  der Kunst erinnern wollen, den man, dünkt mich, auch in der Poesie wiederfindet.
+                  Was diese Statuen in der Sculptur sind, das scheinen mir die Meistersänger in der
+                  Dichtkunst. Es ist eine <pb n="2.370" xml:id="pbII370"/> bloss handwerksmässige
+                  Behandlung der Kunst, in den bildenden Künsten eine bloss sklavische Nachahmung
+                  der Natur, in der Poesie der blosse Ausdruck des Gedankens in Reime gebracht. Es
+                  kann in beiden Verstand, Einsicht, Witz, sogar Empfindung sichtbar seyn; allein
+                  das Wesen der Kunst fehlt ihnen, der leise Hauch der Einbildungskraft, der auf
+                  einmal seinen Gegenstand mit einem sonst unbekannten Glanze überkleidet. Wenn man
+                  den Gothischen Stil dem <placeName ref="geo-390903">Griech</placeName>ischen
+                  entgegensetzt, den Stil des Wirklichen dem Stil des Idealischen, so sind dies
+                  recht eigentlich Gothische Werke, ein solches Darstellen der einzelnen Züge, als
+                  sollten sie in der That nur einzeln dastehn, ohne alle Verschmelzung, ohne die
+                  höhere des Geistes in Einen Gedanken, ohne die leibliche der Phantasie in Eine
+                  Gestalt.</p>
+               <p>Auffallend ist es, dass wir diesen Stil noch in Künstlern finden, die offenbar
+                  eine tiefere Einsicht in ihre Kunst und eine nicht gemeine Geschicklichkeit in der
+                  Ausübung derselben besassen. Auch die beiden ebenbeschriebnen Statuen verrathen
+                  einen geübten, in der Anatomie erfahrnen Künstler. Sie sind sogar nicht bloss mit
+                  Kenntniss und Einsicht, sondern auch mit Kraft und Kühnheit gemacht; es sind nicht
+                  die unsichren Umrisse, die unausgearbeiteten Formen der anfangenden Kunst.
+                     <persName ref="gnd-1233496263">Trebati</persName> stand unläugbar auf einer
+                  höhern Stufe derselben, wenn sie ihm gleich ihre holdeste und lieblichste Gabe
+                  versagt hatte. Diese Erscheinung finden wir, soviel <persName ref="gnd-118554727">ich</persName> weiss, nur bei den neueren Künstlern. Bei den <placeName ref="geo-390903">Griech</placeName>en ging freilich die Kunsterfahrenheit auch
+                  einen stufenweisen und sogar langsamen Gang; aber Geschmack und Phantasie
+                  begleiteten sie harmonischer. Selbst die älteren <placeName ref="geo-3175395">Italiän</placeName>ischen Mahler haben mehr Lieblichkeit, als die
+                  gleichzeitigen <placeName ref="geo-2921044">Deutsch</placeName>en, sind ihnen
+                  diese auch, wie es mir offenbar scheint, an Kraft und Mannigfaltigkeit des
+                  Ausdrucks überlegen.</p>
+               <p>Was man in <persName ref="gnd-118780735">Ludwig</persName>s Statue vermisst, das
+                  findet man mit reichlichem Gewinn in der schönen und meisterhaft gearbeiteten
+                     <persName ref="gnd-118534947">Franz 1.</persName> Auch er ist als Leichnam
+                  abgebildet; auch bei ihm ist die Natur nicht wesentlich verschönert, noch
+                  veredelt, der Anblick des Todes und das tief zurückgebeugte Haupt machen immer,
+                  und auch hier vorzüglich auf den ersten Anblick einen unangenehmen und sogar
+                  widrigen Eindruck. Aber wie anders hat <persName ref="gnd-118718290">Gougeon</persName>’s Meissel diesen Formen Charakter zu geben verstanden. Wie
+                  edel und harmonisch ist hier, selbst noch im Tode, der Ausdruck des Gesichts und
+                  der Gestalt. Diese Statue ist in der That <pb n="2.371" xml:id="pbII371"/> keiner
+                  Beschreibung fähig, man muss sie selbst sehen und studiren. Nie ist vielleicht
+                  wieder ein Kunstwerk so bis auf die letzten kleinsten Züge fertig gearbeitet
+                  worden. Der Kopf allein, mit dem wunderschönen Barte, müsste, denkt man, Jahre
+                  erfordert haben, um diesen Grad der Vollendung zu erhalten.</p>
+               <p>Es ist ein erhebender Anblick zu sehen, wie die Kunst gerade zu derselben Zeit
+                  einen bedeutenden Fortschritt gewinnt, da auch die Menschheit selbst einen höhern
+                  und edlern Ausdruck erhält. Denn in der That fängt, so viel <persName ref="gnd-118554727">ich</persName> diesen Gang habe in Statuen und
+                  Kupferstichen verfolgen können, mit <persName ref="gnd-118534947">Franz
+                     1.</persName> Zeitalter in <placeName ref="geo-3017382">Frankreich</placeName>
+                  eine schönere und geistreichere Gesichtsbildung an.</p>
+               <p>
+                        <persName ref="gnd-118780735">Ludwig 12.</persName> ist noch in Form und Ausdruck
+                  des Gesichts ganz und gar den Bildungen des zunächst vorhergehenden Jahrhunderts
+                  ähnlich, und wenn es mir nicht wichtiger geschienen hätte, die verschiednen
+                  Epochen in der Reihe dieser Denkmäler, nach der Verschiedenheit ihrer Form, als
+                  nach physiognomischen Grillen abzusondern, so hätte <persName ref="gnd-118554727">ich</persName>, statt diesen Abschnitt mit ihm anzufangen, den vorigen mit ihm
+                  beschliessen müssen. Eine knieende Statue, die, äusser jener auf seinem Grabmal,
+                  hier von ihm vorhanden ist, kommt in der Aehnlichkeit der Züge ganz und gar mit
+                  den besten nach Originalgemälden von ihm gemachten Kupferstichen überein, und nach
+                  diesen hat er, wie sein <persName ref="gnd-119021439">Vater</persName> und
+                     <persName ref="gnd-119096986">Grossvater</persName>, eine sehr gewöhnliche
+                  Physiognomie, ein rundes, fast eben so breites als langes Gesicht, eine kleine
+                  gerade Nase, starke aber unbedeutende Züge, die höchstens Redlichkeit und
+                  Gutmüthigkeit ankündigen. Er trägt, soviel <persName ref="gnd-118554727">ich</persName> bemerken kann, nichts Nationelles in seiner Bildung, und<note type="footnote" n="xxxiii)" resp="gnd-116890657">Nach <quote>und</quote>
+                     gestrichen: <quote>gleicht mit seinem schlichten, abgeschnittnen Haar einem
+                           <placeName ref="geo-2921044">Deutsch</placeName>en</quote>.</note> das
+                  rund geschnittne, glatt gekämmte Haar giebt ihm noch einen Ausdruck schlichter
+                  Einfalt mehr.</p>
+               <p>Von <persName ref="gnd-118534947">Franz 1.</persName> hingegen an, gewinnen die
+                  Gesichtsbildungen unläugbar mehr Würde und Schönheit. Der Hauptausdruck liegt
+                  nicht mehr in der Knochen- und Muskelstärke, und die Backenknochen sind weniger
+                  vorstehend; dagegen werden die Stirn und die Augen bedeutender, die Nase gebogner
+                  und edler, das ganze Gesicht länger und schmaler.</p>
+               <p>
+                        <persName ref="gnd-118534947">Franz 1.</persName> selbst muss zu den schönsten
+                  männlichen Bildungen <pb n="2.372" xml:id="pbII372"/> gehört haben. Geist und
+                  Edelmuth sprechen aus jedem seiner Züge, und es gattet sich mit ihnen eine Stärke,
+                  die an ein heldenmässigeres Jahrhundert, als das jetzige ist, erinnert. Der
+                     Knochenbau<note type="footnote" n="4)" resp="gnd-118554727">Die Franzosen
+                     nennen diess mit einem sehr guten Ausdruck <hi xml:lang="fr">la charpente du
+                        visage</hi>. Es ist nicht unmerkwürdig die verschiednen Bezeichnungen der
+                     Mannigfaltigkeit der Gesichtsbildungen in verschiedenen Sprachen zu
+                     vergleichen. Unter den neueren <placeName ref="geo-6255148">Europä</placeName>ischen ist die <placeName ref="geo-2510769">Spani</placeName>sche vorzüglich reich an malenden und ausdrucksvollen
+                     Wörtern in dieser Gattung.</note> des Kopfes ist stark und ins Auge fallend;
+                  das Gesicht hat ungeachtet seiner Länge viel Breite, und ebenso Stirn und Wangen.
+                  Es ist, als hätten die festen und starken Züge seiner Ahnherrn in ihm durch einen
+                  höhern eigenthümlichen Geist schönere Umrisse und eine edlere Gestalt gewonnen.
+                  Gewiss erinnern <persName ref="gnd-118540238">Sie</persName> Sich gute Abbildungen
+                  von ihm gesehen zu haben, und dann haben <persName ref="gnd-118540238">Sie</persName> unstreitig in der hohen und prächtig gewölbten Stirn, dem
+                  feurigen Blick, der langen, starken, mit einer mässigen Ausbeugung<note type="footnote" n="xxxiv)" resp="gnd-116890657">
+                            <quote>Ausbeugung</quote>
+                     verbessert aus <quote>Höcker</quote>.</note> schön herabsteigenden Nase, in der
+                  Bestimmtheit und Schärfe der Züge überhaupt eben den Ausdruck von Festigkeit,
+                  Edelmuth und Klugheit gefunden, der mir das Gesicht vor den meisten andern werth
+                  macht. Das Einzige, was man tadeln könnte, wären die länglichten, im Verhältniss
+                  des Uebrigen zu wenig geöfneten Augen. Die Statue hat diesen Zug nicht, dagegen
+                  finde <persName ref="gnd-118554727">ich</persName> ihn sehr deutlich in einer
+                  bronzenen Büste in diesem Museum, die man <persName ref="gnd-1055508503">Jean
+                     Cousin</persName> zuschreibt, auf einer von demselben gemahlten Glasscheibe aus
+                  Vincennes, und auf einem nach einem Gemälde in <placeName ref="geo-3018074">Fontainebleau</placeName> gemachten Kupferstich, so dass <persName ref="gnd-118718290">Gougeon</persName> hier die Natur verlassen zu haben
+                  scheint. Das Gemälde in <placeName ref="geo-3018074">Fontainebleau</placeName>
+                  soll von <persName ref="gnd-118597787">Raphael</persName> herrühren. Dies scheint
+                  mir sehr unwahrscheinlich, da <persName ref="gnd-118597787">Raphael</persName> und
+                     <persName ref="gnd-118534947">Franz</persName> nie zusammengekommen sind, da
+                     <persName ref="gnd-118554727">ich</persName> es aber nicht selbst gesehn, so
+                  kann <persName ref="gnd-118554727">ich</persName> nicht darüber entscheiden.</p>
+               <p>Das Grabmal der Valois ist noch nicht zusammengesetzt. <persName ref="gnd-118560557">Cathérine Médicis</persName> liess es bekanntermassen nach
+                     <persName ref="gnd-118671413">Philibert de Lorme</persName>’s Zeichnungen durch
+                     <persName ref="gnd-118792210">Germain Pilon</persName>
+                        <note type="footnote" n="xxxv)" resp="gnd-116890657">Der Bildhauer <persName ref="gnd-118792210">Germain Pilon</persName> lebte <date from="1535" to="1590">1535-1590</date>.</note> verfertigen. Man findet von ihr und <persName ref="gnd-118548166">Heinrich 2.</persName> drei von diesem Künstler verfertigte
+                  Statuen in diesem Museum, eine kniende in Bronze, und eine unbekleidete liegende,
+                  welche beide zum Grabmal gehören, die dritte kniend in der Königskleidung. </p>
+               <pb n="2.373" xml:id="pbII373"/>
+               <p>
+                        <persName ref="gnd-118548166">Heinrichs 2.</persName> Gesichtsbildung gleicht
+                  offenbar der seines <persName ref="gnd-118534947">Vater</persName>s. Doch ist das
+                  Gesicht länger und schmaler; die Züge sind weniger bestimmt und edel, haben
+                  weniger Harmonie, und gehen mehr aus einander. Es fehlt ihnen die auf sich selbst
+                  beruhende Festigkeit, und sie versammeln sich nicht so, wie bei <persName ref="gnd-118534947">Franz 1.</persName> in Einen Mittelpunkt. Dadurch verliert
+                  die Physiognomie an Stärke und Geist und erhält einen bloss gutmüthigen, frommen,
+                  beinahe leidenden Ausdruck.</p>
+               <p>Die Bildsäulen <persName ref="gnd-118560557">Katharine</persName>ns scheinen mir
+                  nichts Vorzügliches zu haben; und eben so wenig ihr Gesicht, das länglicht,
+                     fleischig,<note type="footnote" n="xxxvi)" resp="gnd-116890657">Nach
+                        <quote>fleischig</quote> gestrichen: <quote>in den Wangen</quote>.</note>
+                  und unbedeutender im Ausdruck ist. Nur die langen, nah an der Nase stehenden Augen
+                  sind mir aufgefallen, die hier eben das sind, was in <persName ref="gnd-120193795">Johann dem Guten</persName> als Karrikatur erscheint.</p>
+               <p>An <persName ref="gnd-118548166">Heinrich 2.</persName> und <persName ref="gnd-118534947">Franz 1.</persName> lassen <persName ref="gnd-118540238">Sie</persName> mich gleich <persName ref="gnd-118548174">Heinrich
+                     4.</persName> anschliessen, weil er (wunderbar genug, da er nur entfernt und
+                  nur durch seine <persName ref="gnd-102292906">Mutter</persName> und <persName ref="gnd-118577719">Grossmutter</persName> mit ihnen verwandt ist) eine
+                  offenbare Aehnlichkeit mit ihnen in der Physiognomie besitzt. Es sind in dem
+                  Museum eine Büste von <persName ref="gnd-119340879">Prieur</persName>
+                        <note type="footnote" n="xxxvii)" resp="gnd-116890657">Der Bildhauer <persName ref="gnd-119340879">Barthelémy Prieur</persName>, ein Schüler <persName ref="gnd-118792210">Pilon</persName>s und <persName ref="gnd-1233496263">Trebati</persName>s, wirkte <date from="1550" to="1590">1550-90</date> in
+                        <placeName ref="geo-2988507">Paris</placeName>.</note> und einige Statuen
+                  von ihm. Unter den letzteren ist die von Francheville<note type="footnote" n="xxxviii)" resp="gnd-116890657">
+                            <persName ref="gnd-128752505">Pierre
+                        Francheville</persName> (<date from="1548" to="1618">1548-1618</date>),
+                     Maler und Bildhauer, Schüler <persName ref="gnd-118678477">Johanns von
+                        Bologna</persName>, lebte <date from="1601">seit 1601</date> am <placeName ref="geo-2988507">paris</placeName>er Hofe.</note> merkwürdig, weil sie nach
+                     <persName ref="gnd-116909080">Lenoir</persName>s Zeugniss (S. 152. seines
+                  Katalogs) äusserst ähnlich seyn soll. <persName ref="gnd-116909080">Lenoir</persName> hatte nemlich von der Convention den Auftrag erhalten, bei
+                  der Oefnung der Gräber in <placeName ref="geo-2980916">St. Denis</placeName> über
+                  die Erhaltung der Kunstwerke und Denkmäler zu wachen. Er sah also die Särge dieser
+                  langen Königsreihe vor sich öfnen; sah die Costüme so verschiedner Jahrhunderte,
+                  und konnte sogar noch eine und die andre Gesichtsbildung ganz oder zum Theil
+                  erkennen — ein einziger Anblick, mehr, als irgend etwas andres, dazu gemacht, die
+                  Einbildungskraft in jene entfernten Zeiten zurückzuversetzen. Schade dass die Lage
+                  und die Zeitumstände ihm nicht erlaubten, die mindeste kleine Zeichnung zu
+                  entwerfen, da sich sonst unstreitig über das Costüme der frühem Zeiten
+                  interessante Entdeckungen hätten machen lassen. <persName ref="gnd-118548174">Heinrichs 4.</persName> Züge waren noch so gut erhalten, dass er die
+                  Aehnlichkeit mit der Statue seines Museums genau bemerken konnte, und auch
+                     <persName ref="gnd-11872942X">Ludwig 13.</persName> war noch durchaus
+                  erkennbar.</p>
+               <pb n="2.374" xml:id="pbII374"/>
+               <p>Vergleicht man <persName ref="gnd-118548174">Heinrichs 4.</persName>
+                  Gesichtsbildung mit der <persName ref="gnd-118534947">Franz 1.</persName>, so sind
+                  die Züge kleiner, schärfer, spitziger, und gedrängter. Die heroenmässige Stärke
+                  ist gewichen, aber es ist mehr Feinheit und Munterkeit an die Stelle getreten. In
+                  der That giebt es wohl nur wenig geistreichere und feinere Physiognomien, als die
+                  seinige.</p>
+               <p>
+                        <persName ref="gnd-118554727">Ich</persName> erinnere mich ein Paar Holzschnitte
+                  von <persName ref="gnd-118548174">Heinrich</persName>s <persName ref="gnd-101988095">Vater</persName> und <persName ref="gnd-102292906">Mutter</persName> gesehen zu haben, die mir sehr viel Freude gemacht haben.
+                  Anton von Navarra hat ein merkwürdiges und ausdrucksvolles Gesicht. Die
+                  Profillinie steigt sehr stark von hinten nach vorn herab; die Stirn ist knöchern
+                  und einwärtsgebogen, die Nase stark an ihr abgesetzt, spitzig und mit einem
+                  grossen Höcker versehen, die Wangen hager, das Kinn spitzig. Aber auf der Stirn
+                  und in den Augen ruht ein seltner und rührender Ausdruck einer schönen und rein
+                  menschlichen Sorge.<note type="footnote" n="xxxix)" resp="gnd-116890657">Nach
+                        <quote>Sorge</quote> gestrichen: <quote>in der man schon
+                           Heinr<supplied>ichs</supplied>
+                            </quote>.</note> Die <persName ref="gnd-102292906">Mutter</persName> ist ihrem <persName ref="gnd-118548174">Sohn</persName>e ähnlicher; ihr tiefliegendes Auge verräth männliche Klugheit
+                  und Festigkeit; aber ihr Gesicht ist finstrer, und zeigt nicht so lebendige Spuren
+                  geistreicher Feinheit und fröhlichen Witzes.</p>
+               <p>In wenigen Wochen befinde <persName ref="gnd-118554727">ich</persName> mich
+                  wahrscheinlich in den Zimmern, wo <persName ref="gnd-118548174">Heinrich
+                     4.</persName> geboren ist. Noch bis zum Anfange der Revolution hatte man in dem
+                  Schlosse zu Pau die Anordnung der Zimmer, die Meublen, die Familiengemählde, kurz
+                  alles noch eben so gelassen, als es zu seiner Zeit war. Man sah sogar noch die
+                  Muschel, die ihm (ein hübscher Einfall) zur Wiege gedient hatte.</p>
+               <p>Bei <persName ref="gnd-118548174">Heinrich 4.</persName> darf <persName ref="gnd-118554727">ich</persName> seiner Freunde, <persName ref="gnd-11879938X">Sully</persName>’s und Sarrede de Vic d’Ermenonville’s
+                  nicht vergessen. <persName ref="gnd-11879938X">Sully</persName> hat, wie schon
+                  sonst bemerkt worden ist, eine unverkennbare Aehnlichkeit mit <persName ref="gnd-118548174">Heinrich 4.</persName>, vielleicht noch mehr Festigkeit in
+                  dem breiten Gesicht und der stärker gewölbten Stirn, aber mindre Lebhaftigkeit. In
+                  Sarrede, der seinem Könige aus Gram zu Grabe folgte, liegt ein Ausdruck tiefen
+                  Wohlwollens. Die Büsten, die sich von beiden in diesem Museum befinden, sind von
+                  unbekannten Meistern und nicht vorzüglich.</p>
+               <p>Mit <persName ref="gnd-118548166">Heinrich 2.</persName> haben die Grabmäler mit
+                  Statuen in <placeName ref="geo-2980916">St. Denis</placeName> aufgehört. Von
+                  seinen drei Söhnen sind, soviel <persName ref="gnd-118554727">ich</persName>
+                  weiss, nicht einmal je Bildsäulen oder Büsten vorhanden gewesen. Auffallend war es
+                  mir, aus ihren Kupferstichen zu sehn, dass sie, <persName ref="gnd-118773720">Heinrich 3.</persName> ausgenommen, gar keine Aehnlichkeit mit ihrem <persName ref="gnd-118548166">Vater</persName> und <persName ref="gnd-118534947">Gross-<pb n="2.375" xml:id="pbII375"/> vater</persName> zeigen. Es ist eine
+                  ganz andre, kleine und runde Gesichtsform. <persName ref="gnd-119077647">Franz
+                     2.</persName> hat eine regelmässige, recht eigentlich schöne, beinah weibliche
+                  Physiognomie. Der Ausdruck im Gesicht <persName ref="gnd-118720880">Carls
+                     9.</persName> ist zwar unbedeutend, aber gefällig, lebhaft und verständig. Wenn
+                  man sein Bildniss sieht, oder an seine Liebe zur Dichtkunst und seinen Umgang mit
+                  den vorzüglichsten Dichtern seiner Zeit denkt, begreift man wenigstens eher, als
+                  wenn man die Begebenheiten seiner Regierung liest, wie der alte <persName ref="gnd-118602519">Ronsard</persName> die Stirn haben konnte, ihm zu
+                  sagen:</p>
+               <lg type="poem">
+                  <l>Denn niemand ist dir gleich,</l>
+                  <l>Als <persName ref="gnd-118534947">Franz</persName>, dein Ahnherr nur; ja wenns
+                     die edle Schaam<note type="footnote" n="5)" resp="gnd-118554727">
+                                <hi xml:lang="fr">l'honneste honte</hi>, ein schöner Ausdruck, der an die
+                           <persName ref="gnd-11855333X">Homer</persName>ische <hi xml:lang="grc">αἰδώς</hi> erinnert.</note>
+                  </l>
+                  <l>erlaubte, sagt ich, dass dein Herz ihn übertrift,</l>
+                  <l>soviel als unser Alter besser ist als seins,</l>
+                  <l>die Gegenwart, mehr als die Vorzeit, Ruhm verdient.<note type="footnote" n="xl)" resp="gnd-116890657">Die Stelle findet sich in <persName ref="gnd-118602519">Ronsard</persName>s Antwortgedicht an <persName ref="gnd-118720880">König Karl IX.</persName> auf Verse, die dieser <date when="1578">1578</date> an ihn gerichtet hatte, Vers 8 (<bibl>
+                                    <title xml:lang="fr">Oeuvres complètes</title>
+                           <biblScope unit="volume" n="3">3</biblScope>, <biblScope unit="page" n="256">256</biblScope>
+                                </bibl>).</note>
+                  </l>
+               </lg>
+               <p>Da <placeName ref="geo-3017382">Frankreich</placeName> im 16ten Jahrhundert einige
+                  grosse Bildhauer besass, so ist dieser Theil des Museums vorzüglich reich an
+                  schönen Arbeiten. <persName ref="gnd-118554727">Ich</persName> nenne <persName ref="gnd-118540238">Ihnen</persName> nur noch das Grabmal des <persName ref="gnd-1114085987">Admiral Chabot von Cousin</persName>, eine marmorne Säule
+                  zu Ehren Timoleons de Cossé, eine andre gewundene auf <persName ref="gnd-11899686X">Anne de Montmorency</persName>, an der <persName ref="gnd-119340879">Barthélemi Prieur</persName> aus Dankbarkeit gegen seinen
+                  Wohlthäter 20 Jahre arbeitete, endlich die Grazien, welche <persName ref="gnd-118560557">Katharine</persName>ns und <persName ref="gnd-118548166">Heinrichs 2.</persName> Herz tragen. An dies Meisterstück <persName ref="gnd-118792210">Pilon</persName>s, das gleichfalls bei den Celestinern
+                  stand, brauche <persName ref="gnd-118554727">ich</persName>
+                  <persName ref="gnd-118540238">Sie</persName> nur zu erinnern, da es allgemein
+                  bekannt ist.</p>
+               <p>Man kann sich in der That nichts Gefälligeres und Reizenderes denken, als die
+                  Gruppirung und Verbindung dieser drei himmlischen Gestalten. Der Ausdruck der
+                  körperlichen und sittlichen Grazie ist so rein und innig in ihnen verschmolzen,
+                  dass man ihn vergebens zu trennen versuchen würde, und welche religiöse und
+                  moralische Begriffe ein Zeitalter hätte, so müsste es in ihnen das Bild der
+                  feinsten Blüthe menschlicher Veredlung anerkennen. Daher ist es thöricht zu
+                  streiten, ob sie die Grazien der Alten darstellen oder Sinnbilder christlicher
+                  Tugenden seyn sollen, und eine Gränze zu ziehen, an die der Künstler sogar die
+                  Erinnerung vertilgt hat.</p>
+               <pb n="2.376" xml:id="pbII376"/>
+               <p>
+                        <persName ref="gnd-118554727">Ich</persName> habe <persName ref="gnd-118540238">Sie</persName> im Vorigen darauf aufmerksam gemacht, dass mit <persName ref="gnd-118534947">Franz 1.</persName> eine neue Gesichtsform anfängt, und
+                     <persName ref="gnd-118554727">ich</persName> glaube mit Sicherheit hinzusetzen
+                  zu können, dass das 16te Jahrhundert seine eigenthümliche, leicht erkennbare
+                  Physiognomie hat. In der ehemaligen <placeName ref="geo-3017382">Franz</placeName>ösischen Königsfamilie ist dies offenbar; aber wenn <persName ref="gnd-118554727">ich</persName> es nur an dieser hier zeigte, weil von ihr
+                  gerade merkwürdigere Kunstwerke vorhanden sind, so scheint es mir darum auch
+                  übrigens allgemein wahr. Einzelne Beispiele können freilich eine solche Bemerkung
+                  weder bestätigen, noch widerlegen. Aber man blättre eine chronologisch geordnete
+                  Kupferstichsammlung durch und man wird sich leicht von ihrer Wahrheit überzeugen.
+                  In den Formen sind die Gesichtsbildungen des 16ten Jahrhunderts schmaler, länger
+                  und spitziger, mit schärfern und zum Theil auch feinem Zügen. Der Ausdruck ist
+                  minder gemein, und beschränkt, verräth mehr Geist und Munterkeit, mehr Freiheit
+                  und Rittermuth.</p>
+               <p>
+                        <persName ref="gnd-118554727">Ich</persName> erinnere mich besonders vier
+                  Kupferstiche aus der Familie der Thomassins gefunden zu haben, die mir in dieser
+                  Rücksicht merkwürdig schienen. Sie gingen vom Vater zum Sohn, der Urgrossvater war
+                  1424. gestorben, sein Urenkel lebte bis in die Mitte des 16ten Jahrhunderts. Der
+                  Urgrossvater hatte ein kurzes und dickes Gesicht, starke Backenknochen, eine kurze
+                  und gerade Nase. Sein Sohn flachere Züge und eine längere Gesichtsform, aber bei
+                  beiden war der Ausdruck unbedeutend und gemein. Der Enkel näherte sich der
+                  Physiognomie <persName ref="gnd-118548166">Heinrichs 2.</persName> Ein sehr langes
+                  Gesicht, starke Stirnknochen, tiefe Augen, eine gerade und lange Höckernase. Der
+                  Ausdruck nachdenkend und fest, aber etwas traurig und dunkel. Der Urenkel endlich
+                  hatte ein kürzeres Gesicht, gebogene Stirn und Nase, kleine näher zusammen
+                  gerückte Augen, weniger Stärke, aber mehr Munterkeit und einen lebhaftern Geist im
+                  Ausdruck.</p>
+            </div>
+         </div>
+         <div type="notes">
+            <head>
+               <title type="main">Bemerkungen zur Entstehungsgeschichte </title>
+            </head>
+            <p>Für den, der wie <persName ref="gnd-118554727">Humboldt</persName> aus der kritischen
+               Beobachtung und Vergleichung der Menschen in ihrer individuellen und nationalen
+               Besonderheit allezeit ein Lieblingsstudium gemacht hatte, mußte die Beschäftigung mit
+               dem <placeName ref="geo-3017382">franz</placeName>ösischen Nationalcharakter, die in
+                  <placeName ref="geo-2988507">Paris</placeName> den reichsten Stoff fand, eine
+               verlockende Aufgabe sein. Bei seinem Aufenthalt in <placeName ref="geo-2935022">Dresden</placeName> im <date from="1797-06" to="1797-08">Sommer 1797</date> hatte
+                  <persName ref="gnd-118554727">Humboldt</persName> mit <persName ref="gnd-11856448X">Körner</persName> eine gemeinsame Arbeit beschlossen, mit der
+               die Freunde, besonders <persName ref="gnd-118607626">Schiller</persName>, überrascht
+               werden sollten, ein Bändchen intellektueller Biographieen hervorragender typischer
+               Vertreter verschiedener Völker; jetzt in <placeName ref="geo-2988507">Paris</placeName> lag es ihm nahe, den <placeName ref="geo-3017382">franz</placeName>ösischen Teil dieser Sammlung zu bearbeiten, und zwar sollte der
+                  <placeName ref="geo-3017382">franz</placeName>ösische Nationalgeist an der
+               Persönlichkeit <persName ref="gnd-118525263">Diderot</persName>s veranschaulicht
+               werden (an <persName ref="gnd-11856448X">Körner</persName>, <date when="1797-12-21">21. Dezember 1797</date>; an <persName ref="gnd-118540238">Goethe</persName>,
+                  <date when="1799-03-18">18. März 1799</date>; vgl. auch <bibl>
+                        <author>
+                            <persName ref="gnd-118607626">Schiller</persName>s</author>
+                  <title>Briefe</title>
+                  <biblScope unit="volume" n="5">5</biblScope>, <biblScope unit="page" n="342">342</biblScope>
+                    </bibl>). Fast in allen seinen pariser Briefen bis zur
+                  <placeName ref="geo-2510769">spani</placeName>schen Reise finden sich mehr oder
+               weniger eingehende Beiträge zu einer Schilderung und Charakteristik der <placeName ref="geo-3017382">franz</placeName>ösischen Nationalität, der er von allen nur
+               möglichen Seiten forschend nahezukommen versuchte. Trotzdem aber seine um diesen
+               Mittelpunkt sich versammelnden Ideen schon zu einem so glänzenden Gesammtbilde sich
+               abrundeten, wie es der Brief an <persName ref="gnd-118556312">Jacobi</persName> vom
+                  <date when="1798-10-26">26. Oktober 1798</date> vor uns entrollt, verging ihm doch
+               schließlich zu einer weit ausholenden Charakteristik die Lust (an <persName ref="gnd-11856448X">Körner</persName>, <date when="1798-11-15">15. November
+                  1798</date>). Aus diesem Studienkreise erwuchs auch die intime Beschäftigung mit
+               den älteren plastischen Kunstdenkmälern <placeName ref="geo-3017382">Frankreich</placeName>s, die eben damals durch <persName ref="gnd-116909080">Lenoir</persName>s Sorgfalt und Spüreifer in dem Museum der kleinen Augustiner
+               gesammelt und aufgestellt waren (vgl. auch die Schilderungen bei
+                        <bibl>
+                        <author>
+                            <persName ref="gnd-118748785">Solger</persName>
+                        </author>,
+                     <title>Nachgelassene Schriften und Briefwechsel</title>
+                  <biblScope unit="volume" n="1">1</biblScope>, <biblScope unit="page" n="71">71</biblScope>
+                    </bibl> und <bibl>
+                        <author>
+                            <persName ref="gnd-118731890">Matthisson</persName>
+                        </author>, <title>Schriften</title>
+                  <biblScope unit="volume" n="6">6</biblScope>, <biblScope unit="page" n="93">93</biblScope>
+                    </bibl>). Schon im <date from="1798-06" to="1798-08">Sommer
+                  1798</date> hatte sich <persName ref="gnd-118554727">Humboldt</persName> eingehend
+               mit diesen Denkmälern beschäftigt und aus ihnen zu ergründen versucht, welche
+               Veränderungen die Gesichtsbildung der <placeName ref="geo-3017382">Franz</placeName>osen im Lauf der Jahrhunderte durchgemacht habe; als ihn dann
+                  <persName ref="gnd-118540238">Goethe</persName> im <date when="1799-05">Mai
+                  1799</date> um Nachrichten über <placeName ref="geo-3017382">franz</placeName>ösische Kunstsachen für seine Propyläen anging
+                     (<bibl>
+                        <title>Briefe</title>
+                  <biblScope unit="volume" n="14">14</biblScope>, <biblScope unit="page" n="99">99</biblScope>
+                    </bibl>), ordnete er seine damaligen Beobachtungen im <date when="1799-07">Juli</date> oder <date when="1799-08">August des Jahres</date> in
+               Form von drei an <persName ref="gnd-118540238">Goethe</persName> gerichteten Briefen,
+               deren Erörterungen noch bis in die Gegenwart fortgeführt werden sollten (an <persName ref="gnd-118540238">Goethe</persName>, <date when="1799-08-18">18. August
+                  1799</date>). <persName ref="gnd-118547380">Haym</persName>s Vermutung, daß eben
+                  <persName ref="gnd-118540238">Goethe</persName> der ungenannte Adressat dieser
+               Sendschreiben ist, kann keinem Zweifel unterliegen; aber sie sind, sei es, weil
+                  <persName ref="gnd-118540238">Goethe</persName> in seiner Antwort mit keinem Worte
+               auf diesen in Aussicht gestellten Aufsatz einging, woraus <persName ref="gnd-118554727">Humboldt</persName> vielleicht schloß, daß die Sendung
+                  <persName ref="gnd-118540238">Goethe</persName> nicht genehm sei, sei es aus
+               andern unbekannten Gründen, niemals abgesandt und niemals in <persName ref="gnd-118540238">Goethe</persName>s Hände gekommen. Da außerdem die Proxyläen
+               in dieser Zeit eingingen, so blieb der Aufsatz liegen und erhielt auch keine weitere
+               Fortsetzung.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
