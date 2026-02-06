@@ -29,17 +29,28 @@
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
-               <title>Wilhelm von Humboldts Werke. Zweiter Band</title>
-               <editor>
-                  <persName ref="gnd-116890657">
-                    <surname>Leitzmann</surname>
-                    <forename>Albert</forename>
-                  </persName>
-               </editor>
-               <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
-               <pubPlace>Berlin</pubPlace>
-               <date when="1904">1904</date>
-               <idno type="URI">https://archive.org/details/gesammelteschrif02humbuoft/page/n1/mode/2up</idno>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zweiter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif02humbuoft/page/n1/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="113" to="323"/>
+               </monogr>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
