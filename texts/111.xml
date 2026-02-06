@@ -88,17 +88,10 @@
                   Ausgabe der <title>Odyssee</title>
                </title>
                <title type="sub">Philologie.</title>
-               <title type="sub">
-                  <bibl>
-                            <pubPlace>
-                                <placeName ref="geo-2911522">Halle</placeName>
-                            </pubPlace>, in der
-                        <publisher>Waisenhausbuchh</publisher>.: <title>Homeri Odyssea et Batracho-
-                        myomachia. In usum Scholarum et praelectionum. Editio altera, priore
-                        emendatior</title>. <date when="1794">1794</date>. XXXIV Vorb. u. 478 S. 8.
-                     (1 Rthlr.)</bibl>
-               </title>
             </head>
+            <ab type="bibliography">
+                  <bibl><pubPlace><placeName ref="geo-2911522">Halle</placeName></pubPlace>, in der <publisher>Waisenhausbuchh</publisher>.: <title>Homeri Odyssea et Batrachomyomachia. In usum Scholarum et praelectionum. Editio altera, priore emendatior</title>. <date when="1794">1794</date>. XXXIV Vorb. u. 478 S. 8. (1 Rthlr.)</bibl>
+               </ab>
             <p>So wenig auch die Absicht des <persName ref="gnd-117444154">Hn. Prof. Wolf</persName>
                dahin gieng, in diesem Abdruck, der allein den Mangel der Exemplarien der
                   <title>Odyssee</title> bis zur Vollendung seiner jetzigen neuen Ausgabe des
