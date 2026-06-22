@@ -1,0 +1,1078 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>Selbstanzeige der Schrift über Hermann und Dorothea</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI enconding</resp>
+               <persName xml:id="sbp">
+                  <forename>Silvia</forename>
+                  <surname>Berigüete Pastor</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Wilhelm von Humboldt: Schriften</publisher>
+            <date when="2025-05">Juni 2026</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+            <idno type="URI">https://www.wvh-schriften.de</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Dritter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif03humbuoft/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="1" to="29"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date when="1799-08">August 1799</date>
+            <placeName ref="geo-2988507">Paris</placeName>
+         </creation>
+         <langUsage>
+            <language ident="fr">Français</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#type">
+               <term>Rezenssion</term>
+            </keywords>
+            <keywords scheme="#topic">
+               <term>Ästhetik</term>
+               <term>Literatur</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text xmlns="http://www.tei-c.org/ns/1.0">
+      <body>
+         <div type="original">
+            <pb n="3.1" xml:id="pbIII1"/>
+            <head>
+               <title type="main">Selbstanzeige der Schrift über Hermann und Dorothea</title>
+               <title type="sub">Aesthétique.</title>
+            </head>
+            <ab type="bibliography">
+               <bibl>
+                  <author><persName key="gnd-118554727">Wilhelm von Humboldt</persName>s</author>
+                  <title>Ästhetische Versuche</title>. <biblScope unit="volume">Erster
+                     Band</biblScope>, <title>über <persName key="gnd-118540238">Goethe</persName>'s <title>Herrmann und
+                     Dorothea</title></title>. <pubPlace><placeName key="geo-2945024">Braunschweig</placeName></pubPlace>,
+                     <publisher><persName key="gnd-119049546">Friedrich Vieweg der Ältere</persName></publisher>, <date when="1799">1799</date>. </bibl> — <bibl xml:lang="fr">
+                  <title>Essais aesthétiques</title> de M. <persName key="gnd-118554727">Guillaume de Humboldt</persName>; première partie,
+                  sur l’<title>Hermann et Dorothée</title> de M. <persName key="gnd-118540238">Goethe</persName>.
+                     <pubPlace><placeName key="geo-2945024">Brunswick</placeName></pubPlace>, chez <publisher><persName key="gnd-119049546">Frédéric Vieweg
+                     l’aîné</persName></publisher>, <date when="1799">1799</date>; <biblScope unit="format">in
+                        8<sup>0</sup></biblScope>. </bibl>
+            </ab>
+            <p>Le domaine du poète est l’imagination; il n’est poète qu’en fécondant la sienne, il
+               ne se montre tel qu’en échauffant la nôtre. La nature que d'ailleurs nous examinons
+               avec nos sens, que nous analysons avec notre esprit, se présente par les efforts du
+               génie poétique à notre imagination, et paroît recevoir de lui un éclat nouveau.</p>
+            <p>Le problème général que le poète, que le peintre, que le statuaire, que tous les
+               artistes, en un mot, ont à résoudre, c’est de transformer en image ce qui, dans la
+               nature, est réel. Mais que feront-ils pour arriver jusques-là? Iront-ils altérer les
+               objets qu’ils dépeignent, et leur donner d’autres formes, d’autres couleurs, d’autres
+               attributs? Si l’artiste veut que nous recon- <pb n="3.2" xml:id="pbIII2"/> noissions
+               la nature dans son ouvrage, il ne doit point y apporter des changemens considérables.
+               Ce n’est donc pas tant son objet qu’il doit altérer, c’est moi plutôt, moi qui le
+               vois ou l’entends, qui dois éprouver un changement si merveilleux, que me trouvant au
+               milieu de la nature, je me sente néanmoins élevé au dessus d’elle; que voyant tout ce
+               qu’elle a de beau et de sublime, je ne m’aperçoive cependant pas en même temps de ses
+               imperfections, des bornes par lesquelles l’existence de tous les êtres est
+               circonscrite, de la marche rapide avec laquelle tous s’avancent vers leur destruction
+               entière. C’est donc à mon imagination qu’il faut qu’il s’adresse, et tout son talent
+               ne consiste qu’à l’échauffer et à la diriger: car il ne suffit pas de l’avoir excitée
+               seulement, il doit diriger en même temps ses élans; et s’il ne veut point manquer son
+               but, il faut qu’il s’établisse entre lui et nous une sympathie parfaite qui nous
+               tourne toujours vers les mêmes objets, et nous tienne toujours au même degré de
+               chaleur.</p>
+            <p>Pour présenter un objet aux sens, il suffit d’en montrer peu à peu les détails, pour
+               soumettre un raisonnement à l’esprit de l’analyse dans toutes ses parties: mais ce
+               n’est point d’une manière aussi mécanique que l’on parvient à diriger l’imagination.
+               Le poète a beau nous décrire tous les détails de la beauté de sa maîtresse, son image
+               ne sera jamais présente à notre imagination, s’il ne sait point nous inspirer la même
+               ardeur qui le consume lui-même. Tout ce qu’il peut nous communiquer, c’est le choc
+               électrique qui réveille notre imagination, qui la force à travailler comme il a
+               travaillé, de le suivre dans l’ensemble comme dans les détails de sa production.
+               Celui qui voit un tableau avec un œil vraiment connoisseur, doit le refaire, pour
+               ainsi dire, dans son imagination; et le lecteur d’un poète doit être, en quelque
+               façon, poète lui-même.</p>
+            <p>S’il y a une faculté de notre ame qui possède une spontanéité évidente, c’est
+               l’imagination. Elle n’agit jamais qu’avec une liberté entière: et si le poète a un
+               moyen de la diriger, ce n’est qu’en lui inspirant le désir, ou plutôt (car les arts
+               possèdent, en vérité, une force entrainante) le besoin de suivre le cours qu’il lui
+               indique. En approfondissant davantage sa nature, on découvre encore en elle une autre
+               qualité, qui, en la rendant plus propre aux effets étonnans de l’art, rend aussi le
+               travail plus pénible à l’artiste ; c’est de ne jamais produire que d’un seul jet, de
+               développer, mais non point de composer les parties dont elle forme un ensemble. <pb n="3.3" xml:id="pbIII3"/> C’est ce qui fait que l’unité de caractère est une
+               qualité si essentielle dans toutes les productions des arts, dont les différentes
+               parties ne doivent point s’annoncer comme des élémens isolés qui constituent un
+               entier, mais comme autant de côtés différens par lesquels l’ensemble même se
+               présente. Partout où cette unité vraiment poétique vient à manquer, quelque sévère
+               que soit la composition d’un poème, quelque forte que soit la logique avec laquelle
+               son auteur en a lié les différentes parties, on découvrira toujours que c’est
+               l’ouvrage de l’esprit et de l’art, et non point de l’imagination et du génie.</p>
+            <p>Il n’y a donc que l’enthousiasme qui soit capable de réveiller et de maitriser
+               l’imagination, et c’est au poète à l’inspirer. C’est peut-être là la raison pour
+               laquelle il est impossible de sentir entièrement un poète étranger. L’enthousiasme se
+               compose d’une infinité de rapports que les objets ont avec nos sentimens et notre
+               caractère; et il faut être élevé dans l’habitude d’une langue, avoir pensé et senti
+               avec elle, pour que chaque phrase et chaque mot se présente à nous avec toutes ses
+               nuances, qu’il réveille tous les souvenirs capables de renforcer l’idée qu’il nous
+               offre. Les mots d’une langue étrangère ressemblent véritablement à des signes morts ;
+               au lieu que ceux de la nôtre sont vivans, pour ainsi dire, parce qu’ils se lient à
+               tout ce qui respire autour de nous. Quoique telle expression étrangère nous soit
+               parfaitement connue, et que nous l’avons souvent entendu prononcer dans le pays même
+               auquel elle appartient, elle n’est jamais entrée dans le fonds de nos pensées, elle
+               ne nous a jamais servi à découvrir une idée neuve et intéressante, elle ne nous est
+               jamais échappée dans un moment d’émotion ou de douleur; en voilà assez pour qu’elle
+               nous reste toujours étrangère à un certain point.</p>
+            <p>Plus ces rapports de la langue avec les idées sont fins et imperceptibles, plus cette
+               difficulté devient grande, et elle ne l’est peut-être nulle part autant que dans les
+               poètes <placeName key="geo-3017382">fran</placeName>çois. Nulle autre poésie ne tient aussi fortement à son langage, dont il
+               est souvent impossible de la détacher par une traduction satisfaisante; nulle autre
+               nation, peut-être, n’a une manière de sentir aussi déliée, aussi raffinée, une
+               délicatesse aussi difficile à saisir; et c’est-là, peut-être, pourquoi les nations
+               étrangères, dès qu’elles sont par venues à se former un caractère particulier,
+               traitent si souvent même les chef-d’œuvres des <placeName key="geo-3017382">Fran</placeName>çois avec injustice.</p>
+            <p>Mais je reviens à mon objet. Pour réveiller notre enthousiasme, <pb n="3.4" xml:id="pbIII4"/> le poète doit en éprouver lui-même; échauffer notre imagination
+               par le feu de la sienne, voilà son secret. Nous avons vu, que pour nous présenter
+               l’image de la nature, il ne doit point essentiellement altérer les objets qu’il nous
+               peint, mais qu’il doit plutôt nous donner à nous-mêmes une autre manière de les voir,
+               et faire qu’au lieu de les examiner par nos sens, et de les analyser par notre
+               esprit, nous nous les représentions par la seule force de l’imagination. Mais il ne
+               lui est pas même permis d’agir directement sur celle-ci; il ne lui reste donc rien à
+               faire que de se renfermer en lui-même, de créer son ouvrage, de le fixer, soit sur la
+               toile par le pinceau, soit dans la mémoire des hommes par des paroles, et de confier
+               à cet ouvrage seul le soin de faire l’impression qu’il se propose. Si ce monument de
+               son art porte vraiment l’empreinte du génie, sa voix ne manquera pas de nous parler;
+               notre imagination se réveillera; et c’est alors, seulement, que nous nous sentirons
+               émus d’une manière vraiment poétique.</p>
+            <p>Tout le monde convient que sans imagination il n’y auroit ni poésie, ni art en
+               général; mais on n’a pas assez regardé, ce me semble, cette faculté de notre ame
+               comme l’essence mème de la poésie; on a cru trop souvent qu’il suffit qu’elle
+               embellisse son objet, au lieu que c’est elle seule qui doit le créer. Pour prouver
+               cette dernière assertion, il est nécessaire d’entrer dans une analyse de cette
+               faculté même, et de montrer ce que c’est proprement que l’imagination poétique,
+               essentiellement différente de celle qui sert aux travaux du philosophe et de
+               l’historien, ou à l’usage de la vie ordinaire. C’est de là, uniquement, que quelque
+               lumière nouvelle pourra se répandre sur notre raisonnement.</p>
+            <p>Il appartient essentiellement à l’imagination de reculer les limites du temps et de
+               l’espace. Rendre présent ce qui est absent, conserver dans notre pensée ce qui
+               n’existe déjà plus, revêtir d’une image ce qui, en soi-même, n’est pas corporel;
+               voilà ses effets les plus ordinaires. Dans cette opération constante d’allier
+               l’existence corporelle et limitée à une existence illimitée et indépendante (qu’il
+               nous soit permis un moment de nommer <emph>idéale</emph>), il y a nécessairement
+               plusieurs degrés différens. Tâchons d’en marquer les plus distinctifs.</p>
+            <list rend="roman">
+               <item n="I"><emph>L’imagination ne change rien aux objets, mais elle se contente de
+                     les transporter dans d’autres lieux, d’autres temps ou d’autres
+                     circonstances.</emph></item>
+               <item n="II"><emph>Elle altère les objets eux-mêmes, les compose <pb n="3.5" xml:id="pbIII5"/> de parties différentes, quelquefois hétérogènes, et forme
+                     des êtres dont la nature ne lui offre que les élémens.</emph></item>
+            </list>
+            <p>Dans ces deux opérations, elle ne franchit pas encore les bornes de l’existence
+               limitée et réelle. Elle forme des objets nouveaux, mais elle ne les soustrait point
+               aux lois de la nature existante. Il lui faut faire un pas de plus pour élever l’ame à
+               ce degré d’exaltation qui caractérise la véritable poésie. Le poète n’a pas besoin
+               d’altérer les formes de la nature: plus il la copiera fidèlement, plus il sera sûr de
+               nous charmer et de nous émouvoir: nous nous passons sans peine des fictions de la
+               mythologie; et rien n’a tant de droit sur notre cœur, que la peinture de l’homme et
+               de ce qui tient à son être. <emph>Mais en laissant la nature telle qu’elle est,
+                  l’imagination doit la dégager des conditions qui bornent et retrécissent son
+                  existence</emph>; elle doit reculer à la fois toutes les limites qui gènent le
+               libre essor de notre ame, elle doit ôter des objets tout ce qu’il y a d’exclusif et
+               de négatif, pour nous présenter toutes leurs beautés réelles et positives, aussi
+               entières, aussi constantes, aussi étroitement liées qu’il est possible. Le poète ne
+               doit pas, comme on dit ordinairement, nous élever de la terre aux cieux, il doit
+               plutôt répandre la sérénité et la constance invariable de ces régions élevées sur
+               notre globe même. Ce ne sont que les couleurs qu’il doit ajouter aux choses; et
+               semblable au voyageur qui, en voyant reparoitre le soleil après un temps triste et
+               nébuleux, se croit entouré d’autres collines, d’autres bosquets, d’un autre paysage,
+               en un mot, nous devons nous trouver transplantés par lui dans un monde nouveau, et
+               reconnoître cependant, avec une douce émotion de l’ame, les mêmes objets qui nous
+               étoient chers autrefois. Ce n’est que de cette manière qu’il réussit à lier notre
+               nature physique et sensible à celle qui semble annoncer une origine plus auguste, et
+               à nous donner à la fois toutes les jouissances dont nous sommes capables.</p>
+            <p>En méditant sur les moyens par lesquels le poète peut opérer la métamorphose
+               étonnante dont nous venons de parler, on sent bien que pour la produire il doit en
+               opérer une au dedans de nous-mêmes. Ce n’est point aux choses, à leur essence qu’il
+               peut toucher; son talent est de produire des illusions, mais des illusions plus
+               durables et plus profondes que la vérité même. Il doit donc agir sur nos pensées et
+               sur nos sentimens, et nous donner, pour <pb n="3.6" xml:id="pbIII6"/> ainsi dire, des
+               organes différens de ceux qui guident nos pas dans le cours ordinaire de la vie. On
+               ne s’attendra pas à voir trahir ici ce secret du poète, impénétrable à ses propres
+               yeux. Nous ne pouvons que suivre de loin ses traces; mais, en analysant l’impression
+               que les chef-d’œuvres de l’art laissent dans notre ame, nous reconnoîtrons facilement
+               qu’elle se réduit en entier à nous détacher de l’existence bornée du moment, et à
+               nous livrer à ces idées profondes et immenses, dans lesquelles seules la meilleure
+               partie de notre être se retrouve toute entière.</p>
+            <p>Le plus grand talent de l’artiste consiste à réunir dans son objet tous les traits
+               qui achèvent d’en constituer le caractère. Chaque ouvrage de l’art, digne de son nom,
+               ressemble, pour parler le langage des mathématiciens, à une quantité donnée et
+               entièrement déterminée. Rien n’y manque, rien n’y est superflu: c’est cette chose et
+               nulle autre, mais celle-ci toute entière: c’est pourquoi le premier effet qu’une
+               belle statue, un beau tableau produisent sur le spectateur, est de fixer ses veux
+               immobiles sur eux, de lui faire trouver dans ce petit espace tout ce qui peut charmer
+               ses sens et remplir son ame. S’il lui reste quelque chose à désirer, si le tableau le
+               laisse inquiet ou distrait, malheur à l’artiste ou au spectateur! Le premier ne s’est
+               pas élevé à la hauteur de son art. ou le dernier n’a pas eu l’ame de le sentir. En
+               contemplant l’<persName key="gnd-118503642">Apollon</persName> du Belvédère,<note type="footnote" n="i)" resp="gnd-116890657"><hi>Dieser sowie der nachher erwähnte <persName key="gnd-1019103213">Menelaos</persName> mit der Leiche des <persName key="gnd-118803271">Patroklos</persName>
+                     waren unter der großen Zahl der damals von den <placeName key="geo-3017382">Franz</placeName>osen aus <placeName key="geo-3175395">Italien</placeName> nach <placeName key="geo-2988507">Paris</placeName>
+                     übergeführten antiken Kunstwerke.</hi></note> on ne se lasse pas de parcourir
+               ces formes vraiment divines: chaque partie renvoie l’œil à cet ensemble majestueux,
+               et toujours on retourne de l’ensemble aux détails. L’admiration et l’émotion vont
+               toujours en s’accroissant: on n’épuise jamais ce que le ciseau de l’artiste a su nous
+               présenter. La beauté sublime de son ouvrage ressemble à une hauteur qui devient plus
+               gigantesque à mesure que l’œil s’occupe à la mesurer, ou à un abime qui devient plus
+               profond à mesure qu’on parvient à le creuser. Combien, au contraire, l’impression que
+               produit un objet de la nature, est différente! Quelque grand, quelque beau même qu’il
+               soit, l’esprit contemplatif le quitte bientôt pour méditer sur son origine, ses
+               résultats, les changemens qu’il aura à subir, les liaisons dans lesquelles il entre
+               avec le reste des êtres créés, et finit par se trouver loin de lui, occupé de
+                  l’organi-<pb n="3.7" xml:id="pbIII7"/> sation de cet ensemble dont il ne fait
+               qu’une partie: au lieu qui ici l’individu se perd dans l’immensité de l’univers;
+               l’art, au contraire, nous laisse retrouver, s’il est permis de le dire, cette
+               immensité même dans l’individu.</p>
+            <p>L’ouvrage de l’art est tout-à-fait un; il nous présente une idée sous une forme
+               quelconque; mais la forme et l’idée sont étroitement liées, et de manière à ne plus
+               être détachées l’une de l’autre: il nous force par là à opérer la même union au
+               dedans de nous-mêmes, à féconder notre imagination par notre pensée et nos sentimens
+               pour sentir le sublime du poète, et à échauffer l’esprit par l’imagination pour ne
+               pas réduire son ouvrage à un simple hiéroglyphe, un pur signe sensible d’une idée
+               intellectuelle. Or, c’est-là ce qui nous arrive toujours dans le cours ordinaire de
+               la vie. Pour déchiffrer le livre de la nature, et rechercher la vérité, il nous faut
+               toujours séparer la forme visible des notions intellectuelles, diviser nos facultés
+               comme nous disséquons la nature.</p>
+            <p>L’art, en général, n’a jamais rien d’exclusif. Dans la nature réelle, chaque objet,
+               en se donnant pour ce qu’il est, nous annonce en même temps qu’il ne sauroit être que
+               cela. Ce n’est pas ainsi qu’en agit l’art: il nous présente un héros dans la fleur de
+               la jeunesse, mais au lieu de ne nous arrêter qu’aux défauts de cet âge, il nous en
+               montre surtout la force et la vigueur; au lieu de nous renfermer dans cet instant
+               passager de notre existence, il faut qu’en y reconnoissant encore les traits aimables
+               et innocens de l’enfance, et en découvrant déjà le caractère ferme et male de l’homme
+               fait, nous parcourions tout ce cercle ravissant de la vie.</p>
+            <p>Le groupe intéressant de <placeName key="geo-3176959">Florence</placeName>, où <persName key="gnd-1019103213">Ménélas</persName> rapporte l’ami d’<persName key="gnd-118500384">Achille</persName>, tué dans la
+               mêlée, nous offre à la fois l’image la plus fidèle de la mort et la plus frappante de
+               la vie. Mais sans que sa manière nous fasse reculer d’effroi, elle se mêle plutôt,
+               d’une manière douce et touchante, à celle de la vie, et toutes les deux conduisent
+               notre pensée vers la destinée de l’homme: idée grande et sublime, où notre ame se
+               perd et se retrouve alternativement.</p>
+            <p>Les objets réels provoquent nos désirs ou nos intérêts : nous calculons tour-à-tour
+               l’utilité ou la jouissance qu’elles peuvent nous procurer. Les objets de l’art nous
+               inspirent des sentimens plus purs; ils nous plaisent, ils nous attachent par
+               eux-mêmes, ils calment nos passions; nul désir ignoble ne se réveille en leur
+               présence, et nous ne formons pas même le vœu de les posséder exclusivement. Il nous
+               suffit d’en jouir en les contemplant. </p>
+            <pb n="3.8" xml:id="pbIII8"/>
+            <p>L’art nous ramène toujours en nous-mêmes; il nous inspire l’enthousiasme le plus
+               grand et le plus noble, et devient, par là, une des sources les plus fécondes en
+               grandes actions; mais ce n’est qu’après avoir rendu l’homme à soi-même qu’il le donne
+               à ses semblables.</p>
+            <p>En marquant les points essentiels qui caractérisent l’effet des chef-d’œuvres des
+               arts, nous avons recueilli autant de faits sur lesquels nous pourrons établir notre
+               raisonnement. Nous avons vu qu’il y a différens degrés dans les opérations de
+               l’imagination, mais que ce n’est qu’en dégageant la nature de toutes les conditions
+               qui retrécissent son existence réelle, ou plutôt en nous détachant nous-mêmes du
+               cercle étroit où nous retiennent les besoins, les désirs et les passions de la vie
+               ordinaire, qu’elle parvient à mériter le nom d’imagination poétique. Nous avons vu
+               qu’ayant atteint ce but, elle s’annonce en nous par l’élévation et le calme de notre
+               ame, par l’absence de tout sentiment ignoble ou impur.</p>
+            <p>Il ne faut jamais oublier que c’est dans nous seuls que le poète opère des
+               changemens, et que, s’il nous présente la nature sous une forme nouvelle, ce n’est
+               pas elle, mais l’état de notre ame qui a changé. Nous avons dit que l’art éloigne de
+               ses ouvrages tout ce qu’il y a d’isolé, d’exclusif et de variable dans les objets
+               réels; mais il n’en peint pas moins fortement et ces changemens réguliers qui rendent
+               la nature intéressante, et ces catastrophes subites qui ajoutent du pathétique à la
+               vie; il ne nous en renferme pas moins dans des situations affreuses d’où notre œil ne
+               découvre aucune issue: il se priveroit, sans cela, des ressources les plus puissantes
+               pour émouvoir notre sensibilité. Le moyen infaillible par lequel il nous tient
+               néanmoins au niveau de sa hauteur, c’est d’anéantir en nous tout ce qui pourroit nous
+               rappeler notre propre existence bornée et incertaine, de nous faire planer au dessus
+               du destin et des événemens, d’étouffer en nous tout égoisme, de nous livrer tout
+               entiers aux créations de son génie, de ne parler, en un mot, qu’à notre seule
+               imagination. Ce qui prouve d’une manière incontestable que c’est ainsi qu’opère la
+               véritable poésie, c’est le fait certain, qu’en quittant le théâtre ou la lecture d’un
+               poème, nous nous trouvons toujours et plus de calme et plus de vigueur. Quelque
+               déchirante que soit la lutte que nous présente le poète tragique entre les efforts de
+               l’homme et la puissance du destin, notre ame parviendra toujours à rallier ses
+               sentimens, et à se remettre dans l’équilibre dont elle <pb n="3.9" xml:id="pbIII9"/>
+               a besoin, ou en reconnoissant dans le destin même une bonté sévère, mais juste, ou en
+               se roidissant contre une force aveugle qui peut la terrasser, mais non pas la
+               soumettre. Quelques fortes qu’aient été les secousses que nous avons éprouvées à la
+               vue d’une situation vraiment tragique, nous nous en sentirons néanmoins plus de
+               vigueur, et nous serons plus disposés à recommencer nous-mêmes le travail de la vie,
+               à braver ses peines et ses dangers. Il n’y a que les caractères foibles qui
+               succombent à cette douleur sublime qui élève l’ame au lieu de l’abattre, et la
+               purifie en la pénétrant.</p>
+            <p>Mais, sans nous arrêter plus longtemps à la différence de la nature et de l’art, dont
+               nous parlerons encore dans la suite, continuons d’analyser l’imagination, et de
+               montrer ce que le poète doit faire pour arriver à son but. Un ouvrage de l’art,
+               capable de captiver l’imagination et de l’élever à une sphère supérieure à la nature
+               même, doit tout renfermer en lui, et être indépendant de tout, hormis de lui-même.
+               C’est là le lien par lequel il nous attache à lui: lien si puissant, que, sans le
+               quitter, nous y retrouvons tout ce qui est fait pour nous intéresser et nous toucher.
+               L’historien, quoi qu’il doive lier les faits qu’il nous raconte, se répose
+               entièrement sur une chose, c’est qu’ils ont été véritables; et il nous conduit sans
+               cesse vers l’original, dont il ne donne que la copie. Le philosophe, quoique plus
+               indépendant, établit son raisonnement sur des faits auxquels son lecteur doit
+               toujours recourir avec lui. L’artiste, seul, ne se fonde sur rien; par l’essor seul
+               de son génie il se tient planant, pour ainsi dire, dans le vide. Il s’est nourri de
+               l’aspect de la nature; mais en nous offrant son image, il nous donne autre chose
+               qu’elle; et il nous ramène si peu à la réalité des objets, qu’il nous en détache
+               plutôt. Une belle statue ne rappelle rien qu’elle-même, la nature disparoît à côté
+               d’elle, son auteur lui-même est effacé par elle, elle semble n’exister que par elle
+               et pour elle seule. Il n’y a que les personnes incapables de sentir la beauté sublime
+               de l’art, qui ne voient dans ses productions que les objets qu’elles représentent.
+               Ceux pour qui l’artiste a vraiment travaillé, y découvrent quelque chose de plus.</p>
+            <p>En nous peignant la nature, l’artiste doit donc se l’approprier; en recevant son
+               objet de ses mains, il doit le refaire. Tout le monde connoît la définition sublime
+               que <persName key="gnd-118505696">Bacon</persName> donne de l’art: <pb n="3.10" xml:id="pbIII10"/>
+               <emph>C’est l’homme, dit-il, ajouté à la nature</emph>.<note type="footnote" n="ii)" resp="gnd-116890657">
+                  <quote xml:lang="la">Ars sive additus rebus homo</quote>; <hi>diese Definition
+                     findet sich am Ende des zweiten Kapitels von <persName key="gnd-118505696">Bacon</persName>s <title xml:lang="la">Descriptio globi intellectualis</title> (<bibl><title xml:lang="en">The
+                           works</title>
+                        <biblScope unit="volume" n="3">3</biblScope>, <biblScope unit="page" n="731">731</biblScope></bibl>).</hi></note> L’art du peintre, du statuaire, du
+               poète, est plus encore; c’est l’homme, non pas ajouté seulement, mais remplaçant la
+               nature. En effet, l’artiste doit anéantir la nature comme objet réel, et la refaire
+               comme production de l’imagination.</p>
+            <p>Nous possédons deux facultés étroitement liées ensemble, et cependant bien
+               différentes entr’elles: les sens et l’imagination. Par les uns, nous dépendons des
+               objets qui nous environnent; par l’autre, nous pouvons nous en détacher. Parle-t-on à
+               nos sens, nos besoins physiques se font ressentir, nos désirs se réveillent, nos
+               passions s’excitent, nous faisons des efforts, nous dépendons de leur succès, nos
+               forces physiques s’agitent, et leur mouvement nous épuise: s’adresse-t-on, au
+               contraire, à notre imagination, nous nous sentons libres et sans entraves, nous
+               chérissons et nous haïssons, nous craignons et nous espérons, mais nous restons
+               toujours au dessus de ces mouvemens de notre ame comme des événemens, et nos forces
+               puisent une nouvelle vigueur dans leur agitation même; c’est pourquoi il n’est jamais
+               possible de comparer l’objet de la nature à l’objet de l’art. Le premier parle
+               toujours à nos sens ou à notre imagination; le dernier ne frappe que notre
+               imagination. Tout ce que l’artiste devra faire, c’est donc de subordonner les
+               premiers à la dernière.</p>
+            <p>Il ne peut plus être douteux que son talent ne consiste à <emph>créer</emph>: car,
+               n’est-ce pas créer que de refaire l’ouvrage de la nature, de le présenter sous une
+               forme nouvelle et avec un éclat inconnu, de lui imprimer cette force magique par
+               laquelle il repousse loin de lui tout ce qui tient à nos désirs sensuels, et ne
+               réveille que les facultés les plus élevées de notre ame? Mais pour créer.
+               l’imagination doit dominer en lui, elle doit le maîtriser tout entier: ses sens, son
+               esprit, ses sentimens, tout ne doit obéir qu’à elle seule.</p>
+            <p>Commençons donc par distinguer deux espèces différentes d’imagination: l’une
+                  <emph>reproductive</emph>, qui ne nous ramène les objets que comme avant déjà
+               frappé nos sens; l’autre <emph>créatrice</emph>, qui, quoiqu’elle ne puisse pas nous
+               en offrir d’entièrement neufs. (puisqu’enfin il faut toujours puiser dans
+               l’expérience), nous les montre, cependant, non-seulement comme nos sens ne les ont
+                  <pb n="3.11" xml:id="pbIII11"/> jamais aperçus, mais aussi comme il seroit
+               impossible que jamais ils se présentassent à eux. La dernière appartient
+               essentiellement à l’art, et l’artiste ne mérite ce nom qu’en tant qu’il est dominé
+               par elle.</p>
+            <p>Ce n’est pas le poète seul dont l’imagination crée et qui en est dominé. Partout où
+               le génie se met en activité, c’est cette même imagination qui facilite et dirige son
+               essor. Le cas où la présence du génie est nécessaire, existe aussi souvent que les
+               ressources ordinaires ne suffisent plus, qu’il n’est plus possible d’appliquer
+               machinalement des règles connues, ou de faire l’énumération des moyens possibles pour
+               choisir le plus convenable: quand toute issue paroit fermée, c’est au génie à frayer
+               une route inconnue jusqu’alors; c’est pourquoi on l’a défini d’une manière aussi
+               juste qu’ingénieuse: <emph>le talent de donner la règle par le fait</emph>. Quoiqu’il
+               soit impossible de pénétrer les secrets de cette faculté étonnante, et de la suivre
+               dans le cours de son activité, il est certain cependant que c’est l’imagination qui,
+               dans ces cas, s’empare de l’ame, et qu’enrichie par l’expérience, elle crée plutôt
+               ses ressources qu’elle ne les puise à sa source: du moins si ce langage devroit
+               paroître plus métaphorique que précis, on ne sauroit nier que ce ne sont pas
+               seulement l’esprit et la réflexion qui agissent dans ces instans, mais que l’ame y
+               est remplie d’une ardeur qui l’éclaire en même temps qu’elle l’échauffe.</p>
+            <p>Il y a cependant une différence essentielle entre la manière de procéder de l’artiste
+               et celle du génie, quand ce n’est pas l’art qui l’occupe. Il travaille alors pour un
+               but particulier et étranger à l’imagination même: il n’invente pas pour avoir trouvé,
+               mais pour se procurer un moyen qui lui manque, soit qu’il cherche la solution d’un
+               problème scientifique, ou qu’une entreprise extraordinaire ait besoin de machines
+               nouvelles, ou que la décision d’une bataille exige une manœuvre savante et hardie :
+               l’artiste, au contraire, ne crée que pour le plaisir de créer; son but est renfermé
+               tout entier dans son ouvrage; qu’il existe et qu’il dure, qu’il parle à ceux qui
+               l’approchent, et qu’il soit reconnu, voilà tout ce qu’il désire.</p>
+            <p>Le travail de son imagination n’est point subordonné à une idée qui lui est étrangère
+               à elle-même; elle ne suit que son penchant naturel d’inventer et de créer seule,
+               libre et indépendante. Ce ne sont pas même les suffrages des hommes, les impressions
+               qu’il leur laissera, qui occupent l’artiste dans la chaleur de la <pb n="3.12" xml:id="pbIII12"/> composition; et s’il étoit possible qu’isolé du genre humain
+               entier, il conservât encore la vigueur et la fraîcheur de son génie, il n’en
+               travailleroit pas moins dans un désert, il n’en travailleroit pas moins, dût-il
+               savoir qu’avec le dernier coup de ciseau finiroit aussi son existence. C’est bien
+               plutôt un instinct secret de l’ame qu’il suit, un besoin intérieur qu’il satisfait,
+               qu’un acte spontané de sa volonté qu’il exerce.</p>
+            <p>Aussi souvent que nos facultés intellectuelles travaillent avec succès, elles
+               agissent de concert et étroitement liées ensemble. Le philosophe n’a pas moins besoin
+               d’imagination que le poète, mais son imagination est subordonnée à son esprit
+               spéculatif, c’est lui seul qui domine. On peut donc dire que tous les grands efforts
+               de l’esprit humain se ressemblent par là; par ce concert de toutes nos facultés
+               intellectuelles, par leur mouvement simultané et correspondant; mais qu’ils diffèrent
+               entr’eux, en ce que, selon le but particulier que nous nous proposons, c’est une
+               autre de ces facultés qui les dirige.</p>
+            <p>Or, il y a trois états principaux de notre ame, qui, en différant essentiellement
+               entr’eux, renferment tous les autres comme autant d’espèces particulières. Ou nous
+               nous occupons à recueillir, à examiner et à classer des faits; ou nous nous
+               attachons, (comme dans les mathématiques), à poursuivre des idées abstraites qui sont
+               indépendantes de l’expérience, ou n’y tiennent du moins que par les premiers objets
+               dont nous les avons tirées; ou nous nous entourons de tout ce que la nature offre de
+               plus varié à nos sens, mais en regardant ces objets bien moins comme des objets
+               réels, que comme une création nouvelle de notre imagination. Ce dernier état
+               appartient évidemment à l’art, et en l’analysant encore un moment, nous finirons par
+               découvrir les derniers traits qui le caractérisent.</p>
+            <p>Nous avons dit que l’imagination doit dominer le poète. Mais il n’y a rien de si
+               arbitraire que l’imagination; laissée à elle seule, elle s’abandonne au hasard en ne
+               suivant que les apparences des choses. Elle doit donc agir conjointement avec nos
+               autres facultés; elle doit les dominer, mais réveiller et déterminer leur activité.
+               Il n’est pas douteux que les productions de l’art doivent montrer la régularité la
+               plus exacte, et être calquées sur des lois sévères et strictement observées; mais les
+               principes de ces lois, l’imagination ne sauroit les trouver uniquement dans les
+               objets extérieurs, puisqu’elle doit s’élever au dessus d’eux; elle doit donc <pb n="3.13" xml:id="pbIII13"/> les prendre, surtout, de l’organisation même de notre
+               esprit: c’est en quoi diffère l’imagination chimérique de l’imagination poétique;
+               l’une crée d’après ses fantaisies momentanées, et en s’abandonnant au hasard; l’autre
+               conformément aux lois intérieures de notre pensée et de nos sentimens: l’une étouffe
+               ou entraine par son mouvement les autres facultés de l’esprit; l’autre, au contraire,
+               les excite, leur conserve leur liberté entière, et s’en sert pour régulariser sa
+               propre marche. C’est pourquoi la poésie allie la plus grande <emph>réalité à
+                  l’idéalité</emph> la plus parfaite; tandis que la dernière, (par laquelle nous
+               désignons cette beauté sublime, cette élévation dont la nature elle-même ne nous
+               offre aucun exemple), provient de l’exaltation de l’imagination; la première est une
+               suite nécessaire du concours des autres facultés de notre ame qui agissent de concert
+               avec elle.</p>
+            <p>Nous sommes parvenus maintenant au point où nous tendions; résumons les résultats
+               principaux de notre raisonnement. Le poète, avons nous dit, veut transformer en image
+               ce qui, dans la nature, est réel. Pour arriver à ce but, il faut qu’il s’adresse à
+               notre imagination, et qu’il la force de se représenter par un mouvement spontané ce
+               qu’il veut lui montrer. Mais, pour allumer la nôtre, il faut que la sienne travaille,
+               qu’elle refasse et crée de nouveau l’objet qu’elle emprunte de la nature; qu’elle se
+               montre libre et dominante, mais qu’elle s’assure en même temps de l’action combinée
+               et simultanée des autres facultés de l’ame. C’est ainsi que ses productions, en nous
+               élevant au dessus de nous-mêmes, iront droit à notre esprit et à notre cœur.</p>
+            <p>Si c’est-là le véritable caractère de la poésie, nous n’aurons jamais que deux
+               questions à faire pour décider du mérite poétique d’un morceau quelconque.</p>
+            <p>Y a-t-il, nous demanderons-nous, un fonds réel auquel nos sens, notre pensée ou nos
+               sentimens aiment à s’attacher?</p>
+            <p>Et ce fonds se présente-t-il à notre imagination et à elle seule? </p>
+            <p>Reconnoissons-nous dans la forme dont il est revétu, et l’éclat que cette faculté
+               sublime de notre ame ajoute aux idées grandes et pathétiques, ou la légèreté avec
+               laquelle elle traite les conceptions heureuses de l’esprit qui nous ravissent par
+               leur naïveté ou leur finesse?</p>
+            <p>Partout où nous chercherons envain l’une de ces deux qualités, ce ne sera plus de la
+               vraie poésie, ce sera une poésie imparfaite.</p>
+            <pb n="3.14" xml:id="pbIII14"/>
+            <p>Nous ne nommerons donc point poésie un morceau où le poète, dénué d’un fonds réel et
+               intéressant, nous débite des paroles sonores, de beaux vers, et même des images
+               pittoresques; car, quoiqu’il soit peut-être assez adroit pour flatter par là notre
+               imagination, elle cherchera envain un objet sur lequel elle puisse se fixer, qu’il
+               achève de lui dépeindre, dont elle puisse admirer l’ensemble et parcourir les
+               détails. Il n’y a que le génie de la versification qui doive faire exception ici,
+               s’il a le malheur de se classer dans ce genre: car la versification parfaite,
+               soutenue d’un bout d’un morceau à l’autre, produit en effet une musique suffisante
+               pour fixer celui dont le tact poétique est assez délié pour se nourrir de cette douce
+               harmonie des seuls sons.</p>
+            <p>Nous n’accorderons pas plus le nom de poète à celui dont le but principal est
+               d’étonner notre esprit, soit par des images recherchées, ou par des sentences
+               brillantes, ou des raisonnemens subtils: il paroîtra spirituel, ingénieux, grand
+               même, et éloquent, mais il ne sera pas poète; il nous étonnera et nous intéressera,
+               mais il nous laissera froids, et ne nous entrainera pas hors de nous-mêmes.</p>
+            <p>Mais nous refuserons surtout ce titre, difficile à mériter, à celui qui, sous le vain
+               prétexte de vouloir s’adresser directement à notre cœur et à notre sentiment, néglige
+               d’agir sur notre imagination; qui nous émeut et nous touche, mais n’élève point notre
+               ame, et n’agrandit point notre pensée; nous le fuirons, d’autant plus qu’il semble,
+               au premier coup-d’œil, être plus près de la véritable poésie, et qu’il menace plus
+               que les autres, de dépraver et d’anéantir ce qui reste encore de goût et de sentiment
+               poétique parmi nous.</p>
+            <p>Pour se former une idée véritable de la poésie, il faut donc renoncer à la regarder
+               comme un art de pur agrément, un simple ornement de la nature, destiné uniquement à
+               charmer et à instruire l’enfance du genre humain. Il est vrai que la plupart des
+               poètes ne nous fournissent que cette idée-là, que leur imagination. impuissante à
+               créer, ne sait que parsemer leur carrière de fleurs dispersées, et embellir par des
+               phrases poétiques des pensées et des sentimens qui ne le sont guère; mais il est sûr
+               aussi que ceux-ci ne sont relativement aux vrais poètes, que ce que les décorateurs
+               sont relativement aux peintres.</p>
+            <p>Si, d’après ce que nous avons exposé jusqu’ici, on vouloit former une définition de
+               l’art, il faudroit nécessairement que la <pb n="3.15" xml:id="pbIII15"/> notion de
+               l’imagination en fit une partie essentielle. Le talent de créer par l’imagination, ou
+               le tableau de la nature formé par elle, voilà à quoi se réduiroit cette définition,
+               soit qu’on regarde l’art comme qualité ou comme production de l’artiste; mais il est
+               vrai que pour sentir entièrement ce que ces expressions renferment, il faut avoir
+               présent à la mémoire ce que nous avons dit sur les qualités caractéristiques qui
+               constituent l’imagination poétique. En ajoutant les principaux de ces traits à la
+               définition mème, on diroit peut-être: <emph>L’art est le talent de représenter la
+                  nature par la seule imagination, libre et indépendante dans son action.</emph></p>
+            <p>Nous disons représenter la <emph>nature</emph>, pour désigner l’objet le plus
+               général, qui renferme tous ceux que l’art peut choisir: car, comme la nature s’étend
+               partout ou il y a des objets, il est nécessaire que tout, sans exception, même nos
+               pensées et nos sentimens, en un mot tout ce qui a une réalité quelconque, ou pour nos
+               sens, ou pour notre esprit, ou pour notre sentiment, en fasse partie.</p>
+            <p>On parle souvent du <emph>beau idéal</emph>, et l’on s’étonnera peut-être que je n’en
+               aie point fait mention ici; mais, voyant que le mot beau a différentes acceptions
+               chez différens philosophes, et qu’il est difficile (quoique non impossible) de fixer
+               sa signification véritable, j’ai cru choisir une marche plus naturelle en fondant mon
+               raisonnement immédiatement sur des faits. J’ai donc examiné l’impression que les
+               chef-d’œuvres de la peinture, de la sculpture et de la poésie laissent dans notre
+               ame; j’ai tâché de découvrir par là la manière dont l’artiste lui-même doit être
+               affecté, et j’ai puisé à cette source la définition de l’art. Il ne sera pas
+               superflu, cependant, d’ajouter encore quelques mots sur le beau idéal. On a avancé
+               quelquefois que le beau idéal naît du choix et de la composition des belles parties
+               dispersées dans la nature; mais cette définition n’a rien de satisfaisant à mes yeux.
+               Pour réunir différentes parties, il faut en faire un ensemble; or, pour leur donner
+               cette harmonie qui n’en constitue qu’une même forme, il faut les altérer et les
+               refaire entièrement. Ce n’est donc point une composition, mais une création nouvelle
+               dont il s’agit; le mot de partie ensuite n’est que relatif: chaque partie est un
+               entier pour elle, et consiste en d’autres parties plus petites encore. Quelles sont
+               donc celles dont on parle ici? Ne désespère-t-on que de trouver une figure entière
+               qui soit idéale? et croit-on plus facile <pb n="3.16" xml:id="pbIII16"/> de
+               rencontrer un bras, une main, un doigt, qui méritent ce nom? Si le peintre examine
+               bien sa méthode de procéder, il reconnoîtra facilement qu’il n’y a pas jusqu’au bout
+               de l’ongle qu’il puisse transporter immédiatement de la nature sur la toile, et qu’il
+               puisse laisser tel qu’il est. Anéantir ce qu’il voit dans sa mémoire comme objet
+               réel, et le créer de nouveau comme production de l’imagination, voilà la marche que,
+               même sans s’en apercevoir, il tient continuellement.</p>
+            <p>Le mot <emph>idéal</emph> est l’opposé de <emph>réel</emph>. Tout ce qui existe dans
+               nos idées est idéal; mais l’idéal, par excellence, est ce qui ne peut exister que là,
+               et c’est dans ce sens que nous donnons cette épithète à la beauté. L’art veut
+               transformer en image ce qui est réel dans la nature. Il cherche donc quelque chose
+               qui soit au dedans de lui, quelque chose d’idéal; mais il ne s’occupe pas précisément
+               à embellir son objet, à rendre beau ce qu’il présente; il reste fidèle à sa première
+               intention, celle de <emph>transformer en image</emph>. Pendant qu’il parcourt cette
+               route, il reconnoît qu’il ne sauroit y réussir sans s’abandonner entièrement à son
+               imagination, sans la laisser faire, et insensiblement son ouvrage participe de
+               l’éclat et de l’élévation de cette faculté de notre ame. Il n’y a que les petits
+               poètes, dont nous parlions auparavant, qui s’empressent sans cesse d’embellir leur
+               sujet; le grand artiste ne songe qu’à le rendre, et l’ayant rendu, il sort beau et
+               sublime de ses mains sans qu’il ait travaillé précisément à nous le présenter comme
+               tel. Tout ce que l’imagination manie, prend l’empreinte de son caractère.</p>
+            <p>Il est difficile d’expliquer comment elle parvient à produire cet effet magique et
+               merveilleux, mais incontestable; il faut se contenter de dire que c’est parce qu’elle
+               appartient aux facultés supérieures de notre ame, parce qu’elle étouffe en nous tout
+               ce qui retrécit notre existence, et ne réveille, au contraire, que ce qui élève nos
+               pensées et nos sentimens. Il y a cependant une observation à faire, qui, sans
+               résoudre entièrement ce problème, nous mène du moins plus près de sa solution.</p>
+            <p>Aussitôt que nous entrons dans la région des pures possibilités, il n’y a plus que la
+               liaison et la dépendance mutuelle des différentes parties qui puissent fixer les
+               objets à nos yeux. Dénués de toute existence réelle, ils ne peuvent avoir qu’une
+               existence idéale, que celle uniquement que leur assurent ou leurs causes, ou leurs
+               résultats; or, l’imagination poétique est renfermée toute entière dans ces limites,
+               et destinée néanmoins à nous donner <pb n="3.17" xml:id="pbIII17"/> l’idée d’une
+               existence même plus vive et plus durable que celle que nous apercevons par nos sens.
+               Qu’on juge donc quelle sera la liaison qu’elle établira entre les parties de ses
+               compositions; qu’on en juge surtout, en pensant que nulle part elle n’en rencontre
+               qui aient une existence indépendante pour elles, mais que chacune a autant besoin
+               d’être soutenue par les autres qu’elle les soutient elle-même. Dans l’union étroite
+               et mutuelle qui règne parmi les ouvrages de l’art, chaque objet dépend de l’autre;
+               ces idées de but et de moyen se confondent, puisqu’elles s’adaptent indistinctement à
+               chacun des élémens ; les parties constituent l’entier, et les détails se rapportent
+               parfaitement à l’ensemble. C’est pourquoi nous blâmons le poète qui nous montre ces
+               moyens; si ces moyens ne sortent point comme résultats nécessaires du sujet même:
+               s’il n’est point évident qu’il n’ait pas pu s’en défaire, quand même il l’auroit
+               voulu, ils sont des hors-d’œuvres, et ressemblent à des étais que l’on ajouteroit à
+               un édifice, au lieu de le faire poser sur ses propres fondemens: aussi
+               remarquera-t-on facilement, pour peu que l’on s’examine avec scrupule, qu’en
+               considérant les productions de l’art, au lieu de poursuivre (comme en philosophie ou
+               en histoire) une ligne progressive d’idées, on retourne souvent sur ses pas, qu’on
+               décrit un cercle continuel, et que l’analyse des combinaisons des parties nous ramène
+               souvent des dernières aux premières; et cependant ce n’est point dans la combinaison
+               du plan seulement, c’est bien plus encore dans les pensées et les sentimens que
+               l’artiste développe, c’est surtout dans ses formes, ses couleurs, ses tons, que cette
+               liaison mutuelle, cette union et cette harmonie parfaites doivent régner.</p>
+            <p>Si c’est-là la loi principale que l’imagination poétique doit suivre, ne nous
+               étonnons donc plus de l’éclat qu’elle donne à tout ce qu’elle nous représente; car
+               qu’y a-t-il de plus beau et de plus auguste que cette harmonie parfaite, cette
+               convenance entière qui fait reposer un ouvrage uniquement sur lui-même, et en lie
+               toutes les parties?</p>
+            <p>On a coutume de définir l’art par l’imitation de la nature; et il est vrai qu’en la
+               représentant par l’imagination, il nous donne quelque chose qui n’est pas elle, et
+               qui cependant la rappelle; malgré cela, cette définition ne me paroit ni exacte, ni
+               commode. Car, quelle nature est-ce qu’on doit imiter? la belle sans doute? Mais le
+               moyen de la reconnoître à des signes certains? Quel genre d’imitation exige-t-on?
+               est-ce l’imitation servile du copiste? ou est-<pb n="3.18" xml:id="pbIII18"/> ce une
+               autre plus libre qui permet d’altérer et d’embellir son original?</p>
+            <p>On évite ces embarras en prenant la route que nous venons de suivre. L’artiste doit
+               représenter la nature par l’imagination; c’est bien aussi là l’imiter, mais c’est
+               quelque chose de plus, et c’est une expression en même temps plus claire et plus
+               précise: l’imitation reste au dessous de son original; l’artiste, au contraire, nous
+               élève au dessus de notre existence physique et réelle, preuve certaine qu’il se
+               trouve lui-même supérieur à elle; son but est précisément marqué. Il doit faire
+               ensorte qu’au lieu d’examiner les objets par nos sens et de les analyser par notre
+               esprit, nous les voyons tout entiers par l’imagination; il ne peut plus être
+               incertain sur la manière de les traiter. La mesure exacte de la quantité dont il doit
+               les altérer, lui est prescrite; il doit les altérer précisément autant qu’il est
+               nécessaire pour les présenter à l’imagination seule; il ne peut pas non plus être
+               embarrassé du choix. Tout ce qui s’arrange dans la composition de son imagination
+               sans y causer de la disproportion, et sans en troubler l’harmonie, y entre de plein
+               droit, et sera beau ou sublime. Qu’il laisse faire à son imagination, qu’il l’élève
+               et qu’il l’épure, et il est sûr de réussir dans sa carrière.</p>
+            <p>Le principe de l’imitation de la nature doit donc être employé avec précaution; il
+               peut produire des erreurs, puisqu’il n’est pas suffisamment déterminé; et, mal
+               entendu, il peut circonscrire les limites de l’art, et faire méconnoître le caractère
+               de grandeur et d’élévation qu’il porte.</p>
+            <p>Qu’il me soit permis d’ajouter encore ici une observation générale, et dont
+               l’application s’étend sur tout ce qui concerne la théorie des arts. En raisonnant sur
+               le beau, sur le sublime, sur la nature de la poésie, sur le caractère de l’art, sur
+               les règles de ses genres différens, on peut adopter l’une des deux méthodes
+               suivantes. Ou l’on peut essayer de déterminer les qualités que l’ouvrage de l’artiste
+               doit posséder, et lui donner des règles pour l’exécution de ses idées; ou l’on peut
+               se borner à lui montrer de quelle manière son imagination doit être affectée pendant
+               le travail, quelles impressions il est destiné à produire, quel but, en un mot, il
+               doit se proposer en abandonnant ainsi les moyens de l’exécution à son génie seul. Il
+               est certain que ces deux méthodes doivent toujours être combinées ensemble, et que la
+               première surtout n’est jamais à négliger. Mais que l’on observe bien que, dans les
+               parties <pb n="3.19" xml:id="pbIII19"/> les plus essentielles de l’art, on ne pourra
+               jamais suivre que la dernière: et, qu’en voulant décrire l’objet même, on trouvera
+               toujours des choses qui se refusent avec opiniâtreté à toutes nos tentatives de les
+               exprimer. C’est pourquoi on a été pendant longtemps embarrassé de trouver une
+               définition de la beauté. On s’obstinoit à chercher des signes certains auxquels,
+               comme à <emph>des qualités de l’objet</emph>, on pût la reconnoitre; or, il est
+               impossible de les trouver. Le jugement qu’une chose est belle, n’est point le
+               résultat d’une analyse de l’esprit, mais d’une décision du <emph>goût</emph>. On ne
+               peut analyser que cette dernière faculté elle-même, que le sentiment que les objets
+               vraiment beaux produisent dans notre ame.</p>
+            <p>Il n’est pas douteux que l’artiste ne gagnât surtout aux règles qui lui indiqueroient
+               la manière de travailler son ouvrage, et qui permettroient une application directe.
+               Mais il est certain qu’il n’y a qu’un très-petit nombre de ces règles, et qu’aucune
+               d’elles ne concerne la partie vraiment poétique de son art. Pour celle-ci, on ne peut
+               lui dire autre chose, sinon: Telle est l’impression que vous devez produire; telle
+               est la manière dont vous devez être affecté vous-même, l’idée que vous devez
+               concevoir de votre ouvrage. Quant aux moyens de la fixer sur la toile ou sur le
+               marbre, il n’appartient qu’à votre génie de les trouver. Ce secret est tout entier à
+               vous, et vous ne mériteriez point le rang que vous tenez, si son voile étoit moins
+               difficile à soulever.</p>
+            <p>Chaque ouvrage de l’art peut être distingué par trois sortes de mérite, par</p>
+            <p rend="center"><emph>Le mérite du poète,</emph></p>
+            <p rend="center"><emph>Le mérite de la logique,</emph></p>
+            <p rend="center"><emph>Le mérite de l’artiste.</emph></p>
+            <p>Il peut être conçu avec génie, raisonné avec justesse, et exécuté d’une manière
+               grande et savante. La combinaison du plan est l’affaire du raisonnement, elle est
+               entièrement susceptible d’analyse et de discussion; et celui même qui seroit dénué de
+               goût et de connoissance de l’art, pourroit la juger jusqu’à un certain point. Le
+               mérite de l’exécution appartient tout entier à l’artiste proprement dit: il n’y a que
+               lui ou le véritable connoisseur qui puisse en juger, et il sera rare qu’étant
+               connoisseur dans ce sens du mot, on soit juge compétent pour deux arts différens. Le
+               mérite du génie est de la compétence de toutes les personnes qui se sentent <pb n="3.20" xml:id="pbIII20"/> le goût à la fois élevé et pur, et il sera mieux jugé
+               par celui qui, en comparant les productions des différens arts entr’elles, a étudié
+               ce qu’ils ont de commun, que par celui qui s’est attaché davantage aux différences
+               qui les caractérisent en particulier.</p>
+            <p>Ce n’est que de cette partie proprement poétique de l’art, que j’ai entrepris de
+               parler ici; et, après avoir essayé d’expliquer sa nature, et d’en donner une
+               définition satisfaisante, j’ajouterai encore quelques mots sur les différens points
+               dont il se compose, et sur les différens caractères sous lesquels nous le voyons
+               paroître dans les modèles qui nous sont connus.</p>
+            <p>Le mérite poétique consiste en ce que la nature soit représentée par l’imagination.
+               Il y a donc ici deux choses différentes: l’<emph>objet</emph> que le poète nous
+               offre, et la <emph>forme</emph> sous laquelle il le fait paroître. C’est de ces deux
+               parties étroitement liées ensemble qu’il est composé.</p>
+            <p>L’essentiel de l’art est la <emph>forme</emph>. Quel que soit l’objet que l’artiste
+               choisisse, grand ou petit, c’est par sa manière de le traiter qu’il l’ennoblit, c’est
+               en le transportant dans une sphère élevée au dessus de nos vues ordinaires. C’est en
+               quoi tous les genres qui appartiennent véritablement à l’art ont un mérite et un rang
+               égal. Le peintre d’histoire est plus grand homme certainement, plus profond
+               connoisseur de la nature humaine, que celui dont le pinceau ne nous offre que des
+               fleurs, ou des animaux, ou le tableau de la nature inanimée; mais ce dernier n’est
+               pas moins peintre que lui. Électriser notre imagination, et la forcer à créer de son
+               fonds, l’image qu’ils nous présentent, voilà le but commun auquel tous ceux qui se
+               croient artistes doivent viser, et la seule chose qui décide véritablement de leur
+               talent. Si nous exigeons du poète qu’il élève et qu’il agrandisse notre ame, nous
+               sommes bien éloignés de ne lui assigner que des sujets graves et sublimes, et de lui
+               défendre ces jeux aimables de l’esprit, ces élans heureux et faciles d’une
+               imagination enjouée et folâtre, qui font un des plus grands charmes de la poésie. Ce
+               n’est point justement en nous montrant des objets frappans par leur grandeur même,
+               qu’il produit en nous ces effets étonnans; c’est bien plus en nous détachant du
+               fardeau et des souvenirs pénibles de la vie; c’est la légéreté du vol qui nous ravit,
+               et non pas précisément la beauté des régions qu’il nous fait parcourir.</p>
+            <p>Les objets de l’art sont aussi variés que la nature même. <pb n="3.21" xml:id="pbIII21"/> Tout ce qui est susceptible des couleurs de l’imagination, est
+               du ressort de l’art.</p>
+            <p>Mais, comme tout ce dont il s’empare, il doit le rendre ou sensible à nos sens, ou le
+               rapprocher de notre sentiment, il n’y a que les objets de pur raisonnement qui lui
+               opposent une grande difficulté, et c’est ce qui rend la bonne poésie didactique si
+               rare parmi les chess-d’œuvre de toutes les nations. Malgré cette variété d’objets, le
+               plus grand que l’artiste peut choisir, et celui auquel tous les autres se rapportent,
+               c’est l’homme en contact avec la nature, ou jouissant des dons qu’elle lui offre, ou
+               luttant contre les dangers dont elle menace son existence.</p>
+            <p>Parmi tous les arts, il n’en est point qui soient plus opposés l’un à l’autre que la
+               sculpture et la musique. La première ne nous offre que de simples formes; tout y
+               dépend absolument de la correction et de la sévérité du dessin. La musique, au
+               contraire, ne nous présente pas même un objet déterminé, elle ne fait que donner une
+               certaine impulsion à nos sentimens, qu’à réveiller une certaine série, dont le
+               rhythme et l’harmonie répondent au rhythme des sons par lesquels elle charme notre
+               oreille. Tous les effets de l’art tiennent quelque chose de ce double résultat; nos
+               sens se représentent ordinairement des formes, des images, et notre sentiment est ému
+               d’une manière quelconque; tous les arts en général participent donc en quelque façon
+               de l’art <emph>plastique</emph> et de l’art <emph>musical</emph>.</p>
+            <p>La poésie mêle ces deux élémens avec plus d’égalité; elle allie beaucoup plus
+               étroitement les formes aux pensées et aux sentimens, puisqu’elle nous présente
+               l’homme vivant dans ses actions et ses discours; et c’est peut-être par là qu’elle
+               produit une impression plus profonde que les autres arts. Car c’est un avantage
+               précieux de la parole de savoir retracer tout aussi bien des images à nos sens, que
+               réveiller les sentimens les plus secrets de notre ame.</p>
+            <p>Comme la poésie peut produire cette double impression, il est permis aux poètes de
+               s’en tenir préférablement à l’une ou à l’autre d’elles. Car nous en trouvons qui, en
+               s’occupant uniquement du soin de graver une certaine image dans notre mémoire, sont
+               tout entiers à nous la présenter sous tous ses différens points de vue, et en
+               parcourir tous les détails. Il y en a d’autres, au contraire, qui, dans le même
+               genre, tâchent plutôt de ne donner à l’imagination qu’une certaine suite
+               d’impulsions, et de lui im- <pb n="3.22" xml:id="pbIII22"/> primer un mouvement
+               déterminé, en la conduisant rapidement par une grande variété de peintures
+               différentes. Comparons, par exemple, <persName key="gnd-11855333X">Homère</persName> et l’<persName key="gnd-118503952">Arioste</persName>, il est évident que l’effet
+               que le premier produit sur nous, provient de la beauté et de la grandeur des tableaux
+               qu’il nous présente, et de la manière sévère et hardie avec laquelle il les dessine;
+               au lieu que le poète <placeName key="geo-3175395">italien</placeName> ne semble nous agiter que par le mouvement dans lequel
+               il se trouve lui-même, par la rapidité avec laquelle il nous montre les siens, et par
+               la variété qu’il met dans leur succession. Pour nous imprimer davantage ses tableaux
+               dans l’imagination, <persName key="gnd-11855333X">Homère</persName> ne paroît jamais sur la scène; nous ne voyons que ses
+               héros; ce sont eux qui nous parlent, qui nous frappent et nous touchent. L’<persName key="gnd-118503952">Arioste</persName>,
+               au contraire, se mêle sans cesse à ses personnages, et, ne se contentant point de
+               rendre seulement son sujet, il s’occupe encore de l’impression qu’il nous fait, sans
+               nous cacher qu’il tâche de la diriger. Nous voyons donc là deux différens caractères
+               de poésie qui conviennent, il est vrai, à deux genres particuliers, à la poésie
+               épique et lyrique, mais que nous voyons aussi paroître dans les autres, uniquement
+               suivant le caractère des nations, des siècles et des individus.</p>
+            <p>Car c’est là principalement ce qui distingue la poésie des anciens de celle des
+               peuples modernes. Tout dans les premiers est <emph>plastique</emph>; il n’y a que des
+               formes, des figures, des tableaux; leurs poésies nous laissent à peu près la même
+               impression que produisent en nous les beaux morceaux de sculpture que nous avons
+               sauvés de l’injure du temps. La poésie moderne, au contraire, nous fait plutôt
+               l’effet d’une musique sonore et touchante, et souvent les objets disparoissent à nos
+               yeux dans l’émotion profonde que ses accens doux et mélancoliques causent à notre
+               ame. Il n’appartient point à mon plan d’entrer dans les détails de cette différence
+               de nos temps à ces siècles reculés, et il seroit difficile de les exposer sans
+               entreprendre un ouvrage particulier sur ce sujet. Contentons-nous seulement d’en
+               citer quelques traits, pour en venir à déterminer la marche que notre poésie pourra
+               tenir pour atteindre, s’il est possible, à la beauté et à la fraîcheur de celle des
+               premiers âges de notre espèce, et se nourrir en même temps de la philosophie de notre
+               siècle. Et observons qu’en parlant de la poésie des anciens, nous n’avons en vue que
+               les <placeName key="geo-390903">Grec</placeName>s, puisque les <placeName key="geo-8354456">Rom</placeName>ains s’éloignèrent d’eux, même en les imitant, et qu’ils se
+               rapprochent beaucoup plus de nos temps. Parmi les <pb n="3.23" xml:id="pbIII23"/>
+               nations modernes, il semble que les <placeName key="geo-3017382">Fran</placeName>çais aient plus imité la poésie latine: et
+               c’est ce qui donne, je crois, à leur poésie un caractère particulier, qui la
+               distingue à la fois de la <placeName key="geo-390903">grec</placeName>que et de celle de leurs voisins.</p>
+            <p>Ce seroit un travail superflu que de vouloir exposer en détail ce qui caractérise les
+               anciens. Tout le monde connoît l’impression qu’ils produisent en nous, l’élévation à
+               laquelle ils portent notre ame, le calme sublime qu’ils répandent sur elle, la douce
+               mélancolie dans laquelle ils nous plongent. Mais ce qui est plus difficile peut-être,
+               c’est de découvrir la méthode par laquelle ils par vinrent à atteindre ce degré de
+               perfection, et c’est là à quoi la critique doit s’exercer. Sans vouloir se flatter
+               d’avoir pénétré ce secret de leur génie, il est possible néanmoins d’en deviner
+               quelques points; et, en analysant leurs ouvrages, on leur trouvera surtout une
+               méthode différente de la nôtre dans la combinaison de leurs plans, dans le choix des
+               élémens dont ils les composent, et dans la manière dont ils dessinent leurs
+               figures.</p>
+            <p>Leurs plans sont fortement combinés, et on n’y rencontre guères de parties qui ne se
+               lient naturellement aux autres. Mais les anciens ne connoissent point cette unité
+               étudiée, cette marche serrée que nous trouvons souvent dans nos poètes modernes.
+               Leurs compositions paroissent sorties de l’imagination même, et étant mieux conçues,
+               quoique moins raisonnées peut-être, elles montrent moins les efforts du poète. Leurs
+               ouvrages portent par là davantage le caractère de la nature, et en conservent une
+               plus grande fraicheur; ne fatiguent point notre esprit, et gènent moins le libre
+               essor de l’imagination.</p>
+            <p>Les élémens dont ils les composent, sont à la fois grands et simples. Ces raffinemens
+               du sentiment, ces subtilités de l’esprit, dont fourmillent nos auteurs, leur sont
+               étrangers. Ils diversifient leurs caractères par des traits forts et prononcés, mais
+               non pas par ces nuances fines et presque imperceptibles qui caractérisent les
+               ouvrages de nos siècles modernes. Ils fuient tout ce qui pourroit paroître recherché;
+               et il n’y a que les grandes qualités de l’ame et les grandes passions qui proviennent
+               immédiatement de la nature humaine, qui entrent dans leurs tableaux.</p>
+            <p>Mais ce qui les caractérise surtout, c’est la manière particulière dont ils dessinent
+               les figures qu’ils nous présentent. C’est toujours par leurs paroles, par leurs
+               actions qu’ils peignent leurs personnages; c’est eux seuls que nous voyons, tandis
+               que le poète <pb n="3.24" xml:id="pbIII24"/> ne se montre jamais. Les anciens ne
+               connoissent point ces peintures froides, ces descriptions de la beauté des femmes,
+               par exemple, qui reviennent sans cesse dans les poètes italiens. Si <persName key="gnd-11855333X">Homère</persName> est
+               souvent minutieux dans ses descriptions, c'est une suite de l’habitude et du goût de
+               son siècle, et ce n’est que dans les accessoires de son ouvrage. Là où il veut
+               vraiment nous toucher, une seule épithète souvent lui suffit pour présenter l’image
+               toute entière à nos yeux.</p>
+            <p>La poésie ancienne ne nous offre donc que de grandes masses bien éclairées, des
+               masses qui se composent et se détachent avec une facilité égale devant nos yeux, et
+               qui, en ne se confondant jamais, n’embarrassent point notre imagination. Il n’y a
+               rien dans les poètes anciens qui ne parle aux sens, ou n’aille droit aux sentimens
+               les plus naturels de notre cœur; et cette simplicité naïve porte néanmoins un
+               caractère d’élévation qui ne manque jamais d’agrandir nos pensées et d’élever notre
+               ame. Tout y est facile et clair, et tout en même temps est noble et élevé. Qu’on
+               ajoute encore le charme de leur langage, son harmonie douce et ravissante, sa
+               richesse en expressions pittoresques, et l’on conviendra sans peine que la poésie
+               ancienne est la seule dont l’imagination puisse se nourrir entièrement, et qu’elle
+               restera toujours un modèle qu’il sera impossible d’égaler.</p>
+            <p>On seroit injuste cependant, si l’on méconnoissoit les avantages que les poètes
+               modernes ont su ajouter de leur côté à leurs ouvrages. Si les anciens déroulent à nos
+               yeux le tableau ravissant de la nature dans la richesse de ses formes et de ses
+               couleurs, ceux des siècles modernes nous offrent le tableau plus intéressant encore
+               de l’homme, et pénètrent les replis les plus secrets de notre cœur. Le caractère des
+               anciens et des modernes, en général, est marqué par cette différence frappante, que
+               les premiers vivoient toujours au dehors d’eux dans le sein de la nature, au lieu que
+               nous autres nous aimons à nous replier sur nous-mêmes, et à nous renfermer dans nos
+               pensées et nos sentimens. La poésie moderne nous saisit donc avec une plus grande
+               force, elle touche plus profondément notre sensibilité, elle intéresse davantage
+               notre esprit; mais elle frappe moins notre imagination, elle parle moins à nos sens,
+               son langage est à la sois plus obscur et plus difficile, les situations qu’elle nous
+               offre, déchirent souvent notre ame, au lieu de répandre sur elle ce calme délicieux
+               et profond auquel nous reconnoissons les chefs-d’œuvre des anciens. Elle est <pb n="3.25" xml:id="pbIII25"/> moins poésie, en un mot, et tient moins du caractère
+               véritable de l’art.</p>
+            <p>Que restera-t-il donc à faire au poète pour réparer ces défauts, sans rien perdre
+               pourtant des avantages dont ils sont accompagnés? La réponse me paroît simple. Nous
+               avons distingué plus haut le <emph>fonds</emph> que traite le poète, de la forme dont
+               il le revêt. Il doit, quant à cette dernière, approcher autant qu'il est possible des
+               poètes anciens; ils restent toujours les uniques modèles dans cette partie; mais il
+               doit en même temps faire entrer dans le fonds de ses ouvrages tout ce que la
+               philosophie et les lumières de nos temps peuvent lui suggérer; car ce seroit une idée
+               affligeante en effet, si la série de tant de siècles féconds en événemens et en
+               génies, ne nous eût rien laissé dont nous pussions aussi à notre tour enrichir et
+               embellir la poésie.</p>
+            <p>Ce n’est pas qu'on lui conseille précisément de mettre à profit les travaux de la
+               philosophie et des sciences, et de s’entourer d’images neuves, mais recherchées, de
+               pensées profondes peut-être, mais trop spéculatives et trop abstraites. Destiné à
+               produire un intérêt général, et à parler à nos sens et à notre imagination, il ne
+               doit s'en tenir qu'aux grands traits de la nature humaine, aux sentimens simples et
+               vrais, et aux images qu’offre l’aspect de la nature même. Ce n'est point en étendant
+               son domaine, c'est en le fécondant qu’il peut s’enrichir.</p>
+            <p>Il a bien un autre moyen d’ajouter de l’intérêt à ses ouvrages. Nous avons dit que le
+               sujet qu’il se plait à traiter de préférence, est l'homme, son caractère et les
+               rapports dans lesquels il se trouve avec la nature; or, tous nos progrès, soit dans
+               les arts, soit dans les sciences, soit enfin dans nos institutions mêmes, doivent
+               aboutir à rendre le caractère de l'homme, non-seulement et plus vertueux et plus
+               heureux (considération trop bornée qui peut même faire manquer le but auquel elle
+               doit conduire), mais aussi plus grand et plus élevé, plus varié dans sa manière
+               d’être, plus propre à s’enrichir de ce que les objets qui l’environnent lui offrent,
+               et à leur donner l’empreinte de sa grandeur. En comparant les nations anciennes aux
+               nations modernes, il est évident que ces dernières ne possèdent pas à la vérité des
+               caractères plus grands et plus vigoureux, mais certainement plus profonds, plus
+               riches en pensées et en sentimens, plus variés enfin que les premières. Que le poète
+               étudie donc cette variété, qu’il nous la représente dans ses ouvrages, qu’il s’élève
+               lui-même à la hauteur de son siècle, et nous <pb n="3.26" xml:id="pbIII26"/> nous
+               sentirons à la fois et l’imagination exaltée par ses tableaux, et l’esprit et le cœur
+               fortifiés par cette nourriture saine et substantielle. En suivant cette route, le
+               poète peut même rendre un service essentiel à la philosophie et à la morale; en
+               présentant à l’imagination une élévation idéale des sentimens, à laquelle il n’est
+               point possible d’atteindre dans la réalité des choses, il peut exciter l’enthousiasme
+               de la vertu, et porter l’homme bien au-delà du terme auquel il parviendroit par la
+               marche régulière mais lente de sa seule raison.</p>
+            <p>Si le progrès des sciences et de la philosophie agrandit et enrichit le caractère de
+               l’homme, c’est donc ce caractère plus cultivé que l’on doit retrouver dans les
+               ouvrages modernes de l’art; et voilà la seule manière dont, selon moi, la philosophie
+               peut influer sur la poésie, sans en altérer la simplicité et le naturel. Ce seroit un
+               travail digne d’occuper un auteur philosophe, que de décrire le genre et la variété
+               des caractères dont la poésie des différentes nations modernes nous trace le tableau,
+               l’idée que selon chacune, si elle en étoit seule le modèle, on pourroit se former de
+               l’humanité. Si cette comparaison intéressante ne décideroit point encore de leur
+               mérite poétique, elle montreroit du moins laquelle auroit su se nourrir davantage des
+               leçons de la philosophie et de l’expérience, en pénétrer ses idées et ses sentimens,
+               et en faire reparoître les effets jusques dans les ouvrages de l’art; et il ne seroit
+               pas difficile de prédire quelles nations remporteroient la victoire dans cette lutte
+               aussi glorieuse que difficile à soutenir.</p>
+            <p>Il faut cependant convenir qu’il y a un obstacle difficile à vaincre, qui s’oppose à
+               cet avancement de la poésie. Plus le sujet d’un poème est grand et important par
+               lui-même, plus il occupe l’esprit ou agite nos sentimens; plus il est difficile de
+               lui donner la clarté, la facilité et la légéreté qu’exigent les ouvrages de l’art. Si
+               les nations modernes possèdent un avantage réel sur les anciennes, ce n’est qu’en
+               divisant plus soigneusement leurs occupations, et qu’en isolant davantage leurs
+               facultés intellectuelles qu’ils ont acquis. En se détachant des prestiges des sens et
+               de l’imagination, ils ont donné plus de force à l’esprit analytique, et creusé plus
+               avant dans les profondeurs de la philosophie; et en renfermant leurs sentimens en
+               eux-mêmes, ils ont imprimé une originalité frappante à leurs caractères. Or, il n’y a
+               rien qui soit si contraire aux effets de l'art, que de diviser et d'isoler ainsi nos
+               facultés. Le poète demande l'homme et l'homme tout entier, et <pb n="3.27" xml:id="pbIII27"/> nous ne sentons jamais toutes les forces de notre ame plus
+               unies ensemble, que lorsque sur les ailes de l'imagination il nous transporte aux
+               régions élevées, accessibles à son génie seul.</p>
+            <p>Tout ce qui paroît extraordinaire, soit dans les passions, soit dans les caractères,
+               comme tout ce qui porte l'empreinte de l'originalité, semble s'éloigner de la nature,
+               et il est difficile de le ramener à sa simplicité et de le revêtir des couleurs de la
+               vérité. Le génie du poète néanmoins saura se tirer de ce pas critique et sauver ces
+               inconvéniens. Il en trouvera surtout les moyens en approfondissant entièrement son
+               sujet et en l'exposant dans tous les détails de son ensemble. Ce n'est pas tant pour
+               avoir choisi des situations qui sortent de la ligne ordinaire des choses, et pour
+               avoir présenté des caractères extravagans, que pour ne nous les avoir montrés que
+               d'un côté seulement, et pour ne pas les lier à tout ce qui les constitue, que
+               quelques poètes modernes paroissent plutôt bizarres que sublimes, et qu’ils manquent
+               l’effet poétique qu’ils vouloient produire. Quelqu’extraordinaire que paroisse un
+               caractère au premier aspect, il n'est pas douteux qu'en l'examinant dans tous ses
+               rapports, et en le comparant avec les situations qui ont contribué à le former, on ne
+               finisse par concevoir d’une manière claire et naturelle, comment il a dû naître et se
+               développer. Or, c’'est là ce que le grand poète ne manquera jamais de faire. Il nous
+               présentera ses personnages dans l’ensemble de leurs qualités: il les entourera de
+               figures propres à les faire ressortir: il les mettra dans des situations analogues:
+               et, au lieu de de s’éloigner de la nature, la nature elle-même paroîtra s’élever avec
+               lui. Nous ne nous plaindrons plus alors de ne pas retrouver la vérité et la
+               simplicité des anciens, et nous ne regretterons que les couleurs vives et brillantes
+               que la fraîcheur de leur imagination ajoutoit à leurs tableaux: avantage
+               inséparablement lié à la beauté de leur climat, à l'harmonie de leur langue, et à
+               l’âge heureux de l’enfance de notre espèce.</p>
+            <p>Les poètes <placeName key="geo-3017382">fran</placeName>çais, <placeName key="geo-3175395">itali</placeName>ens et <placeName key="geo-6269131">angl</placeName>ais sont trop généralement connus, pour qu'il
+               soit nécessaire de rien ajouter à leur sujet. Tout le monde peut juger par soi-même,
+               jusqu'à quel point ils ont réussi à allier les avantages des anciens aux progrès des
+               siècles modernes. La poésie <placeName key="geo-2921044">allemand</placeName>e, au contraire, est encore ignorée de la plus
+               grande partie de l’<placeName key="geo-6255148">Europe</placeName>. On n’en connoît que quelques auteurs, choisis au hasard,
+               et ceux-là même seulement à l'aide de traductions fort insuffisantes. Il n’est donc
+               pas inutile <pb n="3.28" xml:id="pbIII28"/> peut-être de dire, que si la poésie
+               <placeName key="geo-2921044">allemand</placeName>e a un caractère particulier, commun aux différens ouvrages de nos auteurs,
+               c’est celui de montrer évidemment qu’en faisant valoir tout ce que par les progrès
+               des temps notre pensée et nos sentimens ont gagné en étendue et en richesse, elle
+               tâche en même temps d’approcher autant qu’il est possible de la méthode sévère, vraie
+               et simple des anciens. Riche en pensées profondes et en sentimens nobles et délicats,
+               elle s’élève de jour en jour à la grandeur, à la simplicité et à l’élégance des
+               formes antiques. Elle excelle surtout dans la peinture des caractères, non pas
+               précisément en offrant des originaux aussi piquans que nous en trouvons, par exemple,
+               dans la poésie comique des <placeName key="geo-6269131">Angl</placeName>ais, mais en approfondissant les replis mystérieux du
+               cœur humain, en en saisissant les nuances les plus fines, et en les présentant dans
+               l’étroite liaison et dans l’ensemble parfait de leurs qualités, à les voir et à les
+               entendre, comme ordinairement nous nous entendons seulement nous-mêmes et au fond de
+               notre ame. Ce ne sera jamais une action, une passion seulement dont elle nous offrira
+               l’image, ce sera toujours tel ou tel individu agissant ou passionné. Les poètes
+               <placeName key="geo-2921044">allemand</placeName>s attachent un prix d’autant plus grand à cette partie de la poésie, qu’ils
+               croient s’apercevoir que c’est par là qu’il est possible d’allier les idées les plus
+               élevées à la simplicité de la nature. Car il n’y a rien de si extraordinaire qui ne
+               puisse entrer dans des situations et des combinaisons données dans le caractère de
+               l’homme; et il suffit qu’une chose en fasse partie et qu’elle soit reconnue telle,
+               pour ne plus nous frapper comme sortant des bornes de ce qui est simple et naturel.
+               C’est donc là le véritable centre dans lequel le poète doit se placer pour mettre ses
+               conceptions les plus hardies à la portée de nos vues et de nos sentimens.</p>
+            <p>En examinant par exemple les ouvrages de <emph><persName key="gnd-118540238">Goethe</persName></emph>, qui surtout a commencé
+               à frayer cette route, on doit nécessairement s’apercevoir de l’étude approfondie
+               qu’il a faite, non pas précisément des formes de convention, mais du génie véritable
+               des anciens. En marchant sur leurs traces, il n’est jamais occupé qu’à rendre son
+               sujet; et, rejetant tout ornement étranger, il ne songe qu’à nous en offrir le
+               tableau le plus fidèle, frappant par sa vérité et sa simplicité même. Néanmoins c’est
+               lui qui nous présente les situations les plus extraordinaires, les caractères les
+               plus étonnans; et l’on peut douter, si, pour n’en citer que ces exemples-ci, nul
+               autre poète a su jamais nous donner une idée aussi profonde et <pb n="3.29" xml:id="pbIII29"/> aussi élevée de l'amour, une peinture aussi neuve et aussi
+               intéressante du caractère des femmes. Mais, en choisissant des caractères qui
+               paroissent sortir des proportions ordinaires de la nature, il sait les y faire
+               rentrer: et en même temps qu'il déchire notre ame par des situations terribles, il
+               sait lui rendre le calme nécessaire en l'élevant à une hauteur où tout, et la
+               destinée de l'homme et ses désirs et ses passions, ne forment qu'une même et parfaite
+               harmonie. Si son <title xml:lang="de"><emph>Werther</emph></title> a mérité les
+               suffrages de toutes les nations, c'est qu'on a dû être étonné de voir dans le même
+               caractère cette force de passions, cette sensibilité profonde, un amour aussi exalté,
+               une organisation aussi extraordinaire, s’unir à des goûts aussi simples et aussi
+               naturels, à un attachement aussi sincère, aussi naïf pour les beautés de la nature et
+               les jeux innocens de l’enfance.</p>
+            <p>Il seroit peut-être utile de développer davantage le caractère de ce poète et de ceux
+               qui ont travaillé avec lui dans le même genre, en donnant une analyse détaillée de
+               leurs ouvrages; mais ce seroit-là un travail particulier, étranger au but que je me
+               suis proposé de remplir ici.</p>
+
+         </div>
+         <div type="notes">
+            <head>
+               <title type="main">Bemerkungen zur Entstehungsgeschichte </title>
+            </head>
+            <p>Erster Druck: <bibl>
+                  <author>
+                     <persName ref="gnd-118540238">Goethe</persName>s</author>
+                  <title>Propyläen</title>
+                  <biblScope unit="volume" n="3">3</biblScope>, <biblScope unit="issue" n="1">1</biblScope>, <biblScope unit="page" from="66" to="109">66-109</biblScope>
+                     (<date when="1800">1800</date>)</bibl>. Der zu Grunde liegende Brief an
+                  <persName ref="gnd-118540238">Goethe</persName> vom <date when="1799-08-18">18.
+                  August 1799</date> konnte mehrfach zur Berichtigung von Lesefehlern Goethes, die
+               in den Druck übergegangen sind, herangezogen werden.</p>
+            <p>Noch aus dem Studium einer andern Kunst erhoffte <persName ref="gnd-118554727">Humboldt</persName> in <placeName ref="geo-2988507">Paris</placeName> die
+               fruchtbarsten Aufschlüsse über das Wesen des <placeName ref="geo-3017382">franz</placeName>ösischen Nationalcharakters, aus dem der Schauspielkunst. Das
+                  <placeName ref="geo-2988507">paris</placeName>er Tagebuch enthält reiche Notizen
+               über den Besuch der Theater und die dabei von Dramen und Schauspielern gewonnenen
+               Eindrücke; ebenso berichteten seine Briefe aus dieser Zeit, von denen uns leider
+               viele, vor allem alle an <persName ref="gnd-118607626">Schiller</persName>
+               gerichteten verloren sind, häufig von theatralischen Dingen (an Körner, <date when="1797-12-21">21. Dezember 1797</date>; vgl. auch <bibl>
+                  <author>
+                     <persName ref="gnd-118540238">Goethe</persName>s</author>
+                  <title>Briefe</title>
+                  <biblScope unit="volume" n="13">13</biblScope>, <biblScope unit="page" n="88">88</biblScope>
+               </bibl> und <bibl>
+                  <author>
+                     <persName ref="gnd-118754971">Charlotte von Schiller</persName>
+                  </author>
+                  <biblScope unit="volume" n="2">2</biblScope>, <biblScope unit="page" n="175">175</biblScope>
+               </bibl>). Das ausführlichste Gesammtbild entwarf ein am <date when="1799-08-18">18.
+                  August 1799</date> an <persName ref="gnd-118540238">Goethe</persName> gerichtetes
+               langes Schreiben. Schon früher hatte <persName ref="gnd-118540238">Goethe</persName>
+               <persName ref="gnd-118554727">Humboldt</persName> gegenüber den Wunsch ausgesprochen,
+               interessante Stellen seiner an ihn und <persName ref="gnd-118607626">Schiller</persName> gerichteten Briefe in den <title>Propyläen</title> abdrucken
+               zu dürfen (<bibl>
+                  <title>Briefe</title>
+                  <biblScope unit="volume" n="14">14</biblScope>, <biblScope unit="page" n="99">99</biblScope>
+               </bibl>). In demselben Schreiben, das den großen Theaterbericht enthält, erklärte
+               sich <persName ref="gnd-118554727">Humboldt</persName> mit diesem Gedanken durchaus
+               einverstanden, vorausgesetzt daß es sich nur um ein unter <persName ref="gnd-118540238">Goethe</persName>s Leitung stehendes Journal handle und daß
+               die Anonymität gewahrt bliebe. Daraufhin unternahm es <persName ref="gnd-118540238">Goethe</persName> sogleich im <date when="1799-09">September</date> die
+               betreffenden Bogen des Briefes einem Schreiber abzudiktieren und dabei durch hie und
+               da angebrachte kleine Änderungen für das Erscheinen in den <title>Propyläen</title>
+               zu bearbeiten (<bibl>
+                  <title>Tagebücher</title>
+                  <biblScope unit="volume" n="2">2</biblScope>, <biblScope unit="page" n="258">258</biblScope>. <biblScope unit="page" n="259">259</biblScope>. <biblScope unit="page" n="261">261</biblScope>. <biblScope unit="page" n="262">262</biblScope>. <biblScope unit="page" n="263">263</biblScope>
+               </bibl>; <bibl>
+                  <title>Briefe</title>
+                  <biblScope unit="volume" n="14">14</biblScope>, <biblScope unit="page" n="178">178</biblScope>. <biblScope unit="page" n="209">209</biblScope>
+               </bibl>); einige hierbei unterlaufene Lesefehler <persName ref="gnd-118540238">Goethe</persName>s sind im obigen Abdruck nach dem Original des Briefes
+               verbessert. Als dann <persName ref="gnd-118554727">Humboldt</persName> für diese
+               Verwertung seiner Beobachtungen <persName ref="gnd-118540238">Goethe</persName>
+               seinen Dank aussprach, konnte er die Befürchtung nicht unterdrücken, er möchte der
+                  <placeName ref="geo-2921044">deutsch</placeName>en Bühne der <placeName ref="geo-3017382">franz</placeName>ösischen gegenüber aus mangelhafter Kenntnis
+               nicht gehörig Gerechtigkeit haben widerfahren lassen (an <persName ref="gnd-118540238">Goethe</persName>, <date when="1799-11-28">28. November
+                  1799</date>). <persName ref="gnd-118554727">Humboldt</persName>s Würdigung der
+                  <placeName ref="geo-3017382">franz</placeName>ösischen Tragödie kam gerade zu der
+               Zeit in <placeName ref="geo-2812482">Weimar</placeName> an, als <persName ref="gnd-118540238">Goethe</persName> mit der Bearbeitung des
+                  <title>Mahomet</title> von <persName ref="gnd-118627813">Voltaire</persName>
+               beschäftigt war, und machte daher auf die <placeName ref="geo-2812482">weimar</placeName>er Freunde einen ganz besondern Eindruck. <persName ref="gnd-118540238">Goethe</persName> erklärte, der Aufsatz habe seine und
+                  <persName ref="gnd-118607626">Schiller</persName>s Ansichten vom <placeName ref="geo-3017382">franz</placeName>ösischen Theater erst völlig ins Klare
+               gebracht, bei dem Experiment der Ver<placeName ref="geo-2921044">deutsch</placeName>ung des <title>Mahomet</title> sei ihm die Charakteristik der
+               Bühnen beider Nationen ein äußerst glücklicher Leitstern und die Bühnenwirkung des
+               Stückes werde Humboldts Bemerkungen durchaus bestätigen (<bibl>
+                  <title>Briefe</title>
+                  <biblScope unit="volume" n="14">14</biblScope>, <biblScope unit="page" n="209">209</biblScope>
+               </bibl>); dieser Überzeugung gab er auch öffentlichen Ausdruck in der kurzen Vorrede
+               zu den im gleichen <title>Propyläen</title>heft erschienenen Szenen des
+                  <title>Mahomet</title> (<bibl>
+                  <title>Werke</title>
+                  <biblScope unit="volume" n="40">40</biblScope>, <biblScope unit="page" n="67">67</biblScope>
+                  <pubPlace>
+                     <placeName ref="geo-2812482">weimar</placeName>ische Ausgabe</pubPlace>
+               </bibl>). <persName ref="gnd-118607626">Schiller</persName> war hierin mit seinem
+               großen Freunde ganz einig und seine im <date when="1800-01">Januar 1800</date>
+               gedichteten Stanzen „An <persName ref="gnd-118540238">Goethe</persName>, als er den
+                  <title>Mahomet</title> von <persName ref="gnd-118627813">Voltaire</persName> auf
+               die Bühne brachte“ lassen das deutlich erkennen. Urteile <persName ref="gnd-11856448X">Körner</persName>s oder der Romantiker sind, soviel <persName ref="gnd-118554727">ich</persName> sehen kann, nicht bekannt. Bei den Kritikern
+               der <title>Propyläen</title> fand der Aufsatz gleichfalls Beifall (<bibl>
+                  <author>
+                     <persName ref="gnd-121429741">Braun</persName>
+                  </author>, <title>
+                     <persName ref="gnd-118540238">Goethe</persName> im Urteile seiner
+                     Zeitgenossen</title>
+                  <biblScope unit="volume" n="2">2</biblScope>, <biblScope unit="page" n="395">395</biblScope>
+               </bibl>); einer Übersetzung ins <placeName ref="geo-3017382">Franz</placeName>ösische
+               gedenkt <persName ref="gnd-118554727">Humboldt</persName> selbst einmal (an <persName ref="gnd-118540238">Goethe</persName>, <date when="1800-05-30">30. Mai
+               1800</date>).</p>
+         </div>
+      </body>
+   </text>
+<standOff xmlns="http://www.tei-c.org/ns/1.0"><listAnnotation/></standOff></tei:TEI>
