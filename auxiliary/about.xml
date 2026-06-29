@@ -18,7 +18,6 @@
     <text>
         <body>
             <div type="about" xml:lang="de">
-                <div xml:id="about_project_de">
                     <head>Über die Website</head>
 
                     <p>
@@ -32,8 +31,7 @@
                     <p> Die Edition ist langfristig angelegt und versteht sich bewusst als <hi>work
                             in progress</hi>: eine wachsende digitale Infrastruktur statt eines
                         abgeschlossenen Archivs. </p>
-                </div>
-                <div xml:id="why_project_de">
+
                     <head>Warum dieses Projekt?</head>
 
                     <p> Die Schriften Wilhelm von Humboldts sind bis heute nur schwer zugänglich. </p>
@@ -50,8 +48,7 @@
                     <p> Diese Plattform reagiert auf genau diese Lücke: Sie macht Humboldts Werk im
                         digitalen Raum wieder sichtbar – nicht als statisches Archiv, sondern als
                         lebendige, vernetzte und nutzerfreundliche Edition. </p>
-                </div>
-                <div xml:id="project_story_de">
+
                     <head>Entstehung des Projekts</head>
 
                     <p><hi>Wilhelm von Humboldt: Schriften</hi> entstand im Herbst 2024 als privates
@@ -74,8 +71,7 @@
                         auch unabhängige Digital-Humanities-Projekte mit Hilfe offener Standards und
                         gemeinschaftlich entwickelter Werkzeuge einen wissenschaftlichen Beitrag
                         leisten können.</p>
-                </div>
-                <div xml:id="digitization_de">
+
                     <head>Digitale Aufbereitung</head>
 
                     <p>Die Texte werden in mehreren Schritten erschlossen:</p>
@@ -104,8 +100,6 @@
                         editorische Kommentare bieten zusätzlichen historischen und philologischen
                         Kontext. </p>
 
-                </div>
-                <div xml:id="infrastructure_de">
                     <head>Forschungsinfrastruktur und Kooperationen</head>
 
                     <p> Alle Projektdaten sind öffentlich zugänglich und versioniert: </p>
@@ -138,8 +132,7 @@
                                 Initiative</ref>
                         </item>
                     </list>
-                </div>
-                <div xml:id="curator_de">
+
                     <head>Über die Kuratorin</head>
 
                     <p>
@@ -164,8 +157,7 @@
                     <p>Dieses Projekt entstand aus der Überzeugung, dass humanistische Bildung und
                         Humboldts Ideal eines weltoffenen, authentischen und freien Lebens bis heute
                         nichts von ihrer Aktualität verloren haben.</p>
-                </div>
-                <div xml:id="support_de">
+
                     <head>Transparenz und Unterstützung</head>
 
                     <p> Die Plattform wird derzeit vollständig privat finanziert. Es besteht keine
@@ -186,10 +178,8 @@
                     <p> <hi>Kontakt:</hi> <ref type="email" target="mailto:kontakt@wvh-schriften.de"
                             >kontakt@wvh-schriften.de</ref>
                     </p>
-                </div>
             </div>
             <div type="about" xml:lang="en">
-                <div xml:id="about_project">
 
                     <head>About the Website</head>
 
@@ -205,9 +195,6 @@
                     <p> The edition is designed as a long-term project and is explicitly understood
                         as a <hi>work in progress</hi>: a growing digital infrastructure rather than
                         a closed archive. </p>
-
-                </div>
-                <div xml:id="why_project">
 
                     <head>Why this project?</head>
 
@@ -226,9 +213,6 @@
                         again in the digital sphere – not as a static archive, but as a living,
                         interconnected, and user-friendly edition. </p>
 
-                </div>
-
-                <div xml:id="project_story">
                     <head>Project History</head>
                     <p><hi>Wilhelm von Humboldt: Schriften</hi> began in autumn 2024 as an
                         independent digital editing project. It grew out of the observation that,
@@ -247,9 +231,6 @@
                         independent Digital Humanities initiatives can make meaningful scholarly
                         contributions by building on open standards and community-driven tools.</p>
 
-                </div>
-
-                <div xml:id="digitization">
 
                     <head>Digital Processing</head>
 
@@ -281,9 +262,6 @@
 
                     <p> Persons and place names are directly linked within the texts. Footnotes and
                         editorial comments provide additional historical and philological context. </p>
-
-                </div>
-                <div xml:id="infrastructure">
 
                     <head>Research Infrastructure and Collaborations</head>
 
@@ -322,8 +300,6 @@
 
                     </list>
 
-                </div>
-                <div xml:id="curator">
 
                     <head>About the Curator</head>
 
@@ -349,9 +325,6 @@
                         Humboldt’s ideal of an open-minded, authentic, and free way of life remain
                         just as relevant today.</p>
 
-                </div>
-                <div xml:id="support">
-
                     <head>Transparency and Support</head>
 
                     <p> The platform is currently fully self-funded and has no institutional
@@ -375,7 +348,6 @@
                             >kontakt@wvh-schriften.de</ref>
                     </p>
 
-                </div>
             </div>
 
         </body>
