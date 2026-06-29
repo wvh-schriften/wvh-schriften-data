@@ -87,19 +87,19 @@
                <title type="main">Selbstanzeige der Schrift über Hermann und Dorothea</title>
                <title type="sub">Aesthétique.</title>
             </head>
-            <ab type="bibliography">
+            <p rend="center">
                <bibl>
-                  <author><persName key="gnd-118554727">Wilhelm von Humboldt</persName>s</author>
+                  <author><emph><persName key="gnd-118554727">Wilhelm von Humboldt</persName>s</emph></author>
                   <title>Ästhetische Versuche</title>. <biblScope unit="volume">Erster
                      Band</biblScope>, <title>über <persName key="gnd-118540238">Goethe</persName>'s <title>Herrmann und
                      Dorothea</title></title>. <pubPlace><placeName key="geo-2945024">Braunschweig</placeName></pubPlace>,
                      <publisher><persName key="gnd-119049546">Friedrich Vieweg der Ältere</persName></publisher>, <date when="1799">1799</date>. </bibl> — <bibl xml:lang="fr">
-                  <title>Essais aesthétiques</title> de M. <persName key="gnd-118554727">Guillaume de Humboldt</persName>; première partie,
+                  <title>Essais aesthétiques</title> de M. <persName key="gnd-118554727">Guillaume de <emph>Humboldt</emph></persName>; première partie,
                   sur l’<title>Hermann et Dorothée</title> de M. <persName key="gnd-118540238">Goethe</persName>.
                      <pubPlace><placeName key="geo-2945024">Brunswick</placeName></pubPlace>, chez <publisher><persName key="gnd-119049546">Frédéric Vieweg
                      l’aîné</persName></publisher>, <date when="1799">1799</date>; <biblScope unit="format">in
                         8<sup>0</sup></biblScope>. </bibl>
-            </ab>
+            </p>
             <p>Le domaine du poète est l’imagination; il n’est poète qu’en fécondant la sienne, il
                ne se montre tel qu’en échauffant la nôtre. La nature que d'ailleurs nous examinons
                avec nos sens, que nous analysons avec notre esprit, se présente par les efforts du
