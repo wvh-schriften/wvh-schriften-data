@@ -18,7 +18,7 @@
     <text>
         <body>
             <div type="about" xml:lang="de">
-                <div xml:id="about_project">
+                <div xml:id="about_project_de">
                     <head>Über die Website</head>
 
                     <p>
@@ -33,7 +33,7 @@
                             in progress</hi>: eine wachsende digitale Infrastruktur statt eines
                         abgeschlossenen Archivs. </p>
                 </div>
-                <div xml:id="why_project">
+                <div xml:id="why_project_de">
                     <head>Warum dieses Projekt?</head>
 
                     <p> Die Schriften Wilhelm von Humboldts sind bis heute nur schwer zugänglich. </p>
@@ -51,7 +51,7 @@
                         digitalen Raum wieder sichtbar – nicht als statisches Archiv, sondern als
                         lebendige, vernetzte und nutzerfreundliche Edition. </p>
                 </div>
-                <div xml:id="project_story">
+                <div xml:id="project_story_de">
                     <head>Entstehung des Projekts</head>
 
                     <p><hi>Wilhelm von Humboldt: Schriften</hi> entstand im Herbst 2024 als privates
@@ -75,7 +75,7 @@
                         gemeinschaftlich entwickelter Werkzeuge einen wissenschaftlichen Beitrag
                         leisten können.</p>
                 </div>
-                <div xml:id="digitization">
+                <div xml:id="digitization_de">
                     <head>Digitale Aufbereitung</head>
 
                     <p>Die Texte werden in mehreren Schritten erschlossen:</p>
@@ -105,7 +105,7 @@
                         Kontext. </p>
 
                 </div>
-                <div xml:id="infrastructure">
+                <div xml:id="infrastructure_de">
                     <head>Forschungsinfrastruktur und Kooperationen</head>
 
                     <p> Alle Projektdaten sind öffentlich zugänglich und versioniert: </p>
@@ -139,7 +139,7 @@
                         </item>
                     </list>
                 </div>
-                <div xml:id="curator">
+                <div xml:id="curator_de">
                     <head>Über die Kuratorin</head>
 
                     <p>
@@ -165,7 +165,7 @@
                         Humboldts Ideal eines weltoffenen, authentischen und freien Lebens bis heute
                         nichts von ihrer Aktualität verloren haben.</p>
                 </div>
-                <div xml:id="support">
+                <div xml:id="support_de">
                     <head>Transparenz und Unterstützung</head>
 
                     <p> Die Plattform wird derzeit vollständig privat finanziert. Es besteht keine
@@ -183,7 +183,7 @@
                         <item>Nutzung und Weiterempfehlung der Plattform</item>
                     </list>
 
-                    <p> Kontakt: <ref type="email" target="mailto:kontakt@wvh-schriften.de"
+                    <p> <hi>Kontakt:</hi> <ref type="email" target="mailto:kontakt@wvh-schriften.de"
                             >kontakt@wvh-schriften.de</ref>
                     </p>
                 </div>
