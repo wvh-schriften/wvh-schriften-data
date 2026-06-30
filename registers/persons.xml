@@ -4476,6 +4476,24 @@
                 <occupation ref="https://d-nb.info/gnd/4052154-0">Schauspieler</occupation>
                 <occupation ref="https://d-nb.info/gnd/4052154-0">Schauspieler</occupation>
             </person>
+        <person xml:id="gnd-118505696">
+                <persName type="main">Bacon, Francis</persName>
+                <persName type="sort">Bacon, Francis</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1561-01-22"/>
+                    <placeName ref="https://d-nb.info/gnd/4074335-4">London</placeName>
+                </birth>
+                <death>
+                    <date when="1626-04-09"/>
+                    <placeName ref="https://d-nb.info/gnd/4436364-3">London-Highgate</placeName>
+                </death>
+                <note type="bio">engl. Philosoph und Staatsmann; Wegbereiter des Empirismus; Viscount St. Alban, Baron Verulam</note>
+                <occupation ref="https://d-nb.info/gnd/4045790-4">Philosoph</occupation>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+                <occupation ref="https://d-nb.info/gnd/4029050-5">Jurist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+            </person>
         </listPerson>
     </standOff>
 </TEI>
