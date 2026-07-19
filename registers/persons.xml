@@ -4584,7 +4584,7 @@
             <person xml:id="gnd-118593838">
                 <persName type="main">Philipp II., Makedonien, König</persName>
                 <persName type="sort">Philipp II., Makedonien, König</persName>
-                <gender value="U">unknown</gender>
+                <gender value="M">male</gender>
                 <birth>
                     <date when="-0382"/>
                 </birth>
@@ -4891,6 +4891,302 @@
                 <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
                 <occupation ref="https://d-nb.info/gnd/4041421-8">Naturwissenschaften</occupation>
             </person>
+            <person xml:id="gnd-129940518">
+                <persName type="main">Pansa, Sancho</persName>
+                <persName type="sort">Pansa, Sancho</persName>
+                <gender value="M">male</gender>
+                <note type="bio">Figur aus Cervantes' Don Quijote</note>
+                <occupation ref="https://d-nb.info/gnd/4140220-0">Literarische Gestalt</occupation>
+                <occupation ref="https://d-nb.info/gnd/4306746-3">Fiktive Gestalt</occupation>
+            </person>
+            <person xml:id="gnd-118680315">
+                <persName type="main">Don Quijote, Fiktive Gestalt</persName>
+                <persName type="sort">Don Quijote, Fiktive Gestalt</persName>
+                <gender value="M">male</gender>
+                <note type="bio">Don Quijote ist eine fiktive Gestalt, die im 17. Jahrhundert von Miguel de Cervantes erfunden wurde</note>
+            </person>
+            <person xml:id="gnd-11851993X">
+                <persName type="main">Cervantes Saavedra, Miguel de</persName>
+                <persName type="sort">Cervantes Saavedra, Miguel de</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1547-10-07"/>
+                    <placeName ref="https://d-nb.info/gnd/4079690-5">Alcalá de Henares</placeName>
+                </birth>
+                <death>
+                    <date when="1616-04-23"/>
+                    <placeName ref="https://d-nb.info/gnd/4036862-2">Madrid</placeName>
+                </death>
+                <note type="bio"/>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+                <occupation ref="https://d-nb.info/gnd/4824772-8">Kammerdiener</occupation>
+                <occupation ref="https://d-nb.info/gnd/4169132-5">Matrose</occupation>
+                <occupation ref="https://d-nb.info/gnd/4168391-2">Lyriker</occupation>
+            </person>
+            <person xml:id="gnd-115361413">
+                <persName type="main">Fischer, Christian August</persName>
+                <persName type="sort">Fischer, Christian August</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1771-08-29"/>
+                    <placeName ref="https://d-nb.info/gnd/4035206-7">Leipzig</placeName>
+                </birth>
+                <death>
+                    <date when="1829-04-14"/>
+                    <placeName ref="https://d-nb.info/gnd/4037124-4">Mainz</placeName>
+                </death>
+                <note type="bio">Dt. Schriftsteller, Historiker und Philologe</note>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+                <occupation ref="https://d-nb.info/gnd/4025098-2">Historiker</occupation>
+            </person>
+            <person xml:id="gnd-142620432">
+                <persName type="main">Dillon, John Talbot</persName>
+                <persName type="sort">Dillon, John Talbot</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1734"/>
+                </birth>
+                <death>
+                    <date when="1806"/>
+                </death>
+                <note type="bio">lt. LCAuth nicht zu verwechseln mit dem irischen Reisenden und Schriftsteller gleichen Namens</note>
+                <occupation ref="https://d-nb.info/gnd/4177613-6">Reisender</occupation>
+                <occupation ref="https://d-nb.info/gnd/4025098-2">Historiker</occupation>
+            </person>
+            <person xml:id="gnd-119063123">
+                <persName type="main">Méchain, Pierre</persName>
+                <persName type="sort">Méchain, Pierre</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1744-08-16"/>
+                    <placeName ref="https://d-nb.info/gnd/4111215-5">Laon</placeName>
+                </birth>
+                <death>
+                    <date when="1804-09-20"/>
+                    <placeName ref="https://d-nb.info/gnd/4085172-2">Castellón de la Plana</placeName>
+                </death>
+                <note type="bio">Astronom, Hydrograph; Franz. Astronom</note>
+                <occupation ref="https://d-nb.info/gnd/4003310-7">Astronom</occupation>
+            </person>
+            <person xml:id="gnd-118783025">
+                <persName type="main">Mela, Pomponius</persName>
+                <persName type="sort">Mela, Pomponius</persName>
+                <gender value="M">male</gender>
+                <note type="bio">Röm. Geograph aus Südspanien</note>
+                <occupation ref="https://d-nb.info/gnd/4020214-8">Geograf</occupation>
+            </person>
+            <person xml:id="gnd-130259438">
+                <persName type="main">Marca, Pierre de</persName>
+                <persName type="sort">Marca, Pierre de</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1594"/>
+                </birth>
+                <death>
+                    <date when="1662"/>
+                    <placeName ref="https://d-nb.info/gnd/4044660-8">Paris</placeName>
+                </death>
+                <note type="bio">Bischof von Conserans; Erzbischof von Toulouse und Paris; Franz. Historiker u. Theologe</note>
+                <occupation ref="https://d-nb.info/gnd/4030020-1">Katholischer Theologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4025098-2">Historiker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4015471-3">Erzbischof</occupation>
+            </person>
+            <person xml:id="gnd-118545655">
+                <persName type="main">Hannibal</persName>
+                <persName type="sort">Hannibal</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="-0247"/>
+                    <placeName ref="https://d-nb.info/gnd/4029802-4">Karthago</placeName>
+                </birth>
+                <death>
+                    <date when="-0183"/>
+                </death>
+                <note type="bio">Karthagischer Stratege und Heerführer</note>
+                <occupation ref="https://d-nb.info/gnd/4238876-4">Feldherr</occupation>
+                <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+            </person>
+            <person xml:id="gnd-115218521">
+                <persName type="main">Schramm, Carl Christian</persName>
+                <persName type="sort">Schramm, Carl Christian</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1703"/>
+                    <placeName ref="https://d-nb.info/gnd/4012995-0">Dresden</placeName>
+                </birth>
+                <death>
+                    <date when="1750"/>
+                </death>
+                <note type="bio">Dt. Jurist, Zeichner und Kupferstecher; 1716 Schüler in Freiberg; 1720 Student in Wittenberg, 1723 jurist. Examen; 1724 Advokat und Kammer-Kommissionsaktuar in Dresden, 1727 auch Amtsrat der Reichsgrafen zu Solms; 1741 brandenburg.-kulmbachischer Hofrat</note>
+                <occupation ref="https://d-nb.info/gnd/4033423-5">Künstler</occupation>
+                <occupation ref="https://d-nb.info/gnd/4029050-5">Jurist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4200345-3">Zeichner</occupation>
+                <occupation ref="https://d-nb.info/gnd/4166165-5">Kupferstecher</occupation>
+            </person>
+            <person xml:id="gnd-124893783">
+                <persName type="main">Barreiros, Gaspar</persName>
+                <persName type="sort">Barreiros, Gaspar</persName>
+                <gender value="M">male</gender>
+                <death>
+                    <date when="1574"/>
+                </death>
+                <note type="bio">Portugies. Franziskaner (OFM); Priester und Schriftsteller; Geograph im Dienst König Emanuels</note>
+                <occupation ref="https://d-nb.info/gnd/4020214-8">Geograf</occupation>
+            </person>
+            <person xml:id="gnd-124741061">
+                <persName type="main">Yepes, Antonio de</persName>
+                <persName type="sort">Yepes, Antonio de</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1554"/>
+                    <placeName ref="https://d-nb.info/gnd/4119355-6">Valladolid</placeName>
+                </birth>
+                <death>
+                    <date when="1618-10-30"/>
+                </death>
+                <note type="bio">Span. Benediktiner; Kirchenhistoriker</note>
+                <occupation ref="https://d-nb.info/gnd/4398113-6">Kirchenhistoriker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4000273-1">Abt</occupation>
+            </person>
+            <person xml:id="gnd-123986281">
+                <persName type="main">Flórez, Enrique</persName>
+                <persName type="sort">Flórez, Enrique</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1702"/>
+                </birth>
+                <death>
+                    <date when="1773"/>
+                </death>
+                <note type="bio">Span. Augustiner, Historiker und Schriftsteller</note>
+                <occupation ref="https://d-nb.info/gnd/4025098-2">Historiker</occupation>
+            </person>
+            <person xml:id="gnd-116479914">
+                <persName type="main">Cellarius, Christoph</persName>
+                <persName type="sort">Cellarius, Christoph</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1638-11-22"/>
+                    <placeName ref="https://d-nb.info/gnd/4052793-1">Schmalkalden</placeName>
+                </birth>
+                <death>
+                    <date when="1707-06-04"/>
+                    <placeName ref="https://d-nb.info/gnd/4023025-9">Halle (Saale)</placeName>
+                </death>
+                <note type="bio">Deutscher Historiker, Geograph, Philologe und Orientalist; imm. Leipzig S 1652; imm. Jena 13.12.1656; imm. Gießen 1659; Magister 1666 Jena; 1667 Prof. für alte Sprachen und Moral am Gymnasium Weißenfels; 1673 Gymnasialrektor in Weimar; 1676 Rektor der Stiftsschule in Zeitz; 1688 Rektor der Domschule in Merseburg; 1694 Prof. für Rhetorik und Geschichte an der neuen Univ. Halle (Saale)</note>
+                <occupation ref="https://d-nb.info/gnd/4025098-2">Historiker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4199241-6">Klassischer Philologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4415844-0">Orientalist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4158589-6">Gymnasiallehrer</occupation>
+                <occupation ref="https://d-nb.info/gnd/4025243-7">Hochschullehrer</occupation>
+            </person>
+            <person xml:id="gnd-118641786">
+                <persName type="main">Ptolemaeus, Claudius</persName>
+                <persName type="sort">Ptolemaeus, Claudius</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="0100"/>
+                    <placeName ref="https://d-nb.info/gnd/4047760-5">Ptolemais (Ägypten)</placeName>
+                </birth>
+                <death>
+                    <date when="0178"/>
+                </death>
+                <note type="bio">griechischer Mathematiker, Geograph, Astronom, Astrologe, Musiktheoretiker, Philosoph in Alexandria</note>
+                <occupation ref="https://d-nb.info/gnd/4041423-1">Naturwissenschaftler</occupation>
+                <occupation ref="https://d-nb.info/gnd/4003310-7">Astronom</occupation>
+                <occupation ref="https://d-nb.info/gnd/4415075-1">Astrologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4020214-8">Geograf</occupation>
+                <occupation ref="https://d-nb.info/gnd/4037945-0">Mathematiker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4045790-4">Philosoph</occupation>
+            </person>
+            <person xml:id="gnd-118796275" when="2026-07-19" resp="tei">
+                <persName type="main">Sertorius, Quintus</persName>
+                <persName type="sort">Sertorius, Quintus</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="-0122"/>
+                </birth>
+                <death>
+                    <date when="-0072"/>
+                </death>
+                <note type="bio">Römischer Politiker und Feldherr. Er ist bekannt dafür, in Hispanien einen erfolgreichen Aufstand gegen die Diktatur von General Sulla in Rom angeführt zu haben (80–72 v. Chr.).</note>
+            </person>
+            <person xml:id="gnd-118595636">
+                <persName type="main">Pompeius Magnus, Gnaeus</persName>
+                <persName type="sort">Pompeius Magnus, Gnaeus</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="-0106"/>
+                </birth>
+                <death>
+                    <date when="-0048"/>
+                </death>
+                <note type="bio">Politiker, Heerführer; Röm. Konsul u. Feldherr, bekannt als Gegenspieler von Gaius Iulius Caesar</note>
+                <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+            </person>
+            <person xml:id="gnd-118593862">
+                <persName type="main">Philipp II., Spanien, König</persName>
+                <persName type="sort">Philipp II., Spanien, König</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1527-05-21"/>
+                    <placeName ref="https://d-nb.info/gnd/4119355-6">Valladolid</placeName>
+                </birth>
+                <death>
+                    <date when="1598-09-13"/>
+                    <placeName ref="https://d-nb.info/gnd/4036862-2">Madrid</placeName>
+                </death>
+                <note type="bio">König von Spanien seit 1556</note>
+            </person>
+            <person xml:id="gnd-116850493">
+                <persName type="main">Le Chevalier, Jean-Baptiste</persName>
+                <persName type="sort">Le Chevalier, Jean-Baptiste</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1752-07-01"/>
+                </birth>
+                <death>
+                    <date when="1836-07-02"/>
+                </death>
+                <note type="bio">Professeur dans l'Université Jonienne</note>
+                <occupation ref="https://d-nb.info/gnd/4191824-1">Archäologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4029820-6">Kartograf</occupation>
+                <occupation ref="https://d-nb.info/gnd/4177613-6">Reisender</occupation>
+            </person>
+            <person xml:id="gnd-11914879X">
+                <persName type="main">Guifré I., Barcelona, Graf</persName>
+                <persName type="sort">Guifré I., Barcelona, Graf</persName>
+                <gender value="M">male</gender>
+                <note type="bio">Katalan. Graf</note>
+            </person>
+            <person xml:id="person-000001" resp="wvh-schriften">
+        <persName type="main">Juan Guarín</persName>
+        <persName type="sort">Juan Guarín</persName>
+        <gender value="M">male</gender>
+        <birth>
+           <date/>
+           <placeName/>
+        </birth>
+        <death>
+           <date/>
+           <placeName/>
+        </death>
+        <note type="bio">Ein Einsiedler, der im Mittelpunkt der Legende von Montserrat steht; er wird als frommer Mann dargestellt, der schließlich der Versuchung erliegt und nach einer extremen Buße im Verlauf der Erzählung wieder auf den Weg der Erlösung zurückfindet.</note>
+     </person>
+                 <person xml:id="person-000003" resp="wvh-schriften">
+        <persName type="main">Riquilda</persName>
+        <persName type="sort">Riquilda</persName>
+        <gender value="F">female</gender>
+        <birth>
+           <date/>
+           <placeName/>
+        </birth>
+        <death>
+           <date/>
+           <placeName/>
+        </death>
+        <note type="bio">Tochter von Wifred II., „dem Behaarten“. In der Legende von Montserrat wird sie als „besessen“ beschrieben. Der Graf bringt sie nach Montserrat, um zu versuchen, sie zu heilen.</note>
+     </person>
         </listPerson>
     </standOff>
 </TEI>
