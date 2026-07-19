@@ -785,6 +785,246 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <ptr type="geonames" target="https://www.geonames.org/3018074"/>
                 <ptr type="info" target="https://undefined"/>
             </place>
+        <place type="P.PPLC" xml:id="geo-3117735" when="2026-07-05" resp="tei">
+                <placeName type="main">Madrid</placeName>
+                <placeName type="sort">Madrid</placeName>
+                <location>
+                    <geo>40.4165 -3.70256</geo>
+                </location>
+                <country>Spain</country>
+                <region>Madrid</region>
+                <note>Madrid ist die Hauptstadt Spaniens. Wilhelm von Humboldt hielt sich in dieser Stadt 1799 auf und gewann im Umfeld der Stadt Eindrücke von der spanischen Gesellschaft.</note>
+                <ptr type="geonames" target="https://www.geonames.org/3117735"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Madrid"/>
+            </place>
+            <place xml:id="geo-6255150" type="L.CONT">
+                <placeName type="main">South America</placeName>
+                <placeName type="sort">South America</placeName>
+                <location>
+                    <geo>-14.60485 -57.65625</geo>
+                </location>
+                <country/>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/6255150"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/South_America"/>
+            </place>
+            <place type="P.PPLC" xml:id="geo-3169070" when="2026-07-05" resp="tei">
+                <placeName type="main">Rom (Italien)</placeName>
+                <placeName type="sort">Rome</placeName>
+                <location>
+                    <geo>41.89193 12.51133</geo>
+                </location>
+                <country>Italy</country>
+                <region>Lazio</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3169070"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Rome"/>
+            </place>
+            <place type="" xml:id="geo-3336903" when="2026-07-05" resp="tei">
+                <placeName type="main">Baskenland</placeName>
+                <placeName type="sort">Euskadi</placeName>
+                <location>
+                    <geo>43 -2.75</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3336903"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Basque_Country_%28autonomous_community%29"/>
+            </place>
+            <place type="P.PPL" xml:id="geo-2511619" when="2026-07-05" resp="tei">
+                <placeName type="main">Sagunto</placeName>
+                <placeName type="sort">Sagunto</placeName>
+                <location>
+                    <geo>39.68333 -0.26667</geo>
+                </location>
+                <country>Spain</country>
+                <region>Valencia</region>
+                <note>Eine spanische Kleinstadt, die nahe Valencia liegt. Sie ist vor allem für ihr römisches Theater bekannt.</note>
+                <ptr type="geonames" target="https://www.geonames.org/2511619"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Sagunto"/>
+            </place>
+            <place xml:id="geo-2643743" type="P.PPLC">
+                <placeName type="main">London</placeName>
+                <placeName type="sort">London</placeName>
+                <location>
+                    <geo>51.50853 -0.12574</geo>
+                </location>
+                <country>United Kingdom</country>
+                <region>England</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2643743"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/London"/>
+            </place>
+            <place type="P.PPLC" xml:id="geo-2761369" when="2026-07-19" resp="tei">
+                <placeName type="main">Wien</placeName>
+                <placeName type="sort">Vienna</placeName>
+                <location>
+                    <geo>48.20849 16.37208</geo>
+                </location>
+                <country>Austria</country>
+                <region>Vienna</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2761369"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Vienna"/>
+            </place>
+            <place xml:id="geo-3578097" type="A.PCLD">
+                <placeName type="main">Montserrat</placeName>
+                <placeName type="sort">Montserrat</placeName>
+                <location>
+                    <geo>16.75 -62.2</geo>
+                </location>
+                <country>Montserrat</country>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3578097"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Montserrat"/>
+            </place>
+            <place xml:id="geo-3116235" type="S.MSTY">
+                <placeName type="main">Montserrat</placeName>
+                <placeName type="sort">Montserrat</placeName>
+                <location>
+                    <geo>41.59295 1.83656</geo>
+                </location>
+                <country>Spain</country>
+                <region>Catalonia</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3116235"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place xml:id="geo-3128760" type="P.PPLA">
+                <placeName type="main">Barcelona</placeName>
+                <placeName type="sort">Barcelona</placeName>
+                <location>
+                    <geo>41.38879 2.15899</geo>
+                </location>
+                <country>Spain</country>
+                <region>Catalonia</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3128760"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Barcelona"/>
+            </place>
+            <place type="T.PEN" xml:id="geo-2267430" when="2026-07-05" resp="tei">
+                <placeName type="main">Iberische Halbinsel</placeName>
+                <placeName type="sort">Iberian Peninsula</placeName>
+                <location>
+                    <geo>40 -5</geo>
+                </location>
+                <country/>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2267430"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Iberian_Peninsula"/>
+            </place>
+            <place type="T.MT" xml:id="geo-255730" when="2026-07-05" resp="tei">
+                <placeName type="main">Parnass</placeName>
+                <placeName type="sort">Parnassus</placeName>
+                <location>
+                    <geo>38.53528 22.62188</geo>
+                </location>
+                <country>Greece</country>
+                <region>Central Greece</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/255730"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Mount_Parnassus"/>
+            </place>
+            <place xml:id="geo-3104499" type="P.PPLA">
+                <placeName type="main">Gasteiz / Vitoria</placeName>
+                <placeName type="sort">Gasteiz / Vitoria</placeName>
+                <location>
+                    <geo>42.84998 -2.67268</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3104499"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Vitoria-Gasteiz"/>
+            </place>
+            <place xml:id="geo-3106090" type="P.PPL">
+                <placeName type="main">Bergara</placeName>
+                <placeName type="sort">Bergara</placeName>
+                <location>
+                    <geo>43.1151 -2.4175</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3106090"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Bergara"/>
+            </place>
+            <place xml:id="geo-6358159" type="A.ADM3">
+                <placeName type="main">Tolosa</placeName>
+                <placeName type="sort">Tolosa</placeName>
+                <location>
+                    <geo>43.12764 -2.09085</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/6358159"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Tolosa%2C_Spain"/>
+            </place>
+            <place type="L.AREA" xml:id="geo-7302106" when="2026-07-19" resp="tei">
+                <placeName type="main">Castelli Romani</placeName>
+                <placeName type="sort">Castelli Romani</placeName>
+                <location>
+                    <geo>41.80203 12.68097</geo>
+                </location>
+                <country>Italy</country>
+                <region>Lazio</region>
+                <note>Eine Stadt in den Castelli Romani, südöstlich von Rom in den Albaner Bergen gelegen, die zu Beginn des 19. Jahrhunderts als Sommerfrische und Wohnort der römischen Elite bekannt war.</note>
+                <ptr type="geonames" target="https://www.geonames.org/7302106"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Castelli_Romani"/>
+            </place>
+            <place xml:id="geo-6692632" type="A.ADM1">
+                <placeName type="main">Attica</placeName>
+                <placeName type="sort">Attica</placeName>
+                <location>
+                    <geo>37.92037 23.9035</geo>
+                </location>
+                <country>Greece</country>
+                <region>Attica</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/6692632"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Attica_%28region%29"/>
+            </place>
+            <place type="P.PPLA2" xml:id="geo-490068" when="2026-07-19" resp="tei">
+                <placeName type="main">Sovetsk</placeName>
+                <placeName type="sort">Sovetsk</placeName>
+                <location>
+                    <geo>55.08392 21.87851</geo>
+                </location>
+                <country>Russia</country>
+                <region>Kaliningrad Oblast</region>
+                <note>Tilsit (heute Sovetsk) ist eine Stadt am Ufer des Flusses Niemen im ehemaligen Ostpreußen, im heutigen russischen Kaliningrader Gebiet. Dort wurden 1807 die Tilsiter Verträge zwischen Napoleon und den Vertretern Russlands und Preußens unterzeichnet, die nach den französischen Siegen die politische Landkarte Europas neu gestalteten und die Stadt zu einem Schlüsselort der napoleonischen Diplomatie machten.</note>
+                <ptr type="geonames" target="https://www.geonames.org/490068"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Sovetsk%2C_Kaliningrad_Oblast"/>
+            </place>
+            <place type="A.PCLI" xml:id="geo-2017370" when="2026-07-19" resp="tei">
+                <placeName type="main">Russland</placeName>
+                <placeName type="sort">Russian Federation</placeName>
+                <location>
+                    <geo>60 100</geo>
+                </location>
+                <country>Russia</country>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2017370"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Russia"/>
+            </place>
+            <place type="T.MTS" xml:id="geo-1252558" when="2026-07-19" resp="tei">
+                <placeName type="main">Himalaya</placeName>
+                <placeName type="sort">Himalaya</placeName>
+                <location>
+                    <geo>28 84</geo>
+                </location>
+                <country/>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/1252558"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Himalayas"/>
+            </place>
         </listPlace>
     </standOff>
-</TEI> 
+</TEI>
