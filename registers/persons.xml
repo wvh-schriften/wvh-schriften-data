@@ -3688,7 +3688,7 @@
                 </death>
                 <note type="bio">Burgund. Herrscher, ab 1363 Herzog von Burgund</note>
             </person>
-            <person xml:id="gnd-117044237">
+            <person xml:id="gnd-117044237" when="2026-07-05" resp="tei">
                 <persName type="main">Milin, Aubin Louis</persName>
                 <persName type="sort">Milin, Aubin Louis</persName>
                 <gender value="M">male</gender>
@@ -4493,6 +4493,403 @@
                 <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
                 <occupation ref="https://d-nb.info/gnd/4029050-5">Jurist</occupation>
                 <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+            </person>
+            <person xml:id="gnd-118616617" when="2026-07-05" resp="tei">
+                <persName type="main">Staël, Madame de</persName>
+                <persName type="sort">Staël, Madame de</persName>
+                <gender value="F">female</gender>
+                <birth>
+                    <date when="1766-04-22"/>
+                    <placeName ref="https://d-nb.info/gnd/4044660-8">Paris</placeName>
+                </birth>
+                <death>
+                    <date when="1817-07-14"/>
+                    <placeName ref="https://d-nb.info/gnd/4044660-8">Paris</placeName>
+                </death>
+                <note type="bio">Eine einflussreiche Schriftstellerin und Intellektuelle des frühen 19. Jahrhunderts. Sie stand in engem Austausch mit Wilhelm von Humboldt und gehörte zu den wichtigen Stimmen des europäischen Geisteslebens ihrer Zeit.</note>
+                <occupation ref="https://d-nb.info/gnd/4053311-6">Schriftstellerin</occupation>
+                <occupation ref="https://d-nb.info/gnd/4053311-6">Schriftstellerin</occupation>
+            </person>
+            <person xml:id="gnd-118767372" when="2026-07-05" resp="tei">
+                <persName type="main">Vater, Johann Severin</persName>
+                <persName type="sort">Vater, Johann Severin</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1771-05-27"/>
+                    <placeName ref="https://d-nb.info/gnd/4001409-5">Altenburg (Thüringen)</placeName>
+                </birth>
+                <death>
+                    <date when="1826-03-15"/>
+                    <placeName ref="https://d-nb.info/gnd/4023025-9">Halle (Saale)</placeName>
+                </death>
+                <note type="bio">Nach dem Tod Adelungs übernahm er sein sprachwissenschaftliches Projekt namens <title>Mithridates</title>
+                </note>
+                <occupation ref="https://d-nb.info/gnd/4224183-2">Linguist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4015882-2">Evangelischer Theologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4025243-7">Hochschullehrer</occupation>
+            </person>
+            <person xml:id="gnd-118542257">
+                <persName type="main">Grimm, Jacob</persName>
+                <persName type="sort">Grimm, Jacob</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1785-01-04"/>
+                    <placeName ref="https://d-nb.info/gnd/4023201-3">Hanau</placeName>
+                </birth>
+                <death>
+                    <date when="1863-09-20"/>
+                    <placeName ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName>
+                </death>
+                <note type="bio">Deutscher Sprach- und Literaturwissenschaftler (Germanist), Märchen- und Sagenforscher</note>
+                <occupation ref="https://d-nb.info/gnd/4199236-2">Philologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4167889-8">Literaturwissenschaftler</occupation>
+                <occupation ref="https://d-nb.info/gnd/4025098-2">Historiker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+                <occupation ref="https://d-nb.info/gnd/4025243-7">Hochschullehrer</occupation>
+                <occupation ref="https://d-nb.info/gnd/4029050-5">Jurist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4145258-6">Bibliothekar</occupation>
+                <occupation ref="https://d-nb.info/gnd/4018333-6">Freiherr</occupation>
+            </person>
+            <person xml:id="gnd-118617273">
+                <persName type="main">Stein, Karl vom und zum</persName>
+                <persName type="sort">Stein, Karl vom und zum</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1757-10-26"/>
+                    <placeName ref="https://d-nb.info/gnd/4041266-0">Nassau (Rhein-Lahn-Kreis)</placeName>
+                </birth>
+                <death>
+                    <date when="1831-06-29"/>
+                    <placeName ref="https://d-nb.info/gnd/4009451-0">Selm-Cappenberg</placeName>
+                </death>
+                <note type="bio">Dt. Staatsmann und Reformer Preußens; Reichsfreiherr; 1773-1777: Studium der Jura, Geschichte und Kameralwissenschaften in Göttingen, u.a. bei August Ludwig Schlözer und Johann Stephan Pütter; hier Freundschaft mit August Wilhelm von Rehberg (1757-1836); 1783: naturwissenschaftliche, technologische und bergbaukundliche Studien in Clausthal im Harz; Gründer der Monumenta Germaniae Historica (1819)</note>
+                <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4182658-9">Staatsminister</occupation>
+            </person>
+            <person xml:id="gnd-118524658">
+                <persName type="main">Demosthenes</persName>
+                <persName type="sort">Demosthenes</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="-0384"/>
+                </birth>
+                <death>
+                    <date when="-0322"/>
+                </death>
+                <note type="bio"/>
+                <occupation ref="https://d-nb.info/gnd/4048895-0">Redner</occupation>
+                <occupation ref="https://d-nb.info/gnd/4323328-4">Logograf</occupation>
+                <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+            </person>
+            <person xml:id="gnd-118593838">
+                <persName type="main">Philipp II., Makedonien, König</persName>
+                <persName type="sort">Philipp II., Makedonien, König</persName>
+                <gender value="U">unknown</gender>
+                <birth>
+                    <date when="-0382"/>
+                </birth>
+                <death>
+                    <date when="-0336"/>
+                    <placeName ref="https://d-nb.info/gnd/4000839-3">Aigai (Makedonien, Griechenland)</placeName>
+                </death>
+                <note type="bio">Vater Alexanders des Großen</note>
+            </person>
+            <person xml:id="gnd-119044064">
+                <persName type="main">Schweighäuser, Johann Gottfried</persName>
+                <persName type="sort">Schweighäuser, Johann Gottfried</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1776-01-02"/>
+                    <placeName ref="https://d-nb.info/gnd/4057878-1">Straßburg</placeName>
+                </birth>
+                <death>
+                    <date when="1844-03-14"/>
+                    <placeName ref="https://d-nb.info/gnd/4057878-1">Straßburg</placeName>
+                </death>
+                <note type="bio">Archäologe, Kunsthistoriker, Philologe; 1792-1800 zunächst Soldat, 1800-1812 Hauslehrer, 1812-1829(?) Professor, 1815 auch Bibliothekar an der Universität Straßburg; dichtete in deutscher Sprache, publizierte (später) wissenschaftlich v.a. auf Französisch</note>
+                <occupation ref="https://d-nb.info/gnd/4199241-6">Klassischer Philologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4033654-2">Kunsthistoriker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4191824-1">Archäologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4145258-6">Bibliothekar</occupation>
+                <occupation ref="https://d-nb.info/gnd/4035088-5">Lehrer</occupation>
+            </person>
+            <person xml:id="gnd-11855073X">
+                <persName type="main">Heyne, Christian Gottlob</persName>
+                <persName type="sort">Heyne, Christian Gottlob</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1729-09-25"/>
+                    <placeName ref="https://d-nb.info/gnd/4029702-0">Chemnitz</placeName>
+                </birth>
+                <death>
+                    <date when="1812-07-14"/>
+                    <placeName ref="https://d-nb.info/gnd/4021477-1">Göttingen</placeName>
+                </death>
+                <note type="bio">1763 Professor in Göttingen, 1764 Direktor der Universitätsbibliothek</note>
+                <occupation ref="https://d-nb.info/gnd/4258832-7">Altertumswissenschaftler</occupation>
+                <occupation ref="https://d-nb.info/gnd/4199241-6">Klassischer Philologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4025243-7">Hochschullehrer</occupation>
+                <occupation ref="https://d-nb.info/gnd/4145258-6">Bibliothekar</occupation>
+                <occupation ref="https://d-nb.info/gnd/4160419-2">Hofrat</occupation>
+            </person>
+            <person xml:id="gnd-118607847">
+                <persName type="main">Schlabrendorf, Gustav von</persName>
+                <persName type="sort">Schlabrendorf, Gustav von</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1750-03-22"/>
+                    <placeName ref="https://d-nb.info/gnd/4057392-8">Stettin</placeName>
+                </birth>
+                <death>
+                    <date when="1824-08-22"/>
+                    <placeName ref="https://d-nb.info/gnd/4451871-7">Les Batignolles</placeName>
+                </death>
+                <note type="bio">Sohn aus der 2. Ehe Ernst Wilhelms von Schlabrendorff mit Anna Carolina von Otterstaedt aus dem Haus Dahlwitz; wurde am 15.10. 1786 von Friedrich Wilhelm II. in den Grafenstand erhoben, politischer Autor; lebte als Emigrant in Paris, Schriftsteller; beigesetzt auf dem Pariser Friedhof Père Lachaise</note>
+                <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4025098-2">Historiker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+            </person>
+            <person xml:id="gnd-118617583">
+                <persName type="main">Steinthal, Heymann</persName>
+                <persName type="sort">Steinthal, Heymann</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1823-05-16"/>
+                    <placeName ref="https://d-nb.info/gnd/7756849-7">Südliches Anhalt- Gröbzig</placeName>
+                </birth>
+                <death>
+                    <date when="1899-03-14"/>
+                    <placeName ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName>
+                </death>
+                <note type="bio">Sprachwissenschaftler, Philosoph; Professor; Dt. Sprachforscher, Philosoph</note>
+                <occupation ref="https://d-nb.info/gnd/4045790-4">Philosoph</occupation>
+                <occupation ref="https://d-nb.info/gnd/4224183-2">Linguist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4177294-5">Redakteur</occupation>
+                <occupation ref="https://d-nb.info/gnd/4199236-2">Philologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4066567-7">Wissenschaftler</occupation>
+            </person>
+            <person xml:id="gnd-118607200">
+                <persName type="main">Scherer, Wilhelm</persName>
+                <persName type="sort">Scherer, Wilhelm</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1841-04-20"/>
+                </birth>
+                <death>
+                    <date when="1886-08-06"/>
+                    <placeName ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName>
+                </death>
+                <note type="bio">geb. in Niederösterreich, Prof. in Wien, Straßburg, Berlin; Dt. Germanist; Literaturhistoriker, Deutschland</note>
+                <occupation ref="https://d-nb.info/gnd/4199236-2">Philologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4167838-2">Literarhistoriker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4167889-8">Literaturwissenschaftler</occupation>
+            </person>
+            <person xml:id="gnd-118532847">
+                <persName type="main">Fichte, Johann Gottlieb</persName>
+                <persName type="sort">Fichte, Johann Gottlieb</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1762-05-19"/>
+                    <placeName ref="https://d-nb.info/gnd/4368618-7">Rammenau</placeName>
+                </birth>
+                <death>
+                    <date when="1814-01-29"/>
+                    <placeName ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName>
+                </death>
+                <note type="bio">Deutscher Philosoph; 1794-1799 Professor in Jena; Mitgründer der Berliner Universität, 1810 Dekan und 1811-1812 Rektor</note>
+                <occupation ref="https://d-nb.info/gnd/4045790-4">Philosoph</occupation>
+                <occupation ref="https://d-nb.info/gnd/4025243-7">Hochschullehrer</occupation>
+                <occupation ref="https://d-nb.info/gnd/4199252-0">Rektor</occupation>
+                <occupation ref="https://d-nb.info/gnd/4176310-5">Publizist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+            </person>
+            <person xml:id="gnd-118810871">
+                <persName type="main">Diede, Charlotte</persName>
+                <persName type="sort">Diede, Charlotte</persName>
+                <gender value="F">female</gender>
+                <birth>
+                    <date when="1769-05-12"/>
+                    <placeName ref="https://d-nb.info/gnd/1170278965">Lüdenhausen</placeName>
+                </birth>
+                <death>
+                    <date when="1846-07-16"/>
+                    <placeName ref="https://d-nb.info/gnd/4029869-3">Kassel</placeName>
+                </death>
+                <note type="bio">Jugendfreundin Wilhelm v. Humboldts</note>
+                <occupation ref="https://d-nb.info/gnd/4053311-6">Schriftstellerin</occupation>
+            </person>
+            <person xml:id="gnd-119390043">
+                <persName type="main">Farinelli, Arturo</persName>
+                <persName type="sort">Farinelli, Arturo</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1867"/>
+                </birth>
+                <death>
+                    <date when="1948"/>
+                </death>
+                <note type="bio">Ital. Literaturwissenschaftler, Germanist, Theaterhistorike</note>
+                <occupation ref="https://d-nb.info/gnd/4156858-8">Germanist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4167838-2">Literarhistoriker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4025098-2">Historiker</occupation>
+            </person>
+            <person xml:id="gnd-117325791">
+                <persName type="main">Schlesier, Gustav</persName>
+                <persName type="sort">Schlesier, Gustav</persName>
+                <gender value="M">male</gender>
+                <note type="bio">Dt. Schriftsteller, Journalist, Publizist u. Hölderlin-Forscher</note>
+            </person>
+            <person xml:id="gnd-118630741">
+                <persName type="main">Welcker, Friedrich Gottlieb</persName>
+                <persName type="sort">Welcker, Friedrich Gottlieb</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1784-11-04"/>
+                    <placeName ref="https://d-nb.info/gnd/4022283-4">Grünberg (Landkreis Gießen)</placeName>
+                </birth>
+                <death>
+                    <date when="1868-12-17"/>
+                    <placeName ref="https://d-nb.info/gnd/4007666-0">Bonn</placeName>
+                </death>
+                <note type="bio">Dt. Altphilologe; 1803 Promotion in Gießen, 1809-1816 Professor in Gießen, 1816-1819 Professor der griechischen Literatur und Archäologie in Göttingen, 1819-1868 in Bonn</note>
+                <occupation ref="https://d-nb.info/gnd/4199241-6">Klassischer Philologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4025243-7">Hochschullehrer</occupation>
+                <occupation ref="https://d-nb.info/gnd/4213137-6">Bibliotheksdirektor</occupation>
+                <occupation ref="https://d-nb.info/gnd/4191824-1">Archäologe</occupation>
+            </person>
+            <person xml:id="gnd-116587938">
+                <persName type="main">Gerland, Georg</persName>
+                <persName type="sort">Gerland, Georg</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1833-01-29"/>
+                    <placeName ref="https://d-nb.info/gnd/4029869-3">Kassel</placeName>
+                </birth>
+                <death>
+                    <date when="1919-02-19"/>
+                    <placeName ref="https://d-nb.info/gnd/4057878-1">Straßburg</placeName>
+                </death>
+                <note type="bio">In den Jahren 1856 bis 1879 unterrichtete Gerland nacheinander als Lehrer an Gymnasien in Kassel, Hanau, Magdeburg und Halle. 1875 folgte er dem Ruf an die Universität Straßburg, wo er den neugeschaffenen Lehrstuhl für Geographie übernahm (Professor der Geographie u. Ethnologie), Leiter der Hauptstation für Erdbebenforschung in Straßburg.</note>
+                <occupation ref="https://d-nb.info/gnd/4020214-8">Geograf</occupation>
+                <occupation ref="https://d-nb.info/gnd/4350650-1">Geophysiker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4153098-6">Ethnologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4158589-6">Gymnasiallehrer</occupation>
+                <occupation ref="https://d-nb.info/gnd/4032009-1">Komponist</occupation>
+            </person>
+            <person xml:id="gnd-119126796">
+                <persName type="main">Gröber, Gustav</persName>
+                <persName type="sort">Gröber, Gustav</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1844-05-04"/>
+                    <placeName ref="https://d-nb.info/gnd/4035206-7">Leipzig</placeName>
+                </birth>
+                <death>
+                    <date when="1911-11-06"/>
+                </death>
+                <note type="bio">Professor; Dt. Romanist</note>
+                <occupation ref="https://d-nb.info/gnd/4219681-4">Romanist</occupation>
+            </person>
+            <person xml:id="gnd-118518658">
+                <persName type="main">Campe, Joachim Heinrich</persName>
+                <persName type="sort">Campe, Joachim Heinrich</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1746-06-29"/>
+                    <placeName ref="https://d-nb.info/gnd/4656143-2">Deensen</placeName>
+                </birth>
+                <death>
+                    <date when="1818-10-22"/>
+                    <placeName ref="https://d-nb.info/gnd/4008065-1">Braunschweig</placeName>
+                </death>
+                <note type="bio">Pädagoge, Sprachforscher, Verleger</note>
+                <occupation ref="https://d-nb.info/gnd/4044300-0">Pädagoge</occupation>
+                <occupation ref="https://d-nb.info/gnd/4138343-6">Verleger</occupation>
+                <occupation ref="https://d-nb.info/gnd/4224183-2">Linguist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4059756-8">Theologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+                <occupation ref="https://d-nb.info/gnd/4029050-5">Jurist</occupation>
+            </person>
+            <person xml:id="gnd-11892737X">
+                <persName type="main">Sander, Johann Daniel</persName>
+                <persName type="sort">Sander, Johann Daniel</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1759-02-08"/>
+                    <placeName ref="https://d-nb.info/gnd/4036934-1">Magdeburg</placeName>
+                </birth>
+                <death>
+                    <date when="1825-01-27"/>
+                    <placeName ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName>
+                </death>
+                <note type="bio">Deutscher Verleger, Übersetzer, Musiker; Teilhaber der Vossischen Verlagsbuchhandlung; Adresse: Kurstraße No. 51. (1815)</note>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+                <occupation ref="https://d-nb.info/gnd/4061414-1">Übersetzer</occupation>
+                <occupation ref="https://d-nb.info/gnd/4040841-3">Musiker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4032009-1">Komponist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4130948-0">Buchhändler</occupation>
+                <occupation ref="https://d-nb.info/gnd/7719046-4">Selbstverleger</occupation>
+                <occupation ref="https://d-nb.info/gnd/4138343-6">Verleger</occupation>
+                <occupation ref="https://d-nb.info/gnd/4398799-0">Musikverleger</occupation>
+            </person>
+            <person xml:id="gnd-118706640">
+                <persName type="main">Holtei, Karl von</persName>
+                <persName type="sort">Holtei, Karl von</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1798-01-24"/>
+                    <placeName ref="https://d-nb.info/gnd/4008216-7">Breslau</placeName>
+                </birth>
+                <death>
+                    <date when="1880-02-12"/>
+                    <placeName ref="https://d-nb.info/gnd/4008216-7">Breslau</placeName>
+                </death>
+                <note type="bio">1825-1834 Theaterdichter und Regisseur am Königstädtischen Theater in Berlin; 1837-1839 Theaterdirektor in Riga; später in Grafenort und Breslau</note>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+                <occupation ref="https://d-nb.info/gnd/4168391-2">Lyriker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4398844-1">Theaterdirektor</occupation>
+                <occupation ref="https://d-nb.info/gnd/4052154-0">Schauspieler</occupation>
+                <occupation ref="https://d-nb.info/gnd/4398844-1">Theaterdirektor</occupation>
+                <occupation ref="https://d-nb.info/gnd/7708037-3">Theaterdichter</occupation>
+                <occupation ref="https://d-nb.info/gnd/4049050-6">Regisseur</occupation>
+                <occupation ref="https://d-nb.info/gnd/4398838-6">Dramaturg</occupation>
+                <occupation ref="https://d-nb.info/gnd/4049050-6">Regisseur</occupation>
+                <occupation ref="https://d-nb.info/gnd/4052154-0">Schauspieler</occupation>
+                <occupation ref="https://d-nb.info/gnd/4145258-6">Bibliothekar</occupation>
+            </person>
+            <person xml:id="gnd-116776021">
+                <persName type="main">Bruhns, Carl</persName>
+                <persName type="sort">Bruhns, Carl</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1830-11-22"/>
+                    <placeName ref="https://d-nb.info/gnd/4046385-0">Plön</placeName>
+                </birth>
+                <death>
+                    <date when="1881-07-25"/>
+                    <placeName ref="https://d-nb.info/gnd/4035206-7">Leipzig</placeName>
+                </death>
+                <note type="bio">Astronom, Geodät, Meteorologe</note>
+                <occupation ref="https://d-nb.info/gnd/4003310-7">Astronom</occupation>
+                <occupation ref="https://d-nb.info/gnd/4398985-8">Meteorologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4156667-1">Geodät</occupation>
+            </person>
+            <person xml:id="gnd-100545580" when="2026-07-19" resp="tei">
+                <persName type="main">Rennenkampff, Karl Jacob Alexander von</persName>
+                <persName type="sort">Rennenkampff, Karl Jacob Alexander von</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1783-01-29"/>
+                    <placeName ref="https://d-nb.info/gnd/4015587-0">Estland</placeName>
+                </birth>
+                <death>
+                    <date when="1854-04-09"/>
+                    <placeName ref="https://d-nb.info/gnd/4043457-6">Oldenburg (Oldenburg)</placeName>
+                </death>
+                <note type="bio">dt. Erzähler u. Übers. livländ. Herkunft; Kunsthistoriker, -schriftsteller; Dt. Kunsthistoriker, Schriftsteller u. Kammerherr, aus Livland gebürtig; Kammerherr; Dt. Kunsthistoriker, Schriftsteller u. Kammerherr, aus Livland gebürtig</note>
+                <occupation ref="https://d-nb.info/gnd/4033654-2">Kunsthistoriker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+                <occupation ref="https://d-nb.info/gnd/4041421-8">Naturwissenschaften</occupation>
             </person>
         </listPerson>
     </standOff>
