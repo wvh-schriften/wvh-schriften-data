@@ -123,6 +123,11 @@
                 <orgName type="sort">Comédie-Française</orgName>
                 <note>Die Comédie-Française, 1680 von Ludwig XIV. als <hi>Théâtre Français</hi> gegründet, wurde während der Revolution (1791–1799) zunächst in <hi>Théâtre de la Nation und dann in Théâtre de la République</hi> umbenannt. Sie hat ihren Sitz in der Salle Richelieu. Heute bezeichnen alle drei Namen dieselbe nationale Institution im 1. Arrondissement von Paris, die 1799 von Napoleon wiedervereinigt wurde.</note>
             </org>
+        <org xml:id="org-00001">
+                <orgName type="main">Mithridates, oder allgemeine Sprachenkunde</orgName>
+                <orgName type="sort">Mithridates</orgName>
+                <note>Ein monumentales sprachwissenschaftliches Werk von Johann Christoph Adelung, das von 1806 bis 1817 in vier Bänden erschien und nach dessen Tod von Johann Severin Vater vollendet wurde. Es enthält Sprachproben in fast 500 Sprachen.</note>
+            </org>
     </listOrg>
    </standOff>
 </TEI>
