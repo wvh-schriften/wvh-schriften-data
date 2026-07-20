@@ -5187,6 +5187,241 @@
         </death>
         <note type="bio">Tochter von Wifred II., „dem Behaarten“. In der Legende von Montserrat wird sie als „besessen“ beschrieben. Der Graf bringt sie nach Montserrat, um zu versuchen, sie zu heilen.</note>
      </person>
+        <person xml:id="gnd-118649418">
+                <persName type="main">Anna, Heilige</persName>
+                <persName type="sort">Anna, Heilige</persName>
+                <gender value="F">female</gender>
+                <note type="bio">Patronin u.a. von Florenz, Innsbruck, Neapel u. der Bretagne sowie der Mütter, Berg- u. Kaufleute; Erwähnung in den apokryphen Schriften (Jakobusevangelium)</note>
+            </person>
+            <person xml:id="gnd-118508911">
+                <persName type="main">Benedikt, Montecassino, Abt, Heiliger</persName>
+                <persName type="sort">Benedikt, Montecassino, Abt, Heiliger</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="0480"/>
+                </birth>
+                <death>
+                    <date when="0547"/>
+                </death>
+                <note type="bio">Ital. Heiliger</note>
+                <occupation ref="https://d-nb.info/gnd/4000273-1">Abt</occupation>
+                <occupation ref="https://d-nb.info/gnd/4134546-0">Einsiedler</occupation>
+            </person>
+            <person xml:id="gnd-119539780">
+                <persName type="main">Benedikt XIII., Papst</persName>
+                <persName type="sort">Benedikt XIII., Papst</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1650"/>
+                </birth>
+                <death>
+                    <date when="1730"/>
+                </death>
+                <note type="bio">Papst 29.05.1724 - 21.02.1730</note>
+                <occupation ref="https://d-nb.info/gnd/4044561-6">Papst</occupation>
+            </person>
+            <person xml:id="gnd-118578286">
+                <persName type="main">Martin V., Papst</persName>
+                <persName type="sort">Martin V., Papst</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1368"/>
+                    <placeName ref="https://d-nb.info/gnd/4447351-5">Genazzano</placeName>
+                </birth>
+                <death>
+                    <date when="1431-02-20"/>
+                    <placeName ref="https://d-nb.info/gnd/4050471-2">Rom</placeName>
+                </death>
+                <note type="bio">Papst seit 11.11.1417</note>
+                <occupation ref="https://d-nb.info/gnd/4044561-6">Papst</occupation>
+                <occupation ref="https://d-nb.info/gnd/4163313-1">Kardinal</occupation>
+            </person>
+            <person xml:id="gnd-118531328">
+                <persName type="main">Eugen IV., Papst</persName>
+                <persName type="sort">Eugen IV., Papst</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1383"/>
+                    <placeName ref="https://d-nb.info/gnd/4062501-1">Venedig</placeName>
+                </birth>
+                <death>
+                    <date when="1447"/>
+                    <placeName ref="https://d-nb.info/gnd/4050471-2">Rom</placeName>
+                </death>
+                <note type="bio">Papst 1431-1447</note>
+                <occupation ref="https://d-nb.info/gnd/4044561-6">Papst</occupation>
+            </person>
+            <person xml:id="gnd-118508881">
+                <persName type="main">Benedikt XIII., Gegenpapst, Papst</persName>
+                <persName type="sort">Benedikt XIII., Gegenpapst, Papst</persName>
+                <gender value="U">unknown</gender>
+                <birth>
+                    <date when="1343"/>
+                    <placeName ref="https://d-nb.info/gnd/7605148-1">Illueca</placeName>
+                </birth>
+                <death>
+                    <date when="1423"/>
+                    <placeName ref="https://d-nb.info/gnd/4286574-8">Peñíscola</placeName>
+                </death>
+                <note type="bio">Span. Kirchenjurist; Prof. in Montpellier; Gegenpapst 1394-1423 in Avignon</note>
+                <occupation ref="https://d-nb.info/gnd/4373234-3">Gegenpapst</occupation>
+            </person>
+            <person xml:id="gnd-118712152">
+                <persName type="main">Jiménez de Cisneros, Francisco</persName>
+                <persName type="sort">Jiménez de Cisneros, Francisco</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1436"/>
+                </birth>
+                <death>
+                    <date when="1517-11-08"/>
+                </death>
+                <note type="bio">OFM; Span. Kardinal und Staatsmann; ab 1495 Erzbischof von Toledo</note>
+                <occupation ref="https://d-nb.info/gnd/4163313-1">Kardinal</occupation>
+                <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4015471-3">Erzbischof</occupation>
+            </person>
+            <person xml:id="gnd-100964974">
+                <persName type="main">Cisneros, García Jiménez de</persName>
+                <persName type="sort">Cisneros, García Jiménez de</persName>
+                <gender value="U">unknown</gender>
+                <birth>
+                    <date when="1455"/>
+                </birth>
+                <death>
+                    <date when="1510"/>
+                </death>
+                <note type="bio">Span. Theologe, Abt von Montserrat</note>
+                <occupation ref="https://d-nb.info/gnd/4059756-8">Theologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4000273-1">Abt</occupation>
+            </person>
+            <person xml:id="gnd-123671019" when="2026-07-20" resp="tei">
+                <persName type="main">Jordán, Esteban</persName>
+                <persName type="sort">Jordán, Esteban</persName>
+                <gender value="M">unknown</gender>
+                <birth>
+                    <date when="1534"/>
+                </birth>
+                <death>
+                    <date when="1600"/>
+                </death>
+                <note type="bio"/>
+                <occupation ref="https://d-nb.info/gnd/4139550-5">Bildhauer</occupation>
+            </person>
+            <person xml:id="gnd-118593846">
+                <persName type="main">Philipp III., Spanien, König</persName>
+                <persName type="sort">Philipp III., Spanien, König</persName>
+                <gender value="U">unknown</gender>
+                <birth>
+                    <date when="1578-04-14"/>
+                    <placeName ref="https://d-nb.info/gnd/4036862-2">Madrid</placeName>
+                </birth>
+                <death>
+                    <date when="1621-03-31"/>
+                    <placeName ref="https://d-nb.info/gnd/4036862-2">Madrid</placeName>
+                </death>
+                <note type="bio"/>
+            </person>
+            <person xml:id="gnd-118713299">
+                <persName type="main">Juan, de Austria</persName>
+                <persName type="sort">Juan, de Austria</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1547-02-24"/>
+                    <placeName ref="https://d-nb.info/gnd/4048989-9">Regensburg</placeName>
+                </birth>
+                <death>
+                    <date when="1578-10-01"/>
+                    <placeName ref="https://d-nb.info/gnd/4117763-0">Namur</placeName>
+                </death>
+                <note type="bio">1571 Befehlshaber der Flotte der Heiligen Liga vor Lepanto; 1577 Statthalter der Niederlande; Sohn Kaiser Karls V. und der Regensburger Bürgertochter Barbara Blomberg ; Siegreicher Kommandant in der Seeschlacht von Lepanto</note>
+                <occupation ref="https://d-nb.info/gnd/4238876-4">Feldherr</occupation>
+                <occupation ref="https://d-nb.info/gnd/4057007-1">Statthalter</occupation>
+            </person>
+            <person xml:id="gnd-118560093">
+                <persName type="main">Karl V., Heiliges Römisches Reich, Kaiser</persName>
+                <persName type="sort">Karl V., Heiliges Römisches Reich, Kaiser</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1500-02-24"/>
+                    <placeName ref="https://d-nb.info/gnd/4020176-4">Gent</placeName>
+                </birth>
+                <death>
+                    <date when="1558-09-21"/>
+                    <placeName ref="https://d-nb.info/gnd/16003734-7">Cuacos de Yuste</placeName>
+                </death>
+                <note type="bio">Kaiser (1519-1556)</note>
+            </person>
+            <person xml:id="gnd-118550853">
+                <persName type="main">Hieronymus, Sophronius Eusebius</persName>
+                <persName type="sort">Hieronymus, Sophronius Eusebius</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="0345"/>
+                    <placeName ref="https://d-nb.info/gnd/4070200-5">Dalmatien</placeName>
+                </birth>
+                <death>
+                    <date when="0420"/>
+                    <placeName ref="https://d-nb.info/gnd/4006104-8">Bethlehem</placeName>
+                </death>
+                <note type="bio">Lateinischer Kirchenvater und Kirchenlehrer</note>
+                <occupation ref="https://d-nb.info/gnd/4317581-8">Kirchenlehrer</occupation>
+                <occupation ref="https://d-nb.info/gnd/4030763-3">Kirchenväter</occupation>
+                <occupation ref="https://d-nb.info/gnd/4059756-8">Theologe</occupation>
+            </person>
+            <person xml:id="gnd-118869329">
+                <persName type="main">Hamilkar Barkas</persName>
+                <persName type="sort">Hamilkar Barkas</persName>
+                <gender value="U">unknown</gender>
+                <birth>
+                    <date when="-0290"/>
+                </birth>
+                <death>
+                    <date when="-0229"/>
+                </death>
+                <note type="bio">Karthagischer Heerführer und Politiker</note>
+                <occupation ref="https://d-nb.info/gnd/4238876-4">Feldherr</occupation>
+                <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+            </person>
+            <person xml:id="gnd-122475127">
+                <persName type="main">Scholastika, Heilige</persName>
+                <persName type="sort">Scholastika, Heilige</persName>
+                <gender value="U">unknown</gender>
+                <birth>
+                    <date when="0480"/>
+                </birth>
+                <death>
+                    <date when="0547"/>
+                </death>
+                <note type="bio"/>
+                <occupation ref="https://d-nb.info/gnd/4117606-6">Heilige</occupation>
+            </person>
+            <person xml:id="gnd-118577840">
+                <persName type="main">Maria Magdalena, Heilige, Biblische Person</persName>
+                <persName type="sort">Maria Magdalena, Heilige, Biblische Person</persName>
+                <gender value="F">female</gender>
+                <note type="bio">Jüngerin Jesu; Heilige</note>
+            </person>
+            <person xml:id="gnd-118640909">
+                <persName type="main">Maria, von Nazaret, Biblische Person</persName>
+                <persName type="sort">Maria, von Nazaret, Biblische Person</persName>
+                <gender value="U">unknown</gender>
+                <note type="bio"/>
+            </person>
+            <person xml:id="gnd-118805452">
+                <persName type="main">Virués, Cristóbal de</persName>
+                <persName type="sort">Virués, Cristóbal de</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1550"/>
+                    <placeName ref="https://d-nb.info/gnd/4062284-8">Valencia</placeName>
+                </birth>
+                <death>
+                    <date when="1614"/>
+                </death>
+                <note type="bio">span. Soldat und Schriftsteller, schied um 1585 mit dem Rang eines Capitán aus der Armee aus, seine Dramen "Elisa Dido", "La gran Semiramis", "La cruel Casandra", "Atila furioso" und "La infelice Marcela" wurden erst 1609 in den Obras veröffentlicht</note>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+            </person>
         </listPerson>
     </standOff>
 </TEI>
