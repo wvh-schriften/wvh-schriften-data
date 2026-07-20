@@ -89,16 +89,17 @@
                      <placeName key="geo-3128760">Barcelona</placeName></title>
                <title type="sub">[An <persName key="gnd-118540238">Goethe</persName>].</title>
             </head>
-            <p>Sie wünschen, <persName key="gnd-118540238">lieber Freund</persName>, dass <persName
-                  key="gnd-118554727">ich</persName> fortfahre, <persName key="gnd-118540238"
-                  >Ihnen</persName> etwas Ausführlicheres über meine <placeName key="geo-2510769"
-                  >Spani</placeName>sche Wanderung zu sagen, so wie <persName key="gnd-118554727"
-                  >ich</persName> es im Anfange derselben, bis <placeName key="geo-3117735"
-                  >Madrid</placeName> hin, that;<note type="footnote" n="i)" resp="gnd-116890657"
-                     ><hi>Vgl. <persName key="gnd-118554727">Humboldt</persName>s Brief an <persName
-                        key="gnd-118540238">Goethe</persName> vom <date when="1799-11-28">28.
-                        November 1799</date> und <persName key="gnd-118540238">Goethe</persName>s
-                     Antwort (<bibl><title>Briefe</title>
+            <p><persName key="gnd-118540238">Sie</persName> wünschen, <persName key="gnd-118540238"
+                  >lieber Freund</persName>, dass <persName key="gnd-118554727">ich</persName>
+               fortfahre, <persName key="gnd-118540238">Ihnen</persName> etwas Ausführlicheres über
+               meine <placeName key="geo-2510769">Spani</placeName>sche Wanderung zu sagen, so wie
+                  <persName key="gnd-118554727">ich</persName> es im Anfange derselben, bis
+                  <placeName key="geo-3117735">Madrid</placeName> hin, that;<note type="footnote"
+                  n="i)" resp="gnd-116890657"><hi>Vgl. <persName key="gnd-118554727"
+                        >Humboldt</persName>s Brief an <persName key="gnd-118540238"
+                        >Goethe</persName> vom <date when="1799-11-28">28. November 1799</date> und
+                        <persName key="gnd-118540238">Goethe</persName>s Antwort
+                           (<bibl><title>Briefe</title>
                         <biblScope unit="volume" n="15">15</biblScope>, <biblScope unit="page"
                            n="10">10</biblScope></bibl>).</hi></note> und <persName
                   key="gnd-118554727">ich</persName> erfülle <persName key="gnd-118540238"
@@ -187,15 +188,16 @@
                   key="gnd-118540238">Ihnen</persName> meine Schilderungen gerade darum willkommner
                seyn werden, weil sie von diesem Gesichtspunkte ausgehn. </p>
             <pb n="3.33" xml:id="pbIII33"/>
-            <p>Für heute wünsche <persName key="gnd-118554727">ich</persName> Sie in eine Gegend zu
-               führen, mit der wohl nur aufs höchste noch ein Paar andre in <placeName
-                  key="geo-6255148">Europa</placeName> verglichen werden können, wo die Natur und
-               ihre Bewohner in wunderbarer Harmonie mit einander stehen, und wo selbst der Fremde,
-               sich auf einige Augenblicke abgesondert wähnend von der Welt und den Menschen, mit
-               sonderbaren Gefühlen auf die Dörfer und Städte hinabblickt, die in einer
-               unabsehlichen Strecke zu seinen Füssen liegen — in die Einsiedlerwohnungen des
-                  <placeName key="geo-3116235">Montserrat</placeName>s bei <placeName
-                  key="geo-3128760">Barcelona</placeName>.</p>
+            <p>Für heute wünsche <persName key="gnd-118554727">ich</persName>
+               <persName key="gnd-118540238">Sie</persName> in eine Gegend zu führen, mit der wohl
+               nur aufs höchste noch ein Paar andre in <placeName key="geo-6255148"
+                  >Europa</placeName> verglichen werden können, wo die Natur und ihre Bewohner in
+               wunderbarer Harmonie mit einander stehen, und wo selbst der Fremde, sich auf einige
+               Augenblicke abgesondert wähnend von der Welt und den Menschen, mit sonderbaren
+               Gefühlen auf die Dörfer und Städte hinabblickt, die in einer unabsehlichen Strecke zu
+               seinen Füssen liegen — in die Einsiedlerwohnungen des <placeName key="geo-3116235"
+                  >Montserrat</placeName>s bei <placeName key="geo-3128760"
+               >Barcelona</placeName>.</p>
             <p><persName key="gnd-118554727">Ich</persName> habe zwei unvergesslich schöne Tage dort
                zugebracht, in denen <persName key="gnd-118554727">ich</persName> unendlich oft
                   <persName key="gnd-118540238">Ihrer</persName> gedachte. <persName
@@ -266,7 +268,8 @@
                   >Rubricatus</placeName> der Alten) ist der Weg derselbe mit dem nach <placeName
                   key="geo-2509954">Valencia</placeName>. <persName key="gnd-118554727"
                   >Ich</persName> sage <persName key="gnd-118540238">Ihnen</persName> nichts von
-               diesem Theile. Sie haben unstreitig die neulich erschienene Fischersche<note
+               diesem Theile. <persName key="gnd-118540238">Sie</persName> haben unstreitig die
+               neulich erschienene <persName key="gnd-115361413">Fischer</persName>sche<note
                   type="footnote" n="2)" resp="gnd-118554727"><bibl><title>Reise von <placeName
                            key="geo-2759794">Amsterdam</placeName> über <placeName key="geo-3117735"
                            >Madrid</placeName> und <placeName key="geo-2520600">Cadix</placeName>
@@ -295,9 +298,9 @@
                plötzlich anschwellen, in einem weiten Bette hin. Zu seiner Linken sind anmuthige
                Wiesen. Aber zur Rechten ist der Weg nach dem <placeName key="geo-3116235"
                   >Montserrat</placeName> meistentheils von Bergen eingeschränkt. Erst gegen
-               Martorell hin öfnet sich im Nordwesten ein weites romantisches Thal, und in der Mitte
-               desselben erhebt sich der <placeName key="geo-3116235">Montserrat</placeName>, den
-               man hier zum erstenmal erblickt.</p>
+                  <placeName key="geo-3117331">Martorell</placeName> hin öfnet sich im Nordwesten
+               ein weites romantisches Thal, und in der Mitte desselben erhebt sich der <placeName
+                  key="geo-3116235">Montserrat</placeName>, den man hier zum erstenmal erblickt.</p>
             <p>Er steht wie eine hohe und lange Wand vor der Gegend vor, und da er sich überall von
                der freien Ebne emporhebt, ohne mit einem andern Gebirge zusammenzuhängen, so giebt
                ihm dies ein noch majestätischeres Ansehen. Er ist (wie es sein Name sagt)
@@ -306,21 +309,24 @@
                besonders auf den karrikaturähnlichen Holzschnitten der Jungfrau des <placeName
                   key="geo-3116235">Montserrat</placeName>s, beinahe das Ansehen eines Gletschers
                geben, so erscheint er von hier größer und ernster, als in der Nähe.</p>
-            <p>Vor dem Eintreten in Martorell besuchte <persName key="gnd-118554727">ich</persName>
-               die Brücke, die hier über den Fluss geht, und welcher das Volk den Namen der
-               Teufelsbrücke giebt. Sie ist offenbar neu, und Gothischer Bauart; sie bildet ein
-               hohes, spitzig zulaufendes Gewölbe, und in ihrer Mitte ist ein kleiner Bogen
-               angebracht, um das Hinüberfahren zu verhindern, das ohnedies wegen der Steile sehr
-               beschwerlich seyn würde. An dem der Stadt gegenüber liegenden Ende der Brücke steht
-               ein alter, auf den Seiten sichtbar zerstörter Bogen, von grosser und fester, aber so
-               einfacher Bauart, dass es unmöglich ist, einen bestimmten Stil daran zu erkennen. </p>
+            <p>Vor dem Eintreten in <placeName key="geo-3117331">Martorell</placeName> besuchte
+                  <persName key="gnd-118554727">ich</persName> die Brücke, die hier über den Fluss
+               geht, und welcher das Volk den Namen der Teufelsbrücke giebt. Sie ist offenbar neu,
+               und Gothischer Bauart; sie bildet ein hohes, spitzig zulaufendes Gewölbe, und in
+               ihrer Mitte ist ein kleiner Bogen angebracht, um das Hinüberfahren zu verhindern, das
+               ohnedies wegen der Steile sehr beschwerlich seyn würde. An dem der Stadt gegenüber
+               liegenden Ende der Brücke steht ein alter, auf den Seiten sichtbar zerstörter Bogen,
+               von grosser und fester, aber so einfacher Bauart, dass es unmöglich ist, einen
+               bestimmten Stil daran zu erkennen. </p>
             <pb n="3.36" xml:id="pbIII36"/>
-            <p>Man nennt diesen Bogen gewöhnlich einen Triumphbogen, welchen Hannibal seinem Vater
-               Hamilcar zu Ehren errichtete, ohne dass <persName key="gnd-118554727">ich</persName>
-               eine andre Autorität für diese Meynung kenne, als die in Dillons<note type="footnote"
-                  n="3)" resp="gnd-118554727"><bibl><title>Travels through Spain</title> by
-                           <author><persName key="gnd-142620432">John Talbot
-                        Dillon</persName></author>. <pubPlace><placeName key="geo-2643743"
+            <p>Man nennt diesen Bogen gewöhnlich einen Triumphbogen, welchen <persName
+                  key="gnd-118545655">Hannibal</persName> seinem Vater <persName key="gnd-118869329"
+                  >Hamilcar</persName> zu Ehren errichtete, ohne dass <persName key="gnd-118554727"
+                  >ich</persName> eine andre Autorität für diese Meynung kenne, als die in <persName
+                  key="gnd-142620432">Dillon</persName>s<note type="footnote" n="3)"
+                  resp="gnd-118554727"><bibl><title>Travels through <placeName key="geo-2510769"
+                           >Spain</placeName></title> by <author><persName key="gnd-142620432">John
+                           Talbot Dillon</persName></author>. <pubPlace><placeName key="geo-2643743"
                            >London</placeName></pubPlace>. <edition n="2">2. ed</edition>. <date
                         when="1782">1782</date>. <biblScope unit="volume" n="4">4</biblScope>.
                         <biblScope unit="page" n="382">p. 382</biblScope></bibl>.</note> Reise
@@ -361,22 +367,28 @@
                   hauptsächlich der Krieg zwischen <persName key="gnd-118796275"
                      >Sertorius</persName> und <persName key="gnd-118595636">Pompejus</persName>
                   geführt wurde.</note> wirklich schon ehemals, wie es wahrscheinlich ist, eine
-               Stadt an der Stelle des jetzigen Martorell’s, und gieng dieselbe, weiter nach
-                  <placeName key="geo-3128760">Barcelona</placeName> hin, bis dicht an die Brücke
-               heran, so machte dieser Bogen vielleicht das äussere Stadtthor aus, oder war auch
-               eine blosse Brückenverzierung, wie die Bögen an der Brücke von St. Chamas über die
-               Touloubre zwischen Aix und Arles, und an der über die Charente bei Saintes. Freilich
-               aber sind dort zwei Bögen, einer zu jeder Seite der Brücke, da hier auf der andern
-               Seite keine Spur von Trümmern zu sehen ist. Auffallend bleibt es indess, dass nicht
-               die mindeste Verzierung und keine Spur einer Inschrift an demselben zu sehen ist, und
-               dieser Grund reichte vielleicht hin, ihn über die Römerzeiten hinauszusetzen, wenn
-               man sonst irgend ein Werk Karthagischer Baukunst in <placeName key="geo-2510769"
-                  >Spanien</placeName> mit Sicherheit aufweisen könnte.</p>
-            <p>Die Brücke ist im Jahr 1768. wieder hergestellt worden, und <persName
-                  key="gnd-118554727">ich</persName> weiss nicht, inwiefern man ihre vorige Gestalt
-               beibehalten hat<note type="footnote" n="5)" resp="gnd-118554727">In dem <bibl><date
-                        when="1735">1735</date>. von <author><persName key="gnd-115218521">Carl
-                           Christian Schramm</persName></author> in <pubPlace><placeName
+               Stadt an der Stelle des jetzigen <placeName key="geo-3117331"
+               >Martorell</placeName>’s, und gieng dieselbe, weiter nach <placeName
+                  key="geo-3128760">Barcelona</placeName> hin, bis dicht an die Brücke heran, so
+               machte dieser Bogen vielleicht das äussere Stadtthor aus, oder war auch eine blosse
+               Brückenverzierung, wie die Bögen an der Brücke von <placeName key="geo-2981209">St.
+                  Chamas</placeName> über die <placeName key="geo-2972318">Touloubre</placeName>
+               zwischen <placeName key="geo-3038354">Aix</placeName> und <placeName
+                  key="geo-3036938">Arles</placeName>, und an der über die <placeName
+                  key="geo-3026647">Charente</placeName> bei <placeName key="geo-2980340"
+                  >Saintes</placeName>. Freilich aber sind dort zwei Bögen, einer zu jeder Seite der
+               Brücke, da hier auf der andern Seite keine Spur von Trümmern zu sehen ist. Auffallend
+               bleibt es indess, dass nicht die mindeste Verzierung und keine Spur einer Inschrift
+               an demselben zu sehen ist, und dieser Grund reichte vielleicht hin, ihn über die
+                  <placeName key="geo-8354456">Röm</placeName>erzeiten hinauszusetzen, wenn man
+               sonst irgend ein Werk <placeName key="geo-2468244">Karthag</placeName>ischer Baukunst
+               in <placeName key="geo-2510769">Spanien</placeName> mit Sicherheit aufweisen
+               könnte.</p>
+            <p>Die Brücke ist im Jahr <date when="1768">1768</date>. wieder hergestellt worden, und
+                  <persName key="gnd-118554727">ich</persName> weiss nicht, inwiefern man ihre
+               vorige Gestalt beibehalten hat<note type="footnote" n="5)" resp="gnd-118554727">In
+                  dem <bibl><date when="1735">1735</date>. von <author><persName key="gnd-115218521"
+                           >Carl Christian Schramm</persName></author> in <pubPlace><placeName
                            key="geo-2879139">Leipzig</placeName></pubPlace> herausgegebenen
                         <title>Historischen Schauplatz, in welchem die merkwürdigsten Brücken der
                         Welt u. s. w. vorgestellt sind</title></bibl> soll sich eine Abbildung
@@ -386,11 +398,14 @@
                   n="3.37" xml:id="pbIII37"/> alten, die mit dem Bogen von gleicher Bauart gewesen
                zu seyn scheint, auf, und ist etwa 4 Schuh schmaler, als der Bogen, der, nach einer
                ungefähren Schätzung, 18 Schuh Breite und 40 Schuh Höhe haben mag.</p>
-            <p>In Martorell sah <persName key="gnd-118554727">ich</persName> denselben Fleiss, der
-               fast alle <placeName key="geo-3125609">Kataloni</placeName>schen Städte auszeichnet.
-               Vor allen Thüren sitzen Weiber und Mädchen, und verfertigen Spitzen. Oft finden Sie
-               ganze Familien, Mütter mit vier bis fünf Kindern, bei dieser Arbeit versammelt.</p>
-            <p>Hinter Martorell reitet man durch die Noya, die sich hier mit dem <placeName
+            <p>In <placeName key="geo-3117331">Martorell</placeName> sah <persName
+                  key="gnd-118554727">ich</persName> denselben Fleiss, der fast alle <placeName
+                  key="geo-3125609">Kataloni</placeName>schen Städte auszeichnet. Vor allen Thüren
+               sitzen Weiber und Mädchen, und verfertigen Spitzen. Oft finden <persName
+                  key="gnd-118540238">Sie</persName> ganze Familien, Mütter mit vier bis fünf
+               Kindern, bei dieser Arbeit versammelt.</p>
+            <p>Hinter <placeName key="geo-3117331">Martorell</placeName> reitet man durch die
+                  <placeName key="geo-3115330">Noya</placeName>, die sich hier mit dem <placeName
                   key="geo-3118233">Llobregat</placeName> vereinigt. Das Land fängt nun schon an,
                allmählig aufzusteigen, und der <placeName key="geo-3116235">Montserrat</placeName>
                zeigt sich jetzt immer mehr und mehr in seiner wahren Gestalt. Seine hundertfältigen
@@ -422,9 +437,9 @@
                Pflanzen in diesem glücklichen Himmelsstrich eine üppige Frische, eine
                unbeschreibliche Feinheit und Zartheit der Farben, einen Glanz, der die Sinne
                augenblicklich entzückt und sich der Phantasie dauernd einprägt.</p>
-            <p>Colbaton ist das letzte Dorf auf diesem Wege. Es ist klein und schlecht gebaut, und
-               liegt nur noch etwa eine Viertelstunde von dem eigentlichen Fusse des Berges
-               entfernt.</p>
+            <p><placeName key="geo-3124786">Colbaton</placeName> ist das letzte Dorf auf diesem
+               Wege. Es ist klein und schlecht gebaut, und liegt nur noch etwa eine Viertelstunde
+               von dem eigentlichen Fusse des Berges entfernt.</p>
             <p>Man steigt etwa zwei Stunden von hier bis zum Kloster auf. Der Fusssteig ist in
                Schlangenlinien um die Seite des Berges herumgeführt, aber dennoch stellenweise sehr
                steil. Wenigstens fanden meine Reisegesellschafter und <persName key="gnd-118554727"
@@ -439,16 +454,18 @@
             <p>Wir fiengen schon an, die nicht hinlänglich belohnte Beschwerde des Steigens
                unangenehm zu empfinden, als der Pfad sich plötzlich um eine Ecke drehte, und uns in
                einen weiten Busen des Berges führte. Nie hab’ <persName key="gnd-118554727"
-                  >ich</persName> einen gleichen Anblick genossen! Stellen Sie Sich zwei lieblich
-               geformte Vorhügel vor, die sich zu beiden Seiten von dem Berge aus in die Ebne
-               erstrecken; bekränzen Sie dieselben, so romantisch Ihre Phantasie es vermag, mit
-               Gebüschen, und denken Sie Sich dazwischen im Thale zu <persName key="gnd-118540238"
-                  >Ihren</persName> Füssen den Lauf des <placeName key="geo-3118233"
-                  >Llobregat</placeName>s bis zum Meere hin, das sich majestätisch am Horizonte
-               erhebt. <persName key="gnd-118554727">Ich</persName> verweilte lange an dem Stamme
-               einer Eiche, die in der Mitte dieses Busens steht, und in der That vereinigt dieser
-               Standpunkt alles, was einer Landschaft Grösse und Schönheit zu geben vermag. Die
-               Seiten des Berges sind wild und abentheuerlich durch die Pyramiden- und
+                  >ich</persName> einen gleichen Anblick genossen! Stellen <persName
+                  key="gnd-118540238">Sie</persName> Sich zwei lieblich geformte Vorhügel vor, die
+               sich zu beiden Seiten von dem Berge aus in die Ebne erstrecken; bekränzen <persName
+                  key="gnd-118540238">Sie</persName> dieselben, so romantisch <persName
+                  key="gnd-118540238">Ihre</persName> Phantasie es vermag, mit Gebüschen, und denken
+                  <persName key="gnd-118540238">Sie</persName> Sich dazwischen im Thale zu <persName
+                  key="gnd-118540238">Ihren</persName> Füssen den Lauf des <placeName
+                  key="geo-3118233">Llobregat</placeName>s bis zum Meere hin, das sich majestätisch
+               am Horizonte erhebt. <persName key="gnd-118554727">Ich</persName> verweilte lange an
+               dem Stamme einer Eiche, die in der Mitte dieses Busens steht, und in der That
+               vereinigt dieser Standpunkt alles, was einer Landschaft Grösse und Schönheit zu geben
+               vermag. Die Seiten des Berges sind wild und abentheuerlich durch die Pyramiden- und
                Cylinderförmigen Massen, die man erst hier in ihrer ganzen Sonderbarkeit sieht; die
                Vorhügel und die nächsten Ufer des Flusses geben das Bild einer anmuthigen und
                freundlichen Natur, <pb n="3.39" xml:id="pbIII39"/> und hinten verliert sich der
@@ -460,13 +477,15 @@
                kleinen Stadt. Das Kloster selbst ist hoch, hat eine Menge kleiner Fenster und ist
                von gelblicher Farbe. In dem neueren Theile desselben ist ein kleiner runder Thurm.
                Der Eingang ist besonders finster und wunderbar. Auf zwei Säulen von ehrwürdigem
-               Alter stehen der Heilige Benedictus und seine Schwester, die Heilige Scholastica.
+               Alter stehen der <persName key="gnd-118508911">Heilige Benedictus</persName> und
+               seine Schwester, die <persName key="gnd-122475127">Heilige Scholastica</persName>.
                Letztere hält ein Buch in der Hand, auf der ein Vogel sitzt, den man leicht für einen
                Papagey halten kann, der aber unstreitig eine Taube vorstellen soll, weil, nach
-               Gregors Erzählung, der Heilige Benedict in einer Erscheinung die Seele seiner
-               Schwester in Gestalt einer Taube gen Himmel fliegen sah. Architektonische Schönheit
-               muss man hier nicht suchen; das Ganze hat bloss eine sonderbare Gestalt, passt aber
-               dadurch nur noch besser zu der Stelle, auf der es steht.</p>
+               Gregors Erzählung, der <persName key="gnd-118508911">Heilige Benedict</persName> in
+               einer Erscheinung die Seele <persName key="gnd-122475127">seiner Schwester</persName>
+               in Gestalt einer Taube gen Himmel fliegen sah. Architektonische Schönheit muss man
+               hier nicht suchen; das Ganze hat bloss eine sonderbare Gestalt, passt aber dadurch
+               nur noch besser zu der Stelle, auf der es steht.</p>
             <p>Nichts kann in der That sonderbarer seyn, als dieser Platz, den der Berg absichtlich
                geöfnet zu haben scheint, um dort Menschenwohnungen in seinen Schooss aufzunehmen.
                Die Gebäude stehen nach der Ebne zu an einem furchtbar schroffen Abgrund: der
@@ -483,19 +502,19 @@
                überhängende Masse erregt, nicht ungegründet ist, beweisen einige Beispiele hier
                wirklich heruntergefallener Felsstücke. So finde <persName key="gnd-118554727"
                   >ich</persName> unter andern in einer <pb n="3.40" xml:id="pbIII40"/>
-               Portugiesischen Reisebeschreibung<note type="footnote" n="6)" resp="gnd-118554727"
-                        ><bibl><title>Chorographia de algunas Lugares que stam em hum caminho, que
-                        fez <persName key="gnd-124893783">Gaspar Barreiros</persName> ó anno de
-                           <date when="1546">1546</date>. commeçãdo na cidade de <placeName
-                           key="geo-2521420">Badajoz</placeName> te á de <placeName
-                           key="geo-3173435">Milam</placeName> em <placeName key="geo-3175395"
-                           >Italia</placeName></title>. <pubPlace><placeName key="geo-2740637"
-                           >Coimbra</placeName></pubPlace>. <date when="1561">1561</date>.
-                        <biblScope unit="chapter" n="4">4</biblScope>. <biblScope unit="page"
-                        n="116">f. 116</biblScope></bibl>.</note> aus dem <date from="1500"
-                  to="1599">16. Jahrhundert</date> erzählt, dass im <date when="1546">März
-                  1546</date>. eines auf das Hospital des Klosters stürzte, und 9 Personen tödtete
-               und mehr als 40 verwundete.</p>
+               <placeName key="geo-2264397">Portug</placeName>iesischen Reisebeschreibung<note
+                  type="footnote" n="6)" resp="gnd-118554727"><bibl><title>Chorographia de algunas
+                        Lugares que stam em hum caminho, que fez <persName key="gnd-124893783"
+                           >Gaspar Barreiros</persName> ó anno de <date when="1546">1546</date>.
+                        commeçãdo na cidade de <placeName key="geo-2521420">Badajoz</placeName> te á
+                        de <placeName key="geo-3173435">Milam</placeName> em <placeName
+                           key="geo-3175395">Italia</placeName></title>. <pubPlace><placeName
+                           key="geo-2740637">Coimbra</placeName></pubPlace>. <date when="1561"
+                        >1561</date>. <biblScope unit="chapter" n="4">4</biblScope>. <biblScope
+                        unit="page" n="116">f. 116</biblScope></bibl>.</note> aus dem <date
+                  from="1500" to="1599">16. Jahrhundert</date> erzählt, dass im <date when="1546"
+                  >März 1546</date>. eines auf das Hospital des Klosters stürzte, und 9 Personen
+               tödtete und mehr als 40 verwundete.</p>
             <p>Auf diesem übertretenden Felsen sollen, wie mir ein Mönch sagte, Reste von Mauern und
                ein Kreuz stehen, zu denen aber der Zugang gefährlich sey. Die Volkssage leitet diese
                Ueberbleibsel von der Wohnung des Teufels her, der hier, wie <persName
@@ -508,27 +527,38 @@
             <p>Der Ursprung des Klosters des <placeName key="geo-3116235">Montserrat</placeName>s
                ist mit Dunkelheit umhüllt, und die Geschichtschreiber, welche desselben erwähnen,
                weichen um beinahe 200 Jahre von einander ab. Kirchen und Kapellen scheinen schon
-               seit den ältesten Zeiten, und wenigstens gewiss im Laufe des 9. Jahrhunderts auf dem
-               Berge gewesen zu seyn; sichere Spuren eines Klosters aber findet man erst in der
-               Mitte des 11. Jahrhunderts, wo es der Benedictinerabtei von Ripoll einverleibt war.
-               Im 14. Jahrhundert fieng es an, sich nach und nach von dieser unabhängig zu machen,
-               und im Jahr 1410. erhob der Pabst Benedict 13. das Priorat des <placeName
+               seit den ältesten Zeiten, und wenigstens gewiss <date to="0899" from="0800">im Laufe
+                  des 9. Jahrhunderts</date> auf dem Berge gewesen zu seyn; sichere Spuren eines
+               Klosters aber findet man erst <date to="1070" from="1030">in der Mitte des 11.
+                  Jahrhunderts</date>, wo es der Benedictinerabtei von <placeName key="geo-3111607"
+                  >Ripoll</placeName> einverleibt war. <date to="1399" from="1300">Im 14.
+                  Jahrhundert</date> fieng es an, sich nach und nach von dieser unabhängig zu
+               machen, und im Jahr <date when="1410">1410</date>. erhob der <persName
+                  key="gnd-118508881">Pabst Benedict 13.</persName> das Priorat des <placeName
                   key="geo-3116235">Montserrat</placeName>s förmlich zu einer unabhängigen, nur dem
-               Römischen Stuhle unterworfenen Abtei, und Martin 5. und Eugen 6. bestätigten diese
-               Erhebung. Damals hatte das Kloster nur 12 Mönche und so dauerte es bis 1493. fort, wo
-               es der Benedictiner-Congregation von <placeName key="geo-3106672"
-                  >Valladolid</placeName> einverleibt wurde, und die Zahl der Mönche nun seitdem bis
-               auf die jetzige anwuchs. Diese Verbesserung bewirkte vorzüglich der damalige Abt des
-               Klosters Garuá de Cisneros, der Neffe des Cardinals Ximenes, welcher auch der
-               geistliche Reformator und Stifter der jetzigen Disciplin des Klosters wurde.</p>
+                  <placeName key="geo-3164670">Röm</placeName>ischen Stuhle unterworfenen Abtei, und
+                  <persName key="gnd-118578286">Martin 5.</persName> und <persName
+                  key="gnd-118531328">Eugen 6.</persName><note type="clarification" n="*" resp="sbp"
+                  >Es ist festzustellen, dass es noch keinen Papst Eugen VI. gab. Humboldt muss sich
+                  also wohl geirrt haben. Stattdessen meinte er wahrscheinlich den Papst Eugen
+                  IV.</note> bestätigten diese Erhebung. Damals hatte das Kloster nur 12 Mönche und
+               so dauerte es bis <date when="1493">1493</date>. fort, wo es der
+               Benedictiner-Congregation von <placeName key="geo-3106672">Valladolid</placeName>
+               einverleibt wurde, und die Zahl der Mönche nun seitdem bis auf die jetzige anwuchs.
+               Diese Verbesserung bewirkte vorzüglich der damalige <persName key="gnd-100964974">Abt
+                  des Klosters Garuá de Cisneros</persName>, der Neffe des <persName
+                  key="gnd-118712152">Cardinals Ximenes</persName>, welcher auch der geistliche
+               Reformator und Stifter der jetzigen Disciplin des Klosters wurde.</p>
             <p>Die erste Veranlassung zu einem Kirchen- und Klosterbau in dieser Gegend soll die
-               Auffindung des Bildes der Mutter Gottes gegeben haben, das noch jetzt dort verwahrt
-               wird. Man setzt dieselbe gewöhnlich in das Ende des 9. Jahrhunderts. Schäferknaben
+               Auffindung des Bildes der <persName key="gnd-118640909">Mutter Gottes</persName>
+               gegeben haben, das noch jetzt dort verwahrt wird. Man setzt dieselbe gewöhnlich in
+                  <date to="0899" from="0870">das Ende des 9. Jahrhunderts</date>. Schäferknaben
                sahen in der Nacht Lichter im Berge und hörten melodische <pb n="3.41"
                   xml:id="pbIII41"/> Stimmen, wie von Engeln. Sie hinterbrachten es dem Bischof in
-               dem nahegelegenen Manresa, und nach geschehener Nachsuchung fand man das Wunderbild.
-               Man wollte es nach Manresa bringen, allein als es auf der Stelle des heutigen
-               Klosters ankam, widersetzte es sich allen Versuchen, es von da wegzunehmen. </p>
+               dem nahegelegenen <placeName key="geo-3117533">Manresa</placeName>, und nach
+               geschehener Nachsuchung fand man das Wunderbild. Man wollte es nach <placeName
+                  key="geo-3117533">Manresa</placeName> bringen, allein als es auf der Stelle des
+               heutigen Klosters ankam, widersetzte es sich allen Versuchen, es von da wegzunehmen. </p>
             <p>Zu gleicher Zeit entdeckte sich die Ursach der Vorliebe, welche das Bild für diese
                Stelle bewies.</p>
             <p><persName key="gnd-11914879X">Wifred 2.</persName> mit dem Beinamen: der Zottige (<hi
@@ -561,20 +591,21 @@
                lässt ihn <persName key="gnd-11914879X">der Graf</persName> um seine Tafel führen, um
                ihn seinen Gästen zu zeigen. Er folgt geduldig, isst aber nur mit den Hunden von den
                Brosamen des Tisches. Die Amme des erst drei Monate vorher gebohrenen Sohns des
-               Grafen eilt gleichfalls, den Säugling im Arm, zu diesem Wunder herbei. Wie das Kind
-               den Einsiedler erblickt, ruft es aus: <quote>Stehe auf, und schaue den Himmel an; <pb
-                     n="3.42" xml:id="pbIII42"/> Gott hat dir vergeben!</quote> und augenblicklich
-               darauf kehrt es zum Kindergeschrei zurück.</p>
-            <p><persName key="person-000001">Guarin</persName> umfasst nun des Grafen Kniee,
-               entdeckt ihm sein Vergehen, erhält seine Verzeihung und beide eilen, den Leichnam der
-               Ermordeten aufzusuchen. Es findet sich, dass das Wunderbild auf ihrem Grabe geblieben
-               ist. Wie man dasselbe öfnet, steigt die Erschlagne lebendig und blühender, als sie
-               vorher war, aus der Erde empor. Der erfreute Vater will sie mit sich nach <placeName
-                  key="geo-3128760">Barcelona</placeName> führen und verheirathen; aber sie will die
-               Liebe, die ihr Maria bewiesen, nicht unerwidert lassen, und verlangt von ihrem Vater,
-               dass er von ihrer Aussteuer der Jungfrau an dieser Stelle ein Kloster errichte, in
-               dem sie Aebtissin und <persName key="person-000001">Guarin</persName> Seelsorger
-               wird.</p>
+                  <persName key="gnd-11914879X">Grafen</persName> eilt gleichfalls, den Säugling im
+               Arm, zu diesem Wunder herbei. Wie das Kind den Einsiedler erblickt, ruft es aus:
+                  <quote>Stehe auf, und schaue den Himmel an; <pb n="3.42" xml:id="pbIII42"/> Gott
+                  hat dir vergeben!</quote> und augenblicklich darauf kehrt es zum Kindergeschrei
+               zurück.</p>
+            <p><persName key="person-000001">Guarin</persName> umfasst nun des <persName
+                  key="gnd-11914879X">Grafen</persName> Kniee, entdeckt ihm sein Vergehen, erhält
+               seine Verzeihung und beide eilen, den Leichnam der Ermordeten aufzusuchen. Es findet
+               sich, dass das Wunderbild auf ihrem Grabe geblieben ist. Wie man dasselbe öfnet,
+               steigt die Erschlagne lebendig und blühender, als sie vorher war, aus der Erde empor.
+               Der erfreute Vater will sie mit sich nach <placeName key="geo-3128760"
+                  >Barcelona</placeName> führen und verheirathen; aber sie will die Liebe, die ihr
+               Maria bewiesen, nicht unerwidert lassen, und verlangt von ihrem Vater, dass er von
+               ihrer Aussteuer der Jungfrau an dieser Stelle ein Kloster errichte, in dem sie
+               Aebtissin und <persName key="person-000001">Guarin</persName> Seelsorger wird.</p>
             <p>So wenigstens verbinden gewöhnlich die eifrigen Verehrer des <placeName
                   key="geo-3116235">Montserrat</placeName>s diese Legende (deren <persName
                   key="gnd-118554727">ich</persName>, als eines wunderbaren Gemisches von
@@ -583,24 +614,26 @@
                Geschichtschreiber aber trennen die Errichtung einer Kirche im Berg von der Stiftung
                des Klosters. Die erstere setzen sie sehr hoch hinauf, die letztere aber so wie die
                damit zusammenhängende Geschichte <persName key="person-000001">Guarin</persName>s
-               nur in das 11. Jahrhundert. Die Legende <persName key="person-000001"
-                  >Guarin</persName>s gründet sich (nach <persName key="gnd-130259438">Petrus de
-                  Marca</persName>) auf eine Urkunde aus der Mitte des 14. Jahrhunderts, welche
-               dieselbe, ohne Bestimmung der Zeit, erzählt, und sein Name findet sich zuerst in
-               einer an ihn gerichteten Schenkungsurkunde von 1063. In <placeName key="geo-3128760"
-                  >Barcelona</placeName> stehen noch jetzt in einem Hause (welches <persName
-                  key="gnd-11914879X">der Graf</persName>, dessen <persName key="person-000003"
-                  >Tochte</persName>r er heilte, besessen haben soll, und das jetzt den
-               Bernardinermönchen de Santas Cruces gehört) zwei alte Bildsäulen, deren eine den
-               Einsiedler knieend, die andre die Amme mit dem Kinde im Arme vorstellt. Gab es daher
-               auch wirklich, wie nicht unwahrscheinlich ist, einen Einsiedler dieses Namens,
-               welcher sich für irgend ein Vergehen eine ausserordentliche Büssung auferlegte, so
-               hat ihn unstreitig nur fromme Erdichtung bis in das 9. Jahrhundert hinaufgesetzt, um
-               den fabelhaften Zusätzen, mit welchen man diese Geschichte ausschmückte, dadurch mehr
-               Glauben zu verschaffen.<note type="footnote" n="7)" resp="gnd-118554727">Ausführlich
-                  findet man die Geschichte des<placeName key="geo-3116235"> Montserrat</placeName>s
-                  in <bibl><author><persName key="gnd-124741061">Fr. Antonio de
-                        Yepes</persName></author>
+               nur in das <date to="1099" from="1000">11. Jahrhundert</date>. Die Legende <persName
+                  key="person-000001">Guarin</persName>s gründet sich (nach <persName
+                  key="gnd-130259438">Petrus de Marca</persName>) auf eine Urkunde aus der <date
+                  to="1370" from="1330">Mitte des 14. Jahrhunderts</date>, welche dieselbe, ohne
+               Bestimmung der Zeit, erzählt, und sein Name findet sich zuerst in einer an ihn
+               gerichteten Schenkungsurkunde von <date when="1063">1063</date>. In <placeName
+                  key="geo-3128760">Barcelona</placeName> stehen noch jetzt in einem Hause (welches
+                  <persName key="gnd-11914879X">der Graf</persName>, dessen <persName
+                  key="person-000003">Tochte</persName>r er heilte, besessen haben soll, und das
+               jetzt den Bernardinermönchen de Santas Cruces gehört) zwei alte Bildsäulen, deren
+               eine den Einsiedler knieend, die andre die Amme mit dem Kinde im Arme vorstellt. Gab
+               es daher auch wirklich, wie nicht unwahrscheinlich ist, einen Einsiedler dieses
+               Namens, welcher sich für irgend ein Vergehen eine ausserordentliche Büssung
+               auferlegte, so hat ihn unstreitig nur fromme Erdichtung <date to="0899">bis in das 9.
+                  Jahrhundert</date> hinaufgesetzt, um den fabelhaften Zusätzen, mit welchen man
+               diese Geschichte ausschmückte, dadurch mehr Glauben zu verschaffen.<note
+                  type="footnote" n="7)" resp="gnd-118554727">Ausführlich findet man die Geschichte
+                     des<placeName key="geo-3116235"> Montserrat</placeName>s in
+                           <bibl><author><persName key="gnd-124741061">Fr. Antonio de
+                           Yepes</persName></author>
                      <title xml:lang="es">cronica general de la Orden de S. Benito</title>. <date
                         when="1609">1609</date>. <biblScope unit="volume" n="4">Vol. 4</biblScope>.
                         <biblScope unit="page" from="224">fol. 224. u. f</biblScope>.</bibl> in
@@ -651,9 +684,9 @@
                einmal um in den Berg zu gehen. Indess giebt es zwei Monate im Jahr, wo ihnen sogar
                den Berg zu verlassen und zu verreisen erlaubt ist. Sie machen ein Kapitel zusammen
                aus, und wählen ihren Abt selbst, der es nur immer vier Jahre bleibt.</p>
-            <p>Mit dem Innern des Klosters werde <persName key="gnd-118554727">ich</persName> Sie
-               nicht lange aufhalten; alles verschwindet hier vor der Grösse und Sonderbarkeit der
-               Natur.</p>
+            <p>Mit dem Innern des Klosters werde <persName key="gnd-118554727">ich</persName>
+               <persName key="gnd-118540238">Sie</persName> nicht lange aufhalten; alles
+               verschwindet hier vor der Grösse und Sonderbarkeit der Natur.</p>
             <p>Die Kirche ist geräumig und bildet ein flaches, aber sehr breites Gewölbe. Sie ist
                mit ungeheurer Pracht durchaus vergoldet und mit Arabesken bedeckt. Aber so wenig
                auch das Einzelne geschmackvoll genannt werden kann, so macht dennoch das Ganze einen
@@ -666,14 +699,17 @@
             <p>Das Schnitzwerk des Chors hat Verdienst in der richtigen und edlen Zeichnung der
                Figuren, enthält aber bei weitem keinen solchen Reichtum künstlerischer Erfindung,
                als man an ähnlichen Arbeiten in andern Kirchen findet. Man schreibt es Christoph von
-               Salamanca zu, und sowohl diese Arbeit, als der Hochaltar, ein Werk Stephan Jordans
-               aus <placeName key="geo-3106672">Valladolid</placeName>,<note type="footnote" n="iv)"
-                  resp="gnd-116890657"><hi>Beide Meister wirkten unter der Regierung <persName
-                        key="gnd-118593862">Philipps II</persName>.</hi></note> ist aus dem Ende des
-               16. Jahrhunderts, wo die Bildhauer- und Baukunst mehr in Castilien, als im übrigen
-                  <placeName key="geo-2510769">Spanien</placeName> blühte. Denn erst 1599. Brachte
-               man, wie eine eigne lateinische Inschrift sagt, das heilige Bild, in Gegenwart Königs
-               Philipp 3., aus der damaligen alten Kirche in diese neue.</p>
+               Salamanca zu, und sowohl diese Arbeit, als der Hochaltar, ein Werk <persName
+                  key="gnd-123671019">Stephan Jordan</persName>s aus <placeName key="geo-3106672"
+                  >Valladolid</placeName>,<note type="footnote" n="iv)" resp="gnd-116890657"
+                     ><hi>Beide Meister wirkten unter der Regierung <persName key="gnd-118593862"
+                        >Philipps II</persName>.</hi></note> ist aus dem <date to="1599" from="1570"
+                  >Ende des 16. Jahrhunderts</date>, wo die Bildhauer- und Baukunst mehr in
+                  <placeName key="geo-3336900">Castilien</placeName>, als im übrigen <placeName
+                  key="geo-2510769">Spanien</placeName> blühte. Denn erst <date when="1599"
+                  >1599</date>. Brachte man, wie eine eigne lateinische Inschrift sagt, das heilige
+               Bild, in Gegenwart <persName key="gnd-118593846">Königs Philipp 3.</persName>, aus
+               der damaligen alten Kirche in diese neue.</p>
             <p>Der Gottesdienst des <placeName key="geo-3116235">Montserrat</placeName>s zeichnet
                sich durch eine besondre Feierlichkeit und vorzüglich durch eine trefliche
                Kirchenmusik aus. In dem daselbst befindlichen Institut für Knaben zum Chorgesang
@@ -691,9 +727,10 @@
                darzustellen gewusst hat. Ueber dieses erfahren Sie mehr, wenn <persName
                   key="gnd-118554727">ich</persName>
                <persName key="gnd-118540238">Ihnen</persName> die ausführliche Beschreibung aller
-               merkwürdigen Gemälde Madrids, der Königlichen Lustschlösser, und des ganzen
-               mittäglichen <placeName key="geo-2510769">Spanien</placeName>s schicke, von der
-                  <persName key="gnd-118554727">ich</persName>
+               merkwürdigen Gemälde <placeName key="geo-3117735">Madrid</placeName>s, der
+               Königlichen Lustschlösser, und des ganzen mittäglichen <placeName key="geo-2510769"
+                  >Spanien</placeName>s schicke, von der <persName key="gnd-118554727"
+                  >ich</persName>
                <persName key="gnd-118540238">Ihnen</persName> schon einigemale sprach.<note
                   type="footnote" n="v)" resp="gnd-116890657"><hi>Diese von <persName
                         key="gnd-118554719">Karoline von Humboldt</persName> verfaßte Beschreibung
@@ -713,19 +750,21 @@
                   >Rom</placeName> weisen Kirchen der Jungfrau des <placeName key="geo-3116235"
                   >Montserrat</placeName>s auf: die Söhne mehrerer der ersten Familien <placeName
                   key="geo-2510769">Spanien</placeName>s wurden in die Zahl der, ihrem Dienste
-               geweihten Knaben theils eingeschrieben, theils wirklich aufgenommen; Ludwig 14.
-               verschafte denjenigen seiner Unterthanen, welche zu ihr wallfarthen würden,
-               geistliche Vortheile vom Pabst; Johann von Oesterreich, der Sieger bei Lepanto,
-               sandte ihr nach der Schlacht einige Fahnen und die erbeutete Leuchte des türkischen
-               Admiralsschiffs, und soll selbst die Absicht gehabt haben, seine Tage als Einsiedler
-               in dieser Einöde zu beschliessen; und Karl 5., der sie zu neun verschiednen Malen
-               besuchte, starb, eine an ihrem Altar geweihte Kerze in der Hand.</p>
+               geweihten Knaben theils eingeschrieben, theils wirklich aufgenommen; <persName
+                  key="gnd-118816829">Ludwig 14.</persName> verschafte denjenigen seiner
+               Unterthanen, welche zu ihr wallfarthen würden, geistliche Vortheile vom Pabst;
+                  <persName key="gnd-118713299">Johann von Oesterreich</persName>, der Sieger bei
+               Lepanto, sandte ihr nach der Schlacht einige Fahnen und die erbeutete Leuchte des
+               türkischen Admiralsschiffs, und soll selbst die Absicht gehabt haben, seine Tage als
+               Einsiedler in dieser Einöde zu beschliessen; und <persName key="gnd-118560093">Karl
+                  5.</persName>, der sie zu neun verschiednen Malen besuchte, starb, eine an ihrem
+               Altar geweihte Kerze in der Hand.</p>
             <p>Wir machten uns am andern Morgen mit Anbruch des Tages auf, die Einsiedeleien zu
                besuchen. Da das Wetter nicht ganz sicher schien, so eilten wir zuerst der Spitze des
                Berges zu, um von da die Gegend zu überschauen.</p>
             <p>Auf der linken Seite des schmalen Platzes vor dem Klosterthor windet sich eine
                schmale Treppe zwischen den Felsen hinauf, durch die man zunächst in die Einsiedelei
-               der Heiligen Anna kömmt.</p>
+               der <persName key="gnd-118649418">Heiligen Anna</persName> kömmt.</p>
             <p>Wir begegneten hier einem Einsiedler, der, weil er alt und nicht wohl war, in das
                Kloster hinabstieg, um einige Wochen in der Krankenstube desselben zu bleiben. Es war
                ein kleiner, stämmiger Mann mit fester und entschlossener Mine, und seine graue
@@ -734,10 +773,11 @@
                das Einsiedlerund Heiligenleben, das immerfort mit allem Ungemache der Natur ringt,
                an den Zustand der Naturwildheit.</p>
             <p>Wir hatten schon beträchtlich steigen müssen, als wir an der Thür der Einsiedelei der
-               Heiligen Anna standen. Wir klopften an, und der Einsiedler öfnete uns sogleich. Er
-               setzte sich erst, ehe er ein Wort sprach, einen Augenblick zum Gebet in seiner <pb
-                  n="3.46" xml:id="pbIII46"/> Kapelle nieder: dies ist eine allgemeine Sitte; dann
-               sprach er mit uns, und behandelte uns mit vieler Freundlichkeit.</p>
+                  <persName key="gnd-118649418">Heiligen Anna</persName> standen. Wir klopften an,
+               und der Einsiedler öfnete uns sogleich. Er setzte sich erst, ehe er ein Wort sprach,
+               einen Augenblick zum Gebet in seiner <pb n="3.46" xml:id="pbIII46"/> Kapelle nieder:
+               dies ist eine allgemeine Sitte; dann sprach er mit uns, und behandelte uns mit vieler
+               Freundlichkeit.</p>
             <p>Es war ein hübscher Mann mit einer milden und sanften Mine und einer einnehmenden
                Gesichtsbildung. In dem schlichten Ebenmasse seiner Züge, der kleinen aber ofnen
                Stirn, dem hellen und ruhigen Blicke seiner Augen, der gerade absteigenden Nase, und
@@ -757,24 +797,27 @@
                Gebäude von Einem Stockwerk und verschiedener Bauart nach der Verschiedenheit ihrer
                Lage. Indess haben alle eine Kapelle, mehrere Stuben, eine Küche, eine Cisterne, und
                die meisten noch einen Säulengang um die Wohnung, oder doch eine Vorlaube. Bei jeder
-               finden Sie ein oder mehrere kleine Gartenstücke auf den Terrassen, welche die Felsen
-               ringsherum bilden. Ueberall wurde <persName key="gnd-118554727">ich</persName> durch
-               eine ausserordentliche Reinlichkeit in der Kleidung und den Wohnungen der Einsiedler
-               und durch die sorgfältige Zierlichkeit ihres Gartenbaues überrascht.</p>
-            <p>Die Einsiedelei der Heiligen Anna dient zugleich sämmtlichen Einsiedlern zur
-               Pfarrkirche, in der sie an bestimmten Tagen (oft einigemale in der Woche)
-               zusammenkommen, und von einem Mönche, der ihr Seelsorger ist, und mitten unter ihnen
-               (in der Einsiedelei des Heiligen Benedictus) wohnt, das Sacrament empfangen. Die
-               Kapelle dieses Einsiedlers bildet also einen kleinen Saal, in welchem ausser seinem
-               eigenen Betstuhle noch zu beiden Wänden zwei Reihen ordentlicher Chorstühle für seine
-               11 Mitbrüder stehen. </p>
+               finden <persName key="gnd-118540238">Sie</persName> ein oder mehrere kleine
+               Gartenstücke auf den Terrassen, welche die Felsen ringsherum bilden. Ueberall wurde
+                  <persName key="gnd-118554727">ich</persName> durch eine ausserordentliche
+               Reinlichkeit in der Kleidung und den Wohnungen der Einsiedler und durch die
+               sorgfältige Zierlichkeit ihres Gartenbaues überrascht.</p>
+            <p>Die Einsiedelei der <persName key="gnd-118649418">Heiligen Anna</persName> dient
+               zugleich sämmtlichen Einsiedlern zur Pfarrkirche, in der sie an bestimmten Tagen (oft
+               einigemale in der Woche) zusammenkommen, und von einem Mönche, der ihr Seelsorger
+               ist, und mitten unter ihnen (in der Einsiedelei des <persName key="gnd-118508911"
+                  >Heiligen Benedictus</persName>) wohnt, das Sacrament empfangen. Die Kapelle
+               dieses Einsiedlers bildet also einen kleinen Saal, in welchem ausser seinem eigenen
+               Betstuhle noch zu beiden Wänden zwei Reihen ordentlicher Chorstühle für seine 11
+               Mitbrüder stehen. </p>
             <pb n="3.47" xml:id="pbIII47"/>
             <p>Es muss ein abentheuerlicher Anblick seyn, hier im Winter, noch in der Nacht (um 4
                Uhr Morgens) die Einsiedler, halb erstarrt vor Frost, mit Fackeln den Berg durch die
                engen Felswege herunterkommen, und dann zum Gottesdienst in dieser schauderhaft
                einsamen Höhe versammelt zu sehen.</p>
-            <p>Von der Heiligen Anna bis zur Einsiedelei des Heiligen Hieronymus, die dem Gipfel
-               sehr nahe liegt, aber jetzt leer steht, hatten wir einen beträchtlichen Weg durch das
+            <p>Von der <persName key="gnd-118649418">Heiligen Anna</persName> bis zur Einsiedelei
+               des <persName key="gnd-118550853">Heiligen Hieronymus</persName>, die dem Gipfel sehr
+               nahe liegt, aber jetzt leer steht, hatten wir einen beträchtlichen Weg durch das
                Gebirge zu machen.</p>
             <p>Der ganze <placeName key="geo-3116235">Montserrat</placeName> besteht aus etwa 6 bis
                7 Stockwerken, d. h. senkrechten Wänden, welche durch 6 bis 7 kleine schräge Ebenen
@@ -796,61 +839,66 @@
                Gipfel unterscheiden zu lernen, und ihnen Namen zu geben, sie bei der aufgehenden
                Sonne zu begrüssen, ihnen bei der scheidenden Lebewohl zu sagen.</p>
             <p>Der <placeName key="geo-3116235">Montserrat</placeName> hat nicht den ernsten,
-               grossen und feierlichen Charakter nordischer Gebirge, der Alpen, unsrer Bergketten,
-               oder auch der Pyrenäen. Ein inselförmig allein stehender Berg, in unzählige kleinere
-               Felsmassen zerspalten, mit meistentheils niedrigem Gesträuche bewachsen, ist er rauh,
-               wild, chaotisch-gestaltet in seinen Gipfeln, anmuthig und freundlich in seinen
-               Gründen, wunderbar und abentheuerlich im Ganzen, aber nicht eigentlich gross und
-               erhaben. Es fehlen ihm die mächtigen Wände, die ungeheuren Flächen, auf denen das
-               Auge weit hinausschweift; er hat keine fürchterlich rauschenden Wasserfälle, keine
-               Gruppen finstrer Tannen, keine Eichen, deren dicker Stamm und deren knotige, <pb
-                  n="3.48" xml:id="pbIII48"/> mannigfaltig gewundene Aeste den Kampf bezeugen, den
-               sie vielleicht schon ein ganzes Jahrhundert hindurch gegen die Macht der Elemente
-               bestanden. Die Bäume, die man hier sieht, sind kleiner und schwächer; Nadelholz ist
-               nur wenig, und was man am häufigsten findet, ist immergrünes Gesträuch mit einem
-               dunkelglänzenden Laube. Was indess diesem Berge an Grösse abgeht, ersetzt er durch
-               die wunderbare Verbindung von Anmuth und Wildheit und durch die feierliche Stille,
-               die in ihm herrscht. Zu <persName key="gnd-118540238">Ihren</persName> Füssen ist
-               eine reizende und blumige Ebne, und einen einzigen Blick in die Höhe gerichtet, und
-               Sie schauen in ein Chaos von Klippen, das den Trümmern einer ungeheuren Felsenstadt
-               gleicht.</p>
-            <p>S. Geronimo hat ohne Zweifel unter allen Einsiedeleien des <placeName
-                  key="geo-3116235">Montserrat</placeName>s die schönste und romantischste Lage. Der
-               Morgen, an dem wir diese Gegend besuchten, war neblig, aber der Nebel lag noch tief
-               im Thale, der Himmel war heiter und blau, und die Sonne schien sehr warm herunter.
-               Vor uns gegen das Kloster zu und zu unsrer Linken erhoben sich die Spitzen des Berges
-               inselartig aus dem feuchten Duftmeere, das die ganze Fläche bedeckte. Vorzüglich
-               schön stieg gerade gegen uns über, gleich einem mächtigen Eiland, eine Gruppe von
-               Felsmassen empor, die man vom ganzen Berge aus leicht bemerkt und die sich gerade
-               hinter und über dem Kloster zu erheben scheint. Zur Linken standen die Felsen mehr
-               einzeln und abgeschnitten. Zu beiden Seiten öfnete sich der Blick in die Gegend. Aber
-               zur Linken lagen die weissen Nebelwolken noch still und dicht, wie ein Meer; langsam,
-               aber in steter Bewegung, zogen sie sich von da durch die Spitzen vor uns, und
-               lagerten sich, aber dünner und zerrissner auf die, in wechselnden Gestalten durch sie
-               durchschimmernde Fläche.</p>
+               grossen und feierlichen Charakter nordischer Gebirge, der <placeName
+                  key="geo-2661786">Alpen</placeName>, unsrer Bergketten, oder auch der <placeName
+                  key="geo-3112616">Pyrenäen</placeName>. Ein inselförmig allein stehender Berg, in
+               unzählige kleinere Felsmassen zerspalten, mit meistentheils niedrigem Gesträuche
+               bewachsen, ist er rauh, wild, chaotisch-gestaltet in seinen Gipfeln, anmuthig und
+               freundlich in seinen Gründen, wunderbar und abentheuerlich im Ganzen, aber nicht
+               eigentlich gross und erhaben. Es fehlen ihm die mächtigen Wände, die ungeheuren
+               Flächen, auf denen das Auge weit hinausschweift; er hat keine fürchterlich
+               rauschenden Wasserfälle, keine Gruppen finstrer Tannen, keine Eichen, deren dicker
+               Stamm und deren knotige, <pb n="3.48" xml:id="pbIII48"/> mannigfaltig gewundene Aeste
+               den Kampf bezeugen, den sie vielleicht schon ein ganzes Jahrhundert hindurch gegen
+               die Macht der Elemente bestanden. Die Bäume, die man hier sieht, sind kleiner und
+               schwächer; Nadelholz ist nur wenig, und was man am häufigsten findet, ist immergrünes
+               Gesträuch mit einem dunkelglänzenden Laube. Was indess diesem Berge an Grösse abgeht,
+               ersetzt er durch die wunderbare Verbindung von Anmuth und Wildheit und durch die
+               feierliche Stille, die in ihm herrscht. Zu <persName key="gnd-118540238"
+                  >Ihren</persName> Füssen ist eine reizende und blumige Ebne, und einen einzigen
+               Blick in die Höhe gerichtet, und <persName key="gnd-118540238">Sie</persName> schauen
+               in ein Chaos von Klippen, das den Trümmern einer ungeheuren Felsenstadt gleicht.</p>
+            <p><placeName key="geo-3110571">S. Geronimo</placeName> hat ohne Zweifel unter allen
+               Einsiedeleien des <placeName key="geo-3116235">Montserrat</placeName>s die schönste
+               und romantischste Lage. Der Morgen, an dem wir diese Gegend besuchten, war neblig,
+               aber der Nebel lag noch tief im Thale, der Himmel war heiter und blau, und die Sonne
+               schien sehr warm herunter. Vor uns gegen das Kloster zu und zu unsrer Linken erhoben
+               sich die Spitzen des Berges inselartig aus dem feuchten Duftmeere, das die ganze
+               Fläche bedeckte. Vorzüglich schön stieg gerade gegen uns über, gleich einem mächtigen
+               Eiland, eine Gruppe von Felsmassen empor, die man vom ganzen Berge aus leicht bemerkt
+               und die sich gerade hinter und über dem Kloster zu erheben scheint. Zur Linken
+               standen die Felsen mehr einzeln und abgeschnitten. Zu beiden Seiten öfnete sich der
+               Blick in die Gegend. Aber zur Linken lagen die weissen Nebelwolken noch still und
+               dicht, wie ein Meer; langsam, aber in steter Bewegung, zogen sie sich von da durch
+               die Spitzen vor uns, und lagerten sich, aber dünner und zerrissner auf die, in
+               wechselnden Gestalten durch sie durchschimmernde Fläche.</p>
             <p>Zur rechten Seite dieser Einsiedelei ist ein furchtbarer, kraterähnlicher Abgrund;
                Steine, die meine Begleiter hineinwarfen, tönten lang und dumpf nach; aus der Mitte
                der schauderhaften Tiefe steigen einige Felsspitzen thurmartig auf.</p>
-            <p>Der Weg von S. Geronimo zum äussersten Gipfel des Berges ist kurz, aber steil und
-               mühsam. Dieser Gipfel erhebt sich, wie ein schroffes Vorgebirge, und ist überall, die
-               Seite allein ausgenommen, von welcher der Fusssteig hinaufführt, von jähen Abgründen
-               umgeben. Auf demselben steht eine kleine, der Jungfrau gewidmete Kapelle, zu welcher
-               gewöhnlich der Einsiedler in <pb n="3.49" xml:id="pbIII49"/> S. Geronimo den
-               Schlüssel hat. Jetzt da diese Einsiedelei leer stand, war sie verschlossen, aber wir
-               fanden ein Paar Löcher in die Thür geschlagen, die, wie man uns nachher sagte, von
-               einem Blitz herrührten, der sie wenige Tage vorher getroffen hatte.</p>
+            <p>Der Weg von <placeName key="geo-3110571">S. Geronimo</placeName> zum äussersten
+               Gipfel des Berges ist kurz, aber steil und mühsam. Dieser Gipfel erhebt sich, wie ein
+               schroffes Vorgebirge, und ist überall, die Seite allein ausgenommen, von welcher der
+               Fusssteig hinaufführt, von jähen Abgründen umgeben. Auf demselben steht eine kleine,
+               der Jungfrau gewidmete Kapelle, zu welcher gewöhnlich der Einsiedler in <pb n="3.49"
+                  xml:id="pbIII49"/>
+               <placeName key="geo-3110571">S. Geronimo</placeName> den Schlüssel hat. Jetzt da
+               diese Einsiedelei leer stand, war sie verschlossen, aber wir fanden ein Paar Löcher
+               in die Thür geschlagen, die, wie man uns nachher sagte, von einem Blitz herrührten,
+               der sie wenige Tage vorher getroffen hatte.</p>
             <p>Rund um die Kapelle ist nur noch ein schmaler, mit einem Geländer umgebener Gang, und
                von hier übersieht man nicht nur eine ungeheure Fläche Landes und das Meer, sondern
                auch einen Theil des Umkreises des ganz isolirt stehenden Berges. Denn diese Höhe
                befindet sich gerade an dem einen Ende desselben, wo er mit seiner, nach den
-               östlichen Pyrenäen zugekehrten Seite sehr schnell abstürzt.</p>
+               östlichen <placeName key="geo-3112616">Pyrenäen</placeName> zugekehrten Seite sehr
+               schnell abstürzt.</p>
             <p>Uns erlaubte das Wetter nicht, die Aussicht des Landes in ihrer ganzen Ausdehnung zu
                geniessen; aber wir gewannen vielleicht nur dabei, weil wir das prächtigste und
                grösseste Wolkenschauspiel sahen, dessen <persName key="gnd-118554727">ich</persName>
                mich je erinnere.</p>
             <p>Da die Sonne noch hell von dem heitern Himmel herabschien, so war auch der äusserste
-               Horizont an den Gebirgen von Roussillon und den dahinter hervorblickenden Pyrenäen
-               noch rein, und man übersah vortreflich die ganze beschneite Bergkette. Aber, näher am
+               Horizont an den Gebirgen von <placeName key="geo-3007670">Roussillon</placeName> und
+               den dahinter hervorblickenden <placeName key="geo-3112616">Pyrenäen</placeName> noch
+               rein, und man übersah vortreflich die ganze beschneite Bergkette. Aber, näher am
                Berge und auf dem ganzen flachen Lande lagen Nebelwolken. Am dichtesten waren sie im
                Abend gethürmt, von da gieng ihre Bewegung aus, und so zogen sie sich rund zu unsern
                Füssen herum. In der untersten Tiefe wälzten sie sich schwer und langsam, höher jagte
@@ -882,13 +930,14 @@
                Schädelform, eine sehr hohe schwärmerische Stirn, einen trotzig aufgeworfenen Mund,
                eingefallene Wangen und grosse finstere Augen.</p>
             <p>Man sagte mir nachher, dass er ein Aragonier sey; und man legt den Aragoniern
-               gewöhnlich finstern Ernst, Stolz und eigensinnigen Trotz zur Last. Sie wissen schon
-               aus andern Reisebeschreibungen, was es mit diesen, von allen Provinzen <placeName
-                  key="geo-2510769">Spanien</placeName>s gegenseitig einander zugeworfenen
-               Beschuldigungen zu bedeuten hat. Wahr mag es indess seyn, und gewiss gereicht es den
-               Aragoniern nicht zum Nachtheil, dass in ihnen das fortwirkende Andenken ihrer
-               ehemaligen Verfassung einen unabhängigern Sinn, mehr Selbstständigkeit und einen
-               wärmern Nationalstolz erhalten hat.</p>
+               gewöhnlich finstern Ernst, Stolz und eigensinnigen Trotz zur Last. <persName
+                  key="gnd-118540238">Sie</persName> wissen schon aus andern Reisebeschreibungen,
+               was es mit diesen, von allen Provinzen <placeName key="geo-2510769"
+                  >Spanien</placeName>s gegenseitig einander zugeworfenen Beschuldigungen zu
+               bedeuten hat. Wahr mag es indess seyn, und gewiss gereicht es den Aragoniern nicht
+               zum Nachtheil, dass in ihnen das fortwirkende Andenken ihrer ehemaligen Verfassung
+               einen unabhängigern Sinn, mehr Selbstständigkeit und einen wärmern Nationalstolz
+               erhalten hat.</p>
             <p>Nachdem wir diese Einsiedelei verlassen und einen beträchtlich weiten Weg
                zurückgelegt hatten, befanden wir uns auf einmal an dem Fusse zweier dicht an
                einander stehender senkrechter Felssäulen, durch welche bloss eine ganz schmale, über
@@ -914,14 +963,15 @@
             <p>Wir besuchten S. Onofre. Der Einsiedler, der hier wohnt, hat aus seinem Fenster eine
                herrliche und ungeheuer weite Aussicht auf das Land und das Meer; da der Himmel
                wieder helle geworden war, konnten wir sie jetzt mit geniessen; doch war es nicht
-               klar genug, um, wie sonst, die Insel Mallorca zu sehen. Zur Linken steht ihm die
-               Einsiedelei der heiligen Magdalena und eine furchtbar steile, der seinigen ähnliche
-               Felswand. Er ist ein <placeName key="geo-3017382">Franz</placeName>ose, und wir
-               fanden in ihm einen freundlichen und gefälligen Mann, in dem sich die Spuren des
-               Charakters seiner Nation nicht verwischt hatten. Mitten in dieser schrecklichen
-               Einöde hatte er ihre fröhliche Laune, ihre Gesprächigkeit und Lust an
-               gesellschaftlichem Umgange nicht verloren. Er hatte vordem in einem der angesehensten
-               und gesellschaftlichsten Handlungshäuser <placeName key="geo-3128760"
+               klar genug, um, wie sonst, die Insel <placeName key="geo-2514239"
+                  >Mallorca</placeName> zu sehen. Zur Linken steht ihm die Einsiedelei der <persName
+                  key="gnd-118577840">heiligen Magdalena</persName> und eine furchtbar steile, der
+               seinigen ähnliche Felswand. Er ist ein <placeName key="geo-3017382"
+               >Franz</placeName>ose, und wir fanden in ihm einen freundlichen und gefälligen Mann,
+               in dem sich die Spuren des Charakters seiner Nation nicht verwischt hatten. Mitten in
+               dieser schrecklichen Einöde hatte er ihre fröhliche Laune, ihre Gesprächigkeit und
+               Lust an gesellschaftlichem Umgange nicht verloren. Er hatte vordem in einem der
+               angesehensten und gesellschaftlichsten Handlungshäuser <placeName key="geo-3128760"
                   >Barcelona</placeName>’s gelebt, erzählte uns aber, dass er sich immer nach dieser
                Stelle gesehnt habe, und dass, seitdem er hier wohne, nichts seiner Heiterkeit und
                Zufriedenheit mangle. Er setzte uns ein schmackhaftes Frühstück vor, und wollte uns
@@ -1024,9 +1074,10 @@
             <p>In den Stunden ihrer Musse und wenn ihr Garten und ihre Wohnung keine Sorgfalt mehr
                fordert, beschäftigen sich diese Einsiedler mit mechanischen Arbeiten. Die meisten
                machen kleine Kreuze von verschiedenen Farben, welche das Volk begierig kauft. Einer
-               hatte — wie weiland Kaiser Karl 5. — mehrere Wanduhren in seiner Zelle. Kein Wunder!
-               Das blosse Fortrücken der Zeit, das uns nur ein ärgerliches Hinderniss ist, das wir
-               gern vergessen möchten, ist für ihn eine wichtige Begebenheit.</p>
+               hatte — wie weiland Kaiser <persName key="gnd-118560093">Karl 5.</persName> — mehrere
+               Wanduhren in seiner Zelle. Kein Wunder! Das blosse Fortrücken der Zeit, das uns nur
+               ein ärgerliches Hinderniss ist, das wir gern vergessen möchten, ist für ihn eine
+               wichtige Begebenheit.</p>
             <p>Es muss ein wunderbares Gefühl seyn, auf das Vorrecht des Menschen, nicht, wie die
                näher an den Boden geknüpften Thiere, nur innerhalb gewisser enger Gränzen zu
                bleiben, sondern nach Neigung und Lust herumzuschweifen, Verzicht zu thun, alle seine
@@ -1132,91 +1183,96 @@
                   >lieber Freund</persName>, noch einen Beweis mehr zu geben, dass meine Schilderung
                der Einsiedler des Montserrats wirklich der Natur entspricht, will <persName
                   key="gnd-118554727">ich</persName>
-               <persName key="gnd-118540238">Ihnen</persName> aus einem Briese meines Bruders eine
-               Anekdote abschreiben, die er, als er ein Jahr vor mir den <placeName
-                  key="geo-3116235">Montserrat</placeName> besuchte,<note type="footnote" n="vii)"
-                  resp="gnd-116890657"><hi>Vgl. über diesen Besuch, der am <date from="1799-01-18"
-                        to="1799-01-25">18.—25. Januar 1799</date> stattfand,
-                              <bibl><author><persName key="gnd-116776021"
-                        >Bruhns</persName></author>, <title><persName key="gnd-118554700">Alexander
-                              von Humboldt</persName></title>
+               <persName key="gnd-118540238">Ihnen</persName> aus einem Briese <persName
+                  key="gnd-118554700">meines Bruders</persName> eine Anekdote abschreiben, die er,
+               als er ein Jahr vor mir den <placeName key="geo-3116235">Montserrat</placeName>
+                  besuchte,<note type="footnote" n="vii)" resp="gnd-116890657"><hi>Vgl. über diesen
+                     Besuch, der am <date from="1799-01-18" to="1799-01-25">18.—25. Januar
+                        1799</date> stattfand, <bibl><author><persName key="gnd-116776021"
+                              >Bruhns</persName></author>, <title><persName key="gnd-118554700"
+                              >Alexander von Humboldt</persName></title>
                         <biblScope unit="chapter" n="1">1</biblScope>, <biblScope unit="page"
                            n="269">269</biblScope></bibl>. Der Originalbrief ist nicht
                      erhalten.</hi></note> dort erlebte.</p>
-            <p><quote>Ich befand mich,</quote> so lautet seine Erzählung, <quote>bei dem Einsiedler
-                  von Santiago und suchte Kräuter in der Nachbarschaft seiner Einsiedelei. Der
-                  Eremit hörte im Walde rufen, wurde unruhig, öfnete alle Fenster seiner Warte und
-                  wollte schon zu Hülfe eilen. In demselben Augenblicke stürzte ein junger
-                  Maulthiertreiber weinend und ausser Athem herzu. Er schrie: sein <hi xml:lang="es"
-                     >macho</hi> (ein <pb n="3.58" xml:id="pbIII58"/> Wort, das, von <hi
-                     xml:lang="la">masculus</hi> abstammend, eigentlich alles Männliche der Thiere
-                  bedeutet, aber vorzugsweise für Maulthiere gebraucht wird), sein armer, lieber <hi
-                     xml:lang="es">macho</hi> sey in den Abgrund gestürzt. Er weinte, wie ein Kind,
-                  und rief tausendmal die Mutter Gottes und alle Heiligen an. Der Einsiedler
-                  schleppte ihn hastig in sein Zimmer und hieng ihm einen Rosenkranz um. Ich
-                  fürchtete schon, dies sey die ganze Hülfe. Allein es war nur, um den ersten
-                  Schmerz zu lindern. Er stürzte sich sodann, ohne dem Wege zu folgen, die Felswände
-                  hinab bis zu dem Orte, wo das Maulthier lag. Der Treiber und ich konnten erst
-                  später nachkommen. Das Thier hieng nur noch an Einem Beine, das sich um einen Baum
-                  geschlungen hatte, mit dem Kopfe nach unten zu, so schräg über dem Abgrunde, dass
-                  es, sich selbst überlassen, nothwendig hätte hinunterstürzen müssen. Der Treiber
-                  heulte unentschlossen, küsste das arme Thier, und setzte verbindliche Anreden an
-                  alle Heiligen hinzu, welche dem Viehe für nützlich erachtet werden. Der Einsiedler
-                  schalt seine unthätige Zagheit, hier sey der Moment zum Handeln. Er stellte sich
-                  stämmig unter das Thier, um dem Kopfe eine Richtung zu geben. Ein wirklich
-                  schauerlicher Anblick! denn fiel das Thier zu schnell, so zog es ihn, ohne
-                  Rettung, mit in den Abgrund hinab. Aber der Einsiedler lächelte der Gefahr, liess
-                  einen Strick um den Fuss des Thieres schlingen, und wälzte es so, den Kopf
-                  lenkend, glücklich in die Höhe. Nun folgte eine lange Strafpredigt über den Mangel
-                  an Entschlossenheit. Leider war der Rosenkranz bei der Arbeit verloren gegangen.
-                  Aber der Einsiedler suchte ihn nicht ängstlich; es war ihm leicht, sich einen
-                  andern zu drechseln.</quote></p>
+            <p><quote><persName key="gnd-118554700">Ich</persName> befand mich,</quote> so lautet
+               seine Erzählung, <quote>bei dem Einsiedler von Santiago und suchte Kräuter in der
+                  Nachbarschaft seiner Einsiedelei. Der Eremit hörte im Walde rufen, wurde unruhig,
+                  öfnete alle Fenster seiner Warte und wollte schon zu Hülfe eilen. In demselben
+                  Augenblicke stürzte ein junger Maulthiertreiber weinend und ausser Athem herzu. Er
+                  schrie: sein <hi xml:lang="es">macho</hi> (ein <pb n="3.58" xml:id="pbIII58"/>
+                  Wort, das, von <hi xml:lang="la">masculus</hi> abstammend, eigentlich alles
+                  Männliche der Thiere bedeutet, aber vorzugsweise für Maulthiere gebraucht wird),
+                  sein armer, lieber <hi xml:lang="es">macho</hi> sey in den Abgrund gestürzt. Er
+                  weinte, wie ein Kind, und rief tausendmal die <persName key="gnd-118640909">Mutter
+                     Gottes</persName> und alle Heiligen an. Der Einsiedler schleppte ihn hastig in
+                  sein Zimmer und hieng ihm einen Rosenkranz um. Ich fürchtete schon, dies sey die
+                  ganze Hülfe. Allein es war nur, um den ersten Schmerz zu lindern. Er stürzte sich
+                  sodann, ohne dem Wege zu folgen, die Felswände hinab bis zu dem Orte, wo das
+                  Maulthier lag. Der Treiber und ich konnten erst später nachkommen. Das Thier hieng
+                  nur noch an Einem Beine, das sich um einen Baum geschlungen hatte, mit dem Kopfe
+                  nach unten zu, so schräg über dem Abgrunde, dass es, sich selbst überlassen,
+                  nothwendig hätte hinunterstürzen müssen. Der Treiber heulte unentschlossen, küsste
+                  das arme Thier, und setzte verbindliche Anreden an alle Heiligen hinzu, welche dem
+                  Viehe für nützlich erachtet werden. Der Einsiedler schalt seine unthätige Zagheit,
+                  hier sey der Moment zum Handeln. Er stellte sich stämmig unter das Thier, um dem
+                  Kopfe eine Richtung zu geben. Ein wirklich schauerlicher Anblick! denn fiel das
+                  Thier zu schnell, so zog es ihn, ohne Rettung, mit in den Abgrund hinab. Aber der
+                  Einsiedler lächelte der Gefahr, liess einen Strick um den Fuss des Thieres
+                  schlingen, und wälzte es so, den Kopf lenkend, glücklich in die Höhe. Nun folgte
+                  eine lange Strafpredigt über den Mangel an Entschlossenheit. Leider war der
+                  Rosenkranz bei der Arbeit verloren gegangen. Aber der Einsiedler suchte ihn nicht
+                  ängstlich; es war ihm leicht, sich einen andern zu drechseln.</quote></p>
             <p>Es ist <persName key="gnd-118540238">Ihnen</persName> vielleicht nicht unlieb, wenn
                   <persName key="gnd-118554727">ich</persName>
-               <persName key="gnd-118540238">Ihnen</persName> aus demselben Briefe meines Bruders
-               etwas über die mineralogische Beschaffenheit dieses Berges abschreibe.</p>
+               <persName key="gnd-118540238">Ihnen</persName> aus demselben Briefe <persName
+                  key="gnd-118554700">meines Bruders</persName> etwas über die mineralogische
+               Beschaffenheit dieses Berges abschreibe.</p>
             <p><quote>Die ganze Ebene von <placeName key="geo-3128760">Barcelona</placeName> besteht
                   aus Sandstein, nemlich so dass immer das grobkörnige Conglomerat mit feinkörnigem
                   Sandstein abwechselt. Unter diesem Sandsteine kommt hier und da Kalkstein, und
-                  unter diesem, aber von unregelmässigem Falle, um Colbaton, Thonschiefer mit
-                  Quarzgängen durchtrümmert vor. Der <placeName key="geo-3116235"
-                     >Montserrat</placeName> selbst besteht vom Fusse bis zum Gipfel aus einem
-                  Conglomerat, das meist sehr grobkörnig ist; zwar sind gegen den Gipsel zu
-                  feinkörnige Sandsteinschichten häufiger, doch bilden sie kaum 1/7 des Ganzen. Die
-                  Geschiebe sind zum Theil 14 Zoll dick, grosse und kleine gemengt, meistentheils
-                  graulich weisser Kalk- <pb n="3.59" xml:id="pbIII59"/> stein: doch kommt auch
-                  etwas gelber und schwarzer, der leicht mit Lydischem Stein zu verwechseln ist,
-                  darin vor. Die <hi xml:lang="fr">Crête</hi> des Berges streicht St. 8. Im
-                  Conglomerat ist etwas weisser Quarz, als Geschiebe. Die Schichten sind alle meist
-                  seiger mit 80—90<hi rend="superscript">0</hi> und meist St. 3—4. Daher ist das <hi
-                     xml:lang="la">Serratum</hi> (die Einschnitte) eine Folge der Schichtung. Die
-                  Bänke haben sich abgelöst, und da der Sandstein dazu leicht verwitterbar ist, so
-                  haben sich Kegel gebildet, von denen immer 5—6 zu den sonderbarsten Gruppen
-                  zusammengehäuft sind.</quote></p>
+                  unter diesem, aber von unregelmässigem Falle, um <placeName key="geo-3124786"
+                     >Colbaton</placeName>, Thonschiefer mit Quarzgängen durchtrümmert vor. Der
+                     <placeName key="geo-3116235">Montserrat</placeName> selbst besteht vom Fusse
+                  bis zum Gipfel aus einem Conglomerat, das meist sehr grobkörnig ist; zwar sind
+                  gegen den Gipsel zu feinkörnige Sandsteinschichten häufiger, doch bilden sie kaum
+                  1/7 des Ganzen. Die Geschiebe sind zum Theil 14 Zoll dick, grosse und kleine
+                  gemengt, meistentheils graulich weisser Kalk- <pb n="3.59" xml:id="pbIII59"/>
+                  stein: doch kommt auch etwas gelber und schwarzer, der leicht mit Lydischem Stein
+                  zu verwechseln ist, darin vor. Die <hi xml:lang="fr">Crête</hi> des Berges
+                  streicht St. 8. Im Conglomerat ist etwas weisser Quarz, als Geschiebe. Die
+                  Schichten sind alle meist seiger mit 80—90<hi rend="superscript">0</hi> und meist
+                  St. 3—4. Daher ist das <hi xml:lang="la">Serratum</hi> (die Einschnitte) eine
+                  Folge der Schichtung. Die Bänke haben sich abgelöst, und da der Sandstein dazu
+                  leicht verwitterbar ist, so haben sich Kegel gebildet, von denen immer 5—6 zu den
+                  sonderbarsten Gruppen zusammengehäuft sind.</quote></p>
             <p>Die Höhe des Gipfels des Berges, da wo die Kapelle der Jungfrau über der Einsiedelei
-               des Heiligen Hieronymus steht, beträgt, nach den, von Herrn Méchain in dieser Gegend
+               des <persName key="gnd-118550853">Heiligen Hieronymus</persName> steht, beträgt, nach
+               den, von <persName key="gnd-119063123">Herrn Méchain</persName> in dieser Gegend
                neuerlich angestellten Messungen, deren Resultate er mir mitzutheilen die Gütigkeit
                gehabt hat, etwas über 634 Toisen, folglich etwas über 3937 Rheinländische Fuss.<note
                   type="footnote" n="8)" resp="gnd-118554727">Nach dem Verhältnisse des <placeName
                      key="geo-2988507">Paris</placeName>er Fusses zum Rheinländischen wie 59 zu
                   57.</note></p>
-            <p>Sein Schatten soll, wie mich die Mönche des Klosters versicherten, auf 7 Spanische
-               Meilen weit im Meere sichtbar seyn; eine Behauptung, deren vollständige Prüfung zwar
-               eine genauere Bestimmung der Entfernung des Berges vom Meeresufer voraussetzen würde,
-               als mir wenigstens bekannt ist, die aber an sich nichts Unglaubliches enthält, da
-               berechnet ist,<note type="footnote" n="9)" resp="gnd-118554727"><bibl><title>Voyage
-                        dans la Troade par <persName key="gnd-116850493">Le
-                        Chevalier</persName></title>. <edition n="2">2. Éd</edition>. <biblScope
-                        unit="page" from="23" to="24">p. 23. 24</biblScope></bibl>.</note> dass der
-               Athos nur 518 Toisen hoch zu seyn brauchte, um, in einer Entfernung von beinahe 26
-                  <placeName key="geo-3017382">Franz</placeName>ösischen Meilen, eine Bildsäule auf
-               dem Markte von Myrina auf der Insel Lemnos zu erreichen.</p>
+            <p>Sein Schatten soll, wie mich die Mönche des Klosters versicherten, auf 7 <placeName
+                  key="geo-2510769">Spani</placeName>sche Meilen weit im Meere sichtbar seyn; eine
+               Behauptung, deren vollständige Prüfung zwar eine genauere Bestimmung der Entfernung
+               des Berges vom Meeresufer voraussetzen würde, als mir wenigstens bekannt ist, die
+               aber an sich nichts Unglaubliches enthält, da berechnet ist,<note type="footnote"
+                  n="9)" resp="gnd-118554727"><bibl><title>Voyage dans la Troade par <persName
+                           key="gnd-116850493">Le Chevalier</persName></title>. <edition n="2">2.
+                        Éd</edition>. <biblScope unit="page" from="23" to="24">p. 23.
+                     24</biblScope></bibl>.</note> dass der Athos nur 518 Toisen hoch zu seyn
+               brauchte, um, in einer Entfernung von beinahe 26 <placeName key="geo-3017382"
+                  >Franz</placeName>ösischen Meilen, eine Bildsäule auf dem Markte von <placeName
+                  key="geo-256930">Myrina</placeName> auf der Insel <placeName key="geo-258293"
+                  >Lemnos</placeName> zu erreichen.</p>
             <p><persName key="gnd-118554727">Ich</persName> schliesse für heute, mein Lieber. In
-               meinem nächsten Briefe erhalten Sie eine Beschreibung der Ueberbleibsel des Theaters
-               von <placeName key="geo-2511619">Murviedro</placeName> (dem alten <placeName
-                  key="geo-2511619">Sagunt</placeName>), das man vor einer, von einem Bewohner
-                  <placeName key="geo-2511619">Murviedro</placeName>’s darüber geschriebenen
-               Abhandlung, aus der <persName key="gnd-118554727">ich</persName>
+               meinem nächsten Briefe erhalten <persName key="gnd-118540238">Sie</persName> eine
+               Beschreibung der Ueberbleibsel des Theaters von <placeName key="geo-2511619"
+                  >Murviedro</placeName> (dem alten <placeName key="geo-2511619"
+               >Sagunt</placeName>), das man vor einer, von einem Bewohner <placeName
+                  key="geo-2511619">Murviedro</placeName>’s darüber geschriebenen Abhandlung, aus
+               der <persName key="gnd-118554727">ich</persName>
                <persName key="gnd-118540238">Ihnen</persName> einen Auszug mittheilen werde, nur aus
                weniger genauen und vollständigen Nachrichten kannte.</p>
 
