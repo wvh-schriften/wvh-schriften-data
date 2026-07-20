@@ -1025,6 +1025,390 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <ptr type="geonames" target="https://www.geonames.org/1252558"/>
                 <ptr type="info" target="https://en.wikipedia.org/wiki/Himalayas"/>
             </place>
+            <place xml:id="geo-2509954" type="P.PPLA">
+                <placeName type="main">Valencia</placeName>
+                <placeName type="sort">Valencia</placeName>
+                <location>
+                    <geo>39.47391 -0.37966</geo>
+                </location>
+                <country>Spain</country>
+                <region>Valencia</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2509954"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Valencia"/>
+            </place>
+            <place xml:id="geo-3118233" type="H.STM">
+                <placeName type="main">el Llobregat</placeName>
+                <placeName type="sort">el Llobregat</placeName>
+                <location>
+                    <geo>41.34537 2.06955</geo>
+                </location>
+                <country>Spain</country>
+                <region>Catalonia</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3118233"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Llobregat"/>
+            </place>
+            <place xml:id="geo-3125609" type="L.RGN">
+                <placeName type="main">Catalunya</placeName>
+                <placeName type="sort">Catalunya</placeName>
+                <location>
+                    <geo>42 2</geo>
+                </location>
+                <country/>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3125609"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place xml:id="geo-2759794" type="P.PPLC">
+                <placeName type="main">Amsterdam</placeName>
+                <placeName type="sort">Amsterdam</placeName>
+                <location>
+                    <geo>52.37403 4.88969</geo>
+                </location>
+                <country>The Netherlands</country>
+                <region>North Holland</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2759794"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Government_of_Amsterdam"/>
+            </place>
+            <place xml:id="geo-2520600" type="P.PPLA2">
+                <placeName type="main">Cadiz</placeName>
+                <placeName type="sort">Cadiz</placeName>
+                <location>
+                    <geo>36.52672 -6.2891</geo>
+                </location>
+                <country>Spain</country>
+                <region>Andalusia</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2520600"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Cadiz"/>
+            </place>
+            <place xml:id="geo-3176219" type="P.PPLA">
+                <placeName type="main">Genoa</placeName>
+                <placeName type="sort">Genoa</placeName>
+                <location>
+                    <geo>44.40478 8.94439</geo>
+                </location>
+                <country>Italy</country>
+                <region>Liguria</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3176219"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Genoa"/>
+            </place>
+            <place xml:id="geo-2521420" type="P.PPLA3">
+                <placeName type="main">Badajoz</placeName>
+                <placeName type="sort">Badajoz</placeName>
+                <location>
+                    <geo>38.87789 -6.97061</geo>
+                </location>
+                <country>Spain</country>
+                <region>Extremadura</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2521420"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Badajoz"/>
+            </place>
+            <place xml:id="geo-3173435" type="P.PPLA">
+                <placeName type="main">Milan</placeName>
+                <placeName type="sort">Milan</placeName>
+                <location>
+                    <geo>45.46427 9.18951</geo>
+                </location>
+                <country>Italy</country>
+                <region>Lombardy</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3173435"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Milan"/>
+            </place>
+            <place xml:id="geo-2740637" type="P.PPLA">
+                <placeName type="main">Coimbra</placeName>
+                <placeName type="sort">Coimbra</placeName>
+                <location>
+                    <geo>40.20686 -8.41996</geo>
+                </location>
+                <country>Portugal</country>
+                <region>Coimbra</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2740637"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Coimbra"/>
+            </place>
+            <place xml:id="geo-3117331" type="P.PPLA3">
+                <placeName type="main">Martorell</placeName>
+                <placeName type="sort">Martorell</placeName>
+                <location>
+                    <geo>41.47402 1.93062</geo>
+                </location>
+                <country>Spain</country>
+                <region>Catalonia</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3117331"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Martorell"/>
+            </place>
+            <place xml:id="geo-3106672" type="P.PPLA">
+                <placeName type="main">Valladolid</placeName>
+                <placeName type="sort">Valladolid</placeName>
+                <location>
+                    <geo>41.65541 -4.72353</geo>
+                </location>
+                <country>Spain</country>
+                <region>Castille and León</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3106672"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Valladolid"/>
+            </place>
+            <place xml:id="geo-3117533" type="P.PPL">
+                <placeName type="main">Manresa</placeName>
+                <placeName type="sort">Manresa</placeName>
+                <location>
+                    <geo>41.72815 1.82399</geo>
+                </location>
+                <country>Spain</country>
+                <region>Catalonia</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3117533"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Manresa"/>
+            </place>
+            <place type="T.MTS" xml:id="geo-2661786" when="2026-07-20" resp="tei">
+                <placeName type="main">Alpen</placeName>
+                <placeName type="sort">Alps</placeName>
+                <location>
+                    <geo>46.41667 10</geo>
+                </location>
+                <country/>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2661786"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Alps"/>
+            </place>
+            <place type="T.MTS" xml:id="geo-3112616" when="2026-07-20" resp="tei">
+                <placeName type="main">Pyrenäen</placeName>
+                <placeName type="sort">Pyrenees</placeName>
+                <location>
+                    <geo>42.66667 1</geo>
+                </location>
+                <country/>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3112616"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Pyrenees"/>
+            </place>
+            <place xml:id="geo-3110571" type="T.PK">
+                <placeName type="main">Sant Jeroni</placeName>
+                <placeName type="sort">Sant Jeroni</placeName>
+                <location>
+                    <geo>41.60524 1.81159</geo>
+                </location>
+                <country>Spain</country>
+                <region>Catalonia</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3110571"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Sant_Jeroni_%28el_Bruc%29"/>
+            </place>
+            <place xml:id="geo-3164670" type="A.PCLI">
+                <placeName type="main">State of the Vatican City</placeName>
+                <placeName type="sort">State of the Vatican City</placeName>
+                <location>
+                    <geo>41.90225 12.4533</geo>
+                </location>
+                <country>Vatican City</country>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3164670"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Vatican_City"/>
+            </place>
+            <place type="" xml:id="geo-3336900" when="2026-07-20" resp="tei">
+                <placeName type="main">Kastilien</placeName>
+                <placeName type="sort">Castille</placeName>
+                <location>
+                    <geo>41.66667 -4.25</geo>
+                </location>
+                <country>Spain</country>
+                <region>Castille and León</region>
+                <note>Eines der mittelalterlichen Königreiche der Iberischen Halbinsel. 1230 wurden die Königreiche von Kastilien und León endgültig vereinigt. Dieses vereinigte Reich wird als Krone von Kastilien bezeichnet.</note>
+                <ptr type="geonames" target="https://www.geonames.org/3336900"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n"/>
+            </place>
+            <place xml:id="geo-258293" type="T.ISL">
+                <placeName type="main">Lemnos</placeName>
+                <placeName type="sort">Lemnos</placeName>
+                <location>
+                    <geo>39.94235 25.2433</geo>
+                </location>
+                <country>Greece</country>
+                <region>North Aegean</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/258293"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Lemnos"/>
+            </place>
+            <place xml:id="geo-256930" type="P.PPLA3">
+                <placeName type="main">Mýrina</placeName>
+                <placeName type="sort">Mýrina</placeName>
+                <location>
+                    <geo>39.87483 25.06359</geo>
+                </location>
+                <country>Greece</country>
+                <region>North Aegean</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/256930"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Myrina%2C_Greece"/>
+            </place>
+            <place xml:id="geo-3036938" type="P.PPLA3">
+                <placeName type="main">Arles</placeName>
+                <placeName type="sort">Arles</placeName>
+                <location>
+                    <geo>43.67681 4.63031</geo>
+                </location>
+                <country>France</country>
+                <region>Provence-Alpes-Côte d'Azur</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3036938"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place xml:id="geo-2972318" type="H.STM">
+                <placeName type="main">Touloubre</placeName>
+                <placeName type="sort">Touloubre</placeName>
+                <location>
+                    <geo>43.52261 5.04886</geo>
+                </location>
+                <country>France</country>
+                <region>Provence-Alpes-Côte d'Azur</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2972318"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Touloubre"/>
+            </place>
+            <place xml:id="geo-2981209" type="P.PPL">
+                <placeName type="main">Saint-Chamas</placeName>
+                <placeName type="sort">Saint-Chamas</placeName>
+                <location>
+                    <geo>43.55048 5.03501</geo>
+                </location>
+                <country>France</country>
+                <region>Provence-Alpes-Côte d'Azur</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2981209"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place xml:id="geo-3038354" type="P.PPLA3">
+                <placeName type="main">Aix-en-Provence</placeName>
+                <placeName type="sort">Aix-en-Provence</placeName>
+                <location>
+                    <geo>43.5283 5.44973</geo>
+                </location>
+                <country>France</country>
+                <region>Provence-Alpes-Côte d'Azur</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3038354"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Aix-en-Provence"/>
+            </place>
+            <place xml:id="geo-3026647" type="H.STM">
+                <placeName type="main">Charente</placeName>
+                <placeName type="sort">Charente</placeName>
+                <location>
+                    <geo>45.95395 -1.07494</geo>
+                </location>
+                <country>France</country>
+                <region>Nouvelle-Aquitaine</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3026647"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Charente_%28river%29"/>
+            </place>
+            <place xml:id="geo-2980340" type="P.PPLA3">
+                <placeName type="main">Saintes</placeName>
+                <placeName type="sort">Saintes</placeName>
+                <location>
+                    <geo>45.74742 -0.63489</geo>
+                </location>
+                <country>France</country>
+                <region>Nouvelle-Aquitaine</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2980340"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place type="S.RUIN" xml:id="geo-2468244" when="2026-07-20" resp="tei">
+                <placeName type="main">Karthago</placeName>
+                <placeName type="sort">Carthage</placeName>
+                <location>
+                    <geo>36.86667 10.33333</geo>
+                </location>
+                <country>Tunisia</country>
+                <region>Tunis Governorate</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2468244"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Carthage"/>
+            </place>
+            <place xml:id="geo-3115330" type="H.STM">
+                <placeName type="main">Riu Anoia</placeName>
+                <placeName type="sort">Riu Anoia</placeName>
+                <location>
+                    <geo>41.46667 1.93333</geo>
+                </location>
+                <country>Spain</country>
+                <region>Catalonia</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3115330"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Anoia_%28river%29"/>
+            </place>
+            <place xml:id="geo-3124786" type="P.PPL">
+                <placeName type="main">Collbató</placeName>
+                <placeName type="sort">Collbató</placeName>
+                <location>
+                    <geo>41.57009 1.82712</geo>
+                </location>
+                <country>Spain</country>
+                <region>Catalonia</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3124786"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Collbat%C3%B3"/>
+            </place>
+            <place type="A.PCLI" xml:id="geo-2264397" when="2026-07-20" resp="tei">
+                <placeName type="main">Portugal</placeName>
+                <placeName type="sort">Portugal</placeName>
+                <location>
+                    <geo>39.6945 -8.13057</geo>
+                </location>
+                <country>Portugal</country>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2264397"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Portugal"/>
+            </place>
+            <place xml:id="geo-3111607" type="P.PPL">
+                <placeName type="main">Ripoll</placeName>
+                <placeName type="sort">Ripoll</placeName>
+                <location>
+                    <geo>42.20064 2.19033</geo>
+                </location>
+                <country>Spain</country>
+                <region>Catalonia</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3111607"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place xml:id="geo-3007670" type="A.ADM1H">
+                <placeName type="main">Languedoc-Roussillon</placeName>
+                <placeName type="sort">Languedoc-Roussillon</placeName>
+                <location>
+                    <geo>43.53333 3.23333</geo>
+                </location>
+                <country>France</country>
+                <region>Languedoc-Roussillon</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3007670"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Languedoc-Roussillon"/>
+            </place>
+            <place xml:id="geo-2514239" type="T.ISL">
+                <placeName type="main">Mallorca</placeName>
+                <placeName type="sort">Mallorca</placeName>
+                <location>
+                    <geo>39.6078 3.01197</geo>
+                </location>
+                <country>Spain</country>
+                <region>Balearic Islands</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2514239"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Mallorca"/>
+            </place>
         </listPlace>
     </standOff>
 </TEI>
