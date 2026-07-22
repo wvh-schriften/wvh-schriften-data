@@ -81,7 +81,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <ptr type="geonames" target="https://www.geonames.org/2812482"/>
                 <ptr type="info" target="https://en.wikipedia.org/wiki/Weimar"/>
             </place>
-            <place type="A.PCLI" xml:id="geo-390903" when="2025-08-01" resp="wvh-schriften">
+            <place type="A.PCLI" xml:id="geo-390903" when="2026-07-22" resp="tei">
                 <placeName type="main">Griechenland (Antikes)</placeName>
                 <placeName type="sort">Griechenland (Antikes)</placeName>
                 <location>
@@ -1408,6 +1408,30 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <note/>
                 <ptr type="geonames" target="https://www.geonames.org/2514239"/>
                 <ptr type="info" target="https://en.wikipedia.org/wiki/Mallorca"/>
+            </place>
+            <place xml:id="geo-263219" type="P.PPL">
+                <placeName type="main">Delphi</placeName>
+                <placeName type="sort">Delphi</placeName>
+                <location>
+                    <geo>38.47942 22.49357</geo>
+                </location>
+                <country>Greece</country>
+                <region>Central Greece</region>
+                <note>Delphi war eine antike griechische Stadt am Fuße des Berges Parnass, berühmt für ihr Orakel des Apollon, das als bedeutendste Weissagungsstätte der antiken Welt galt. Der Ort galt zudem als „Nabel der Welt“ (Omphalos) und war Schauplatz der Pythischen Spiele</note>
+                <ptr type="geonames" target="https://www.geonames.org/263219"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Delphi"/>
+            </place>
+            <place type="A.PCLI" xml:id="geo-130758" when="2026-07-22" resp="tei">
+                <placeName type="main">Persien</placeName>
+                <placeName type="sort">Persia</placeName>
+                <location>
+                    <geo>32 53</geo>
+                </location>
+                <country/>
+                <region/>
+                <note>Das antike Persien, auch als Perserreich oder Achämenidenreich bekannt, war eines der größten Reiche der Antike und erstreckte sich zeitweise von Ägypten bis nach Indien.</note>
+                <ptr type="geonames" target="https://www.geonames.org/130758"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Iran"/>
             </place>
         </listPlace>
     </standOff>
