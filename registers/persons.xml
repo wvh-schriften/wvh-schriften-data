@@ -5254,7 +5254,7 @@
             <person xml:id="gnd-118508881">
                 <persName type="main">Benedikt XIII., Gegenpapst, Papst</persName>
                 <persName type="sort">Benedikt XIII., Gegenpapst, Papst</persName>
-                <gender value="U">unknown</gender>
+                <gender value="M">male</gender>
                 <birth>
                     <date when="1343"/>
                     <placeName ref="https://d-nb.info/gnd/7605148-1">Illueca</placeName>
@@ -5284,7 +5284,7 @@
             <person xml:id="gnd-100964974">
                 <persName type="main">Cisneros, García Jiménez de</persName>
                 <persName type="sort">Cisneros, García Jiménez de</persName>
-                <gender value="U">unknown</gender>
+                <gender value="M">male</gender>
                 <birth>
                     <date when="1455"/>
                 </birth>
@@ -5298,7 +5298,7 @@
             <person xml:id="gnd-123671019" when="2026-07-20" resp="tei">
                 <persName type="main">Jordán, Esteban</persName>
                 <persName type="sort">Jordán, Esteban</persName>
-                <gender value="M">unknown</gender>
+                <gender value="M">male</gender>
                 <birth>
                     <date when="1534"/>
                 </birth>
@@ -5311,7 +5311,7 @@
             <person xml:id="gnd-118593846">
                 <persName type="main">Philipp III., Spanien, König</persName>
                 <persName type="sort">Philipp III., Spanien, König</persName>
-                <gender value="U">unknown</gender>
+                <gender value="M">male</gender>
                 <birth>
                     <date when="1578-04-14"/>
                     <placeName ref="https://d-nb.info/gnd/4036862-2">Madrid</placeName>
@@ -5372,7 +5372,7 @@
             <person xml:id="gnd-118869329">
                 <persName type="main">Hamilkar Barkas</persName>
                 <persName type="sort">Hamilkar Barkas</persName>
-                <gender value="U">unknown</gender>
+                <gender value="M">male</gender>
                 <birth>
                     <date when="-0290"/>
                 </birth>
@@ -5386,7 +5386,7 @@
             <person xml:id="gnd-122475127">
                 <persName type="main">Scholastika, Heilige</persName>
                 <persName type="sort">Scholastika, Heilige</persName>
-                <gender value="U">unknown</gender>
+                <gender value="F">female</gender>
                 <birth>
                     <date when="0480"/>
                 </birth>
@@ -5405,7 +5405,7 @@
             <person xml:id="gnd-118640909">
                 <persName type="main">Maria, von Nazaret, Biblische Person</persName>
                 <persName type="sort">Maria, von Nazaret, Biblische Person</persName>
-                <gender value="U">unknown</gender>
+                <gender value="F">female</gender>
                 <note type="bio"/>
             </person>
             <person xml:id="gnd-118805452">
@@ -5422,6 +5422,105 @@
                 <note type="bio">span. Soldat und Schriftsteller, schied um 1585 mit dem Rang eines Capitán aus der Armee aus, seine Dramen "Elisa Dido", "La gran Semiramis", "La cruel Casandra", "Atila furioso" und "La infelice Marcela" wurden erst 1609 in den Obras veröffentlicht</note>
                 <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
             </person>
+            <person xml:id="gnd-11864260X">
+                <persName type="main">Sulla, Lucius Cornelius</persName>
+                <persName type="sort">Sulla, Lucius Cornelius</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="-0138"/>
+                </birth>
+                <death>
+                    <date when="-0078"/>
+                </death>
+                <note type="bio">Röm. Politiker, Feldherr und Diktator in der Spätphase der Republik</note>
+            </person>
+            <person xml:id="gnd-118739972">
+                <persName type="main">Perikles</persName>
+                <persName type="sort">Perikles</persName>
+                <gender value="M">male</gender>
+                <note type="bio">Politiker und Staatsführer in Athen</note>
+                <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+            </person>
+            <person xml:id="gnd-118501739">
+                <persName type="main">Alkibiades</persName>
+                <persName type="sort">Alkibiades</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="-0450"/>
+                </birth>
+                <death>
+                    <date when="-0404"/>
+                </death>
+                <note type="bio">Politiker und Feldherr in Athen</note>
+                <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4238876-4">Feldherr</occupation>
+            </person>
+            <person xml:id="gnd-11874707X" when="2026-07-22" resp="tei">
+                <persName type="main">Kimon</persName>
+                <persName type="sort">Kimon</persName>
+                <gender value="M">male</gender>
+                <note type="bio">ein athenischer Feldherr und Staatsmann aus der Zeit der griechisch-persischen Kriege. Als Sohn des Miltiades führte er die athenische Flotte zu bedeutenden Siegen gegen die Perser, unter anderem in der Schlacht am Eurymedon.</note>
+            </person>
+            <person xml:id="gnd-130496073">
+                <persName type="main">Aristomenes, von Messene</persName>
+                <persName type="sort">Aristomenes, von Messene</persName>
+                <gender value="M">male</gender>
+                <note type="bio">Messenischer Freiheitsheld, führte von etwa 500 bis 490 v. Chr. von der Festung Ira aus den 3. Messenischen Krieg gegen Sparta, Historizität umstritten</note>
+            </person>
+            <person xml:id="gnd-118685007">
+                <persName type="main">Epaminondas</persName>
+                <persName type="sort">Epaminondas</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="-0420"/>
+                    <placeName ref="https://d-nb.info/gnd/4078237-2">Theben (Böotien)</placeName>
+                </birth>
+                <death>
+                    <date when="-0362"/>
+                    <placeName ref="https://d-nb.info/gnd/4114977-4">Mantineia</placeName>
+                </death>
+                <note type="bio">griechischer Staatsmann und Feldherr, gilt als größter Staatsmann Thebens und entwickelte die sogenannte Schiefe Schlachtordnung; bei Mantinea (10 km nördlich des heutigen Tripolis) in einer Schlacht verwundet und am 3. Juli 362 v. Chr. gestorben</note>
+                <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4238876-4">Feldherr</occupation>
+            </person>
+            <person xml:id="gnd-118650106">
+                <persName type="main">Aristides, Politiker</persName>
+                <persName type="sort">Aristides, Politiker</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="-0540"/>
+                </birth>
+                <death>
+                    <date when="-0467"/>
+                </death>
+                <note type="bio">Athen. Staatsmann u. Feldherr</note>
+            </person>
+            <person xml:id="gnd-118594087">
+                <persName type="main">Phokion</persName>
+                <persName type="sort">Phokion</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="-0402"/>
+                </birth>
+                <death>
+                    <date when="-0318"/>
+                </death>
+                <note type="bio">Athen. Feldherr u. Staatsmann; war 45mal Stratege; Gegner der antimakedon. Politik des Demosthenes</note>
+            </person>
+            <person xml:id="person-000004" resp="wvh-schriften">
+        <persName type="main">Philopoimen</persName>
+        <persName type="sort">Philopoimen</persName>
+        <gender value="N">male</gender>
+        <birth>
+           <date when="-0253"/>
+           <placeName/>
+        </birth>
+        <death>
+           <date when="-0182"/>
+           <placeName/>
+        </death>
+        <note type="bio">Ein griechischer Feldherr, der als „der Letzte der Hellenen“ bezeichnet wurde. Er war ein bedeutender Stratege des Achäischen Bundes und spielte eine zentrale Rolle im Widerstand gegen die wachsende römische Vormachtstellung in Griechenland.</note>
+     </person>
         </listPerson>
     </standOff>
 </TEI>
