@@ -76,7 +76,7 @@
             </keywords>
             <keywords scheme="#topic">
                <term>Antike</term>
-               <term>Philosophie</term>
+               <term>Bildung</term>
             </keywords>
          </textClass>
       </profileDesc>
@@ -89,25 +89,29 @@
                <title type="main">Latium und Hellas oder Betrachtungen über das klassische
                   Altertum</title>
             </head>
-            <p rend="right"><bibl><author>Dionysius Hal.</author>
+            <p rend="right"><bibl><author><persName key="gnd-118672037">Dionysius
+                     Hal</persName>.</author>
                   <title>Antiquit.</title>
                   <biblScope unit="book" n="1">I</biblScope>. <biblScope unit="chapter" n="4"
                      >4</biblScope>.</bibl>
                <hi xml:lang="grc">ἡ δὲ Ῥωμαίων πόλις — κατοικεῖται<note type="footnote" n="i)"
                      resp="gnd-116890657"><hi>
-                        <quote>Ἡ δὲ Ῥωμαίων πόλις ἁπάσης μὲν ἄρχει γῆς ὅση μὴ ἀνέμβατός ἐστιν, ἀλλ᾽
-                           ὑπ᾽ ἀνθρώπων κατοικεῖται</quote>
-                        <bibl><author>Dionysius</author>
+                        <quote>Ἡ δὲ <placeName key="geo-8354456">Ῥωμ</placeName>αίων πόλις ἁπάσης
+                           μὲν ἄρχει γῆς ὅση μὴ ἀνέμβατός ἐστιν, ἀλλ᾽ ὑπ᾽ ἀνθρώπων
+                           κατοικεῖται</quote>
+                        <bibl><author><persName key="gnd-118672037">Dionysius</persName></author>
                            <biblScope unit="book" n="1">1</biblScope>, <biblScope unit="chapter"
-                              n="3">3</biblScope></bibl>.</hi></note></hi>. Die Stadt der Römer
-               beherrscht die ganze Erde, so weit sie nicht unzugänglich ist, und von Menschen
-               bewohnt wird.</p>
+                              n="3">3</biblScope></bibl>.</hi></note></hi>. Die Stadt der <placeName
+                  key="geo-8354456">Röm</placeName>er beherrscht die ganze Erde, so weit sie nicht
+               unzugänglich ist, und von Menschen bewohnt wird.</p>
             <p>Es giebt einen vierfachen Genuss des Alterthums:</p>
             <p>in der Lesung der alten Schriftsteller,</p>
             <p>in der Anschauung der alten Kunstwerke,</p>
             <p>in dem Studium der alten Geschichte,</p>
-            <p>in dem Leben auf classischem Boden. — Griechenland, Empfindungen tieferer Wehmuth.
-               Rom, höherer Standpunkt, mehr Vollständigkeit der Uebersicht.</p>
+            <p>in dem Leben auf classischem Boden. — <placeName key="geo-390903"
+                  >Griechenland</placeName>, Empfindungen tieferer Wehmuth. <placeName
+                  key="geo-8354456">Rom</placeName>, höherer Standpunkt, mehr Vollständigkeit der
+               Uebersicht.</p>
             <p>Alle diese verschiedenen Genüsse geben im Ganzen denselben, nur zu anderen Graden
                gesteigerten Eindruck, und das Charakteristische dieses Eindrucks besteht darin,</p>
             <p>dass jeder andre Gegenstand immer nur zu einer einzelnen Beschäftigung tauglich, das
@@ -139,10 +143,11 @@
                Begriffs des Symbols und Warnung nicht das Sichtbare und Unsichtbare so zu trennen,
                als sey eins bloss die Hülle des sonst unabhängigen Andern.</p>
             <p>Der Geist, der sich eine solche Behandlungsart erschafft (denn Schöpfer derselben
-               waren die Griechen unläugbar) muss ihr selbst ähnlich seyn. Auf eine wenig
-               verschiedene, aber die Ansicht weiter führende Weise lässt sich nun der Griechische
-               (der, welchen allein man sich als Urheber der ächt griechischen Werke denken kann)
-               auch so beschreiben:</p>
+               waren die <placeName key="geo-390903">Griechen</placeName> unläugbar) muss ihr selbst
+               ähnlich seyn. Auf eine wenig verschiedene, aber die Ansicht weiter führende Weise
+               lässt sich nun der <placeName key="geo-390903">Griech</placeName>ische (der, welchen
+               allein man sich als Urheber der ächt <placeName key="geo-390903"
+               >griech</placeName>ischen Werke denken kann) auch so beschreiben:</p>
             <p>dass sein wesentlicher Charakter darin besteht, die Form der <pb n="3.138"
                   xml:id="pbIII138"/> menschlichen Individualität, wie sie seyn sollte,
                darzustellen, und zwar, welches eine mehr zufällige Nebenbeschaffenheit ist, dies
@@ -246,8 +251,9 @@
             <pb n="3.141" xml:id="pbIII141"/>
             <p>Die Empfindung fügt zu der Form des letzteren die Gewalt des Gefühls, und folgt den
                leitenden Ideen des Gemüths.</p>
-            <p>Kehrt man nun zu den einzelnen Eigenschaften des Griechischen Geistes zurück, so
-               findet man die Form der geläuterten Individualität bei ihm in folgenden Momenten:</p>
+            <p>Kehrt man nun zu den einzelnen Eigenschaften des <placeName key="geo-390903"
+                  >Griech</placeName>ischen Geistes zurück, so findet man die Form der geläuterten
+               Individualität bei ihm in folgenden Momenten:</p>
             <p>1. darin, dass alles in ihm Bewegung, ewig mannigfaltig quellendes Leben ist, und es
                ihm mehr auf Streben, als auf Erstrebtes ankommt.</p>
             <p>2. dass das Streben immer idealischer und geistiger Natur ist.</p>
@@ -262,61 +268,67 @@
             <p>2. der Rhythmus der Dichtkunst,</p>
             <p>3. die Empfindung der durch Phantasiebegeisterung geweckten Religion. Man wird dieser
                Schilderung vielleicht entgegensetzen,  dass sie zu künstlich sey, und behaupten:
-               Griechischer Geist lasse sich hinlänglich durch die Einwirkung einer jugendlichen
-               Natur auf das phantasiereiche Gemüth eines unter glücklichem Himmelstrich und
-               günstigen Zeitumständen auftretenden Volkes erklären. Allein insofern dies von der
-               Möglichkeit der Entstehung einer Nation, wie die Griechische, Rechenschaft geben
-               soll, wird weiter unten die Rede davon seyn. Als Schilderung aber widerspricht ihm
-               das Vorhergehende keinesweges, drückt es aber nur bestimmter und erschöpfender
-               aus.</p>
-            <p>Denn es endigt darin, dass es den Griechen die Bahn von der schlichtesten
-               NaturEinfachheit bis zur unerreichbarsten Schönheit und Erhabenheit ewig von neuem
-               beginnen und zurücklegen lässt, und seine Eigenthümlichkeit in die Verbindung eines
-               höchst praktischen und höchst idealischen Charakters setzt.</p>
+                  <placeName key="geo-390903">Griech</placeName>ischer Geist lasse sich hinlänglich
+               durch die Einwirkung einer jugendlichen Natur auf das phantasiereiche Gemüth eines
+               unter glücklichem Himmelstrich und günstigen Zeitumständen auftretenden Volkes
+               erklären. Allein insofern dies von der Möglichkeit der Entstehung einer Nation, wie
+               die <placeName key="geo-390903">Griech</placeName>ische, Rechenschaft geben soll,
+               wird weiter unten die Rede davon seyn. Als Schilderung aber widerspricht ihm das
+               Vorhergehende keinesweges, drückt es aber nur bestimmter und erschöpfender aus.</p>
+            <p>Denn es endigt darin, dass es den <placeName key="geo-390903">Griechen</placeName>
+               die Bahn von der schlichtesten NaturEinfachheit bis zur unerreichbarsten Schönheit
+               und Erhabenheit ewig von neuem beginnen und zurücklegen lässt, und seine
+               Eigenthümlichkeit in die Verbindung eines höchst praktischen und höchst idealischen
+               Charakters setzt.</p>
             <p>Ueberhaupt lässt sich jede bedeutende menschliche Eigenthümlichkeit durch
                mannigfaltige Ansichten schildern, von denen eine nur bald bestimmter, bald leichter
                erklärbar, bald fruchtbarer ist, als die andern. Eine, die sich unmittelbar aus dem
                Vorigen er- <pb n="3.142" xml:id="pbIII142"/> giebt, und sich durch vielfache
                Anwendbarkeit empfiehlt, ist noch folgende:</p>
-            <p>Alles, was Griechischer Geist hervorbrachte, athmet tief aufgefasste Ansicht der Form
-               der Natur, und unverwandte Richtung der Phantasie auf die ewigen und steten Gesetze
-               des Raums und des Rhythmus. Beides kommt in dem Begriffe der Organisation zusammen,
-               der die ganze lebendige Natur beherrscht, und selbst wieder durch die höheren
-               Verhältnisse des Raums und der Zahl beherrscht wird. Da zugleich Leben und
-               Organisation sich wechselseitig fordern, so sprach den Griechen in dem Organischen
-               zugleich die von innen ausbildende Kraft an. Dieser vorherrschende Begriff des
-               Organismus in ihm machte nun, dass er alles scheute und verachtete,</p>
+            <p>Alles, was <placeName key="geo-390903">Griech</placeName>ischer Geist hervorbrachte,
+               athmet tief aufgefasste Ansicht der Form der Natur, und unverwandte Richtung der
+               Phantasie auf die ewigen und steten Gesetze des Raums und des Rhythmus. Beides kommt
+               in dem Begriffe der Organisation zusammen, der die ganze lebendige Natur beherrscht,
+               und selbst wieder durch die höheren Verhältnisse des Raums und der Zahl beherrscht
+               wird. Da zugleich Leben und Organisation sich wechselseitig fordern, so sprach den
+                  <placeName key="geo-390903">Griechen</placeName> in dem Organischen zugleich die
+               von innen ausbildende Kraft an. Dieser vorherrschende Begriff des Organismus in ihm
+               machte nun, dass er alles scheute und verachtete,</p>
             <p>was sich nicht in klaren Verhältnissen zu Theilen und Ganzen aus einander legte,</p>
             <p>was nicht seinen Stoff und selbst seine Form der Idee eines Ganzen unterordnete,</p>
             <p>was nicht eine innere, frei wirkende Kraft athmete. </p>
-            <p>Mehr aber sinnlicher, als intellectueller Natur liebt der Grieche nur was sich ohne
-               Mühe zusammenfügt, und die Idee unendlicher, immer wieder in sich organischer Theile,
-               die sich leicht an einander gliedern, und eines Ganzen, das leicht in solche Theile
-               zerfällt, ist eine zur Schilderung und Erklärung Griechischer Eigenthümlichkeit
-               überaus fruchtbare Idee.</p>
+            <p>Mehr aber sinnlicher, als intellectueller Natur liebt der <placeName key="geo-390903"
+                  >Griech</placeName>e nur was sich ohne Mühe zusammenfügt, und die Idee
+               unendlicher, immer wieder in sich organischer Theile, die sich leicht an einander
+               gliedern, und eines Ganzen, das leicht in solche Theile zerfällt, ist eine zur
+               Schilderung und Erklärung <placeName key="geo-390903">Griech</placeName>ischer
+               Eigenthümlichkeit überaus fruchtbare Idee.</p>
             <p>Nachdem wir das Bisherige im Allgemeinen vorausgeschickt haben, wollen wir jetzt, die
-               hauptsächlichsten Gegenstände, aus denen sich der Griechische Geist noch erkennen
-               lässt, durchgehend, versuchen, kurz und in wenigen Momenten das vorzüglich
-               Charakteristische an ihnen darzustellen; wir thun dies nach einander an</p>
+               hauptsächlichsten Gegenstände, aus denen sich der <placeName key="geo-390903"
+                  >Griech</placeName>ische Geist noch erkennen lässt, durchgehend, versuchen, kurz
+               und in wenigen Momenten das vorzüglich Charakteristische an ihnen darzustellen; wir
+               thun dies nach einander an</p>
             <p>der Kunst,</p>
             <p>der Dichtung,</p>
             <p>der Religion,</p>
             <p>den Sitten und Gebräuchen,</p>
             <p>dem öffentlichen und Privatcharakter und der Geschichte.</p>
             <p>1. an der Kunst.</p>
-            <p>Der einzige Grundsatz, welcher zu einer richtigen Erklärung der Griechischen Kunst
-               führt, ist der, dass sie gerade einen entgegengesetzten Weg ging, als man gewöhnlich
-               voraussetzt, nicht, von roher Nachahmung der Natur beginnend, sich zum Götterideale
-               erhob, sondern, ausgehend von dem reinen Sinn für die <pb n="3.143" xml:id="pbIII143"
-               /> allgemeinen Formen des Raums, für Symmetrie und Richtigkeit der Verhältnisse, sich
-               aus ihnen ein Götterideal schuf, und so zu den Menschen herabstieg.</p>
-            <p>Es wird lächerlich scheinen, der Griechischen Kunst einen Gang <hi xml:lang="la">a
-                  priori</hi> anzuweisen, sie eher aus den trocknen Formeln der Mathematik, als der
-               quellenden Fülle des Lebens herzuleiten. Allein ich berufe mich auf das Unheil eines
-               jeden, der die Antike mit gesundem Gefühle zu sehen versteht, ob — es verhalte sich
-               auch mit der Wahrheit, wie es wolle — es nicht wenigstens vollkommen so scheint, als
-               habe der Griechische Künstler seinen Weg von der Idee aus und nicht zur Idee hin
-               genommen. Dann versteht es sich von selbst, dass bei der Kunst, in der nothwendig
+            <p>Der einzige Grundsatz, welcher zu einer richtigen Erklärung der <placeName
+                  key="geo-390903">Griech</placeName>ischen Kunst führt, ist der, dass sie gerade
+               einen entgegengesetzten Weg ging, als man gewöhnlich voraussetzt, nicht, von roher
+               Nachahmung der Natur beginnend, sich zum Götterideale erhob, sondern, ausgehend von
+               dem reinen Sinn für die <pb n="3.143" xml:id="pbIII143"/> allgemeinen Formen des
+               Raums, für Symmetrie und Richtigkeit der Verhältnisse, sich aus ihnen ein Götterideal
+               schuf, und so zu den Menschen herabstieg.</p>
+            <p>Es wird lächerlich scheinen, der <placeName key="geo-390903">Griech</placeName>ischen
+               Kunst einen Gang <hi xml:lang="la">a priori</hi> anzuweisen, sie eher aus den
+               trocknen Formeln der Mathematik, als der quellenden Fülle des Lebens herzuleiten.
+               Allein ich berufe mich auf das Unheil eines jeden, der die Antike mit gesundem
+               Gefühle zu sehen versteht, ob — es verhalte sich auch mit der Wahrheit, wie es wolle
+               — es nicht wenigstens vollkommen so scheint, als habe der <placeName key="geo-390903"
+                  >Griech</placeName>ische Künstler seinen Weg von der Idee aus und nicht zur Idee
+               hin genommen. Dann versteht es sich von selbst, dass bei der Kunst, in der nothwendig
                Idee und Erfahrung zusammentreten, nie von einem Ausschliessen, sondern nur von einem
                Vorwalten einer von beiden die Rede seyn kann. Auch macht folgende Herleitung das
                Gesagte vielleicht begreiflicher und minder paradox.</p>
@@ -333,28 +345,36 @@
                unübertrefliche Vorbilder hat, und verleitet wird, diesen unmittelbar gleichkommen zu
                wollen, ohne nur in ihnen die mühvolle Bahn zu studiren, welche sie, so wie ihre
                ältere Schwester, noch gegenwärtig durchgehen müsste.</p>
-            <p>Die Griechische Kunst beherrschte die Mannigfaltigkeit der Natur durch den einfachen
-               Begriff des organischen Verhältnisses, und gelangte zu Schönheit und Charakter, ohne
-               unmittelbar nach ihnen zu streben, und einzig bemüht, ihrem Werk jene einfachen
-               Formen in möglichster Richtigkeit und Symmetrie einzuprägen.</p>
-            <p>Die Griechische Kunst hätte indess diesen Weg nie einschlagen können, wenn sie, so zu
-               sagen, vom Anfang hätte anheben sollen, und nicht nur aufgenommen hätte, was ein
-               anderes Volk mit tiefem, <pb n="3.144" xml:id="pbIII144"/> nur zu starrem Sinn, und
-               eisernem, nur zu einförmigem Fleisse Jahrhunderte hindurch ausgearbeitet hatte. Die
-               Aegyptische zwar steife, aber grandiose, und in den Verhältnissen bis zur
-               Gewissenhaftigkeit genaue Kunst durfte nur einen freieren und glücklicheren Schwung
-               erhalten, und Aegyptische Wissenschaft machte die Griechen mit mathematischen
-               Grundsätzen bekannt, die vielleicht (wie die Kugellehre, die Herkules aus Aegypten
-               gebracht haben sollte)<note type="footnote" n="ii)" resp="gnd-116890657"><hi>Daß
-                     Herakles den <hi xml:lang="grc">σφαιρικὸς λόγος</hi>; aus Ägypten nach
-                     Griechenland herüberbrachte, berichtet <bibl><author>Diodor</author>
+            <p>Die <placeName key="geo-390903">Griech</placeName>ische Kunst beherrschte die
+               Mannigfaltigkeit der Natur durch den einfachen Begriff des organischen Verhältnisses,
+               und gelangte zu Schönheit und Charakter, ohne unmittelbar nach ihnen zu streben, und
+               einzig bemüht, ihrem Werk jene einfachen Formen in möglichster Richtigkeit und
+               Symmetrie einzuprägen.</p>
+            <p>Die <placeName key="geo-390903">Griech</placeName>ische Kunst hätte indess diesen Weg
+               nie einschlagen können, wenn sie, so zu sagen, vom Anfang hätte anheben sollen, und
+               nicht nur aufgenommen hätte, was ein anderes Volk mit tiefem, <pb n="3.144"
+                  xml:id="pbIII144"/> nur zu starrem Sinn, und eisernem, nur zu einförmigem Fleisse
+               Jahrhunderte hindurch ausgearbeitet hatte. Die <placeName key="geo-357994"
+                  >Aegypt</placeName>ische zwar steife, aber grandiose, und in den Verhältnissen bis
+               zur Gewissenhaftigkeit genaue Kunst durfte nur einen freieren und glücklicheren
+               Schwung erhalten, und <placeName key="geo-357994">Aegypt</placeName>ische
+               Wissenschaft machte die <placeName key="geo-390903">Griech</placeName>en mit
+               mathematischen Grundsätzen bekannt, die vielleicht (wie die Kugellehre, die <persName
+                  key="gnd-118639552">Herkules</persName> aus <placeName key="geo-357994"
+                  >Aegypten</placeName> gebracht haben sollte)<note type="footnote" n="ii)"
+                  resp="gnd-116890657"><hi>Daß <persName key="gnd-118639552">Herakles</persName> den
+                        <hi xml:lang="grc">σφαιρικὸς λόγος</hi>; aus <placeName key="geo-357994"
+                        >Ägypten</placeName> nach <placeName key="geo-390903"
+                        >Griechenland</placeName> herüberbrachte, berichtet <bibl><author><persName
+                              key="gnd-118679627">Diodor</persName></author>
                         <biblScope unit="book" n="4">4</biblScope>, <biblScope unit="chapter" n="27"
                            >27</biblScope>, <biblScope unit="section" n="4"
                      >4</biblScope></bibl>.</hi></note> sehr einfach waren, aber den jugendlichen
                Geist, der hier zum erstenmal durch Ideenschönheit gerührt wurde, unendlich mächtig
                ergriffen.</p>
-            <p>Da die Bestimmung der Griechischen Kunstwerke ursprünglich eine religiöse war, so
-               gewann der Begriff des Verhältnisses eine doppelte Aufmerksamkeit. Denn die Griechen
+            <p>Da die Bestimmung der <placeName key="geo-390903">Griech</placeName>ischen Kunstwerke
+               ursprünglich eine religiöse war, so gewann der Begriff des Verhältnisses eine
+               doppelte Aufmerksamkeit. Denn die <placeName key="geo-390903">Griechen</placeName>
                verschmähten die überirrdische Macht der Götter hieroglyphisch in Zeichen anzudeuten,
                und suchten dieselbe in dem Ebenmass ihrer Glieder unmittelbar auszudrücken, indem
                sie ihrer Gestalt den Typus der Gesetze der Harmonie und der Ordnung anbildeten, nach
@@ -375,25 +395,26 @@
                und an ihm erkennbar zu seyn. Inwiefern ihm dieses gelingen soll, hängt von seiner
                Anstrengung und unverwandten Richtung, und der <pb n="3.145" xml:id="pbIII145"/>
                Reinheit und Macht ab, mit welcher die Idee in dem gegebenen Stoff ausgeprägt ist.
-               Dadurch also, dass die Phantasie des griechischen Künstlers von der Idee dieser sein
-               Kunstwerk belebenden, und jeden Theil desselben aus sich erzeugenden Kraft durchaus
-               begeistert war, und dass sie seinem Sinn mehr Grösse und Innigkeit, seinem Auge mehr
-               Schärfe, seiner Hand mehr Sicherheit gab, lässt sich die wundervolle Erscheinung
-               einigermassen erklären. Denn daraus kann eine Consequenz und ein Zusammenstimmen der
-               unmerkbarsten Theile aller Umrisse entstehen, die jedem Mass und jeder Andeutung im
-               Einzelnen entflieht, und selbst an der Stärke und Zartheit, mit der zwei übrigens
-               vollkommen gleiche Linien gezogen sind, ist die verschiedene Phantasiekraft des
-               Künstlers erkennbar.</p>
-            <p>Worauf also der Griechische Künstler vorzüglich hinarbeitete, war etwas, das er der
-               Tiefe seines Werks anvertraute, damit es aus ihm wieder als freies Leben
-               hervorstralte; er hielt sich gern innerhalb bestimmt abgesteckter Grenzen, weil er
-               dies kleine Feld anders und anders fruchtbar zu machen verstand; suchte mehr
-               Einfachheit, als Mannigfaltigkeit, mehr Festigkeit, Richtigkeit und Strenge, als
-               Leichtigkeit und Reiz. Dadurch und durch die äussere religiöse oder doch öffentliche
-               Bestimmung der Kunst, durch die Lehrmethode in Schulen, und durch eine edle Scheu,
-               das einmal treflich Erfundene zu verunedlen, entstand das Arbeiten in bestimmten
-               Charakteren, und da man unverrückt die grössesten und reinsten Verhältnisse der
-               Gestalt und das tiefste Leben im Auge behielt, in idealen Göttercharakteren.</p>
+               Dadurch also, dass die Phantasie des <placeName key="geo-390903"
+               >griech</placeName>ischen Künstlers von der Idee dieser sein Kunstwerk belebenden,
+               und jeden Theil desselben aus sich erzeugenden Kraft durchaus begeistert war, und
+               dass sie seinem Sinn mehr Grösse und Innigkeit, seinem Auge mehr Schärfe, seiner Hand
+               mehr Sicherheit gab, lässt sich die wundervolle Erscheinung einigermassen erklären.
+               Denn daraus kann eine Consequenz und ein Zusammenstimmen der unmerkbarsten Theile
+               aller Umrisse entstehen, die jedem Mass und jeder Andeutung im Einzelnen entflieht,
+               und selbst an der Stärke und Zartheit, mit der zwei übrigens vollkommen gleiche
+               Linien gezogen sind, ist die verschiedene Phantasiekraft des Künstlers erkennbar.</p>
+            <p>Worauf also der <placeName key="geo-390903">Griech</placeName>ische Künstler
+               vorzüglich hinarbeitete, war etwas, das er der Tiefe seines Werks anvertraute, damit
+               es aus ihm wieder als freies Leben hervorstralte; er hielt sich gern innerhalb
+               bestimmt abgesteckter Grenzen, weil er dies kleine Feld anders und anders fruchtbar
+               zu machen verstand; suchte mehr Einfachheit, als Mannigfaltigkeit, mehr Festigkeit,
+               Richtigkeit und Strenge, als Leichtigkeit und Reiz. Dadurch und durch die äussere
+               religiöse oder doch öffentliche Bestimmung der Kunst, durch die Lehrmethode in
+               Schulen, und durch eine edle Scheu, das einmal treflich Erfundene zu verunedlen,
+               entstand das Arbeiten in bestimmten Charakteren, und da man unverrückt die grössesten
+               und reinsten Verhältnisse der Gestalt und das tiefste Leben im Auge behielt, in
+               idealen Göttercharakteren.</p>
             <p>Was aber am meisten Bewunderung verdient, ist dass schon in der Epoche der strengeren
                Kunst immer Trockenheit und Härte vermieden blieb, und hiernach alle Fülle des Lebens
                so sehr jene ursprünglichen grossen Formen umgoss, dass die schlichteste
@@ -401,10 +422,11 @@
                zu haben schien. Die Kunst keiner Nation und keines Zeitalters schäumt von einem
                solchen Reichthum und einer solchen Ueppigkeit der Gestalten über, und hier bewährt
                sich aufs neue die Treflichkeit der nie verlassnen Grundmethode. Denn wie er nicht
-               der Riesenmasse der Aegypter bedarf um gross zu erscheinen, so fordert sein Reichthum
-               nicht übermässige Vielfachheit der Gestalten. Aus der tiefen Kraft, die er seinen
-               Werken einhaucht, quillt eben so wohl die Ueppigkeit einer Bacchantin, <pb n="3.146"
-                  xml:id="pbIII146"/> als die Erhabenheit eines Zeus. Er ist gross ohne
+               der Riesenmasse der <placeName key="geo-357994">Aegypt</placeName>er bedarf um gross
+               zu erscheinen, so fordert sein Reichthum nicht übermässige Vielfachheit der
+               Gestalten. Aus der tiefen Kraft, die er seinen Werken einhaucht, quillt eben so wohl
+               die Ueppigkeit einer Bacchantin, <pb n="3.146" xml:id="pbIII146"/> als die
+               Erhabenheit eines <persName key="gnd-118772635">Zeus</persName>. Er ist gross ohne
                Uebertreibung und reich ohne Aufwand.</p>
             <p>Aber wie die reine Form der Verhältnisse<note type="footnote" n="iii)"
                   resp="gnd-116890657"><hi>Nach <quote>Verhältnisse</quote> gestrichen : <quote>in
@@ -416,18 +438,20 @@
                eines Bacchanals oder eines Tritonen und Nymphenzuges begleiten und umgeben, gleich
                einem anschmiegenden Element, die wirklichen Gestalten, wie das Silbenmass die Worte
                und Bilder eines Dithyrambus.</p>
-            <p>Denn da der Grieche immer die zarte Gränze hielt, die Kunst als Kunst und nicht als
-               Natur zu behandeln, so bestimmte die äussere Anordnung, gewissermassen die Einfassung
-               seines Werks, die Form eines Sarkophags, eines Frontons, einer Tempelnische
-               vorzüglich mit die Behandlungsart seines Stoffs, und gab dem Werk, ausser seiner
-               organischen und bedeutenden, noch eine abgesonderte architektonische Form.</p>
-            <p>Bis in die tiefste Ader der Brust fühlte der Grieche, dass die Kunst etwas Höheres
-               als die Natur, und das lebendigste und sprechendste Symbol der Gottheit ist; mit
-               unermüdeter Sorgfalt vernachlässigte er keinen, noch so kleinen und unwichtig
-               scheinenden Zug, sie als Kunst von der Wirklichkeit, und als Wirklichkeit von der
-               intellectuellen Idee abzusondern, und so innig schlang er Gestalt und Bedeutung in
-               einander, dass nur der geistloseste Beschauer seiner Werke die eine als die träge
-               Hülle der andern ansehen könnte.</p>
+            <p>Denn da der <placeName key="geo-390903">Griech</placeName>e immer die zarte Gränze
+               hielt, die Kunst als Kunst und nicht als Natur zu behandeln, so bestimmte die äussere
+               Anordnung, gewissermassen die Einfassung seines Werks, die Form eines Sarkophags,
+               eines Frontons, einer Tempelnische vorzüglich mit die Behandlungsart seines Stoffs,
+               und gab dem Werk, ausser seiner organischen und bedeutenden, noch eine abgesonderte
+               architektonische Form.</p>
+            <p>Bis in die tiefste Ader der Brust fühlte der <placeName key="geo-390903"
+                  >Griech</placeName>e, dass die Kunst etwas Höheres als die Natur, und das
+               lebendigste und sprechendste Symbol der Gottheit ist; mit unermüdeter Sorgfalt
+               vernachlässigte er keinen, noch so kleinen und unwichtig scheinenden Zug, sie als
+               Kunst von der Wirklichkeit, und als Wirklichkeit von der intellectuellen Idee
+               abzusondern, und so innig schlang er Gestalt und Bedeutung in einander, dass nur der
+               geistloseste Beschauer seiner Werke die eine als die träge Hülle der andern ansehen
+               könnte.</p>
             <p>So verfuhr er bei dem einzelnen Kunstwerk; aber in der Folge aller schied er mit
                gleich bestimmten Gränzen die besonderen Gattungen; und umfasste mit ihrem
                vollständigen Cyclus die ganze Schöpfung, und die ihm bekannte Welt und Geschichte,
@@ -447,53 +471,59 @@
                erreichen kann, und sie bedient sich zur Vollendung ihres Geschäfts des Rhythmus,
                der, als ein wahrer Vermittler, als äussere Gesetzmässigkeit, die Bewegungen der
                Welt, und als innere, die Veränderungen des Gemüths beherrscht.</p>
-            <p>Das Charakteristische der Griechischen ist, dass sie diesen allgemeinen Zweck aller
-               Dichtung auf eine mehr umfassende, mit mehr Klarheit, Einfachheit, und einer sich
-               leichter zum Ganzen fügenden Harmonie ausführt. Auch hier strebt der Grieche vor
-               allem nur nach Grösse und Reinheit der Formen; bezeichnet mehr einfach den
-               zurückzulegenden Weg, als er bei einzelnen Punkten verweilt, und hebt aus der
-               Mannigfaltigkeit des endlichen Stoffs die Idee heraus, die ihn unmittelbar an das
-               Unendliche knüpft. Auch hier erreicht er dadurch auf einem leichteren Wege einen
-               höheren Grad der Kunst, und bedeutungsvollere Symbole der Wirklichkeit.</p>
+            <p>Das Charakteristische der <placeName key="geo-390903">Griech</placeName>ischen ist,
+               dass sie diesen allgemeinen Zweck aller Dichtung auf eine mehr umfassende, mit mehr
+               Klarheit, Einfachheit, und einer sich leichter zum Ganzen fügenden Harmonie ausführt.
+               Auch hier strebt der <placeName key="geo-390903">Griech</placeName>e vor allem nur
+               nach Grösse und Reinheit der Formen; bezeichnet mehr einfach den zurückzulegenden
+               Weg, als er bei einzelnen Punkten verweilt, und hebt aus der Mannigfaltigkeit des
+               endlichen Stoffs die Idee heraus, die ihn unmittelbar an das Unendliche knüpft. Auch
+               hier erreicht er dadurch auf einem leichteren Wege einen höheren Grad der Kunst, und
+               bedeutungsvollere Symbole der Wirklichkeit.</p>
             <p>Dass diese Empfindung, und nicht, wie bei andern Nationen, eine beschränktere und
-               mehr subjective der Griechischen Dichtung zum Grunde liegt, beweisen die Griechischen
+               mehr subjective der <placeName key="geo-390903">Griech</placeName>ischen Dichtung zum
+               Grunde liegt, beweisen die <placeName key="geo-390903">Griech</placeName>ischen
                Silbenmasse. Nie hat sich die Dichtung irgend eines Volks in einem so weiten, sich
                allen Empfindungen sogleich anschmiegenden, so voll wogenden Elemente bewegt. Der
-               ursprünglichste und älteste Vers der Griechen, der Hexameter, ist zugleich der
-               Inbegriff und der Grundton aller Harmonien des Menschen und der Schöpfung. Wenn man
-               bewundert, wie es möglich war einen solchen Umfang und solche Tiefe in so einfache
-               Grenzen einzuschliessen, wenn man erwägt, dass dieser einzige Vers die Grundlage
-               aller andern poetischen Rhythmen ist, und dass ohne den Zauber dieser Harmonien die
-               wundervollsten Geheimnisse des Gemüths und der Schöpfung ewig unerschlossen geblieben
-               wären, so versucht man umsonst sich die Entstehung einer so plötzlich auftretenden
-               Erscheinung zu erklären. Wenn man sich das Hin- und Wiederfluten aller lebendigen
-               Bewegung der ganzen Schöpfung nach gesetzmässiger Harmonie hinstrebend denkt, so ist
-               es, als hätte <pb n="3.148" xml:id="pbIII148"/> sie endlich ihr üppiges
-               Ueberschwanken in diese leicht beschränkenden Masse beschwichtigt, sich beruhigend in
-               diese Weise eingewiegt, die dann ein glücklich organisirtes Volk ergriff, und in
-               seiner Sprache heftete. So viel mehr scheint dieser Vers dem Rhythmus der Welt, als
-               dem Stammeln menschlicher Laute anzugehören.</p>
-            <p>Denn in der That ist eine grössere Objectivität in den Silbenmassen der Griechen, als
-               in denen aller andern uns bekannten Nationen, und dies zeigt sich ohne Mühe in der
-               Zusammenfügung ihrer Elemente und der Organisation ihrer Glieder. Das Gemüth verfährt
-               in seiner Empfindungsart meistentheils stossweise, macht harte Abschnitte, grelle
-               Gegensätze, offenbart seine oft zur Willkühr werdende Eigenmacht. In den Bewegungen
-               hingegen, wie in den Formen der Natur ist mehr Stätigkeit, die Uebergänge sind
-               sanfter, die Gesetzmässigkeit zeigt sich mehr im Ganzen, als sie sich im Einzelnen
-               vordrängt, und gerade dies ist auch die Eigenthümlichkeit der Griechischen Versmasse,
-               die überall die Rückkehr durchaus gleicher, besonders kürzerer Clauseln vermeiden,
-               das Gesetz immer in Mannigfaltigkeit verbergen und wiederum in ihr, auch sie doch in
-               feste Grenzen einschliessend, auch zeigen, das einmal Angeklungene mehr von selbst
-               austönen lassen, als willkührlich abschneiden. Die Gesetzmässigkeit des Griechischen
-               Metrums scheint nur bestimmt, die zu üppige und reiche Fülle des Wohllauts massigen,
-               und in leicht zu fassenden Abschnitten dem Ohr vortragen zu sollen; da sie besonders
-               bei den neueren Nationen hingegen die Anmuth des Wohllauts selbst vertreten muss.</p>
-            <p>Dass in der That die Griechische Poesie diesen Weg genommen hat, zeigt die Sprache
-               selbst. Keine unter allen uns bekannten ist so reich an mannigfaltigen Rhythmen,
-               bietet den Verseinschnitten so passende Worteinschnitte dar, und trägt so weit mehr
-               den Charakter der tönenden Natur als einer einzelnen menschlichen Empfindungsart, wie
-               z.B. die Lateinische in der Feierlichkeit, die Italienische in der Weichheit, die
-               Englische in der Kraft ans Herz zu gehn und zu rühren an sich.</p>
+               ursprünglichste und älteste Vers der <placeName key="geo-390903"
+               >Griechen</placeName>, der Hexameter, ist zugleich der Inbegriff und der Grundton
+               aller Harmonien des Menschen und der Schöpfung. Wenn man bewundert, wie es möglich
+               war einen solchen Umfang und solche Tiefe in so einfache Grenzen einzuschliessen,
+               wenn man erwägt, dass dieser einzige Vers die Grundlage aller andern poetischen
+               Rhythmen ist, und dass ohne den Zauber dieser Harmonien die wundervollsten
+               Geheimnisse des Gemüths und der Schöpfung ewig unerschlossen geblieben wären, so
+               versucht man umsonst sich die Entstehung einer so plötzlich auftretenden Erscheinung
+               zu erklären. Wenn man sich das Hin- und Wiederfluten aller lebendigen Bewegung der
+               ganzen Schöpfung nach gesetzmässiger Harmonie hinstrebend denkt, so ist es, als hätte
+                  <pb n="3.148" xml:id="pbIII148"/> sie endlich ihr üppiges Ueberschwanken in diese
+               leicht beschränkenden Masse beschwichtigt, sich beruhigend in diese Weise eingewiegt,
+               die dann ein glücklich organisirtes Volk ergriff, und in seiner Sprache heftete. So
+               viel mehr scheint dieser Vers dem Rhythmus der Welt, als dem Stammeln menschlicher
+               Laute anzugehören.</p>
+            <p>Denn in der That ist eine grössere Objectivität in den Silbenmassen der <placeName
+                  key="geo-390903">Griechen</placeName>, als in denen aller andern uns bekannten
+               Nationen, und dies zeigt sich ohne Mühe in der Zusammenfügung ihrer Elemente und der
+               Organisation ihrer Glieder. Das Gemüth verfährt in seiner Empfindungsart
+               meistentheils stossweise, macht harte Abschnitte, grelle Gegensätze, offenbart seine
+               oft zur Willkühr werdende Eigenmacht. In den Bewegungen hingegen, wie in den Formen
+               der Natur ist mehr Stätigkeit, die Uebergänge sind sanfter, die Gesetzmässigkeit
+               zeigt sich mehr im Ganzen, als sie sich im Einzelnen vordrängt, und gerade dies ist
+               auch die Eigenthümlichkeit der <placeName key="geo-390903">Griech</placeName>ischen
+               Versmasse, die überall die Rückkehr durchaus gleicher, besonders kürzerer Clauseln
+               vermeiden, das Gesetz immer in Mannigfaltigkeit verbergen und wiederum in ihr, auch
+               sie doch in feste Grenzen einschliessend, auch zeigen, das einmal Angeklungene mehr
+               von selbst austönen lassen, als willkührlich abschneiden. Die Gesetzmässigkeit des
+                  <placeName key="geo-390903">Griech</placeName>ischen Metrums scheint nur bestimmt,
+               die zu üppige und reiche Fülle des Wohllauts massigen, und in leicht zu fassenden
+               Abschnitten dem Ohr vortragen zu sollen; da sie besonders bei den neueren Nationen
+               hingegen die Anmuth des Wohllauts selbst vertreten muss.</p>
+            <p>Dass in der That die <placeName key="geo-390903">Griech</placeName>ische Poesie
+               diesen Weg genommen hat, zeigt die Sprache selbst. Keine unter allen uns bekannten
+               ist so reich an mannigfaltigen Rhythmen, bietet den Verseinschnitten so passende
+               Worteinschnitte dar, und trägt so weit mehr den Charakter der tönenden Natur als
+               einer einzelnen menschlichen Empfindungsart, wie z.B. die Lateinische in der
+               Feierlichkeit, die <placeName key="geo-3175395">Italien</placeName>ische in der
+               Weichheit, die Englische in der Kraft ans Herz zu gehn und zu rühren an sich.</p>
             <p>Auf welche Weise nun wäre dies möglich, wenn man nicht annähme, dass ein grosses,
                noch ausserdem in verschiedene Stämme getheiltes, unendlich lebhaftes, ewig
                schwatzendes und singendes Volk von einem von Natur auf Rhythmus und Wohlklang
@@ -501,19 +531,21 @@
                   xml:id="pbIII149"/> eines solchen Volks konnten sich die Härten zusammenstossender
                Silben, die ganz andre Grundsätze, als die des Ohres, zusammenführten, abschleifen,
                mussten sich von selbst Laute zusammenziehn und verlängern.</p>
-            <p>Das hauptsächlichste und ursprüngliche Streben des griechischen Rhythmus geht auf
-               Fülle und Reichthum leichtgeregelter Elemente, und wenn man mit dem vorhin über die
-               Empfindung Gesagten einig ist, dass nemlich, wo sie den Impuls giebt, die Form mehr
-               nakt und trocken dasteht, so sieht man, dass dies Streben zugleich, wie überall bei
-               den Griechen, ein Streben aus sich heraus, nach der Natur hin, nach der Annäherung an
-               ihr allbelebendes Princip ist.</p>
+            <p>Das hauptsächlichste und ursprüngliche Streben des <placeName key="geo-390903"
+                  >griech</placeName>ischen Rhythmus geht auf Fülle und Reichthum leichtgeregelter
+               Elemente, und wenn man mit dem vorhin über die Empfindung Gesagten einig ist, dass
+               nemlich, wo sie den Impuls giebt, die Form mehr nakt und trocken dasteht, so sieht
+               man, dass dies Streben zugleich, wie überall bei den <placeName key="geo-390903"
+                  >Griechen</placeName>, ein Streben aus sich heraus, nach der Natur hin, nach der
+               Annäherung an ihr allbelebendes Princip ist.</p>
             <p>Denn es ist immer dasselbe Suchen des Unendlichen im Endlichen, der Gottheit im
                Irrdischen, da einmal unläugbar ist, dass in diesem mehr als bloss Irrdisches liegt
                und dieses Mehr doch nur der Begeisterung zugänglich ist. Ueberall bezeichnet dieser
-               Trieb nach dem Göttlichen den Griechischen Charakter. In den edlen Bestrebungen der
-               Einzelnen und des Volks stellt er sich in seiner ganzen Schönheit dar; aber noch in
-               den ganz unbedeutenden, selbst in den Fehlern und Verirrungen waltet sein
-               Schattenbild, wie Herkules Schatten in der Unterwelt umherwandelt, indess er selbst
+               Trieb nach dem Göttlichen den <placeName key="geo-390903">Griech</placeName>ischen
+               Charakter. In den edlen Bestrebungen der Einzelnen und des Volks stellt er sich in
+               seiner ganzen Schönheit dar; aber noch in den ganz unbedeutenden, selbst in den
+               Fehlern und Verirrungen waltet sein Schattenbild, wie <persName key="gnd-118639552"
+                  >Herkules</persName> Schatten in der Unterwelt umherwandelt, indess er selbst
                unter den Himmlischen thront. Nichts aber bringt dem unerreichten Höchsten so
                unmittelbar nahe, als Musik und Rhythmus, da in der bildenden Kunst die
                Beschränktheit auf einen bestimmten Gegenstand immer hinderlich ist, und die Alten
@@ -523,21 +555,23 @@
                Zeitalter, das zu arm an Gedanken und Sprache war, um einer würdigen Poesie fähig zu
                seyn, und zu reich an durch Frömmigkeit gesteigertem Gefühl um sich mit dürftiger
                Musik zu behelfen, vielleicht nie entstanden wäre.</p>
-            <p>Die griechischen Silbenmasse leiden daher mit den unsrigen, ihnen nicht geradezu
-               nachgebildeten, ganz und gar keine Vergleichung. Jene sind wirkliche Musik, diese oft
-               nur eine Künstlichkeit, die erst durch das Genie des Künstlers zur Kunst erhoben
-               werden muss. Selbst mit der Nachbildung derselben hat es seine Gränzen. Denn es lässt
-               sich immer vorzüglich nur die Gesetzmässigkeit der Organisation, nicht die Fülle und
-               Schönheit <pb n="3.150" xml:id="pbIII150"/> der Elemente nachbilden, und gerade in
-               dieser liegt, wie wir gesehen haben, das wichtigste Moment bei der Wirkung
-               derselben.</p>
-            <p>In demselben Geiste, welcher in dem Rhythmus der Griechischen Poesie herrscht, ist
-               nun auch der Inhalt bearbeitet, nemlich so, dass auch hier alles der Form
-               untergeordnet ist; nur wird gerade dadurch die Behandlung beinahe plastisch.</p>
-            <p>Denn es ist, als ginge der Zweck aller Griechischen Dichter nur dahin, das
-               Menschengeschlecht, in seinem Gegensatz und seiner Gemeinschaft mit den Göttern, und
-               zugleich mit ihnen untergeordnet dem Schicksal, als Eine kolossale Gestalt
-               darzustellen. So mächtig und so rein strebt alles dahin zusammen.</p>
+            <p>Die <placeName key="geo-390903">griech</placeName>ischen Silbenmasse leiden daher mit
+               den unsrigen, ihnen nicht geradezu nachgebildeten, ganz und gar keine Vergleichung.
+               Jene sind wirkliche Musik, diese oft nur eine Künstlichkeit, die erst durch das Genie
+               des Künstlers zur Kunst erhoben werden muss. Selbst mit der Nachbildung derselben hat
+               es seine Gränzen. Denn es lässt sich immer vorzüglich nur die Gesetzmässigkeit der
+               Organisation, nicht die Fülle und Schönheit <pb n="3.150" xml:id="pbIII150"/> der
+               Elemente nachbilden, und gerade in dieser liegt, wie wir gesehen haben, das
+               wichtigste Moment bei der Wirkung derselben.</p>
+            <p>In demselben Geiste, welcher in dem Rhythmus der <placeName key="geo-390903"
+                  >Griech</placeName>ischen Poesie herrscht, ist nun auch der Inhalt bearbeitet,
+               nemlich so, dass auch hier alles der Form untergeordnet ist; nur wird gerade dadurch
+               die Behandlung beinahe plastisch.</p>
+            <p>Denn es ist, als ginge der Zweck aller <placeName key="geo-390903"
+               >Griech</placeName>ischen Dichter nur dahin, das Menschengeschlecht, in seinem
+               Gegensatz und seiner Gemeinschaft mit den Göttern, und zugleich mit ihnen
+               untergeordnet dem Schicksal, als Eine kolossale Gestalt darzustellen. So mächtig und
+               so rein strebt alles dahin zusammen.</p>
             <p>Alles zu Individuelle wird daher verschmäht, und mit Fleiss vermieden. Nicht der
                Einzelne, sondern der Mensch soll auftreten in den bestimmt geschiedenen, aber
                einfachen Zügen seines Charakters.</p>
@@ -573,20 +607,22 @@
                ausprägende Idee darzustellen, und anderntheils das Gemüth stimmt in ihren Zügen nur
                diese Idee zu erkennen.</p>
             <p>Alle Dichtung, die sich, erreichte sie auch von gewissen Seiten einzelne Vorzüge vor
-               ihr, von der Griechischen entfernt, oder hinter ihr zurückbleibt, geht entweder zu
-               einseitig auf die Idee, oder klebt an der Wirklichkeit, oder hat nicht Kraft diese
-               mit voller Sinnlichkeit noch symbolisch zu erhalten. Die Eigenthümlichkeit der
-               Griechischen ist, nur darauf gerichtet zu seyn, und alle Mittel, diesen Zweck zu
-               erreichen, zu besitzen, wozu, um es mit Einem Worte zu sagen, gehört, den Typus der
-               die ganze Schöpfung belebenden Kraft zu fühlen. Denn dieser Typus besteht darin, den
-               jedesmaligen Moment der Wirkung nicht als für sich bedeutend und isolirt, sondern als
-               Ausdruck der ganzen Unendlichkeit der Kraft gelten zu lassen, deren schon entwickelte
-               Aeusserungen er als Resultat in sich trägt, und deren noch nie gesehene er in seiner
-               Idee andeutet.</p>
+               ihr, von der <placeName key="geo-390903">Griech</placeName>ischen entfernt, oder
+               hinter ihr zurückbleibt, geht entweder zu einseitig auf die Idee, oder klebt an der
+               Wirklichkeit, oder hat nicht Kraft diese mit voller Sinnlichkeit noch symbolisch zu
+               erhalten. Die Eigenthümlichkeit der <placeName key="geo-390903"
+               >Griech</placeName>ischen ist, nur darauf gerichtet zu seyn, und alle Mittel, diesen
+               Zweck zu erreichen, zu besitzen, wozu, um es mit Einem Worte zu sagen, gehört, den
+               Typus der die ganze Schöpfung belebenden Kraft zu fühlen. Denn dieser Typus besteht
+               darin, den jedesmaligen Moment der Wirkung nicht als für sich bedeutend und isolirt,
+               sondern als Ausdruck der ganzen Unendlichkeit der Kraft gelten zu lassen, deren schon
+               entwickelte Aeusserungen er als Resultat in sich trägt, und deren noch nie gesehene
+               er in seiner Idee andeutet.</p>
             <p>3. an der Religion.</p>
-            <p>Der Geist der Griechen offenbart sich theils in der Beschaffenheit ihrer Religion,
-               theils in der Art, dieselbe zu gebrauchen.</p>
-            <p>In beidem wird klar, dass der Grieche sich überall zum Uebersinnlichen erhob,</p>
+            <p>Der Geist der <placeName key="geo-390903">Griechen</placeName> offenbart sich theils
+               in der Beschaffenheit ihrer Religion, theils in der Art, dieselbe zu gebrauchen.</p>
+            <p>In beidem wird klar, dass der <placeName key="geo-390903">Griech</placeName>e sich
+               überall zum Uebersinnlichen erhob,</p>
             <p>dass er dies nicht bloss aus abergläubischen Beweggründen, sondern aus reiner Freude
                an Ideen that, denen er durchaus freies Feld liess,</p>
             <p>dass er die Natur des Uebersinnlichen in den reinen Ideen suchte, die in der That die
@@ -595,10 +631,11 @@
                Sinnlichkeit verband, und also auch hier</p>
             <p>symbolisch blieb.</p>
             <pb n="3.152" xml:id="pbIII152"/>
-            <p>Dass den Griechen die Religion nicht bloss ein ärmliches Bedürfniss des Aberglaubens
-               war, sondern dass sie ihren ganzen Geist und ihren ganzen Charakter in dieselbe
-               verwebten, dass der Einzelne dazu in sich Bestreben fühlte, und die Staaten Freiheit
-               gewährten, zeigt sich, wenn man sieht, wieviel der Grieche eigentlich in seiner
+            <p>Dass den <placeName key="geo-390903">Griechen</placeName> die Religion nicht bloss
+               ein ärmliches Bedürfniss des Aberglaubens war, sondern dass sie ihren ganzen Geist
+               und ihren ganzen Charakter in dieselbe verwebten, dass der Einzelne dazu in sich
+               Bestreben fühlte, und die Staaten Freiheit gewährten, zeigt sich, wenn man sieht,
+               wieviel der <placeName key="geo-390903">Griech</placeName>e eigentlich in seiner
                Religion fand.</p>
             <p>1., den eigentlich religiösen und moralischen Gehalt, vor allem die Scheu vor dem
                Unbegreiflichen, Uebersinnlichen, ohne die an keine wahre Grösse und Schönheit des
@@ -607,54 +644,59 @@
                bloss von ihren Mängeln frei sind. Ja selbst von diesen noch das an sich tragen, was
                gross, stark und üppig ist, und nur auf eine wunderbare Weise das moralisch
                Misfällige daran durch die eine Voraussetzung, dass sie Götter sind, austilgen. Der
-               ächt Griechische Geist kennt im Olymp keine moralische Imputation, die Götter sind
-               ihm nur blosse Symbole der Naturkräfte in ihrem freien Walten; sind die Kinder der
-               Unendlichkeit und hinweg über den traurigen Ernst des Erkennens des Guten und Bösen,
-               aus welchem der Begriff der Schuld entspringt. Von der Zeit an, da besonders
-               Philosophen (denn der Scherz der Dichter glitt unschädlich ab) gegen die Immoralität
-               der alten Götter eiferten, wie zuerst Socrates und Plato that, war es um die Unschuld
-               des Griechischen Geistes geschehen, und bald darauf erhielt auch Kunst und Poesie
-               einen tödtlichen Stoss, in dem sie um ihren Ernst und ihre Wahrheit gebracht wurden.
-               Denn übrigens ruhte das ganze Gebiet der Kunst so auf der Religion, als seiner
-               Grundlage, dass beide sich wechselsweis in einander wiederfanden.</p>
+               ächt <placeName key="geo-390903">Griech</placeName>ische Geist kennt im Olymp keine
+               moralische Imputation, die Götter sind ihm nur blosse Symbole der Naturkräfte in
+               ihrem freien Walten; sind die Kinder der Unendlichkeit und hinweg über den traurigen
+               Ernst des Erkennens des Guten und Bösen, aus welchem der Begriff der Schuld
+               entspringt. Von der Zeit an, da besonders Philosophen (denn der Scherz der Dichter
+               glitt unschädlich ab) gegen die Immoralität der alten Götter eiferten, wie zuerst
+               Socrates und Plato that, war es um die Unschuld des <placeName key="geo-390903"
+                  >Griech</placeName>ischen Geistes geschehen, und bald darauf erhielt auch Kunst
+               und Poesie einen tödtlichen Stoss, in dem sie um ihren Ernst und ihre Wahrheit
+               gebracht wurden. Denn übrigens ruhte das ganze Gebiet der Kunst so auf der Religion,
+               als seiner Grundlage, dass beide sich wechselsweis in einander wiederfanden.</p>
             <p>3., dunkle, aber selbst dadurch nur mächtiger wirkende Ideen über die Zusammenfügung
                und die Entstehung des Weltalls. Denn wenn man auch die spätere, oft kindische und
                kleinliche Allegorie absondern muss, so liegen doch gewisse Urbegriffe davon
                unläugbar auch in den ältesten Vorstellungsarten zum Grunde.</p>
             <p>4., ihre vaterländische Geschichte und die ganze Summe ihrer Weltkunde und
                Tradition.</p>
-            <p>Auf diese Weise war die Religion der Griechen ein Inbegriff aller tiefen und
-               verborgnen Geheimnisse in der moralischen, physischen und historischen Welt, in dem
-               Kunst, Philosophie und Volksglaube sich die Hände reichten, und wo die dichtende <pb
-                  n="3.153" xml:id="pbIII153"/> Phantasie, die grübelnde Speculation, und die
-               allegorisirende Mystik gleich grossen Reiz fanden, tiefer und tiefer einzugehen.</p>
+            <p>Auf diese Weise war die Religion der <placeName key="geo-390903">Griechen</placeName>
+               ein Inbegriff aller tiefen und verborgnen Geheimnisse in der moralischen, physischen
+               und historischen Welt, in dem Kunst, Philosophie und Volksglaube sich die Hände
+               reichten, und wo die dichtende <pb n="3.153" xml:id="pbIII153"/> Phantasie, die
+               grübelnde Speculation, und die allegorisirende Mystik gleich grossen Reiz fanden,
+               tiefer und tiefer einzugehen.</p>
             <p>Die einzige Idee schon, dass an der Spitze von Allem ein Schicksal stand, dem
                Menschen und Götter gleich unterworfen waren, und das nach durchaus blinden und
-               unverstandenen Rathschlüssen herrschte, gab der Religion für ein Volk von
-               Griechischem Geist und Griechischer Empfindung eine unergründliche Tiefe. Sie zog
-               dieselbe von dem Himmel, als einem abgesonderten, uns unzugänglichen Sitze herab, und
-               senkte sie mitten in die Natur, aus deren wundervollen Kräften und ihrem
-               räthselhaften Zusammenwirken doch nur jenes unverstandene Schicksal hervorgehen
-               konnte. Sie führte den Geist von der unseligen, alles zerstörenden Methode ab, alle
-               Erscheinungen der moralischen Welt erklären, alles Wunderbare abschneiden, überall
-               menschlicher Weise Wirkung aus Ursach herleiten zu wollen, unter dem Namen des
-               Zufalls übersehene, nicht beobachtete anzunehmen, und das ewige Wirken der Urkräfte
-               zu verkennen. Sie widersetzte sich eben so sehr derjenigen, welche, die Gottheit aufs
-               mindeste um Vieles verkleinernd, eine ewig Unglück zu Glückseligkeit wendende
-               Vorsehung annimmt, und unter dem Scheine die Gottheit zu ehren, einer unaufhörlich
-               vor Schmerz zitternden Kleinmüthigkeit fröhnend, die Menschheit herabwürdigt. In der
-               Idee des Schicksals wurde frei und ohne Rückhalt das Wunder angenommen, durch welches
-               ewig fort die Welt dauert und wirkt, und mit Muth der Gedanke umfasst, dass das
+               unverstandenen Rathschlüssen herrschte, gab der Religion für ein Volk von <placeName
+                  key="geo-390903">Griech</placeName>ischem Geist und <placeName key="geo-390903"
+                  >Griech</placeName>ischer Empfindung eine unergründliche Tiefe. Sie zog dieselbe
+               von dem Himmel, als einem abgesonderten, uns unzugänglichen Sitze herab, und senkte
+               sie mitten in die Natur, aus deren wundervollen Kräften und ihrem räthselhaften
+               Zusammenwirken doch nur jenes unverstandene Schicksal hervorgehen konnte. Sie führte
+               den Geist von der unseligen, alles zerstörenden Methode ab, alle Erscheinungen der
+               moralischen Welt erklären, alles Wunderbare abschneiden, überall menschlicher Weise
+               Wirkung aus Ursach herleiten zu wollen, unter dem Namen des Zufalls übersehene, nicht
+               beobachtete anzunehmen, und das ewige Wirken der Urkräfte zu verkennen. Sie
+               widersetzte sich eben so sehr derjenigen, welche, die Gottheit aufs mindeste um
+               Vieles verkleinernd, eine ewig Unglück zu Glückseligkeit wendende Vorsehung annimmt,
+               und unter dem Scheine die Gottheit zu ehren, einer unaufhörlich vor Schmerz
+               zitternden Kleinmüthigkeit fröhnend, die Menschheit herabwürdigt. In der Idee des
+               Schicksals wurde frei und ohne Rückhalt das Wunder angenommen, durch welches ewig
+               fort die Welt dauert und wirkt, und mit Muth der Gedanke umfasst, dass das
                menschliche Daseyn ein hinfälliges, schattenähnliches und jammervolles, aber mit
                grossen und reichen Freuden durchsäetes ist, und durch die Erhabenheit eben dieser
                Idee löste sich die Unruhe und der Schmerz, den diese Betrachtung erwecken musste, in
                milde Wehmuth auf. Kein Volk hat das Gefühl der Melancholie so zu steigern gewusst,
-               als die Griechen, weil sie in der lebendigsten Schilderung des Wehs dem üppigsten
-               Genuss sein Recht nicht versagen und dem Schmerz selbst Heiterkeit und Grösse zu
-               erhalten verstehen. Um hiermit durchaus einverstanden zu werden, erinnere man sich
-               nur, ein wie viel besserer Trostgrund das Homerische: auch Herakles Kraft entfloh
+               als die <placeName key="geo-390903">Griechen</placeName>, weil sie in der
+               lebendigsten Schilderung des Wehs dem üppigsten Genuss sein Recht nicht versagen und
+               dem Schmerz selbst Heiterkeit und Grösse zu erhalten verstehen. Um hiermit durchaus
+               einverstanden zu werden, erinnere man sich nur, ein wie viel besserer Trostgrund das
+               Homerische: auch <persName key="gnd-118639552">Herakles</persName> Kraft entfloh
                nicht dem Tode!<note type="footnote" n="v)" resp="gnd-116890657"><hi><quote
-                        xml:lang="grc">Οὐδὲ γὰρ οὐδὲ βίη Ἡρακλῆος φύγε κῆρα</quote>
+                        xml:lang="grc">Οὐδὲ γὰρ οὐδὲ βίη <persName key="gnd-118639552"
+                           >Ἡρακλ</persName>ῆος φύγε κῆρα</quote>
                      <bibl><title>Ilias</title>
                         <biblScope unit="book" n="18">18</biblScope>, <biblScope unit="verse"
                            n="117">117</biblScope></bibl>.</hi></note> als die unsrigen sind, die,
@@ -672,7 +714,8 @@
                vor einer übersinnlichen, alles beherrschenden Macht ergebenes Gefühl, als das, in
                dem Hektor ausruft: denn es kommt einst der Tag, an dem die heilige Ilios sinkt!<note
                   type="footnote" n="vi)" resp="gnd-116890657"><hi><quote xml:lang="grc">Ἔσσεται
-                        ἦμαρ ὅτ᾽ ἄν ποτ᾽ ὀλώλῃ Ἴλιος ἱρή</quote>
+                        ἦμαρ ὅτ᾽ ἄν ποτ᾽ ὀλώλῃ <placeName key="geo-298885">Ἴλι</placeName>ος
+                        ἱρή</quote>
                      <bibl><title>Ilias</title>
                         <biblScope unit="book" n="6">6</biblScope>, <biblScope unit="verse" n="448"
                            >448</biblScope></bibl>.</hi></note> und doch keinen Augenblick vom
@@ -688,96 +731,105 @@
                einer überirrdischen Welt, die jeder nach der Natur seines Geistes sinnlicher und
                geistiger, buchstäblicher und symbolischer ansehen, in die er durch das Thor der
                Kunst und der Philosophie, der Wissenschaft und der Geschichte eingehen konnte. Die
-               Griechen selbst wussten sehr gut, dass ein grosser Theil ihrer Mythen fremden
-               Ursprungs war, und sie besassen daher in denselben die dunkel ausgesprochene Weisheit
-               aller Völker, die Versuche, das Stammeln der Menschheit das Unendliche auszusprechen.
-               Was isolirt nothwendig hätte verlieren müssen, hüllte sich nun in die Ehrwürdigkeit
-               der Zeit, der ältesten und entferntesten Nationen. </p>
-            <p>Aber der Grieche goss alles Fremde immer in seine Eigen- <pb n="3.155"
-                  xml:id="pbIII155"/> thümlichkeit, erst in den späteren Zeiten Griechenlands und
-               Roms wurden fremde, von dem Aberglauben herbeigeführte Götterdienste ohne Verbindung
-               neben einander aufgestellt. Er liess sogar alles von sich ausgehn und machte Delphi
-               zum Nabel der Welt, auf dem die von Zeus zu zwei Seiten ausgeschickten Adler
+                  <placeName key="geo-390903">Griechen</placeName> selbst wussten sehr gut, dass ein
+               grosser Theil ihrer Mythen fremden Ursprungs war, und sie besassen daher in denselben
+               die dunkel ausgesprochene Weisheit aller Völker, die Versuche, das Stammeln der
+               Menschheit das Unendliche auszusprechen. Was isolirt nothwendig hätte verlieren
+               müssen, hüllte sich nun in die Ehrwürdigkeit der Zeit, der ältesten und entferntesten
+               Nationen. </p>
+            <p>Aber der <placeName key="geo-390903">Griech</placeName>e goss alles Fremde immer in
+               seine Eigen- <pb n="3.155" xml:id="pbIII155"/> thümlichkeit, erst in den späteren
+               Zeiten <placeName key="geo-390903">Griechenland</placeName>s und <placeName
+                  key="geo-8354456">Rom</placeName>s wurden fremde, von dem Aberglauben
+               herbeigeführte Götterdienste ohne Verbindung neben einander aufgestellt. Er liess
+               sogar alles von sich ausgehn und machte <placeName key="geo-263219"
+                  >Delphi</placeName> zum Nabel der Welt, auf dem die von <persName
+                  key="gnd-118772635">Zeus</persName> zu zwei Seiten ausgeschickten Adler
                   zusammentrafen.<note type="footnote" n="vii)" resp="gnd-116890657"><hi>Der älteste
-                     Beleg dieser Erzählung findet sich in den Scholien zu
-                           <bibl><author>Pindar</author>s <title>Pythien</title>
+                     Beleg dieser Erzählung findet sich in den Scholien zu <bibl><author><persName
+                              key="gnd-118594427">Pindar</persName></author>s <title>Pythien</title>
                         <biblScope unit="ode" n="4">4</biblScope>, <biblScope unit="verse" n="6"
-                           >6</biblScope></bibl>, woher sie auch wohl Humboldt entnommen
-                  hat.</hi></note> Alles dadurch sich und seiner Empfindungsart näher bringend
-               verstärkte und belebte er die Wirkung auf die Einbildungskraft und das Gemüth.</p>
-            <p>Der Grieche sahe alle seine Götter, mehr oder weniger, als Söhne des Bodens an, den
-               er bewohnte; es hatte für ihn eine Zeit gegeben, in welcher sie unter den Menschen
-               umherwandelten; sie waren grossentheils unter ihnen gebohren, und man zeigte selbst
-               einiger Grab. Die nüchterne Erklärung, dass die Götter aus Dankbarkeit vergötterte
-               Menschen waren, gehört nur den Späteren an. Der frühere und schönere Glaube fragte
-               nicht nach der physischen Möglichkeit oder der historischen Wahrheit. Er dachte sich
-               eine Zeit, wo die Elemente der Schöpfung noch nicht so geschieden, die Lose noch
-               nicht so regelmässig vertheilt waren, wo sich der Olymp und die Erde noch mit
-               einander vermischten, und jeder Stamm verwebte diese Zeit in die Geschichte seiner
-               Vorväter. Dies unmittelbare Walten der Naturkräfte wurde nicht einmal für durchaus
-               geendigt gehalten; es dauerte einzeln noch fort, und ward nur in entfernte oder
-               einsame Gegenden versetzt.</p>
+                           >6</biblScope></bibl>, woher sie auch wohl <persName key="gnd-118554727"
+                        >Humboldt</persName> entnommen hat.</hi></note> Alles dadurch sich und
+               seiner Empfindungsart näher bringend verstärkte und belebte er die Wirkung auf die
+               Einbildungskraft und das Gemüth.</p>
+            <p>Der <placeName key="geo-390903">Griech</placeName>e sahe alle seine Götter, mehr oder
+               weniger, als Söhne des Bodens an, den er bewohnte; es hatte für ihn eine Zeit
+               gegeben, in welcher sie unter den Menschen umherwandelten; sie waren grossentheils
+               unter ihnen gebohren, und man zeigte selbst einiger Grab. Die nüchterne Erklärung,
+               dass die Götter aus Dankbarkeit vergötterte Menschen waren, gehört nur den Späteren
+               an. Der frühere und schönere Glaube fragte nicht nach der physischen Möglichkeit oder
+               der historischen Wahrheit. Er dachte sich eine Zeit, wo die Elemente der Schöpfung
+               noch nicht so geschieden, die Lose noch nicht so regelmässig vertheilt waren, wo sich
+               der Olymp und die Erde noch mit einander vermischten, und jeder Stamm verwebte diese
+               Zeit in die Geschichte seiner Vorväter. Dies unmittelbare Walten der Naturkräfte
+               wurde nicht einmal für durchaus geendigt gehalten; es dauerte einzeln noch fort, und
+               ward nur in entfernte oder einsame Gegenden versetzt.</p>
             <p>An das Leben der Götter auf Erden knüpft sich unmittelbar das Geschlecht der Heroen
-               an, ihre Geschichte und ihr Dienst. Die Aegypter kannten diese nicht.</p>
+               an, ihre Geschichte und ihr Dienst. Die <placeName key="geo-357994"
+                  >Aegypt</placeName>er kannten diese nicht.</p>
             <p>Wohl alle Nationen haben Menschen in den Himmel, und ihre Götter auf die Erde
                versetzt, mehrere haben vergötterte Menschen den Göttern gleich gestellt oder
                untergeordnet. Aber dass keins dies so weit ausgedehnt, so genau ausgesponnen, so
                tief in alle seine Umgebungen verwebt, keins so für die Bereicherung der Kunst und
-               der Dichtung und die Belebung des Nationalgeistes benutzt hat, als die Griechen,
-               zeigt, dass nur sie ein ewig lebendiges Streben besassen, zu dem Höheren und
-               Ueberirrdischen überzugehen, und es in edle und schöne Formen der Anschaulichkeit zu
-               prägen.</p>
-            <p>Wie die Religion der Griechen auf der einen Seite auf die <pb n="3.156"
-                  xml:id="pbIII156"/> eben gesagte Weise eine gewissermassen üppige und
-               überschiessende Ausbildung durch die künstlerische Einbildungskraft erhielt, so bekam
-               sie bald durch ein tieferes Bedürfniss nach Religiosität, bald durch Philosophie und
-               Forschungsgeist eine zweite von einer anderen Seite durch die Mysterien. In ihnen
-               wurde die Fabel durch sonst verborgen gehaltene Mythen erweitert, zugleich aber auch
-               oft durch freiere Aufdeckung ihres Ursprungs berichtigt; es entstanden allegorische
-               Vorstellungen, welche die reineren vorbereiteten; die ersten Keime wahrer
-               Religionsbegriffe kamen empor; und zugleich bildete sich ein Begriff einer höheren
-               moralischen und religiösen Heiligkeit, als der gewöhnliche Götterdienst forderte.
-               Alles dies aber blickte im Leben, bei Dichtern, Philosophen und Geschichtschreibern
-               nur immer wie durch einen Schleier durch, und belebte dadurch in einem von selbst
-               gern die Sinnlichkeit zum Symbole erhebenden Volk immer aufs neue theils diesen
-               Trieb, theils das intellectuelle Streben überhaupt.</p>
+               der Dichtung und die Belebung des Nationalgeistes benutzt hat, als die <placeName
+                  key="geo-390903">Griechen</placeName>, zeigt, dass nur sie ein ewig lebendiges
+               Streben besassen, zu dem Höheren und Ueberirrdischen überzugehen, und es in edle und
+               schöne Formen der Anschaulichkeit zu prägen.</p>
+            <p>Wie die Religion der <placeName key="geo-390903">Griechen</placeName> auf der einen
+               Seite auf die <pb n="3.156" xml:id="pbIII156"/> eben gesagte Weise eine
+               gewissermassen üppige und überschiessende Ausbildung durch die künstlerische
+               Einbildungskraft erhielt, so bekam sie bald durch ein tieferes Bedürfniss nach
+               Religiosität, bald durch Philosophie und Forschungsgeist eine zweite von einer
+               anderen Seite durch die Mysterien. In ihnen wurde die Fabel durch sonst verborgen
+               gehaltene Mythen erweitert, zugleich aber auch oft durch freiere Aufdeckung ihres
+               Ursprungs berichtigt; es entstanden allegorische Vorstellungen, welche die reineren
+               vorbereiteten; die ersten Keime wahrer Religionsbegriffe kamen empor; und zugleich
+               bildete sich ein Begriff einer höheren moralischen und religiösen Heiligkeit, als der
+               gewöhnliche Götterdienst forderte. Alles dies aber blickte im Leben, bei Dichtern,
+               Philosophen und Geschichtschreibern nur immer wie durch einen Schleier durch, und
+               belebte dadurch in einem von selbst gern die Sinnlichkeit zum Symbole erhebenden Volk
+               immer aufs neue theils diesen Trieb, theils das intellectuelle Streben überhaupt.</p>
             <p>Merkwürdig ist es noch, dass die Religion der Kunst so unbeschränkte Freiheit liess,
-               und sie nicht, wie wenigstens zum Theil in Aegypten der Fall war, an eine gewisse
-               Strenge der Form oder ein festes Costüm band; dass ferner so viele Geburten des
-               Aberglaubens von Hexenkünsten, Gespenstern und bösen Geistern, von denen man doch
-               auch vielfältige Spuren antrift, schlechterdings keinen Theil der Kunst durch
-               abentheuerliche, oder gar fratzenhafte Behandlung entstellten.</p>
+               und sie nicht, wie wenigstens zum Theil in <placeName key="geo-357994"
+                  >Aegypten</placeName> der Fall war, an eine gewisse Strenge der Form oder ein
+               festes Costüm band; dass ferner so viele Geburten des Aberglaubens von Hexenkünsten,
+               Gespenstern und bösen Geistern, von denen man doch auch vielfältige Spuren antrift,
+               schlechterdings keinen Theil der Kunst durch abentheuerliche, oder gar fratzenhafte
+               Behandlung entstellten.</p>
             <p>Für den rohen Menschen ist die Religion immer, mehr oder minder, Götzendienst; der
                besserer Empfindungen fähige schöpft daraus Ueberzeugung, Gesetz und Hofnung. Dies
                ist das eigentlich religiöse Bedürfniss. Aus diesem entstehen in Familien und Völkern
                Ueberlieferungen und Gebräuche; diese benutzt der Staat und wendet sie zu seinen
                Zwecken. Insoweit sind die Religionen aller, besonders der älteren Völker einander
                gleich.</p>
-            <p>Die Eigenthümlichkeit des Griechen in seiner Religion zeigt sich darin, dass er so
-               weit über dies blosse Bedürfniss herausging, sich aus der Religion ein eignes Feld
-               für seinen Hang zum Ueberirrdischen machte und dies auf eine mit seiner Kunst, und
-               seiner Dichtung harmonische Weise, versinnlichend und symbolisirend und sich immer in
-               den Schranken wahrer, nur vergrösserter und idealisirter Menschheit haltend, that,
-               dass der Staat ihm hierin so viele Freiheit gab, dass die Griechische Religion nur
-               Volks, nie Staatsreligion heissen darf, und dass er diese Freiheit nie
-               misbrauchte.</p>
+            <p>Die Eigenthümlichkeit des <placeName key="geo-390903">Griechen</placeName> in seiner
+               Religion zeigt sich darin, dass er so weit über dies blosse Bedürfniss herausging,
+               sich aus der Religion ein eignes Feld für seinen Hang zum Ueberirrdischen machte und
+               dies auf eine mit seiner Kunst, und seiner Dichtung harmonische Weise, versinnlichend
+               und symbolisirend und sich immer in den Schranken wahrer, nur vergrösserter und
+               idealisirter Menschheit haltend, that, dass der Staat ihm hierin so viele Freiheit
+               gab, dass die <placeName key="geo-390903">Griech</placeName>ische Religion nur Volks,
+               nie Staatsreligion heissen darf, und dass er diese Freiheit nie misbrauchte.</p>
             <pb n="3.157" xml:id="pbIII157"/>
             <p>Um dies ganz zu fühlen erinnere man sich an das Ungeheure und Unästhetische so vieler
-               Religionen des Orients und selbst zum Theil der Aegyptischen, an den Zwang ihrer
-               Priesterkasten, die strenge Verwebung von Gesetz und Gottesdienst bei den Römern, die
-               Dürftigkeit und Trockenheit ihrer Götter und Fabellehre, und die durch die
-               schändlichsten Ausschweifungen gerechtfertigte Verfolgung einiger Mysterien. Bei den
-               Griechen mag nicht leicht nur ein einziges Beispiel gemisbrauchter Mysterien
-               vorkommen.</p>
+               Religionen des Orients und selbst zum Theil der <placeName key="geo-357994"
+                  >Aegypt</placeName>ischen, an den Zwang ihrer Priesterkasten, die strenge
+               Verwebung von Gesetz und Gottesdienst bei den <placeName key="geo-8354456"
+                  >Röm</placeName>ern, die Dürftigkeit und Trockenheit ihrer Götter und Fabellehre,
+               und die durch die schändlichsten Ausschweifungen gerechtfertigte Verfolgung einiger
+               Mysterien. Bei den <placeName key="geo-390903">Griechen</placeName> mag nicht leicht
+               nur ein einziges Beispiel gemisbrauchter Mysterien vorkommen.</p>
             <p>4. an den Sitten und Gebräuchen.</p>
             <p>Aus diesem weiten Felde ist es nur möglich einige einzelne Punkte herauszuheben.</p>
-            <p>Diodor von Sicilien bemerkt an einem Ort, dass die Aegypter nicht Musik noch Palästra
+            <p><persName key="gnd-118679627">Diodor von Sicilien</persName> bemerkt an einem Ort,
+               dass die <placeName key="geo-357994">Aegypt</placeName>er nicht Musik noch Palästra
                trieben, und an einem andern sagt er: Jolaus richtete Gymnasien und Göttertempel und
                alles andre ein, was zur Glückseligkeit der Menschen gehört, und man findet noch
                Spuren davon.<note type="footnote" n="viii)" resp="gnd-116890657"><hi><quote
                         xml:lang="grc">Παλαίστραν δὲ καὶ μουσικὴν οὐ νόμιμόν ἐστι παρ´ αὐτοῖς
                         μανθάνειν</quote>
-                     <bibl><author>Diodor</author>
+                     <bibl><author><persName key="gnd-118679627">Diodor</persName></author>
                         <biblScope unit="book" n="1">1</biblScope>, <biblScope unit="chapter" n="81"
                            >81</biblScope>, <biblScope unit="section" n="7">7</biblScope></bibl>;
                         <quote xml:lang="grc">Κατεσκεύασε δὲ καὶ γυμνάσια καὶ θεῶν ναοὺς καὶ τἄλλα
@@ -787,133 +839,158 @@
                            unit="chapter" n="15">15</biblScope>, <biblScope unit="section" n="2"
                            >2</biblScope></bibl>.</hi></note> Verehrung der Götter also, und
                Ausbildung des Körpers zu Schönheit und Kraft machten die ersten Bedürfnisse der
-               Griechischen Menschheit aus. Rechnet man dazu nun noch die Musik in der Ausdehnung,
-               in der sie die Griechen nahmen, und die Akademieen der Philosophen, so sieht man,
-               dass die Griechen ausser ihrem öffentlichen und häuslichen Leben noch ein drittes
-               hatten, das keine andre Nation in dieser Ausdehnung kannte, noch in diesem Grade
-               benutzte. Denn das Eigenthümliche davon liegt darin, dass es sich mit Dingen
-               beschäftigte, die nicht unmittelbar auf einen äusseren Zweck gerichtet waren, dass es
-               frei war von den Fesseln des Staats und der Gesetze, und doch fortdauernd um einen
-               grossen Theil und zwar der gebildetsten Bürger Bande schöner Geselligkeit schloss, in
-               der Alter und Jugend eine gleich passende Stelle fanden. Auffallend contrastirt
-               hiermit der Müssiggang einiger Orientalischer Völker, der Kastenzwang der Aegypter,
-               und die einseitige Richtung auf Krieg, Rechtskunde und Ackerbau der Römer.</p>
-            <p>Der Werth, den die Griechen auf einen frei ausgebildeten Körper legten, zeichnet sie
-               vor allen Nationen aus. Es liegt darin der feine und tiefe Sinn, dass das Geistige
-               nicht von dem Körper- <pb n="3.158" xml:id="pbIII158"/> lichen getrennt werden,
-               sondern sich in ihm aussprechen muss, und dass der freie Mensch nicht sich der
-               Beschäftigung, sondern diese sich unterzuordnen bestimmt ist, und diese Sorgfalt,
-               diese Ansicht, körperliche Stärke und Behendigkeit zu ehren, wurde durch zwei Dinge
-               bis in die spätesten Zeiten unterhalten, durch das Andenken an die vaterländischen
-               Heroen, und durch den Ruhm der Sieger in den öffentlichen Spielen.</p>
+                  <placeName key="geo-390903">Griech</placeName>ischen Menschheit aus. Rechnet man
+               dazu nun noch die Musik in der Ausdehnung, in der sie die <placeName key="geo-390903"
+                  >Griechen</placeName> nahmen, und die Akademieen der Philosophen, so sieht man,
+               dass die <placeName key="geo-390903">Griechen</placeName> ausser ihrem öffentlichen
+               und häuslichen Leben noch ein drittes hatten, das keine andre Nation in dieser
+               Ausdehnung kannte, noch in diesem Grade benutzte. Denn das Eigenthümliche davon liegt
+               darin, dass es sich mit Dingen beschäftigte, die nicht unmittelbar auf einen äusseren
+               Zweck gerichtet waren, dass es frei war von den Fesseln des Staats und der Gesetze,
+               und doch fortdauernd um einen grossen Theil und zwar der gebildetsten Bürger Bande
+               schöner Geselligkeit schloss, in der Alter und Jugend eine gleich passende Stelle
+               fanden. Auffallend contrastirt hiermit der Müssiggang einiger Orientalischer Völker,
+               der Kastenzwang der Aegypter, und die einseitige Richtung auf Krieg, Rechtskunde und
+               Ackerbau der <placeName key="geo-8354456">Röm</placeName>er.</p>
+            <p>Der Werth, den die <placeName key="geo-390903">Griechen</placeName> auf einen frei
+               ausgebildeten Körper legten, zeichnet sie vor allen Nationen aus. Es liegt darin der
+               feine und tiefe Sinn, dass das Geistige nicht von dem Körper- <pb n="3.158"
+                  xml:id="pbIII158"/> lichen getrennt werden, sondern sich in ihm aussprechen muss,
+               und dass der freie Mensch nicht sich der Beschäftigung, sondern diese sich
+               unterzuordnen bestimmt ist, und diese Sorgfalt, diese Ansicht, körperliche Stärke und
+               Behendigkeit zu ehren, wurde durch zwei Dinge bis in die spätesten Zeiten
+               unterhalten, durch das Andenken an die vaterländischen Heroen, und durch den Ruhm der
+               Sieger in den öffentlichen Spielen.</p>
             <p>Diese Sitte, den Olympischen Kranz höher zu achten, als den ernsthaftesten Sieg und
                das nützlichste Bestreben, dies Schattenbild des Ruhms bloss aus dem Alter der
                Spiele, der Ehrwürdigkeit ihres Stifters, den damit verknüpften heiligen
-               Feierlichkeiten, dem Zusammenströmen aller griechischen Völker, dem lauten Beifall
-               der sich unter einander entzündenden Menge zusammenzusetzen, zeugt lebendiger, als
-               sonst irgend etwas, für die sinnlich idealische Natur der Griechen, so wie für ihre
-               schlichte Einfachheit, dass der älteste und einfachste Kampf, der Lauf zu Fuss, immer
-               bis zu den spätesten Zeiten so sehr der geehrteste blieb, dass jede Olympiade nach
-               dem Sieger in ihm den Namen trug, und nie von dieser Stelle durch die Pracht und den
-               Reichthum der Viergespanne verdrängt wurde.</p>
+               Feierlichkeiten, dem Zusammenströmen aller <placeName key="geo-390903"
+                  >griech</placeName>ischen Völker, dem lauten Beifall der sich unter einander
+               entzündenden Menge zusammenzusetzen, zeugt lebendiger, als sonst irgend etwas, für
+               die sinnlich idealische Natur der <placeName key="geo-390903">Griechen</placeName>,
+               so wie für ihre schlichte Einfachheit, dass der älteste und einfachste Kampf, der
+               Lauf zu Fuss, immer bis zu den spätesten Zeiten so sehr der geehrteste blieb, dass
+               jede Olympiade nach dem Sieger in ihm den Namen trug, und nie von dieser Stelle durch
+               die Pracht und den Reichthum der Viergespanne verdrängt wurde.</p>
             <p>An diese Art des Lebens schlossen sich nun und aus derselben entsprangen zwei andere,
-               auch nur den Griechen vorzüglich eigene Dinge: gesellige, selten ganz von
-               Philosophie, Dichtung und Kunst entblösste Feste, und Liebe zu schönen Jünglingen. </p>
+               auch nur den <placeName key="geo-390903">Griechen</placeName> vorzüglich eigene
+               Dinge: gesellige, selten ganz von Philosophie, Dichtung und Kunst entblösste Feste,
+               und Liebe zu schönen Jünglingen. </p>
             <p>Der letzten wird niemand geradezu das Wort reden. Aber im höchsten Grade merkwürdig
-               bleibt es, welchen Gebrauch die Griechen von einer Leidenschaft machten, die nun in
-               ihrer eigenthümlichen Lage einmal leicht entstand, und wie sie dieselbe benutzten,
-               statt zu schaden, vielmehr eine Quelle schöner und grosser Gefühle und Ideen wurde.
-               Dass sie aber hierin von einer gewissen Pedanterei und Gravität der Sittlichkeit frei
-               waren, dass sie der Laune der Einbildungskraft, selbst der Ueppigkeit der Begierde
-               ein freieres Spiel Hessen, zeigt gerade, wie sie, nicht einseitig in bestimmte Formen
-               gegossen, gern die Stufenleiter aller menschlichen Empfindungen durchgingen, aber sie
-               immer zum Edleren und Höheren führten.</p>
+               bleibt es, welchen Gebrauch die <placeName key="geo-390903">Griechen</placeName> von
+               einer Leidenschaft machten, die nun in ihrer eigenthümlichen Lage einmal leicht
+               entstand, und wie sie dieselbe benutzten, statt zu schaden, vielmehr eine Quelle
+               schöner und grosser Gefühle und Ideen wurde. Dass sie aber hierin von einer gewissen
+               Pedanterei und Gravität der Sittlichkeit frei waren, dass sie der Laune der
+               Einbildungskraft, selbst der Ueppigkeit der Begierde ein freieres Spiel Hessen, zeigt
+               gerade, wie sie, nicht einseitig in bestimmte Formen gegossen, gern die Stufenleiter
+               aller menschlichen Empfindungen durchgingen, aber sie immer zum Edleren und Höheren
+               führten.</p>
             <p>Man hat die Knabenliebe oft aus der geringen Ausbildung des weiblichen Geschlechts
                herleiten wollen. Allein es möchte schwer zu beweisen seyn, dass diese wirklich so
                gering gewesen sey. Die Geschichte bietet Beispiele genug dar, dass Weiber theils <pb
                   n="3.159" xml:id="pbIII159"/> im Ganzen sich für ihr Vaterland thätig bewiesen,
                und im Einzelnen in mehr als Einer Gattung hohes Talent verriethen. Ich würde daher
                jenen Geschmack mehr aus einer grösseren, gleichsam überschiessenden Fülle der
-               Griechischen Sinnlichkeit und äusserlich aus dem Umstand erklären, dass, da der
-               gesellige Umgang des Griechen vorzüglich durch die natürlich allein den Männern ofnen
-               Gymnasien und Philosophenschulen entstand, die Frauen davon, so oft derselbe sich
-               nicht auf die nächsten Verwandten beschränkte, ausgeschlossen blieben.</p>
-            <p>Uebrigens waren aber unsinnige Prachtliebe und Ausschweifungen bei den Griechen bei
-               weitem nicht so herrschend, als im Orient und bei den Römern. Ein gewisser von Natur
-               feinerer Geschmack und ein mehr lebendiger Trieb, die Sinnlichkeit durch Kunst zu
-               läutern und zu verfeinern, bewahrten sie vor diesen Abwegen.</p>
-            <p>Indess ist es nicht zu läugnen, dass das weibliche Geschlecht in Griechenland einer
-               geringeren Achtung genoss, und dass sich hierin der Römer bei weitem edler bewies.
-               Ich glaube nicht, dass dies durch einen stärkeren Einfluss, den morgenländische
-               Sitten in Griechenland ausübten, entstand. Denn im Heroenalter verhielt es sich damit
-               in hohem Grade anders, und ich sehe nicht, woher in der Folge jener Einfluss
-               entsprungen wäre. Die an sich auffallende Erscheinung kann, dünkt mich, hinreichend
-               daraus erklärt werden, dass die Griechen in der Zeit ihrer Volksregierungen weder ein
-               patriarchalisches, noch ein politisches, sondern recht allgemein ein menschliches
-               Leben führten. Ehe aber Sittlichkeit und Empfindung, die allein eigentlich das wahre
-               Verhältniss der Geschlechter zu einander bestimmen können, eine so überwiegende
-               Ausbildung erhielten, als ihnen die neuere Zeit besonders durch die christliche
-               Religion und die Rittersitten gegeben hat, kann die Achtung der Frauen nur aus dem
-               Werth entspringen, den man auf die Familienverbindung legt, und dieser ist nur in
-               jenen beiden vorher genannten Zuständen gross. Der Grieche betrachtete alle äusseren
+                  <placeName key="geo-390903">Griech</placeName>ischen Sinnlichkeit und äusserlich
+               aus dem Umstand erklären, dass, da der gesellige Umgang des <placeName
+                  key="geo-390903">Griechen</placeName> vorzüglich durch die natürlich allein den
+               Männern ofnen Gymnasien und Philosophenschulen entstand, die Frauen davon, so oft
+               derselbe sich nicht auf die nächsten Verwandten beschränkte, ausgeschlossen
+               blieben.</p>
+            <p>Uebrigens waren aber unsinnige Prachtliebe und Ausschweifungen bei den <placeName
+                  key="geo-390903">Griechen</placeName> bei weitem nicht so herrschend, als im
+               Orient und bei den <placeName key="geo-8354456">Röm</placeName>ern. Ein gewisser von
+               Natur feinerer Geschmack und ein mehr lebendiger Trieb, die Sinnlichkeit durch Kunst
+               zu läutern und zu verfeinern, bewahrten sie vor diesen Abwegen.</p>
+            <p>Indess ist es nicht zu läugnen, dass das weibliche Geschlecht in <placeName
+                  key="geo-390903">Griechenland</placeName> einer geringeren Achtung genoss, und
+               dass sich hierin der <placeName key="geo-8354456">Röm</placeName>er bei weitem edler
+               bewies. Ich glaube nicht, dass dies durch einen stärkeren Einfluss, den
+               morgenländische Sitten in <placeName key="geo-390903">Griechenland</placeName>
+               ausübten, entstand. Denn im Heroenalter verhielt es sich damit in hohem Grade anders,
+               und ich sehe nicht, woher in der Folge jener Einfluss entsprungen wäre. Die an sich
+               auffallende Erscheinung kann, dünkt mich, hinreichend daraus erklärt werden, dass die
+                  <placeName key="geo-390903">Griechen</placeName> in der Zeit ihrer
+               Volksregierungen weder ein patriarchalisches, noch ein politisches, sondern recht
+               allgemein ein menschliches Leben führten. Ehe aber Sittlichkeit und Empfindung, die
+               allein eigentlich das wahre Verhältniss der Geschlechter zu einander bestimmen
+               können, eine so überwiegende Ausbildung erhielten, als ihnen die neuere Zeit
+               besonders durch die christliche Religion und die Rittersitten gegeben hat, kann die
+               Achtung der Frauen nur aus dem Werth entspringen, den man auf die Familienverbindung
+               legt, und dieser ist nur in jenen beiden vorher genannten Zuständen gross. Der
+                  <placeName key="geo-390903">Griech</placeName>e betrachtete alle äusseren
                Verhältnisse mit mehr Leichtigkeit, war minder streng in seinen Federungen, aber auch
-               minder pünktlich in seinen Leistungen. Waren die Griechischen Frauen weniger
-               geachtet, als die Römischen Matronen, so verdammte sie dagegen auch das Gesetz nicht
-               zu einer so unbeschränkten Knechtschaft gegen den Mann.</p>
+               minder pünktlich in seinen Leistungen. Waren die <placeName key="geo-390903"
+                  >Griech</placeName>ischen Frauen weniger geachtet, als die <placeName
+                  key="geo-8354456">Röm</placeName>ischen Matronen, so verdammte sie dagegen auch
+               das Gesetz nicht zu einer so unbeschränkten Knechtschaft gegen den Mann.</p>
             <p>Das weibliche Geschlecht ist dergestalt an seine ursprüngliche <pb n="3.160"
                   xml:id="pbIII160"/> Naturbestimmung gebunden, dass es die Frage ist, ob das
                zarteste und edelste Verhältniss desselben zu dem männlichen, für welches man ohne
                Partheilichkeit das heutige ausgeben kann, anders entstehen konnte, als indem man
                vorher durch ein einseitiges und gewissermassen unnatürliches durchging.</p>
-            <p>Aus den beiden so eben erwähnten Eigenschaften des Griechen, in den äussern
-               Verhältnissen des Lebens minder mit Härte dringend zu seyn, und in seinen
-               Vergnügungen, bis selbst in wahre Ausschweifungen seiner Sinnlichkeit hinein, mehr
-               Mass zu halten und einen feineren Geschmack zu beweisen, muss man die sanftere
-               Behandlung herleiten, deren seine Sklaven genossen. Doch waren freilich hier, wie in
-               so vielem Andern die verschiedenen Griechischen Stämme einander nicht wenig
+            <p>Aus den beiden so eben erwähnten Eigenschaften des <placeName key="geo-390903"
+                  >Griechen</placeName>, in den äussern Verhältnissen des Lebens minder mit Härte
+               dringend zu seyn, und in seinen Vergnügungen, bis selbst in wahre Ausschweifungen
+               seiner Sinnlichkeit hinein, mehr Mass zu halten und einen feineren Geschmack zu
+               beweisen, muss man die sanftere Behandlung herleiten, deren seine Sklaven genossen.
+               Doch waren freilich hier, wie in so vielem Andern die verschiedenen <placeName
+                  key="geo-390903">Griech</placeName>ischen Stämme einander nicht wenig
                ungleich.</p>
             <p>5. an dem öffentlichen und Privatcharakter und der Geschichte.</p>
-            <p>Der politische Charakter der Griechen ist oft und nicht mit Unrecht ein Gegenstand
-               des Tadels und selbst des Spottes gewesen. Er bewies, vorzüglich bei den
-               Atheniensern, unläugbar Mangel an Stätigkeit und oft nicht geringen Leichtsinn.</p>
+            <p>Der politische Charakter der <placeName key="geo-390903">Griechen</placeName> ist oft
+               und nicht mit Unrecht ein Gegenstand des Tadels und selbst des Spottes gewesen. Er
+               bewies, vorzüglich bei den Atheniensern, unläugbar Mangel an Stätigkeit und oft nicht
+               geringen Leichtsinn.</p>
             <p>Indess verläugneten sich doch niemals zwei Dinge in demselben: Anhänglichkeit an
                Volksgleichheit und vaterländischen Ruhm.</p>
             <p>Die Bedrückung der niedrigen Bürger durch die vornehmem, und der Armen durch die
-               Reichen war den Griechischen Staaten durchaus fremd, und schlich sich in keiner Zeit
-               ein.</p>
+               Reichen war den <placeName key="geo-390903">Griech</placeName>ischen Staaten durchaus
+               fremd, und schlich sich in keiner Zeit ein.</p>
             <p>Untergang der Freiheit in einheimischer und fremder Tyrannei hatte zwar von Zeit zu
                Zeit Statt, aber niemals auf eine daurende Weise, und wenn man sich fragt, was
-               eigentlich im Ganzen namentlich in Athen immer herrschend blieb, so war es Demagogie,
-               also zwar Herrschaft, aber durch das Volk selbst. Selbst gegen fremde Uebermacht
-               regte sich der alte Freiheitsgeist immer wieder, und kein andres Volk kann leicht
-               einen so hartnäckigen, ohne alle auch die mindeste Wahrscheinlichkeit eines günstigen
-               Erfolges geleisteten Widerstand aufweisen, als Athen in seinem letzten Kampfe den
-               Römern unter Sylla entgegensetzte.</p>
-            <p>Auch ist nicht zu übergehen, dass die Griechen sehr gut den Werth einer edeln
-               Abstammung und grosser Reichthümer kannten, ohne dennoch weder das eine, noch das
-               andre dieser Gefühle im öffentlichen oder im Privatleben zu misbrauchen.</p>
+               eigentlich im Ganzen namentlich in <placeName key="geo-264371">Athen</placeName>
+               immer herrschend blieb, so war es Demagogie, also zwar Herrschaft, aber durch das
+               Volk selbst. Selbst gegen fremde Uebermacht regte sich der alte Freiheitsgeist immer
+               wieder, und kein andres Volk kann leicht einen so hartnäckigen, ohne alle auch die
+               mindeste Wahrscheinlichkeit eines günstigen Erfolges geleisteten Widerstand
+               aufweisen, als <placeName key="geo-264371">Athen</placeName> in seinem letzten Kampfe
+               den <placeName key="geo-8354456">Röm</placeName>ern unter <persName
+                  key="gnd-11864260X">Sylla</persName> entgegensetzte.</p>
+            <p>Auch ist nicht zu übergehen, dass die <placeName key="geo-390903"
+                  >Griechen</placeName> sehr gut den Werth einer edeln Abstammung und grosser
+               Reichthümer kannten, ohne dennoch weder das eine, noch das andre dieser Gefühle im
+               öffentlichen oder im Privatleben zu misbrauchen.</p>
             <p>Unter der Mannigfaltigkeit von Charakteren, die eine aus so vielen Stämmen
                zusammengesetzte Nation in einer Reihe von <pb n="3.161" xml:id="pbIII161"/>
                Jahrhunderten nothwendig aufweisen muss, lassen sich einige auszeichnen, die
                vorzüglich die Eigenthümlichkeiten ihrer Nation an sich tragen.</p>
-            <p>In der edelsten Art thun dies Aristomenes, den noch gewissermassen der Glanz des noch
-               nicht zu fernen Heldenalters umgiebt, Epaminondas, der Milde und Zartheit mit edler
-               Ruhmbegierde und tiefem Edelmuth verband, und Philopömenes, der zeigte, was ein
-               grosser Charakter noch in der Entartung vermochte.</p>
-            <p>Unter den glänzenden Charakteren, die den (besonders Atheniensischen) Nationalgeist
-               selbst in ihren Fehlern verriethen, waren Perikles und Alcibiades.</p>
-            <p>Dagegen stechen Aristides, Cimon, Phocion und andere so ab, dass man kaum begreift,
-               wie sie derselben Nation angehören konnten.</p>
-            <p>Endlich in dem Sinken der Griechischen Staaten darf man die Feigheit, leere
-               Anmassung, Schmeichelei und Charakterlosigkeit nicht vergessen, welche unter den
-               Römern der späteren Zeit selbst den Griechischen Namen verächtlich machte.</p>
-            <p>Eine Schilderung der Eigenthümlichkeit des Griechischen Nationalcharakters müsste
-               alle diese Verschiedenheiten umfassen, oder wenigstens ihre Möglichkeit zu erklären
-               im Stande seyn. Wir wollen eine solche mit wenigen Worten hier anzugeben
-               versuchen:</p>
-            <p>in dem Griechen waltete die natürlich gelassene, nicht auf irgend etwas beschränkte,
-               noch an etwas Einzelnes gebundene Menschheit reiner und einfacher, als in irgend
-               einer andern Nation.</p>
+            <p>In der edelsten Art thun dies <persName key="gnd-130496073">Aristomenes</persName>,
+               den noch gewissermassen der Glanz des noch nicht zu fernen Heldenalters umgiebt,
+                  <persName key="gnd-118685007">Epaminondas</persName>, der Milde und Zartheit
+               mit edler Ruhmbegierde und tiefem Edelmuth verband, und Philopömenes, der zeigte, was
+               ein grosser Charakter noch in der Entartung vermochte.</p>
+            <p>Unter den glänzenden Charakteren, die den (besonders <placeName key="geo-264371"
+                  >Athen</placeName>iensischen) Nationalgeist selbst in ihren Fehlern verriethen,
+               waren <persName key="gnd-118739972">Perikles</persName> und <persName
+                  key="gnd-118501739">Alcibiades</persName>.</p>
+            <p>Dagegen stechen <persName key="gnd-118650106">Aristides</persName>, <persName
+                  key="gnd-11874707X">Cimon</persName>, <persName key="gnd-118594087"
+                  >Phocion</persName> und andere so ab, dass man kaum begreift, wie sie derselben
+               Nation angehören konnten.</p>
+            <p>Endlich in dem Sinken der <placeName key="geo-390903">Griech</placeName>ischen
+               Staaten darf man die Feigheit, leere Anmassung, Schmeichelei und Charakterlosigkeit
+               nicht vergessen, welche unter den <placeName key="geo-8354456">Röm</placeName>ern der
+               späteren Zeit selbst den <placeName key="geo-390903">Griech</placeName>ischen Namen
+               verächtlich machte.</p>
+            <p>Eine Schilderung der Eigenthümlichkeit des <placeName key="geo-390903"
+                  >Griech</placeName>ischen Nationalcharakters müsste alle diese Verschiedenheiten
+               umfassen, oder wenigstens ihre Möglichkeit zu erklären im Stande seyn. Wir wollen
+               eine solche mit wenigen Worten hier anzugeben versuchen:</p>
+            <p>in dem <placeName key="geo-390903">Griech</placeName>en waltete die natürlich
+               gelassene, nicht auf irgend etwas beschränkte, noch an etwas Einzelnes gebundene
+               Menschheit reiner und einfacher, als in irgend einer andern Nation.</p>
             <p>Er war ofner gegen alle Eindrücke der Aussenwelt und vorzüglich empfänglich für die
                auf Sinnlichkeit und Einbildungskraft.</p>
             <p>Seine inneren Kräfte waren immer rege, den Eindrücken entgegenzuwirken, und zwar in
@@ -936,8 +1013,8 @@
                kraftvollen Beweglichkeit, und ihre natürlich richtige und gleichförmige Stimmung,
                die ihn im Aeussern zu Klarheit und Richtigkeit, im Innern zu Festigkeit, Consequenz
                und der höchsten Klarheit des inneren Sinns, der Idealität fähig machte.</p>
-            <p>Auf diese Weise konnte der Griechische Charakter die sonst unbegreiflichsten
-               Widersprüche in sich vereinigen:</p>
+            <p>Auf diese Weise konnte der <placeName key="geo-390903">Griech</placeName>ische
+               Charakter die sonst unbegreiflichsten Widersprüche in sich vereinigen:</p>
             <p>auf der einen Seite Geselligkeit und Trieb nach Mittheilung, wie ihn vielleicht keine
                Nation je gekannt hat, auf der andern Sucht nach Abgezogenheit und Einsamkeit;</p>
             <p>auf der einen beständiges Leben in Sinnlichkeit und Kunst, auf der andern in der
@@ -947,57 +1024,72 @@
                auf der andern die musterhafteste Beharrlichkeit und die strengste Tugend, wo sich
                ihr Feuer, als ernste Kraft, in den Grundvesten des Gemüths sammelte.</p>
             <p>Vorzüglich aber begreift man, wie bei einem solchen Charakter Begeisterung für
-               Vaterland, Freiheit und Griechischen Ruhm mächtig seyn mussten, da sich in diesem
-               Gefühl die natürlichsten und ursprünglichsten Empfindungen der Menschheit, die
-               glänzendsten Bilder der Einbildungskraft und die erhabensten Ideen des Gemüths
-               verbanden.</p>
-            <p>Ganz und gar entbehren aber auch die Griechen derjenigen Vorzüge, die man nur durch
-               Isolirung der Kraft erhält.</p>
-            <p>Das hier Vorgetragene wird vielleicht durch eine kurze Entgegenstellung der Griechen
-               und der cultivirtesten Nationen nach ihnen noch deutlicher und bestimmter.</p>
+               Vaterland, Freiheit und <placeName key="geo-390903">Griech</placeName>ischen Ruhm
+               mächtig seyn mussten, da sich in diesem Gefühl die natürlichsten und ursprünglichsten
+               Empfindungen der Menschheit, die glänzendsten Bilder der Einbildungskraft und die
+               erhabensten Ideen des Gemüths verbanden.</p>
+            <p>Ganz und gar entbehren aber auch die <placeName key="geo-390903">Griechen</placeName>
+               derjenigen Vorzüge, die man nur durch Isolirung der Kraft erhält.</p>
+            <p>Das hier Vorgetragene wird vielleicht durch eine kurze Entgegenstellung der
+                  <placeName key="geo-390903">Griechen</placeName> und der cultivirtesten Nationen
+               nach ihnen noch deutlicher und bestimmter.</p>
             <p>Am ähnlichsten im Ganzen, aber am unfähigsten sie in einzelnen Theilen ihres
-               Charakters zu erreichen, und beides in höherem Grade als die alten Römer sind ihnen
-               die Italiäner.</p>
+               Charakters zu erreichen, und beides in höherem Grade als die alten <placeName
+                  key="geo-8354456">Röm</placeName>er sind ihnen die <placeName key="geo-3175395"
+                  >Itali</placeName>äner.</p>
             <p>In die Hauptelemente ihres Charakters sich getheilt haben, <pb n="3.163"
                   xml:id="pbIII163"/> und ihnen in diesen Theilen so ähnlich, dass sie sich
-               gegenseitig der grössesten Unähnlichkeit mit ihnen beschuldigen, sind die Franzosen
-               und Deutschen. Jene haben von ihnen die Reizbarkeit, Beweglichkeit und das Dringen
-               auf eine (nur bei ihnen bestimmte, fast conventionelle) Form. Diese die Freiheit von
-               Einseitigkeit, die Richtigkeit in der äusseren Ansicht, die Tiefe im Innern, das
-               Streben nach Idealität, nur oft ohne hinlängliches Feuer, und immer mit mehr Streben
-               nach dem innern nur äusserlich ausgeprägten Gehalt, als der sinnlichen Form. Obgleich
-               aber beide Nationen die Aehnlichkeit nur unvollständig darstellen, so liesse sich nie
-               eine Verbindung beider zur Vervollständigung des Bildes denken. Vielmehr gehen beide
-               durchaus von einander ab, und beide leisten auch am Ende etwas von der Griechischen
-               fast gleich entfernt Liegendes, nur gelangen die Deutschen zu etwas, das dem Sinne
-               des Griechen näher, vielleicht sogar höher, als das von ihm Erreichte, aber eben
-               darum eigentlich unerreichbar ist, da die Franzosen durchaus auf Abwege gerathen und
-               unter dem Erzielten und dem wirklich Erstrebten bleiben.</p>
-            <p>Dem Griechen schlechterdings unähnlich sind der Römer in seiner politischen, der
-               Spanier in seiner schwärmerisch überspannten, und der Engländer in seiner düster
-               sentimentalen stoffartigen Einseitigkeit. Doch zeigt der letztere seine
-               Verwandtschaft mit dem Deutschen dadurch, dass er in seiner politischen Beredsamkeit
-               und seiner oft gleichfalls dahin gerichteten Satyre den Griechen als den Römern näher
-               steht, der Franzose hingegen sich nie über die Nachahmung der Römer erhebt.</p>
-            <p>Die Geschichte der Griechen ist mehr, als irgend etwas Anderes ein triftiger Beweis
-               des hier über den Charakter der Nation Gesagten. Denn sie verräth überall, dass die
-               öffentlichen Begebenheiten Griechenlands nur ein Resultat des Zusammenwirkens des
-               eben geschilderten Charakters mit den jedesmaligen Umständen waren.</p>
+               gegenseitig der grössesten Unähnlichkeit mit ihnen beschuldigen, sind die <placeName
+                  key="geo-3017382">Franz</placeName>osen und <placeName key="geo-2921044"
+                  >Deutsch</placeName>en. Jene haben von ihnen die Reizbarkeit, Beweglichkeit und
+               das Dringen auf eine (nur bei ihnen bestimmte, fast conventionelle) Form. Diese die
+               Freiheit von Einseitigkeit, die Richtigkeit in der äusseren Ansicht, die Tiefe im
+               Innern, das Streben nach Idealität, nur oft ohne hinlängliches Feuer, und immer mit
+               mehr Streben nach dem innern nur äusserlich ausgeprägten Gehalt, als der sinnlichen
+               Form. Obgleich aber beide Nationen die Aehnlichkeit nur unvollständig darstellen, so
+               liesse sich nie eine Verbindung beider zur Vervollständigung des Bildes denken.
+               Vielmehr gehen beide durchaus von einander ab, und beide leisten auch am Ende etwas
+               von der <placeName key="geo-390903">Griech</placeName>ischen fast gleich entfernt
+               Liegendes, nur gelangen die <placeName key="geo-2921044">Deutsch</placeName>en zu
+               etwas, das dem Sinne des <placeName key="geo-390903">Griechen</placeName> näher,
+               vielleicht sogar höher, als das von ihm Erreichte, aber eben darum eigentlich
+               unerreichbar ist, da die <placeName key="geo-3017382">Franz</placeName>osen durchaus
+               auf Abwege gerathen und unter dem Erzielten und dem wirklich Erstrebten bleiben.</p>
+            <p>Dem <placeName key="geo-390903">Griechen</placeName> schlechterdings unähnlich sind
+               der <placeName key="geo-8354456">Röm</placeName>er in seiner politischen, der
+                  <placeName key="geo-2510769">Spanie</placeName>r in seiner schwärmerisch
+               überspannten, und der Engländer in seiner düster sentimentalen stoffartigen
+               Einseitigkeit. Doch zeigt der letztere seine Verwandtschaft mit dem <placeName
+                  key="geo-2921044">Deutsch</placeName>en dadurch, dass er in seiner politischen
+               Beredsamkeit und seiner oft gleichfalls dahin gerichteten Satyre den <placeName
+                  key="geo-390903">Griechen</placeName> als den <placeName key="geo-8354456"
+                  >Röm</placeName>ern näher steht, der <placeName key="geo-3017382"
+                  >Franz</placeName>ose hingegen sich nie über die Nachahmung der <placeName
+                  key="geo-8354456">Röm</placeName>er erhebt.</p>
+            <p>Die Geschichte der <placeName key="geo-390903">Griechen</placeName> ist mehr, als
+               irgend etwas Anderes ein triftiger Beweis des hier über den Charakter der Nation
+               Gesagten. Denn sie verräth überall, dass die öffentlichen Begebenheiten <placeName
+                  key="geo-390903">Griechenland</placeName>s nur ein Resultat des Zusammenwirkens
+               des eben geschilderten Charakters mit den jedesmaligen Umständen waren.</p>
             <p>Man kann sie in vier Perioden abtheilen, in denen sie vorzüglich eine verschiedene
                Gestalt annimmt.</p>
-            <p>Vor den Persischen Kriegen fielen überaus wenig merkwürdige Begebenheiten vor; die
-               Staaten bedurften Müsse und Zeit um sich mit ihren nächsten Nachbarn in Gleichgewicht
-               zu setzen, und sich eine etwas dauerhafte Verfassung zu geben.</p>
-            <p>Während der Persischen Kriege verschlang die gemeinschaftliche Vertheidigung des
-               Vaterlandes jede andere Sorge.</p>
+            <p>Vor den <placeName key="geo-130758">Persi</placeName>schen Kriegen fielen überaus
+               wenig merkwürdige Begebenheiten vor; die Staaten bedurften Müsse und Zeit um sich mit
+               ihren nächsten Nachbarn in Gleichgewicht zu setzen, und sich eine etwas dauerhafte
+               Verfassung zu geben.</p>
+            <p>Während der <placeName key="geo-130758">Persi</placeName>schen Kriege verschlang die
+               gemeinschaftliche Vertheidigung des Vaterlandes jede andere Sorge.</p>
             <pb n="3.164" xml:id="pbIII164"/>
             <p>Den Zwischenraum zwischen diesen Kriegen und der Macedonischen Uebermacht nahm die
-               Eifersucht der Athenienser und Lacedämonier ein, bei der sich aber, ausser dem Streit
-               über die Oberherrschaft Griechenlands, noch Hass und Wetteifer der kleineren Staaten
-               gegen einander auf vielfältige Weise zugleich mit offenbarte.</p>
-            <p>Von Philipp an war die Zeit der Entartung, Ohnmacht und Verräth brachte nach und nach
-               alle Staaten unter das Joch des gemeinschaftlichen Feindes, und von Zeit zu Zeit
-               schüttelte nur augenblicklich wiederauflebender Freiheitssinn es wiederum ab.</p>
+               Eifersucht der <placeName key="geo-264371">Athen</placeName>ienser und <placeName
+                  key="geo-12041331">Lacedäm</placeName>onier ein, bei der sich aber, ausser dem
+               Streit über die Oberherrschaft <placeName key="geo-390903">Griechenland</placeName>s,
+               noch Hass und Wetteifer der kleineren Staaten gegen einander auf vielfältige Weise
+               zugleich mit offenbarte.</p>
+            <p>Von <persName key="gnd-118593838">Philipp</persName> an war die Zeit der Entartung,
+               Ohnmacht und Verräth brachte nach und nach alle Staaten unter das Joch des
+               gemeinschaftlichen Feindes, und von Zeit zu Zeit schüttelte nur augenblicklich
+               wiederauflebender Freiheitssinn es wiederum ab.</p>
             <p>In dieser ganzen Reihe von Begebenheiten würde man vergebens Einheit suchen, die nur
                da Statt finden kann, wo die Nation eigentlich politischen Charakter besitzt. Aber
                keine zeigt eine solche wundervolle Mannigfaltigkeit, und in keiner gewinnen die an
@@ -1008,17 +1100,18 @@
                Hauptrolle, und nicht lang angelegte Plane, sondern eigentliche Privatleidenschaften,
                doch mehr der ganzen Völker, als ihrer einzelnen Anführer bestimmen das politische
                Betragen der Staaten gegen einander. </p>
-            <p>Wenn man nun fragt: wie hat ein Volk, wie die Griechen entstehen können? so würde es
-               eine vergebliche Bemühung seyn, die Bildung desselben aus dem allmähligen Einfluss
-               einzelner Umstände gleichsam mechanisch herleiten zu wollen. Alle hierüber und über
-               die Entstehung von Nationalcharakteren herrschenden Systeme sind nicht allein in sich
-               mangelhaft, und nur da stark, wo sie sich gegenseitig bekämpfen, sondern allen kann
-               man die beiden Einwendungen unwiderleglich entgegensetzen, dass diejenigen Dinge, auf
-               deren Einfluss sie bestehen, grossentheils selbst nur Folgen des Charakters sind, den
-               sie erklären sollen; und dass andre Nationen unter denselben Umständen eine andre
-               Wendung des Charakters genommen haben. Auch treten alle der menschlichen Natur zu
-               nahe, indem sie dieselbe als durchaus gleichgültig und durch die äusseren Umstände
-               unbedingt bestimmbar annehmen.</p>
+            <p>Wenn man nun fragt: wie hat ein Volk, wie die <placeName key="geo-390903"
+                  >Griechen</placeName> entstehen können? so würde es eine vergebliche Bemühung
+               seyn, die Bildung desselben aus dem allmähligen Einfluss einzelner Umstände gleichsam
+               mechanisch herleiten zu wollen. Alle hierüber und über die Entstehung von
+               Nationalcharakteren herrschenden Systeme sind nicht allein in sich mangelhaft, und
+               nur da stark, wo sie sich gegenseitig bekämpfen, sondern allen kann man die beiden
+               Einwendungen unwiderleglich entgegensetzen, dass diejenigen Dinge, auf deren Einfluss
+               sie bestehen, grossentheils selbst nur Folgen des Charakters sind, den sie erklären
+               sollen; und dass andre Nationen unter denselben Umständen eine andre Wendung des
+               Charakters genommen haben. Auch treten alle der menschlichen Natur zu nahe, indem sie
+               dieselbe als durchaus gleichgültig und durch die äusseren Umstände unbedingt
+               bestimmbar annehmen.</p>
             <p>Das wesentlichste Element in dem ausgebildeten Charakter einer Nation, wie eines
                Individuums ist die ursprüngliche Form <pb n="3.165" xml:id="pbIII165"/> seiner
                Eigenthümlichkeit. Die Kraft (und eine Kraft ist nie ohne irgend eine Richtung
@@ -1047,13 +1140,14 @@
                aber, dass diese auch zum Theil durch jene Form bestimmt werden, aus einander zu
                setzen.</p>
             <p>Auf die Frage also, wie kommt es, dass jene hinreissend schöne Form der Menschheit
-               allein in Griechenland aufblühte? giebt es an sich keine befriedigende Antwort. Es
-               war, weil es war. Selbst der Augenblick, wo? und die Art, wie? Griechheit zuerst
-               auftrat, sind historisch schwer zu bestimmen, und die Ursachen, die zu ihrer
-               Entwickelung beitrugen, liegen, insofern sie moralisch sind, vorzüglich in ihr
-               selbst. Ehe wir uns aber hier- <pb n="3.166" xml:id="pbIII166"/> über in irgend eine
-               Untersuchung einlassen, müssen wir vorher noch einen andern vorzüglich wichtigen
-               Punkt erörtern.</p>
+               allein in <placeName key="geo-390903">Griechenland</placeName> aufblühte? giebt es an
+               sich keine befriedigende Antwort. Es war, weil es war. Selbst der Augenblick, wo? und
+               die Art, wie? <placeName key="geo-390903">Griech</placeName>heit zuerst auftrat, sind
+               historisch schwer zu bestimmen, und die Ursachen, die zu ihrer Entwickelung
+               beitrugen, liegen, insofern sie moralisch sind, vorzüglich in ihr selbst. Ehe wir uns
+               aber hier- <pb n="3.166" xml:id="pbIII166"/> über in irgend eine Untersuchung
+               einlassen, müssen wir vorher noch einen andern vorzüglich wichtigen Punkt
+               erörtern.</p>
             <p>Die meisten das Leben einer Nation begleitenden Umstände, der Wohnort, das Klima, die
                Religion, die Staatsverfassung, die Sitten und Gebräuche, lassen sich gewissermassen
                von ihr trennen, es kann, selbst bei reger Wechselwirkung noch, was sie an Bildung
@@ -1077,9 +1171,10 @@
                Vorrath zusammengesetzt ist, so giebt sie nicht nur Mittel zur Vergleichung mehrerer
                Nationen, sondern auch eine Spur an die Hand den Einfluss einer auf die andern zu
                verfolgen.</p>
-            <p>Wir müssen daher hier erst vorläufig die Eigenthümlichkeiten der Griechischen Sprache
-               untersuchen, erörtern, inwiefern sie den griechischen Charakter bestimmte, oder
-               inwiefern dieser sich in ihr ausprägte.</p>
+            <p>Wir müssen daher hier erst vorläufig die Eigenthümlichkeiten der <placeName
+                  key="geo-390903">Griech</placeName>ischen Sprache untersuchen, erörtern, inwiefern
+               sie den <placeName key="geo-390903">griech</placeName>ischen Charakter bestimmte,
+               oder inwiefern dieser sich in ihr ausprägte.</p>
             <p>Wenn schon die Schilderung des Charakters eines Individuums oder gar einer Nation in
                Verlegenheit setzt, so thut dies noch mehr die des Charakters einer Sprache. Wer sie
                jemals versucht hat, wird bald inne werden, dass, wenn er etwas Allgemeines zu sagen
@@ -1244,17 +1339,18 @@
                   >Rom</placeName>. Im Anschluß an dieses Werk erkannte <persName
                   key="gnd-118554727">Humboldt</persName> wieder deutlicher, daß in Bezug auf den
                idealen Wert des Altertums noch sehr viel Neues zu sagen sei, daß besonders die
-               Ähnlichkeit und Verschiedenheit des griechischen und römischen Geistes, das Entstehen
-               von beiden und ihr verschiedener Einfluß auf die neuere Bildung einmal in helles
-               Licht gestellt werden müsse (an <persName key="gnd-119044064"
-                  >Schweighäuser</persName>, <date when="1806-09-06">6. September 1806</date>). Die
-               Betrachtungen über Latium und Hellas müssen gemeint sein, wenn er bald darauf
-               wiederum der seiner Meinung nach wahren und wichtigen Grundideen seiner Stanzen über
-               das Verhältnis <placeName key="geo-390903">Griechenland</placeName>s zu <placeName
-                  key="geo-8354456">Rom</placeName> und beider zur neueren Zeit und zum Ganzen der
-               Menschenbildung gedenkt und bemerkt, daß er zugleich eine prosaische Bearbeitung
-               derselben begonnen hatte (an <persName key="gnd-119044064">Schweighäuser</persName>,
-                  <date when="1808-04-06">6. April 1808</date>). Der Aufsatz, der leider Fragment
+               Ähnlichkeit und Verschiedenheit des <placeName key="geo-390903"
+               >griech</placeName>ischen und römischen Geistes, das Entstehen von beiden und ihr
+               verschiedener Einfluß auf die neuere Bildung einmal in helles Licht gestellt werden
+               müsse (an <persName key="gnd-119044064">Schweighäuser</persName>, <date
+                  when="1806-09-06">6. September 1806</date>). Die Betrachtungen über Latium und
+               Hellas müssen gemeint sein, wenn er bald darauf wiederum der seiner Meinung nach
+               wahren und wichtigen Grundideen seiner Stanzen über das Verhältnis <placeName
+                  key="geo-390903">Griechenland</placeName>s zu <placeName key="geo-8354456"
+                  >Rom</placeName> und beider zur neueren Zeit und zum Ganzen der Menschenbildung
+               gedenkt und bemerkt, daß er zugleich eine prosaische Bearbeitung derselben begonnen
+               hatte (an <persName key="gnd-119044064">Schweighäuser</persName>, <date
+                  when="1808-04-06">6. April 1808</date>). Der Aufsatz, der leider Fragment
                geblieben ist, gehört daher wohl in das <date when="1806">Jahr 1806</date>. Auf den
                unvollendeten Exkurs über die Sprache und ihre Bedeutung als Erkenntnisquelle für die
                eigentümliche Geistesform einer Nation, der den Schluß bildet, sei hier noch eigens
