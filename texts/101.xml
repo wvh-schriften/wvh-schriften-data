@@ -85,14 +85,15 @@
     <text>
         <body>
             <div type="original">
+
+                <pb n="1.1" xml:id="pbI1"/>
+                <head>
+                    <title type="main">
+                        <persName ref="gnd-118615270">Sokrates</persName> und <persName
+                            ref="gnd-118594893">Platon</persName> über die Gottheit, über die
+                        Vorsehung und Unsterblichkeit</title>
+                </head>
                 <div type="introduction">
-                    <pb n="1.1" xml:id="pbI1"/>
-                    <head>
-                        <title type="main">
-                            <persName ref="gnd-118615270">Sokrates</persName> und <persName
-                                ref="gnd-118594893">Platon</persName> über die Gottheit, über die
-                            Vorsehung und Unsterblichkeit</title>
-                    </head>
                     <p> Untersuchungen über das Dasein Gottes, und über die Wahrheiten der
                         natürlichen Religion überhaupt scheinen der Lieblingsgegenstand der
                         Philosophie unsrer Zeit geworden zu sein. Man hat diejenigen Theile der
