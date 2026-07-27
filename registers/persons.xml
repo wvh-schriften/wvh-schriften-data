@@ -5521,6 +5521,27 @@
         </death>
         <note type="bio">Ein griechischer Feldherr, der als „der Letzte der Hellenen“ bezeichnet wurde. Er war ein bedeutender Stratege des Achäischen Bundes und spielte eine zentrale Rolle im Widerstand gegen die wachsende römische Vormachtstellung in Griechenland.</note>
      </person>
+            
+        <person xml:id="gnd-118563386">
+                <persName type="main">Klopstock, Friedrich Gottlieb</persName>
+                <persName type="sort">Klopstock, Friedrich Gottlieb</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1724-07-02"/>
+                    <placeName ref="https://d-nb.info/gnd/4048035-5">Quedlinburg</placeName>
+                </birth>
+                <death>
+                    <date when="1803-03-14"/>
+                    <placeName ref="https://d-nb.info/gnd/4023118-5">Hamburg</placeName>
+                </death>
+                <note type="bio">Ehrenbürger von Frankreich</note>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+                <occupation ref="https://d-nb.info/gnd/4140241-8">Dramatiker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4168391-2">Lyriker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4167889-8">Literaturwissenschaftler</occupation>
+                <occupation ref="https://d-nb.info/gnd/4175743-9">Privatlehrer</occupation>
+                <occupation ref="https://d-nb.info/gnd/4167564-2">Librettist</occupation>
+            </person>
         </listPerson>
     </standOff>
 </TEI>
