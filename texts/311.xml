@@ -1,0 +1,352 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>Ueber die Bedingungen, unter denen Wissenschaft und Kunst in einem Volke
+               gedeihen</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI enconding</resp>
+               <persName xml:id="sbp">
+                  <forename>Silvia</forename>
+                  <surname>Berigüete Pastor</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Wilhelm von Humboldt: Schriften</publisher>
+            <date when="2026-07">Juli 2026</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+            <idno type="URI">https://www.wvh-schriften.de</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Dritter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI"
+                     >https://archive.org/details/gesammelteschrif03humbuoft/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="342" to="349"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1814-08" notAfter="1814-09">August/September 1814</date>
+            <placeName ref="geo-2761369">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#type">
+               <term>Essay</term>
+            </keywords>
+            <keywords scheme="#topic">
+               <term>Kunst</term>
+               <term>Wissenschaft</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text xmlns="http://www.tei-c.org/ns/1.0">
+      <body>
+         <div type="original">
+            <pb n="3.342" xml:id="pbIII342"/>
+            <head>
+               <title type="main">Über die Bedingungen, unter denen Wissenschaft und Kunst in einem
+                  Volke gedeihen</title>
+               <title type="sub">Mit besondrer Rücksicht auf <placeName ref="geo-2921044"
+                     >Deutschland</placeName> und die gegenwärtige Zeit.</title>
+               <title type="sub">Bruchstück.</title>
+            </head>
+            <p><placeName ref="geo-2921044">Deutschland</placeName> hat in weniger als einem halben
+               Jahrhundert drei Perioden seiner wissenschaftlichen Blüthe durchlaufen, welche
+               mehrere seiner berühmtesten Männer, <persName ref="gnd-118563386"
+                  >Klopstock</persName>, <persName ref="gnd-118549553">Herder</persName>, <persName
+                  ref="gnd-118632477">Wieland</persName>, <persName ref="gnd-118540238"
+                  >Göthe</persName>, alle gesehen, und zum Theil durch eigne Werke bezeichnet haben.
+               In der frühesten, in der <persName ref="gnd-118572121">Lessing</persName> und
+                  <persName ref="gnd-118563386">Klopstock</persName> an der Spitze standen, beginnt
+                  <placeName ref="geo-2921044">Deutsch</placeName>e Eigenthümlichkeit sich eben erst
+               wieder (denn in älterer Zeit stand sie in vollem Glanze da) von fremder Nachahmung zu
+               scheiden. Die Philosophie zeigt seltenen Scharfsinn, trachtet nach lichtvoller
+               Klarheit, sucht eine sie manchmal wenig kleidende Anmuth, trägt aber noch nicht den
+               eigentlichen Charakter des Strebens nach dem Mittelpunkte alles Denkens. In der
+               zweiten, in welcher man <persName ref="gnd-118559796">Kant</persName>, <persName
+                  ref="gnd-118540238">Göthe</persName> und <persName ref="gnd-118607626"
+                  >Schiller</persName> die Häupter nennen kann, gieng, nach einer gänzlich
+               herabgesunkenen, und gewissermassen volksmässig gewordenen Philosophie, selbst aus
+               den Irrthümern ihres Lehrers eine ächt philosophische Schule aus, die überall Geist
+               und Leben verbreitete, und eine intellektuelle Regsamkeit hervorbrachte, von der man
+               sonst vergebens ein Beispiel sucht. Die Dichtkunst erreichte ihren höchsten Gipfel,
+               und traf besonders in dem Verhältniss des Gehalts zur Form das glückliche Mittel, von
+               dem man vermuthlich künftig urtheilen <pb n="3.343" xml:id="pbIII343"/> wird, dass es
+               nachher nie gleich rein und harmonisch erschienen ist. Die Einwirkung des Studiums
+               der Alten wurde entscheidend, und man kann dreist behaupten, dass die <placeName
+                  ref="geo-390903">Griech</placeName>en und <placeName ref="geo-8354456"
+                  >Röm</placeName>er von keinem Volke so verstanden und aufgefasst worden sind, als
+               von den <placeName ref="geo-2921044">Deutsch</placeName>en. Die letzte Periode, von
+               der man es der Folge überlassen kann, die Führer zu nennen, schien die vorige an
+               Tiefe und Mannigfaltigkeit des Talents überflügeln zu wollen. Aber die Philosophie
+               starb mit <persName ref="gnd-118532847">Fichte</persName> aus, und verstummte in
+               Andren: im Ganzen auch schwankte sie auf einer Höhe, und in einer Tiefe, von der man
+               mit Recht zweifeln konnte, ob sie haltbaren Grund darböte. In der Dichtung wurde
+               Nachbildung des Fremden, und der nicht klassischen Vorzeit vorherrschend; man sahe
+               vorzugsweise auf Reichthum und Glanz der Darstellung, und scheute sich nicht die
+               Kunst auch in der Künstlichkeit zu zeigen. Nebenher gewannen die Sprachen und
+               Begriffe des Orients nicht unbedeutenden Einfluss.</p>
+            <p>In dem Zeitpunkt, wo man sich eben mit zweiflender Neugier fragte, wohin diese neue
+               Wendung den <placeName ref="geo-2921044">Deutsch</placeName>en Geist führen werde?
+               befiel das bis dahin minder freie, als um seine Freiheit unbekümmerte <placeName
+                  ref="geo-2921044">Deutschland</placeName> von aussenher ein Druck, dem man zu viel
+               Ehre anthun würde, wenn man ihn einen ehernen nennte. Die Freiheit zu schreiben und
+               zu denken wurde unterdrückt, die Sprache theils verfolgt, theils von Anhängern des
+               Fremden schmählich verlassen, durch die allgemeine Verarmung stockte mit jedem andren
+               Zweige des Gewerbfleisses auch der wissenschaftliche, und das Gemüth jedes nicht ganz
+               Unedlen wurde durch die Scheusslichkeit der Erscheinung einer in ihren Gründen
+               ungerechten, ihren Zwecken unvernünftigen, ihren Mitteln empörenden Herrschaft von
+               dem Gedanken zur Wirklichkeit herabgezogen. Unter diesen Umständen war es natürlich,
+               dass Wissenschaft und Kunst, wenn gleich des Redens davon noch immer viel war, nur
+               noch so erklang, wie die Saiten nachschwingen, wenn sie einmal voll und mächtig
+               gerührt wurden. Wer die letzte Periode unsrer Litteratur geliebt hatte, betrauerte
+               ihren Untergang; wer ihr nicht günstig gewesen war, konnte sich damit trösten, dass
+               ein gewaltsamer Tod ihrem natürlichen Hinsterben zuvorgekommen war.</p>
+            <p>Jetzt hat ein von der Nation vermöge ihrer eignen Kraft durchgekämpfter Krieg die
+               fremden Herrscher entfernt, und die eignen regieren wieder mit eignem Willen. Schon
+               in jener Zeit bemüht, den ersterbenden Funken überall wieder anzufachen, <pb
+                  n="3.344" xml:id="pbIII344"/> werden sie noch weniger jetzt unterlassen, jedem
+               wissenschaftlichen Streben Schutz zu verleihen. Der Geist der Nation hat einen
+               höheren Schwung gewonnen; die That hat dem Worte mehr Kraft gegeben; die Wehmuth um
+               viele würdige Opfer das Gefühl mehr in sich zurück geführt; schon die lange
+               Entbehrung sollte die Sehnsucht wecken, sich wieder zu der Einsamkeit der
+               Wissenschaft und Kunst zu flüchten; und für beide blühen daher neue Hofnungen auf.
+               Dennoch kann man mit Recht zweifeln, ob schon die nächste Zukunft sie rechtfertigen
+               wird. Wenn sich die thätige Theilnahme an den grossen Weltbegebenheiten einmal der
+               Gemüther bemächtigt hat, kehren sie nur langsam und schwer in die ruhigen Gleise des
+               Denkens und Wissens zurück; auch die grössesten und in sich dichterischsten
+               Begebenheiten rauben als nah stehende Wirklichkeit der Phantasie ihre Freiheit, die
+               lieber um das Ferne und Vergangene spielt; die neuen Staatseinrichtungen, die ganz
+               natürlich aus solcher Krise hervorgehen müssen, und wenn die Regierungen sie auch
+               nicht wollten, von selbst aus den Gemüthern der Bürger entstehen würden, werden den
+               Ein- zelnen viel mehr, als ehemals für den Staat in Anspruch nehmen; manche
+               Hindernisse, die sich in der Nation, der Zeit, selbst der Sprache nach und nach,
+               gleich Krankheitsstoffen entwickelt hatten, haben durch die politischen Umänderungen
+               nicht gehoben werden können; und endlich braucht man selbst nur die obige flüchtige
+               Schilderung des Ganges der <placeName ref="geo-2921044">Deutsch</placeName>en
+               Litteratur durchzugehen, um zu fühlen, dass es keinesweges leicht ist, neue
+               Fortschritte an ihn anzuknüpfen.</p>
+            <p>Ein solcher Augenblick nun hat mir vorzugsweise zu einer Untersuchung, wie die auf
+               dem Titel dieser Blätter angekündigte ist, geeignet geschienen. Der Gegenstand
+               derselben ist fast zu allen Zeiten, und auf sehr mannigfaltige Weise bearbeitet
+               worden. Es ist meine Absicht nicht ihn diesen früheren Bearbeitungen ähnlich zu
+               behandeln, die Lagen einzeln durchzugehen, unter denen Wissenschaft und Kunst blühen,
+               die Mittel, durch welche ihr Gedeihen befördert werden kann. <persName
+                  ref="gnd-118554727">Ich</persName> werde mich vielmehr bemühen, die Untersuchung
+               zu vereinfachen, auf der einen Seite den Punkt aufzufinden, in welchem sich alle
+               verschiedenen wissenschaftlichen und Kunstbestrebungen vereinigen, und aus welchem
+               jede hervorgehen muss, um ächt und rein zu heissen; und auf der andren den, in
+               welchem alle die verschiedenen Umstände, in welchen sich ein Volk in einer gegebenen
+               Zeit, und mit einer <pb n="3.345" xml:id="pbIII345"/> gegebenen Sprache befindet,
+               demselben einen eigenthümlichen Charakter aufdrücken. Das Zusammenhalten dieser
+               beiden Punkte giebt alsdann von selbst das Resultat, und die Anwendung auf einzelne
+               Fälle macht sich von selbst. <persName ref="gnd-118554727">Ich</persName>
+               beabsichtige auch keine bestimmte auf unsre gegenwärtige Lage darum, dass <persName
+                  ref="gnd-118554727">ich</persName> von dieser ausgegangen bin. Es ist nicht zu
+               vermeiden, nicht bei einem solchen Gegenstande immer <placeName ref="geo-2921044"
+                  >Deutschland</placeName> und die jetzige Zeit vor Augen zu haben, allein übrigens
+               ist mein Zweck, ihn nur theoretisch zu erschöpfen, und <persName ref="gnd-118554727"
+                  >ich</persName> bin fern mir anmassen zu wollen, als Einzelner zu dem Gedeihen
+               desjenigen beitragen zu können, was die schönste Blüthe, und die edelste Frucht der
+               gesammten Nation ist.</p>
+            <milestone unit="separator"/>
+            <p>Es ist ein mächtiger, aber nicht immer gehörig beachteter Unterschied zwischen der
+               Blüthe der Wissenschaften und Künste, und dem Gedeihen des wahren wissenschaftlichen
+               Geistes und des ächten Kunstsinns. Jene verdankt ihr vorübergehendes Daseyn oft
+               zufälligen und äusseren Ursachen, dieses entsteht nur aus einer in sich kraftvollen,
+               oder glücklich vorbereiteten Natur; jener bleibt das Genie meistentheils fremd, in
+               diesem erscheint das blosse Talent in seiner unverhüllten Mittelmässigkeit; jene
+               lässt höchstens Stoff zu künftiger Bearbeitung zurück, dieses verbreitet durch sein
+               Walten selbst Licht, Wärme und Kraft. Diese oft mit einander verwechselten Dinge
+               gehörig zu unterscheiden, dem Geist nachzuspüren, von dessen Wehen erst der todte
+               Buchstabe der Wissenschaft Leben empfangen muss, ist eins der vorzüglichsten
+               Geschäfte der gegenwärtigen Untersuchung.</p>
+            <p>Das Gebiet der Wissenschaft ist so unermesslich, dass es in den verschiedensten
+               Theilen, und jeder auf die verschiedenste Weise bearbeitet werden kann. Keine dieser
+               Bearbeitungen ist unnütz, jede vielmehr fügt dem Ganzen etwas hinzu, wenn sie nur
+               nicht falsche Voraussetzungen einmischt, nicht dadurch die Aufhellung andrer Punkte
+               verhindert, den Uebergang vom Verwandten zum Verwandten, vom Besondren zum
+               Allgemeinen, von der Erscheinung zur Ursach erschwert. Der Geist der ächten
+               Wissenschaft beruht daher gar nicht ausschliesslich auf einer nur von hohen
+               Standpunkten ausgehenden, oder einer gerade alles umfassenden Ansicht. Er ist der
+               Geist der Wahrheit, und ehrt gleich sehr die einfache der Anschauung und
+               Gedankenverbindung, die erhabene der Urideen, und die reine der Grundkräfte, er
+                  um-<pb n="3.346" xml:id="pbIII346"/> fasst in seiner Vollständigkeit alle drei,
+               aber er ist keiner einzelnen fremd.</p>
+            <p>Denn hierdurch ist das ausgesprochen, was gesucht wird. Die ächte Wissenschaft muss
+               von der Ahndung einer Grundkraft, deren Wesen sich, wie in einem Spiegel, in einer
+               Uridee darstellt, durchdrungen und belebt werden, und muss die Gesammtheit der
+               Erscheinungen an sie anknüpfen. Der Weg in diese Tiefe, der Schwung zu dieser Höhe
+               braucht nicht immer gewagt, der ganze Kreis nicht immer durchlaufen zu werden; aber
+               die Bahnen müssen offen bleiben, der Sinn auf ihnen fortzustreben muss vorhanden
+               seyn, und der falsche Dünkel auf einen nichtigen Besitz muss dem bescheidenen Suchen
+               nach dem ächten Platz machen.</p>
+            <p>Diese Begriffe bedürfen einer grösseren Entwicklung, und der leichtere Weg. ihnen
+               Klarheit zu verschaffen, ist der, einen Augenblick bei demjenigen stehen zu bleiben,
+               was ihnen entgegengesetzt ist. Nun aber widerstrebt ihnen das einseitige Hangen an
+               der Erfahrung, und an der bloss logischen Auflösung der Begriffe. Durch beides wird
+               die ächte Philosophie verdrängt, und ohne das Streben nach ihr ist kein Gedeihen der
+               Wissenschaft in einem Volke vollständig, und keins lange Zeit hindurch rein und
+               wahr.</p>
+            <p>Es soll aber hier keinesweges das Bemühen getadelt werden, die Erfahrung innerhalb
+               ihres eignen Gebiets aufzuklären und zu erweitern. Alle Erfahrungswissenschaften,
+               Geschichte und Naturkunde, können ungestört auf diesem Wege fortschreiten, und wenn
+               sie auch in dieser Gestalt nicht die eigentliche Wissenschaft ausmachen, doch
+               unendlich zu ihrer Aufbauung beitragen. Tadelnswürdig ist nur der Sinn, jedes
+               Fortschreiten über den Kreis der Erfahrung hinaus abzuschneiden, oder die Erfahrung
+               da geltend zu machen, wo, wie bei dem geistigen und sittlichen Menschen eine andre
+               Sphäre eintritt. Wo diese Ansicht sich einer Nation bemeistert, da muss man bei der
+               übrigen glücklichsten Ausbildung vieler ihrer Theile auf die Tiefe und Reinheit der
+               Wissenschaft Verzicht leisten; alles wird nur die Anwendung auss Leben bezwecken. Da
+               aber zum Leben und zur Erfahrung auch die Empfindungs- und Handlungsweise des
+               Menschen gehört, die, wenn auch in ihren Quellen unlauter, doch instinctmässig
+               richtig und wahr aufgefasst werden kann, so wird von dieser Seite wieder ein
+               wesentlicher Ersatz gefunden.</p>
+            <p>Ein solcher Ersatz findet sich weit weniger da, wo das Philosophiren, indem es nicht
+               in die Tiefe der Grundwesen hinabsteigt, <pb n="3.347" xml:id="pbIII347"/> sich eben
+               so wenig auf die Erfahrung verbreitet, sondern bei der bloss logischen Entwicklung
+               der Begriffe stehen bleibt. Dieser enge Kreis ist bald durchlaufen, er beruht, auf
+               diese Weise vereinzelt, auf nichts. und führt zu keiner neuen Entdeckung. Ein
+               nichtiger Schein von Reichthum versteckt bei diesem Verfahren eine unfruchtbare
+               Armuth, und diese Gattung der Philosophie, die jedem wesenhaften Gegenstande, und am
+               ersten der Sprache, in der sie doch nur zu leben und zu weben scheint, Unrecht thut,
+               kann andren Wissenschaften höchstens noch in ihrer formellen Bearbeitung hülfreiche
+               Hand bieten. In das Leben aber greift sie noch weniger ein, da sie auch nicht einmal
+               dem Gefühle sein volles Recht lässt.</p>
+            <p>Durch ihre eigenthümliche, bewundernswürdige Natur kann die Mathematik diesen beiden
+               fehlerhaften Ansichten ohne Schaden zur Seite stehen. Sie giebt sich unbedingt der
+               Anwendung auf die Erfahrung hin, ohne Gefahr zu laufen, unlauter zu werden; sie löst
+               jeden ihrer Begriffe bis in seine letzten Bestandtheile auf, ist sich aber wenigstens
+               immer dunkel bewusst, dass ihr Wesen noch in etwas ganz Andrem, als dieser
+               Verwandlung eines Begriffs in einen andren besteht. Jene irrigen Ansichten üben nur
+               den, aber nicht gerade ihr verderblichen Nachtheil auf sie aus, dass sie selbst einen
+               geringeren Werth auf ihre Lauterkeit legt, dass die sonst natürlich aus ihr
+               entspringende Sehnsucht nach der ächten Philosophie erstickt wird, ja dass sie wohl
+               noch die Unduldsamkeit, mit der diese verfolgt wird, in dem Dünkel auf ihre
+               Unfehlbarkeit und Klarheit, vermehren hilft.</p>
+            <p>So dachten sich die <placeName ref="geo-390903">Griech</placeName>en die Mathematik
+               nicht, wenn sie dieselbe für eine unumgänglich nothwendige Vorübung zur Philosophie
+               betrachteten. Die reine Flamme der einen sollte die reine der andren entzünden. Ihr
+               jugendlicher, für den innren Zusammenklang der Formen des Denkens uneigennütziger
+               empfänglicher Sinn, bei einem müssigeren, weniger Anwendung des Erkannten auf die
+               Wirklichkeit heischenden Leben, freute sich an der bewundernswürdigen
+               Uebereinstimmung der mathematischen Begriffe, wie an einer wirklichen Harmonie der
+               Sphären, und betrachtete sie als eine Offenbarung einer viel grösseren und
+               herrlicheren Harmonie, welche das Weltall zusammenhielt, und die Schicksale der
+               Menschen regierte.</p>
+            <p>Um diesen Punkt drehet sich Alles. Wo der Gedanke um des Gedankens willen entzückt,
+               da führt ächt wissenschaftlicher <pb n="3.348" xml:id="pbIII348"/> Sinn das Denken
+               bis nahe zu seinem Urquell hin. Wo dasselbe zu Zwecken gebraucht wird, die nicht in
+               ihm selbst liegen, da kann Wissenschaft vorhanden seyn, aber ihr Geist ist wenigstens
+               alsdann nicht lebendig. Das wissenschaftliche Bedürfniss, in seinen mannigfaltigsten
+               Erscheinungen, ist, wenn man es auf sein einfaches Wesen zurückführt, immer das
+               Erkennen des Unsichtbaren im Sichtbaren. Darüber hinaus ist nichts weiter denkbar;
+               aber es giebt — wenigstens für die Wissenschaft — auch kein Bleiben darunter; und
+               dass dies ihr wahres Wesen ist, zeigt sich am besten dadurch, dass nur von diesem
+               Standpunkte aus Zusammenhang in sie zu bringen, und sie nur auf ihm einer von innen
+               ausgehenden unaufhörlichen Erweiterung fähig ist. Auch entspricht sie nur so dem
+               Bedürfniss des Menschen, für den sie wieder nicht letzter Zweck, aber Stufe zum
+               Letzten und Höchsten ist.</p>
+            <p>Gerade diesen Grundbehauptungen aber wird widersprochen, nicht bloss von Einzelnen,
+               sondern von ganzen, und achtungswürdigen Nationen; die Wissenschaften werden mit
+               Fleiss auf das Sammeln und Sichten der Thatsachen beschränkt, und der Anwendung nahe
+               gehalten; die Speculation wird, als ihnen gefährlich, und in sich hohl und leer,
+               zurückgewiesen, oder höchstens darauf beschränkt eine Uebung der Köpfe zu seyn, und
+               den wesenhafteren und nothwendigeren Wissenschaften eine angemessene Form zu leihen.
+               Hierauf beruht seit langer Zeit der nie ganz geschlichtete Streit zwischen den
+                  <placeName ref="geo-2921044">Deutsch</placeName>en und dem Auslande; dasselbe ist
+               eine Quelle des Zwiespalts unter uns selbst geworden. Allein die Speculation behält
+               darum nicht weniger ihre Rechte; jede Wissenschaft kann nur durch sie den Charakter
+               der Nothwendigkeit erhalten, und nur vermittelst ihrer kann es eine, alle einzelnen
+               Wissenschaften umfassende, eine Wissenschaft an sich geben.</p>
+            <p>Die Gegenstände der Wissenschaften, die Gränzen ihres Gebiets lassen sich nicht bloss
+               an dem denkbaren Stoff, den sie bearbeiten, sondern eben so wohl an der
+               Geistesthätigkeit abmessen, die sie in Bewegung setzt, und der letztere Weg ist ohne
+               Zweifel der richtigere. Nun aber kann der Verstand die Erscheinungen von allem
+               entkleiden, was ihnen, als solchen, angehört, er kann das reine Object dem reinen
+               Subject entgegensetzen, und damit und mit den unvermeidlichen Fragen: wer nun von
+               beiden unabhängig vom andren vorhanden ist? wie das Subject im Bewusstseyn wieder
+               sein eignes Object ist? und ob es nicht also ein Subject geben muss, das, als
+               solches, nie Object werden kann? ist die <pb n="3.349" xml:id="pbIII349"/>
+               Metaphysik, die schlechthin speculativ zu nennende Wissenschaft gegeben. Wäre die auf
+               Beantwortung dieser Fragen gerichtete Stimmung des Geistes auch eine Verirrung zu
+               nennen, so wäre die Organisation eines ihrer unfähigen Kopfes ebenso unnatürlich als
+               eine Körperbeschaffenheit, die nie in ein Fieber verfallen könnte. Sie gehört aber so
+               sehr zu der Gesundheit des Geistes, dass er, sobald er sich nur von dem Aufruhr der
+               Sinne, dem Gewirre der Geschäfte, und der unfruchtbaren Last des Wissens entledigt
+               hat, zu diesen Gegenständen, wie in seine Heimath zurückkehrt. Allein auch die
+               Begierde nach der Kenntniss der Erscheinungen führt zu demselben Punkt hin. Denn die
+               besondren Erscheinungen sollen doch auf allgemeinere, als ihre Gründe zurückgeführt
+               werden, und so zwingt die Unzulänglichkeit alles Endlichen, sein eigner
+               Erklärungsgrund zu seyn, von selbst, seine Gränzen zu überschreiten.</p>
+         </div>
+         <div type="notes">
+            <head>
+               <title type="main">Bemerkungen zur Entstehungsgeschichte </title>
+            </head>
+            <p>Handschrift (12 halbbeschriebene Folioseiten) im Archiv in <placeName
+                  ref="geo-2823708">Tegel</placeName>.</p>
+            <p>Für die chronologische Bestimmung dieses Fragments sind wir allein auf die beiden in
+               demselben vorkommenden Anspielungen auf Zeitereignisse angewiesen. An einer Stelle
+               wird <persName ref="gnd-118532847">Fichte</persName>s als eines Verstorbenen gedacht,
+               an einer andern das glückliche Ende des Befreiungskriegs erwähnt: <persName
+                  ref="gnd-118532847">Fichte</persName> starb am <date when="1814-01-27">27. Januar
+                  1814</date>, der erste <placeName ref="geo-2988507">paris</placeName>er Friede
+               wurde am <date when="1814-05-30">30. Mai</date> desselben Jahres abgeschlossen. Das
+               Wasserzeichen der Handschrift ist dasselbe wie bei dem vorhergehenden Aufsatz, weist
+               also nach <placeName ref="geo-2761369">Wien</placeName>. Demnach gehört das Fragment
+               wohl in die erste Zeit nach <persName ref="gnd-118554727">Humboldt</persName>s
+               Rückkehr <placeName ref="geo-2761369">dorthin</placeName>, also in den <date
+                  when="1814-08">August</date> oder <date when="1814-09">September 1814</date>, da
+                  <date when="1814-09-15">Mitte des letztgenannten Monats</date> die
+               Vorbesprechungen zum <placeName ref="geo-2761369">wien</placeName>er Kongreß begannen
+               und dieser selbst dann <date from="1814-11">seit Anfang November</date>
+               <persName ref="gnd-118554727">Humboldt</persName>s angestrengteste Tätigkeit in
+               Anspruch nahm.</p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>
