@@ -1,0 +1,178 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>Antrittsrede in der Berliner Akademie der Wissenschaften</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI enconding</resp>
+               <persName xml:id="sbp">
+                  <forename>Silvia</forename>
+                  <surname>Berigüete Pastor</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Wilhelm von Humboldt: Schriften</publisher>
+            <date when="2025-05">Juni 2026</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+            <idno type="URI">https://www.wvh-schriften.de</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Dritter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI"
+                     >https://archive.org/details/gesammelteschrif03humbuoft/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="219" to="221"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date when="1809-01-19">19. Januar 1809</date>
+            <placeName ref="geo-2950159">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#type">
+               <term>Rede</term>
+            </keywords>
+            <keywords scheme="#topic">
+               <term>Wissenschaft</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text xmlns="http://www.tei-c.org/ns/1.0">
+      <body>
+         <div type="original">
+            <pb n="3.219" xml:id="pbIII219"/>
+            <head>
+               <title type="main">Antrittsrede in der <orgName ref="gnd-15514-7"><placeName
+                        ref="geo-2950159">Berlin</placeName>er Akademie der
+                  Wissenschaften</orgName></title>
+            </head>
+            <p>Meine gegenwärtige Zurückkunft in mein Vaterland hätte auf keine schönere und
+               schmeichelhaftere Weise für mich bezeichnet werden können, als durch meine Aufnahme
+               in Ihre Versammlung, meine Herren, in die mir heute durch Ihre Güte einzutreten
+               vergönnt ist. Indem ich im Begriff bin, Ihnen für diesen Beweis Ihres Vertrauens
+               meinen lebhaft empfundenen Dank auszudrücken, drängt sich mir zugleich das Gefühl
+               auf, dass ich, ohne gerechte Ansprüche auf diese ehrenvolle Auszeichnung zu besitzen,
+               dieselbe vorzüglich Ihrem Wohlwollen schuldig bin. Allein dieser Gedanke selbst
+               erscheint mir um so erfreulicher und erhebender, als ich mehrere Männer in diesem
+               Kreise erblicke, denen ein günstiges Schicksal mich früh nahe führte, und die mich
+               seit Jahren fortdauernd ihrer Theilnahme, ihrer Zuneigung, ihrer Freundschaft
+               würdigten. Wenn ich daher jetzt mit ihnen und mit denjenigen in dieser Versammlung,
+               von welchen mir die gleichen Gesinnungen erst jetzt zu erbitten und künftig zu
+               verdienen zusteht, zu gemeinschaftlichen Arbeiten eingeladen werde, so vereinigt sich
+               in dem Gefühle dieses Vorzugs Alles, was Anhänglichkeit an seine Mitbürger,
+               Erinnerung früherer Jugend und Genuss vertraulichen und freundschaftlichen Umgangs
+               zugleich Rührendes und Erweckendes besitzen. Alles dies aber ergreift <pb n="3.220"
+                  xml:id="pbIII220"/> doppelt lebendig in der gegenwärtigen Zeit, in der sich jede
+               zum Nutzen des Staats abzweckende Verbindung gleichsam von selbst fester und inniger
+               an einander schliesst.</p>
+            <p>In eben dieser Zeit gewinnen auch die höchsten wissenschaftlichen Bemühungen eine
+               noch unmittelbar für das Leben bedeutendere Wichtigkeit. In einem Augenblicke, wo
+               nach langen unglücklichen Stürmen die Ruhe und altgewohnte Ordnung zurückkehrt, wo
+               Vieles, das in seinem Laufe und seiner heilsamen Wirksamkeit gestört war,
+               hergestellt, Manches neugegründet werden muss, was kann da wohlthätiger, was
+               nothwendiger seyn, als unverbrüchlich fest an Wissenschaft und Kunst zu halten, und
+               das Heiligthum treu zu bewahren, aus dem auf alle, auch die entferntesten Glieder des
+               Staates, Licht und Wärme ausströmt, welches die leitenden Ideen zu jeder, auch noch
+               so sehr durch die Wirklichkeit bedingten Einrichtung enthält, und auf dem
+               grösstentheils — ihr köstlichster Besitz! — die Ehre der Nation beruht, die Achtung,
+               welcher die unsrige, auch in dieser Rücksicht (man darf es mit Zuversicht als
+                  <placeName ref="geo-2921044">Deutsch</placeName>er und als Preusse sagen) seit
+               langer Zeit bei dem gebildeten und unpartheiischen Theile <placeName
+                  ref="geo-6255148">Europa</placeName>s zu geniessen gewohnt ist? Vereine, wie
+               derjenige, welchem Ihre Güte mir heute mich beizuzählen erlaubt, sind freilich als
+               solche bestimmt, vorzugsweise gerade die höchsten und abgezogensten Theile der
+               Wissenschaft zu bearbeiten; es ist ihr schönes Vorrecht, die Wahrheit aus ihren
+               reinsten Quellen zu schöpfen; sie bestehen theils aus Männern, die sich
+               ausschliesslich diesem Geschäfte widmen, und bieten anderntheils denen, welchen der
+               mühevollere und einförmigere Beruf des Lebens einen grossen Theil ihrer Kräfte und
+               ihrer Zeit abfordert, einen Zufluchtsort dar, wo sie die einschränkenden Bedingungen
+               der Gegenwart vergessen und sich ungestört allein dem Nachdenken und der Forschung
+               hingeben können. Die Wissenschaft aber giesst oft dann ihren wohlthätigsten Segen auf
+               das Leben aus, wenn sie dasselbe gewissermassen zu vergessen scheint. Denn sie nährt
+               und bildet den Geist, dass alles, was er erzeugt, ihr Gepräge an sich trägt, ja sie
+               stimmt ihn dergestalt glücklich, harmonisch und wahrhaft göttlich, dass jeder Ton
+               rein und voll aus ihm hervorklingt, dass sich alles, was er behandelt, gleichsam ohne
+               sein Zuthun, den höchsten Ideen anschmiegt, und dass er den schwer zu entdeckenden
+               Punkt nicht verfehlt, auf welchem Gedanke und Wirklichkeit sich begegnen und
+               freiwillig in einander übergehen. <pb n="3.221" xml:id="pbIII221"/> Denn es giebt in
+               allen wichtigen Geschäften des Lebens einen solchen Punkt, den nur der mit der reinen
+               Wissenschaft Vertraute erreichen, und nur das wahrhaft praktische Talent nie
+               überschreiten wird.</p>
+            <p>Allein es wäre unrecht, diese Betrachtungen weiter vor Ihnen zu verfolgen. Ich würde
+               sie nicht einmal berührt haben, wenn sie sich nicht unmittelbar an die Empfindungen
+               anschlössen, die meine Aufnahme in Ihre Mitte in mir erweckt, und welche warm,
+               lebendig und in ihrem ganzen Umfange auszudrücken wie meine Pflicht, so allein meine
+               Absicht war.</p>
+         </div>
+         <div type="notes">
+            <head>
+               <title type="main">Bemerkungen zur Entstehungsgeschichte </title>
+            </head>
+            <p>Handschrift von Schreiberhand im Akademischen Archiv in <placeName ref="geo-2950159"
+                  >Berlin</placeName>. — Erster Druck: <bibl><author><persName ref="gnd-116483350"
+                        >Harnack</persName></author>, <title>Geschichte der <orgName
+                        ref="gnd-15514-7">königlich preussischen Akademie der Wissenschaften zu
+                           <placeName ref="geo-2950159">Berlin</placeName></orgName></title>
+                  <biblScope unit="chapter" n="2">2</biblScope>, <biblScope unit="page" facs="341"
+                     to="342">341—342</biblScope> (<date when="1900">1900</date>)</bibl>. </p>
+            <p>Noch während seines letzten <placeName ref="geo-3169070">röm</placeName>ischen
+               Sommers wurde <persName ref="gnd-118554727">Humboldt</persName> unter dem <date
+                  when="1808-07-21">21. Juli 1808</date> in einem Schreiben des <persName
+                  ref="gnd-118617273">Freiherrn vom Stein</persName>, der dazu durch <persName
+                  ref="gnd-117444154">Friedrich August Wolf</persName> angeregt war, der <placeName
+                  ref="geo-2950159">berlin</placeName>er Akademie der Wissenschaften als
+               Ehrenmitglied vorgeschlagen und von dieser in der Sitzung vom <date when="1808-08-04"
+                  >4. August</date> durch Akklamation gewählt. Während der Verhandlungen, die dann
+               nach seiner Ankunft in <placeName ref="geo-2950159">Berlin</placeName> dort mit ihm
+               wegen Übernahme der Leitung des preußischen Unterrichtswesens angeknüpft wurden und
+               zunächst am <date when="1809-01-17">17. Januar 1809</date> zu einer Ablehnung des
+               Postens führten, hielt er am <date when="1809-01-19">19. Januar</date> seine
+               Antrittsrede in der Akademie, die dann bald darauf seiner Verwaltung mit unterstellt
+               wurde.</p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>
