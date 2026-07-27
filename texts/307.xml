@@ -162,16 +162,17 @@
                Sommers wurde <persName ref="gnd-118554727">Humboldt</persName> unter dem <date
                   when="1808-07-21">21. Juli 1808</date> in einem Schreiben des <persName
                   ref="gnd-118617273">Freiherrn vom Stein</persName>, der dazu durch <persName
-                  ref="gnd-117444154">Friedrich August Wolf</persName> angeregt war, der <placeName
-                  ref="geo-2950159">berlin</placeName>er Akademie der Wissenschaften als
-               Ehrenmitglied vorgeschlagen und von dieser in der Sitzung vom <date when="1808-08-04"
-                  >4. August</date> durch Akklamation gewählt. Während der Verhandlungen, die dann
-               nach seiner Ankunft in <placeName ref="geo-2950159">Berlin</placeName> dort mit ihm
-               wegen Übernahme der Leitung des preußischen Unterrichtswesens angeknüpft wurden und
-               zunächst am <date when="1809-01-17">17. Januar 1809</date> zu einer Ablehnung des
-               Postens führten, hielt er am <date when="1809-01-19">19. Januar</date> seine
-               Antrittsrede in der <orgName ref="gnd-15514-7">Akademie</orgName>, die dann bald
-               darauf seiner Verwaltung mit unterstellt wurde.</p>
+                  ref="gnd-117444154">Friedrich August Wolf</persName> angeregt war, der <orgName
+                  ref="gnd-15514-7"><placeName ref="geo-2950159">berlin</placeName>er Akademie der
+                  Wissenschaften</orgName> als Ehrenmitglied vorgeschlagen und von dieser in der
+               Sitzung vom <date when="1808-08-04">4. August</date> durch Akklamation gewählt.
+               Während der Verhandlungen, die dann nach seiner Ankunft in <placeName
+                  ref="geo-2950159">Berlin</placeName> dort mit ihm wegen Übernahme der Leitung des
+               preußischen Unterrichtswesens angeknüpft wurden und zunächst am <date
+                  when="1809-01-17">17. Januar 1809</date> zu einer Ablehnung des Postens führten,
+               hielt er am <date when="1809-01-19">19. Januar</date> seine Antrittsrede in der
+                  <orgName ref="gnd-15514-7">Akademie</orgName>, die dann bald darauf seiner
+               Verwaltung mit unterstellt wurde.</p>
          </div>
       </body>
    </text>
