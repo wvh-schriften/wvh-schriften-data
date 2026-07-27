@@ -218,42 +218,46 @@
                 <div type="section" n="1">
                     <head>
                         <title type="main">I.<note type="footnote" n="i)" resp="gnd-116890657">
-                                <p>Auf zwei besonderen Blättern hat sich <persName
-                                        ref="gnd-118554727">Humboldt</persName> „<persName
-                                        ref="gnd-118607626">Schiller</persName>s mündliche Urtheile
-                                    über das 18. Jahrhundert“ notiert; die Bemerkungen betreffen
-                                    aber nur den ersten und dritten Abschnitt. Über den ersten
-                                    Abschnitt lautet <persName ref="gnd-118607626"
-                                        >Schiller</persName>s Urteil:</p>
-                                <p>„Die Einführung hat einen doppelten Fehler. Sie ist moralisch und
-                                    scheint mehr auf Welt- als auf Selbstverbesserung zu gehen.
-                                    Beides muss vermieden, und die Nothwendigkeit für das
-                                    Individuum, sich dem Ganzen anzupassen, als ein eigentliches
-                                    Bedürfniss, folglich physisch praktisch aufgestellt werden. Man
-                                    muss es an die Erfahrung eines jeden anknüpfen, und wenn es
-                                    möglich wäre, lieber sogar von einem einzelnen Factum ausgehen.
-                                    Wie es jetzt ist, hat es den Fehler, dass das Moralische dem
-                                    Menschen immer gewissermaassen fremd bleibt, und dass er sich
-                                    davon loszumachen weiss. Auch kann es so misverstanden werden,
-                                    als würden dadurch die Weltverbesserer, z. B. Fichte und
-                                    Consorten begünstigt. Nicht also als eine Aufgabe der Vernunft,
-                                    sondern als ein Bedürfniss der Natur muss es erscheinen. Die
-                                    strenge Eigenthümlichkeit ist wichtig; aber sie wird zur
-                                    Einseitigkeit; um Totalität in sich zu erhalten, muss sie die
-                                    übrigen mit ihr verwandten Gattungen aufsuchen und sich in
-                                    Verhältniss zu ihnen stellen. — Auch müsste nicht übergangen
-                                    werden, dass die Nothwendigkeit, sich dem Ganzen anzupassen, nur
-                                    unter uns Modernen entstanden ist. Bei uns muss sich das
-                                    Individuum in der Gattung aufsuchen, weil der Mensch nur in ihr
-                                    erscheint. Unter den <placeName ref="geo-390903"
-                                        >Griech</placeName>en war diess nicht nothwendig, weil der
-                                    Mensch schon durch das Individuum repräsentirt wurde.</p>
-                                <p>Der Stil ist zu lehrend; zwar klar und nicht verwickelt, aber er
-                                    hat noch die Haupteigenthümlichkeit meiner älteren Sachen, dass
-                                    nicht hinlängliche Gruppirungen und Massen gemacht sind, dass
-                                    jeden Satz zu ängstlich alle Einschränkungen begleiten.</p>
-                                <p>Technische Ausdrücke der Philosophie, z. B. Form der Vernunft
-                                    müssen noch mehr vermieden werden.“</p>
+                                <p><hi>Auf zwei besonderen Blättern hat sich <persName
+                                            ref="gnd-118554727">Humboldt</persName>
+                                        <quote><persName ref="gnd-118607626">Schiller</persName>s
+                                            mündliche Urtheile über das 18. Jahrhundert</quote>
+                                        notiert; die Bemerkungen betreffen aber nur den ersten und
+                                        dritten Abschnitt. Über den ersten Abschnitt lautet
+                                            <persName ref="gnd-118607626">Schiller</persName>s
+                                        Urteil:</hi></p>
+                                <quote><p>Die Einführung hat einen doppelten Fehler. Sie ist
+                                        moralisch und scheint mehr auf Welt- als auf
+                                        Selbstverbesserung zu gehen. Beides muss vermieden, und die
+                                        Nothwendigkeit für das Individuum, sich dem Ganzen
+                                        anzupassen, als ein eigentliches Bedürfniss, folglich
+                                        physisch praktisch aufgestellt werden. Man muss es an die
+                                        Erfahrung eines jeden anknüpfen, und wenn es möglich wäre,
+                                        lieber sogar von einem einzelnen Factum ausgehen. Wie es
+                                        jetzt ist, hat es den Fehler, dass das Moralische dem
+                                        Menschen immer gewissermaassen fremd bleibt, und dass er
+                                        sich davon loszumachen weiss. Auch kann es so misverstanden
+                                        werden, als würden dadurch die Weltverbesserer, z. B. Fichte
+                                        und Consorten begünstigt. Nicht also als eine Aufgabe der
+                                        Vernunft, sondern als ein Bedürfniss der Natur muss es
+                                        erscheinen. Die strenge Eigenthümlichkeit ist wichtig; aber
+                                        sie wird zur Einseitigkeit; um Totalität in sich zu
+                                        erhalten, muss sie die übrigen mit ihr verwandten Gattungen
+                                        aufsuchen und sich in Verhältniss zu ihnen stellen. — Auch
+                                        müsste nicht übergangen werden, dass die Nothwendigkeit,
+                                        sich dem Ganzen anzupassen, nur unter uns Modernen
+                                        entstanden ist. Bei uns muss sich das Individuum in der
+                                        Gattung aufsuchen, weil der Mensch nur in ihr erscheint.
+                                        Unter den <placeName ref="geo-390903">Griech</placeName>en
+                                        war diess nicht nothwendig, weil der Mensch schon durch das
+                                        Individuum repräsentirt wurde.</p>
+                                    <p>Der Stil ist zu lehrend; zwar klar und nicht verwickelt, aber
+                                        er hat noch die Haupteigenthümlichkeit meiner älteren
+                                        Sachen, dass nicht hinlängliche Gruppirungen und Massen
+                                        gemacht sind, dass jeden Satz zu ängstlich alle
+                                        Einschränkungen begleiten.</p>
+                                    <p>Technische Ausdrücke der Philosophie, z. B. Form der Vernunft
+                                        müssen noch mehr vermieden werden.</p></quote>
                             </note>
                         </title>
                         <title type="sub">Allgemeines Bedürfniss der Menschheit sich von Zeit zu
@@ -842,14 +846,15 @@
                                 nächst vorhergegangenen Zeit geschöpft werden. Auch ihre vorige Lage
                                 bedarf erst einer neuen Untersuchung, und so muss der Lauf der
                                 Geschichte weiter hinauf verfolgt<note type="footnote" n="ii)"
-                                    resp="gnd-116890657"> „der Lauf der Geschichte weiter hinauf
-                                    verfolgt“ verbessert aus „die Geschichte aller Jahrhunderte zu
-                                    Hülfe gerufen“. </note> werden. Allein gerade dieser Umstand
-                                führt auch ein Erleichterungsmittel herbei, da mit der Grösse der
-                                Masse der Gegen- <pb n="2.20" xml:id="pbII20"/> stände auch die
-                                Möglichkeit wächst, Regelmässigkeit in ihnen zu entdecken und den
-                                Anschein des Zufälligen zu verbannen. Aehnliche Kräfte haben nur
-                                einen bestimmten Kreis ihrer Wirkungen, ähnliche Triebe nur eine
+                                    resp="gnd-116890657"><hi><quote>der Lauf der Geschichte weiter
+                                            hinauf verfolgt</quote> verbessert aus <quote>die
+                                            Geschichte aller Jahrhunderte zu Hülfe
+                                        gerufen</quote>.</hi></note> werden. Allein gerade dieser
+                                Umstand führt auch ein Erleichterungsmittel herbei, da mit der
+                                Grösse der Masse der Gegen- <pb n="2.20" xml:id="pbII20"/> stände
+                                auch die Möglichkeit wächst, Regelmässigkeit in ihnen zu entdecken
+                                und den Anschein des Zufälligen zu verbannen. Aehnliche Kräfte haben
+                                nur einen bestimmten Kreis ihrer Wirkungen, ähnliche Triebe nur eine
                                 gewisse Zahl ihrer Richtungen, und die Sphäre, die alle einzelne
                                 Verschiedenheiten umfasst, entdeckt sich dem Blick mit geringerer
                                 Mühe, sobald die Menge der gegebenen Fälle so gross ist, dass die
@@ -887,42 +892,44 @@
                                 selbst die Betrachtung zu verweilen einladet; aber für uns scheinen
                                 noch wesentlichere Verschiedenheiten und Ereig-<pb n="2.21"
                                     xml:id="pbII21"/> nisse diese Epoche zu bezeichnen.<note
-                                    type="footnote" n="iii)" resp="gnd-116890657"> Nach „bezeichnen“
-                                    gestrichen: „Mit schnellen und unaufhaltsamen Schritten haben
-                                    sich unter unsern Augen selbst in unsern Sitten, unsrer
-                                    Literatur, und sogar in demjenigen, was am wenigsten der
-                                    leichtsinnigen Willkühr eines grübelnden Scharfsinns unterworfen
-                                    seyn sollte, in unsern Verfassungen grosse und merkwürdige
-                                    Veränderungen zugetragen.“ </note> Zwar ist eine ähnliche
-                                Ueberzeugung wohl jedem Zeitalter eigen, jedes glaubt sich durch
-                                wichtige Eigenthümlichkeiten vor den vorherigen auszuzeichnen, und
-                                wähnt, mit sich eine neue Reihe der Dinge anfangen zu sehen.
-                                Besonders ist diess alsdenn der Fall, wenn irgend eine ungewöhnliche
-                                und merkwürdige Begebenheit, deren Folgen noch die Zukunft verbirgt,
-                                die Aufmerksamkeit an sich zieht. Aus dem Zusammenhange
-                                herausgerissen, erscheint alsdenn dieser einzelne Gegenstand in
-                                einer vergrösserten Gestalt, wir messen nach demselben Maassstab
-                                auch seine künftigen Wirkungen, und vergessen, dass die Zeit das
-                                Grosse wie das Kleine in Einem Strome hinwegrafft, und das ewige
-                                Entgegenstreben der übrigen Kräfte die Summe aller Ereignisse in
-                                Eine im Ganzen völlig gleichförmige Masse verwandelt, in welcher
-                                nichts Einzelnes zu sehr hervorragen darf. Aber es ist hier auch
-                                weder von einer gänzlichen, noch von einer plötzlichen Veränderung
-                                die Rede, am wenigsten von einer solchen, die sich durch äussere
-                                wichtige Erscheinungen ankündigt. Die philosophische Charakteristik
-                                der Zeiten verfolgt die stillen und wenig bemerkbaren Fortschritte
-                                und Richtungen des Geistes und der Gesinnungen, und für sie ist eine
-                                wesentliche Veränderung, die sie hier antrift, eine bei weitem
-                                wichtigere Epoche, als selbst die grösseste, folgenreichste und
-                                erschütterndste äussere Erscheinung, die im besten Fall (und der
-                                wohl nie ganz rein und ohne alle Beimischung fremder Ursachen Statt
-                                findet) nur Wirkung einer länger vorhergegangenen veränderten
-                                Geistesrichtung, meist aber die übereilte Frucht einer vorschnellen
-                                Weisheit, oder bloss physische Folge physischer Kräfte ist.<note
-                                    type="footnote" n="iv)" resp="gnd-116890657"> Nach „ist“
-                                    gestrichen: „die demjenigen, welcher das Innere der Dinge
-                                    durchschaut, gewiss unendlich wichtig seyn würde, aber für die
-                                    beschränkte...“ </note>
+                                    type="footnote" n="iii)" resp="gnd-116890657"><hi>Nach
+                                            <quote>bezeichnen</quote> gestrichen: <quote>Mit
+                                            schnellen und unaufhaltsamen Schritten haben sich unter
+                                            unsern Augen selbst in unsern Sitten, unsrer Literatur,
+                                            und sogar in demjenigen, was am wenigsten der
+                                            leichtsinnigen Willkühr eines grübelnden Scharfsinns
+                                            unterworfen seyn sollte, in unsern Verfassungen grosse
+                                            und merkwürdige Veränderungen zugetragen.</quote>
+                                    </hi></note> Zwar ist eine ähnliche Ueberzeugung wohl jedem
+                                Zeitalter eigen, jedes glaubt sich durch wichtige
+                                Eigenthümlichkeiten vor den vorherigen auszuzeichnen, und wähnt, mit
+                                sich eine neue Reihe der Dinge anfangen zu sehen. Besonders ist
+                                diess alsdenn der Fall, wenn irgend eine ungewöhnliche und
+                                merkwürdige Begebenheit, deren Folgen noch die Zukunft verbirgt, die
+                                Aufmerksamkeit an sich zieht. Aus dem Zusammenhange herausgerissen,
+                                erscheint alsdenn dieser einzelne Gegenstand in einer vergrösserten
+                                Gestalt, wir messen nach demselben Maassstab auch seine künftigen
+                                Wirkungen, und vergessen, dass die Zeit das Grosse wie das Kleine in
+                                Einem Strome hinwegrafft, und das ewige Entgegenstreben der übrigen
+                                Kräfte die Summe aller Ereignisse in Eine im Ganzen völlig
+                                gleichförmige Masse verwandelt, in welcher nichts Einzelnes zu sehr
+                                hervorragen darf. Aber es ist hier auch weder von einer gänzlichen,
+                                noch von einer plötzlichen Veränderung die Rede, am wenigsten von
+                                einer solchen, die sich durch äussere wichtige Erscheinungen
+                                ankündigt. Die philosophische Charakteristik der Zeiten verfolgt die
+                                stillen und wenig bemerkbaren Fortschritte und Richtungen des
+                                Geistes und der Gesinnungen, und für sie ist eine wesentliche
+                                Veränderung, die sie hier antrift, eine bei weitem wichtigere
+                                Epoche, als selbst die grösseste, folgenreichste und erschütterndste
+                                äussere Erscheinung, die im besten Fall (und der wohl nie ganz rein
+                                und ohne alle Beimischung fremder Ursachen Statt findet) nur Wirkung
+                                einer länger vorhergegangenen veränderten Geistesrichtung, meist
+                                aber die übereilte Frucht einer vorschnellen Weisheit, oder bloss
+                                physische Folge physischer Kräfte ist.<note type="footnote" n="iv)"
+                                    resp="gnd-116890657"><hi>Nach <quote>ist</quote> gestrichen:
+                                            <quote>die demjenigen, welcher das Innere der Dinge
+                                            durchschaut, gewiss unendlich wichtig seyn würde, aber
+                                            für die beschränkte...</quote></hi></note>
                             </p>
                             <p>Und eine solche Epoche nun, eine Veränderung in der Ansicht und der
                                 Würdigung der Dinge, in der Wahl der Gegenstände des Nachdenkens und
@@ -937,14 +944,15 @@
                                 Dinge mit dem vor funfzehn bis zwanzig Jahren vergleicht, der wird
                                 nicht läugnen, dass eine grössere Ungleichheit darin, als in dem
                                 doppelt so langen Zeitraum am Anfange dieses Jahrhunderts
-                                    herrscht.<note type="footnote" n="v)" resp="gnd-116890657"> Nach
-                                        <quote>herrscht</quote> gestrichen: <quote>Bis in den Ton
-                                        unsrer Gesellschaften, und die unbedeutenden Abwechslungen
-                                        der Mode hin kehrt dieselbe Erscheinung zurück, und man darf
-                                        nicht weit um sich blicken, um die Aelteren über die
-                                        Verderbniss der Zeit, die jede Regel scheut, klagen, die
-                                        Jüngeren die vernünftige Freiheit loben zu sehen, die sich
-                                        einem willkührlich aufgelegten Zwange entzieht.</quote>
+                                    herrscht.<note type="footnote" n="v)" resp="gnd-116890657"
+                                        ><hi>Nach <quote>herrscht</quote> gestrichen: <quote>Bis in
+                                            den Ton unsrer Gesellschaften, und die unbedeutenden
+                                            Abwechslungen der Mode hin kehrt dieselbe Erscheinung
+                                            zurück, und man darf nicht weit um sich blicken, um die
+                                            Aelteren über die Verderbniss der Zeit, die jede Regel
+                                            scheut, klagen, die Jüngeren die vernünftige Freiheit
+                                            loben zu sehen, die sich einem willkührlich aufgelegten
+                                            Zwange entzieht.</quote></hi>
                                 </note> Die minder gebundne Freiheit der Meynungen hat nach und nach
                                 die vielfachen Fesseln der Form und Gewohnheit zu lösen angefangen,
                                 und die Dinge mehr in ihr einfaches und natürliches Licht gestellt.
@@ -973,33 +981,35 @@
                                 Natur, aber wenn er des heilsamen Einflusses gedenkt, den die Bande
                                     <pb n="2.23" xml:id="pbII23"/> einer selbst ursprünglich leeren
                                 Form, des blossen Herkommens und der Gewohnheit ausüben,<note
-                                    type="footnote" n="vi)" resp="gnd-116890657">
-                                    <quote>er des heilsamen .... ausüben</quote> verbessert aus:
-                                        <quote>ihm seine Phantasie immer mehr und mehr der
-                                        Bollwerke, welche Form, Herkommen und Gewohnheit bisher
-                                        aufgeführt, zertrümmert zeigt.</quote>
-                                </note> so erinnert er sich auch mit geheimem und ahndungsvollem
-                                Schauder, dass die edelsten Vorzüge des Menschen nie grössere Gefahr
-                                laufen, als wenn die Freiheit den kühnen Schritt wagt, sich mit
-                                Abschüttlung jedes Joches am höchsten und eigenmächtigsten
-                                    emporzuschwingen.<note type="footnote" n="vii)"
+                                    type="footnote" n="vi)" resp="gnd-116890657"><hi>
+                                        <quote>er des heilsamen .... ausüben</quote> verbessert aus:
+                                            <quote>ihm seine Phantasie immer mehr und mehr der
+                                            Bollwerke, welche Form, Herkommen und Gewohnheit bisher
+                                            aufgeführt, zertrümmert zeigt.</quote>
+                                    </hi></note> so erinnert er sich auch mit geheimem und
+                                ahndungsvollem Schauder, dass die edelsten Vorzüge des Menschen nie
+                                grössere Gefahr laufen, als wenn die Freiheit den kühnen Schritt
+                                wagt, sich mit Abschüttlung jedes Joches am höchsten und
+                                eigenmächtigsten emporzuschwingen.<note type="footnote" n="vii)"
                                     resp="gnd-116890657">
-                                    <p>
-                                        <quote>dass die edelsten .... emporzuschwingen</quote>
-                                        verbessert aus: <quote>der Worte des Dichters: <lg
-                                                type="poem">
-                                                <l>Nimmer darf der Freie den Freien zum Führer sich
-                                                  nehmen,</l>
-                                                <l> Nur was in ruhiger Form sicher und ewig
+                                    <p><hi>
+                                            <quote>dass die edelsten .... emporzuschwingen</quote>
+                                            verbessert aus: <quote>der Worte des Dichters: <lg
+                                                  type="poem">
+                                                  <l>Nimmer darf der Freie den Freien zum Führer
+                                                  sich nehmen,</l>
+                                                  <l> Nur was in ruhiger Form sicher und ewig
                                                   besteht.</l>
-                                            </lg>
-                                        </quote>
-                                    </p>
-                                    <p>Das Zitat stammt aus <persName ref="gnd-118607626"
-                                            >Schiller</persName>s Spaziergang Vers 187 in der
-                                        ursprünglichen Fassung in den <orgName ref="gnd-4132118-2"
-                                            >Horen</orgName>; der Hexameter heißt dort: „Nimmer der
-                                        Freie den Freien zum bildenden Führer sich nehmen.“ </p>
+                                                </lg>
+                                            </quote>
+                                        </hi></p>
+                                    <p><hi>Das Zitat stammt aus <persName ref="gnd-118607626"
+                                                >Schiller</persName>s Spaziergang Vers 187 in der
+                                            ursprünglichen Fassung in den <orgName
+                                                ref="gnd-4132118-2">Horen</orgName>; der Hexameter
+                                            heißt dort: <quote>Nimmer der Freie den Freien zum
+                                                bildenden Führer sich nehmen.</quote>
+                                        </hi></p>
                                 </note> Und sollte man auch Mehreres unter dem bisher Angeführten
                                 für eine flüchtige und vorübergehende Erscheinung erklären, so ist
                                 dennoch wohl im Ganzen das Bestreben unläugbar, überall mehr und
@@ -1167,10 +1177,10 @@
                                 aufzuführen; die innere Kraft, die aus ihnen so mächtig
                                 hervorstrahlt, wirkt wieder nur auf die innere zurück. Diese legten
                                 durch ihren Muth und ihre Festigkeit, durch ihre weite
-                                    Verbreitung<note type="footnote" n="viii)" resp="gnd-116890657">
-                                    <quote>ihre weite Verbreitung</quote> verbessert aus <quote>ihr
-                                        ungebundnes Umherziehn</quote>.</note> und ihre kühne
-                                Freiheitsliebe, und vorzüglich durch die beschränkte
+                                    Verbreitung<note type="footnote" n="viii)" resp="gnd-116890657"><hi>
+                                        <quote>ihre weite Verbreitung</quote> verbessert aus
+                                            <quote>ihr ungebundnes Umherziehn</quote>.</hi></note>
+                                und ihre kühne Freiheitsliebe, und vorzüglich durch die beschränkte
                                 Gleichförmigkeit, die nur für Eine Lebensweise Sinn hatte, und ewig
                                 in Einer beharrte, den Grund zu der heutigen politischen Verfassung
                                     <placeName ref="geo-6255148">Europa</placeName>s. Da es ihren
@@ -1356,26 +1366,32 @@
                     <pb n="2.32" xml:id="pbII32"/>
                     <head>
                         <title type="main">III.<note type="footnote" n="ix)" resp="gnd-116890657">
-                                <p>Über diesen Abschnitt lautet <persName ref="gnd-118607626"
-                                        >Schiller</persName>s Urteil (vgl. oben S. 5 Anm. 1):</p>
+                                <p><hi>Über diesen Abschnitt lautet <persName ref="gnd-118607626"
+                                            >Schiller</persName>s Urteil (vgl. oben <bibl>S.
+                                                <biblScope unit="page" n="5">5</biblScope> Anm.
+                                                <biblScope unit="note" n="1"
+                                        >1</biblScope></bibl>):</hi></p>
                                 <quote>
-                                    <p>zu S. 21 [43]. Die Nachahmungssucht ist eine zu permanente
-                                        Erscheinung in dem <placeName ref="geo-2921044"
-                                            >Deutsch</placeName>en Charakter, um sich ganz in ein
-                                        idealisches Streben nach Vielseitigkeit aufzulösen, und als
-                                        Fehler bloss zufällig zu seyn. Der Grund davon mag
-                                        grösstentheils in der politischen Verfassung liegen.</p>
-                                    <p>In dem ganzen Abschnitt könnten die Materien zweckmässiger
-                                        geordnet seyn. Der Leser übersieht den Gang nicht leicht
-                                        genug. Es würde gut seyn ein recht genau specificirtes
-                                        Schema zu machen, um nur über die Anordnung bestimmter
-                                        urtheilen zu können.</p>
-                                    <p>In Absicht des Stils bemerkte er noch, dass die so häufig
-                                        beigebrachten Einschränkungen der allgemein ausgedrückten
-                                        Sätze nicht gerade immer hinter den Sätzen, sondern da
-                                        stehen sollten, wo der Leser ihrer bedarf. Früher sind sie
-                                        überflüssig, und schaden, indem sie auf Seitenwege
-                                        abführen.</p>
+                                    <p><hi>zu <bibl>S. <biblScope unit="page" n="21">21</biblScope>
+                                                  [<biblScope unit="note" n="43"
+                                                >43</biblScope>]</bibl>. Die Nachahmungssucht ist
+                                            eine zu permanente Erscheinung in dem <placeName
+                                                ref="geo-2921044">Deutsch</placeName>en Charakter,
+                                            um sich ganz in ein idealisches Streben nach
+                                            Vielseitigkeit aufzulösen, und als Fehler bloss zufällig
+                                            zu seyn. Der Grund davon mag grösstentheils in der
+                                            politischen Verfassung liegen.</hi></p>
+                                    <p><hi>In dem ganzen Abschnitt könnten die Materien
+                                            zweckmässiger geordnet seyn. Der Leser übersieht den
+                                            Gang nicht leicht genug. Es würde gut seyn ein recht
+                                            genau specificirtes Schema zu machen, um nur über die
+                                            Anordnung bestimmter urtheilen zu können.</hi></p>
+                                    <p><hi>In Absicht des Stils bemerkte er noch, dass die so häufig
+                                            beigebrachten Einschränkungen der allgemein
+                                            ausgedrückten Sätze nicht gerade immer hinter den
+                                            Sätzen, sondern da stehen sollten, wo der Leser ihrer
+                                            bedarf. Früher sind sie überflüssig, und schaden, indem
+                                            sie auf Seitenwege abführen.</hi></p>
                                 </quote>
                             </note>
                         </title>
@@ -1415,17 +1431,17 @@
                                 Feststellung von Grundsätzen, mithin auf eine praktische Absicht
                                 ankommt. Die Beurtheilung der Weltgeschichte nach allgemeinen
                                 Zwecken, so ein grosser und ächt philosophischer Gedanke sie
-                                    ist,<note type="footnote" n="x)" resp="gnd-116890657">
-                                    <quote>so ein grosser . . . . ist</quote> verbessert aus
-                                        „<quote>ein grosser und des Kopfes würdiger Gedanke, der ihn
-                                        zuerst unter uns einführte</quote>“. — Gemeint ist <persName
-                                        ref="gnd-118559796">Kant</persName>. </note> hat sich durch
-                                so viele misrathene Versuche von Bearbeitern, welche ebensowenig das
-                                Ansehen der Geschichte zu ehren, als die Tiefen der Philosophie zu
-                                ergründen verstanden, nicht wenig verdächtig gemacht, und man
-                                fürchtet daher vielleicht auch hier, die schöne Mannigfaltigkeit des
-                                wirklichen Lebens in der Einförmigkeit einiger wenigen Vernunftldeen
-                                untergehen zu sehn.</p>
+                                    ist,<note type="footnote" n="x)" resp="gnd-116890657"><hi>
+                                        <quote>so ein grosser . . . . ist</quote> verbessert aus
+                                            <quote>ein grosser und des Kopfes würdiger Gedanke, der
+                                            ihn zuerst unter uns einführte</quote>. — Gemeint ist
+                                            <persName ref="gnd-118559796">Kant</persName>.
+                                    </hi></note> hat sich durch so viele misrathene Versuche von
+                                Bearbeitern, welche ebensowenig das Ansehen der Geschichte zu ehren,
+                                als die Tiefen der Philosophie zu ergründen verstanden, nicht wenig
+                                verdächtig gemacht, und man fürchtet daher vielleicht auch hier, die
+                                schöne Mannigfaltigkeit des wirklichen Lebens in der Einförmigkeit
+                                einiger wenigen Vernunftldeen untergehen zu sehn.</p>
                             <p>Aber der hier aufgestellte Zweck kann nur durch die gewissenhafteste
                                 Achtung gegen historische Wahrheit und durch eine solche Behandlung
                                 der Thatsachen erreicht werden, welche ihnen schlechterdings nichts
@@ -4740,23 +4756,21 @@
                         <placeName ref="geo-2867714">München</placeName> und der <placeName
                         ref="geo-2658434">Schweiz</placeName> im November nach <placeName
                         ref="geo-2988507">Paris</placeName> führte. Vielleicht in <placeName
-                        ref="geo-2935022">Dresden</placeName> (<bibl>
-                        <title>Briefwechsel zwischen <persName ref="gnd-118607626"
-                                >Schiller</persName> und <persName ref="gnd-11856448X"
-                                >Körner</persName>
-                        </title>
-                        <biblScope unit="volume" n="4">4</biblScope>, <biblScope unit="page" n="37"
-                            >37</biblScope>
-                    </bibl>), wenn nicht etwa schon in <placeName ref="geo-2895044">Jena</placeName>
-                    oder <placeName ref="geo-2950159">Berlin</placeName> vor Antritt der Reise,
-                    dürfte das vierte und fünfte Kapitel geschrieben sein, worauf die Arbeit liegen
-                    blieb, wenn auch in <placeName ref="geo-2935022">Dresden</placeName> wie in
-                        <placeName ref="geo-2988507">Paris</placeName> die Fülle neuer Eindrücke von
-                    Land und Leuten vielfache Anknüpfung an die im Fluß befindliche Ideenmasse
-                    darbot (an <persName ref="gnd-116519770">Brinkmann</persName>, <date
-                        when="1797-07-10">10. Juli 1797</date>; an <persName ref="gnd-118538489"
-                        >Gentz</persName>, <date when="1797-11-29">29. November 1797</date>; an
-                        <persName ref="gnd-118540238">Goethe</persName>, <date when="1798-04">April
+                        ref="geo-2935022">Dresden</placeName> (<bibl><title>Briefwechsel zwischen
+                                <persName ref="gnd-118607626">Schiller</persName> und <persName
+                                ref="gnd-11856448X">Körner</persName></title><biblScope
+                            unit="volume" n="4">4</biblScope>, <biblScope unit="page" n="37"
+                            >37</biblScope></bibl>), wenn nicht etwa schon in <placeName
+                        ref="geo-2895044">Jena</placeName> oder <placeName ref="geo-2950159"
+                        >Berlin</placeName> vor Antritt der Reise, dürfte das vierte und fünfte
+                    Kapitel geschrieben sein, worauf die Arbeit liegen blieb, wenn auch in
+                        <placeName ref="geo-2935022">Dresden</placeName> wie in <placeName
+                        ref="geo-2988507">Paris</placeName> die Fülle neuer Eindrücke von Land und
+                    Leuten vielfache Anknüpfung an die im Fluß befindliche Ideenmasse darbot (an
+                        <persName ref="gnd-116519770">Brinkmann</persName>, <date when="1797-07-10"
+                        >10. Juli 1797</date>; an <persName ref="gnd-118538489">Gentz</persName>,
+                        <date when="1797-11-29">29. November 1797</date>; an <persName
+                        ref="gnd-118540238">Goethe</persName>, <date when="1798-04">April
                         1798</date>). In der Einleitung der Schrift über Hermann und Dorothea klingt
                     dann noch einmal das große Programm vom <date when="1796-02">Februar 1796</date>
                     an, das nun dieser konkreteren Aufgabe endgültig hatte weichen müssen. <persName
@@ -4774,20 +4788,18 @@
                         ref="gnd-118554727">Humboldt</persName> noch kämpfe (<bibl>
                         <title>Briefwechsel zwischen <persName ref="gnd-118607626"
                                 >Schiller</persName> und <persName ref="gnd-11856448X"
-                                >Körner</persName>
-                        </title>
-                        <biblScope unit="volume" n="4">4</biblScope>, <biblScope unit="page" n="37"
-                            >37</biblScope>. <biblScope unit="page" n="49">49</biblScope>
+                                >Körner</persName></title><biblScope unit="volume" n="4"
+                            >4</biblScope>, <biblScope unit="page" n="37">37</biblScope>. <biblScope
+                            unit="page" n="49">49</biblScope>
                     </bibl>). Auch die romantischen Kreise hatten von dem Plane Kenntnis, brachten
                     ihm aber wie überhaupt der Persönlichkeit <persName ref="gnd-118554727"
-                        >Humboldt</persName>s nur geringe Sympathieen entgegen (<bibl>
-                        <title>
-                            <persName ref="gnd-118588893">Novalis</persName>' Briefwechsel mit
-                                <persName ref="gnd-118607987">
-                                <persName ref="gnd-118607960">Schlegel</persName>
-                            </persName>s</title> S. <biblScope unit="page" n="45">45.</biblScope>
-                        <biblScope unit="page" n="49">49</biblScope>
-                    </bibl>). </p>
+                        >Humboldt</persName>s nur geringe Sympathieen entgegen
+                                (<bibl><title><persName ref="gnd-118588893">Novalis</persName>'
+                            Briefwechsel mit <persName ref="gnd-118607987">
+                                <persName ref="gnd-118607960"
+                            >Schlegel</persName></persName>s</title> S. <biblScope unit="page"
+                            n="45">45.</biblScope>
+                        <biblScope unit="page" n="49">49</biblScope></bibl>).</p>
             </div>
         </body>
     </text>
