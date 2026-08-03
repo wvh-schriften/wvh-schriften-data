@@ -1,0 +1,452 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>Betrachtungen über die Weltgeschichte</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI enconding</resp>
+               <persName xml:id="sbp">
+                  <forename>Silvia</forename>
+                  <surname>Berigüete Pastor</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Wilhelm von Humboldt: Schriften</publisher>
+            <date when="2026-08">August 2026</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+            <idno type="URI">https://www.wvh-schriften.de</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Dritter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI"
+                     >https://archive.org/details/gesammelteschrif03humbuoft/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="350" to="359"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1814-08" notAfter="1814-09">August/September 1814</date>
+            <placeName ref="geo-2761369">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#type">
+               <term>Essay</term>
+            </keywords>
+            <keywords scheme="#topic">
+               <term>Geschichte</term>
+               <term>Philosophie</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text xmlns="http://www.tei-c.org/ns/1.0">
+      <body>
+         <div type="original">
+            <pb n="3.350" xml:id="pbIII350"/>
+            <head>
+               <title type="main">Betrachtungen über die Weltgeschichte</title>
+            </head>
+
+            <p>Es giebt mehr als Einen Versuch, die einzeln zerstreuten, und scheinbar zufälligen
+               Weltbegebenheiten unter Einen Gesichtspunkt zu bringen, und nach einem Princip der
+               Nothwendigkeit aus einander herzuleiten. Kant hat dies zuerst am meisten systematisch
+               und abstract gethan;<note type="footnote" n="i)" resp="gnd-116890657"><hi>In
+                        <bibl>seiner in der <publisher><orgName ref="zdb-4144698-7">Berlinischen
+                              Monatsschrift</orgName></publisher> vom <date when="1784-11">November
+                           1784</date> zuerst erschienenen Abhandlung: „<title>Idee zu einer
+                           allgemeinen Geschichte in weltbürgerlicher
+                  Absicht</title></bibl>.“</hi></note> mehrere sind ihm nachher hierin nachgefolgt;
+               alle sogenannte philosophische Geschichten sind Versuche dieser Art, und die Sucht,
+               Betrachtungen über die Geschichte anzustellen, hat fast die Geschichte, wenigstens
+               den geschichtlichen Sinn, verdrängt.</p>
+            <p>Aber diese Systeme haben meistentheils, ausser dem Fehler, nicht geschichtlich und am
+               wenigsten weltgeschichtlich zu seyn, d. h. die Begebenheiten gewaltsam zu behandeln,
+               und ganze Theile, die nicht in den sichtbarer verknüpften hineinpassen, zu übergehen,
+               noch den, das Menschengeschlecht zu sehr intellectuell, nach seiner individuellen,
+               oder gesellschaftlichen Vervollkommnung, die oft auch noch, als blosse Cultur,
+               einseitig aufgefasst wird, und nicht genug nach seinem Zusammenhange mit dem Erdboden
+               und dem Weltall, rein naturgeschichtlich, zu betrachten. </p>
+            <p>Die Aufgabe indess lässt sich auf keine Art zurückweisen. Es ist einmal zuviel
+               offenbarer Zusammenhang unter den Ereig-<pb n="3.351" xml:id="pbIII351"/> nissen, als
+               dass der dunklere nicht aufgeklärt, der scheinbar mangelnde nicht ergänzt werden
+               sollte. Die Macht, welche Ideen Jahrhunderte hindurch auf die Menschheit ausüben,
+               fällt zu sehr in die Augen, um es nicht zu wagen, alle Umänderungen, die mit ihr
+               vorgehn. Einer grossen leitenden unterworfen zu glauben, und die Kühnheit zu hegen,
+               diese zu errathen. Das Interesse des Einzelnen und der Gesellschaft ist endlich
+               innigst an die Beantwortung der Frage geknüpft: welcher künftige Zustand sich aus dem
+               jetzigen, so wie dieser aus dem zunächst vorhergegangenen, entwickeln wird:</p>
+            <p>Um daher eine so anziehende Untersuchung zu verfolgen, aber dem fragmentarisch uns
+               überlieferten Inbegriff weltgeschichtlicher Begebenheiten sein volles Recht zu
+               lassen, wollen wir im Folgenden, sowohl von Seiten der Idee, als der Erfahrung, Alles
+               sorgfältig aufsuchen, und treulich zusammenstellen, was den Zusammenhang der
+               Umänderungen des Menschengeschlechts, sein vermeintliches Fortschreiten ins
+               Unendliche, oder seinen in sich selbst zurückkehrenden Kreisgang, zu beurkunden und
+               darzustellen vermag. Allein uns wohl hütend, ein zu erreichendes, vorherbestimmtes
+               Ziel im Auge zu haben, wollen wir lieber unsern Blick rückwärts auf die Anfänge
+               unsres Geschlechts, und in seine einzelne und gesellschaftliche Natur werfen, um
+               wenigstens entweder ein sichres Fundament zu einem künftigen, geschickteren Händen
+               vorzubehaltenden Gebäude zu legen, oder die Stellen zu zeigen, wo der zu unsichre
+               Grund kein haltbares und festes erlaubt.</p>
+            <p>Eine solche Arbeit dringt zugleich in das grösseste Leben der Geschichte ein, und
+               führt über ihre gewöhnlichen Gränzen, ja in einigen Theilen über alle Erfahrung
+               hinaus. Sie hält daher das Nachdenken wechselsweis bei der reizendsten
+               Mannigfaltigkeit, und den höchsten Gegenständen fest. Zugleich aber, das
+               engbeschränkte Interesse der Gegenwart verschmähend, zeigt sie, wie das oft gross
+               Geachtete klein ist, und wie am kleinsten und winzigsten gegen die Schicksale des
+               Menschengeschlechts im Ganzen und Wesentlichen die Herrsch- und Streitsucht der
+               angeblich civilisirten Nationen, das Zerstören und Gründen nur auf politischer
+               Eintheilung beruhender Staaten, und Alles, was einzelne Willkühr schaft, nicht
+               getragen vom selbstständigen Willen ganzer Nationen.</p>
+            <milestone unit="separator"/>
+            <list type="arabic">
+               <item n="1">
+                  <p>Einleitung. — Philosophischer, — Historischer Theil.</p></item>
+               <item n="2">
+                  <p>Einleitung. — Was ist zu erwarten und zu thun? — Was <pb n="3.352"
+                        xml:id="pbIII352"/> sind die treibenden Kräfte der Weltgeschichte? Worin hat
+                     man bis jetzt bei ihrer Bearbeitung gefehlt?</p></item>
+               <item n="3">
+                  <p>Was ist zu erwarten und zu thun? — Das Menschengeschlecht ist eine
+                     Naturpflanze, wie das Geschlecht der Löwen und Elephanten; seine verschiedenen
+                     Stämme und Nationen Naturproducte, wie die Racen Arabischer und Isländischer
+                     Pferde, nur mit dem Unterschied, dass sich im Keim der Bildung selbst zu den
+                     Kräften, die sich in jenen, uns sichtbar, allein zeigen, die Idee der Sprache
+                     und Freiheit gesellt, und sich besser oder schlechter bettet. <hi>nr</hi>.
+                     4.</p>
+                  <p>Der Einzelne ist in Verhältniss zu seiner Nation nur in der Art ein Individuum,
+                     wie ein Blatt im Verhältniss zum Baum, ebenso kann die Stufenfolge der
+                     Individualität weiter gehen, von der Nation zum Völkerstamm, von diesem zur
+                     Race, von ihr zum Menschengeschlecht. Nur innerhalb eines gewissen Kreises kann
+                     dann der Untergeordnete vorwärts gehen, zurückschreiten, oder anders seyn.
+                        <hi>nr</hi>. 5.</p>
+                  <p>Es giebt einen Moment der moralischen Erzeugung, auf dem das Individuum
+                     (Nation, oder Einzelner) wird, was es seyn soll, nicht stufenweis, sondern
+                     plötzlich und auf einmal. Alsdann fängt es an zu seyn, denn vorher war es ein
+                     Andres. Dieser Anfang nun ist auch seine Vollendung; von da geht es unmittelbar
+                     in blosser Entwickelung des Vorhandenen, und mit Kraftabnahme, rückwärts. Aber
+                     zwischen dem eigentlichen Bewusstseyn des Gipfels, und dem Sichtbarwerden der
+                     Abnahme giebt es ein Schwanken, und dies ist die schönste Periode.</p>
+                  <p>Die Natur im Grossen, wie im Kleinen erzeugt nur in einer gewissen Periode der
+                     Fruchtbarkeit, die man ihre Jugend nennen kann, und was sich, ohne neue
+                     Erzeugung, nur fortentwickelt und bildet, nähert sich seinem Untergang. Die
+                     Veredlung des Menschengeschlechts ist daher nicht eigentlich von stufenweiser
+                     Ausbildung, und an demselben Individuum, nicht einmal Complexus von Individuen
+                     zu erwarten, sondern nur durch immer neue Versuche der mit Kraft zeugenden
+                     Natur, und überrascht immer durch Neuheit. Allein es erhalten sich bisweilen
+                     von den Untergegangenen Ideen, welche die künftige Naturerzeugung befördern,
+                     oder ihr aufhelfen, obgleich auch sie nur fruchten, wenn sie mit junger oder
+                     erneuerter Kraft ergriffen werden.</p>
+                  <p>Ausser der Veredlung des Menschengeschlechts giebt es ein Leben desselben, das
+                     in verschiedenen und nahen Beziehungen auf <pb n="3.353" xml:id="pbIII353"/>
+                     sie steht, und zugleich einen unabhängigen Werth für sich hat. Dieses liegt
+                     innerhalb der Gränzen menschlicher Erhaltung und Beförderung, und ist, wenn es
+                     nicht durch die Fluth des Schicksals durchbrochen wird, einer regelmässigen,
+                     stufenweisen Verbesserung fähig.</p>
+                  <p>Aus beidem nun, aus der Entwicklung, deren Stufen sich verfolgen lassen, und
+                     den neuen Erzeugungen und Revolutionen ist die Weltgeschichte zusammengesetzt,
+                     und mit Rücksicht auf Beides muss ihr Gang beobachtet und aufgesucht
+                     werden.</p>
+                  <p>Man muss aber durchaus aufhören, mit einer gewissen distributiven Gerechtigkeit
+                     immer die Individuen zu verfolgen, nur auf das Ganze sehen, und den Gang der
+                     Veredlung nur an ihm bemerken. Denn alle Kraft des Daseyns in der Schöpfung
+                     macht nur Eine Masse aus, und wie die Individualität, als etwas gleichsam
+                     Relatives, einer stufenweisen Erweiterung fähig ist, so ist ihr Bewusstseyn
+                     auch nur das eines individuellen und momentanen Daseyns. und selbst nur den
+                     Zusammenhang des Daseyns verloren halten, wenn die Individualitäten anders
+                     zusammenfliessen, heisst über etwas aburtheilen, wovon weder Anschauung, noch
+                     Begriff möglich ist. Das Seyn in der Zeit ist ein blosses Erzeugen und
+                     Untergehen, und die Erhaltung in demselben Zustand ist nur ein trügender
+                     Schein. Die Weltgeschichte ist daher und in dem getheilten irrdischen Daseyn
+                     nur die uns sichtbare Auflösung des Problems, wie — sey es bis zur Erschöpfung
+                     des Begriffs, oder bis zu einem, nach unbekannten Gesetzen gesteckten Ziele —
+                     die in der Menschheit begriffene Fülle und Mannigfaltigkeit der Kraft nach und
+                     nach zur Wirklichkeit kommt. Die Menschheit aber kann nur in der, der
+                     Erscheinung nach, ganz körperlichen Natur leben und weben, und trägt selbst
+                     einen Theil dieser Natur in sich. Der Geist, der diese beherrscht, überlebt den
+                     Einzelnen, und so ist das Wichtigste in der Weltgeschichte die Beobachtung
+                     dieses, sich forttragenden, anders gestaltenden, aber auch selbst manchmal
+                     wieder untergehenden Geistes. Die Natur und er sind aber nicht im Kampf mit
+                     einander, indem er sich vielmehr ihrer und ihrer Zeugungskraft bedient. Ihre
+                     Verschiedenheit selbst ist vermuthlich ausser ihrem — eigentlich Eins seyenden
+                     — Wesen, und nur in der Beschränktheit unsrer Ansicht. <hi>ad</hi>.
+                     <hi>nr</hi>. 7.</p>
+                  <p>Zu erwarten ist also nicht eine immer fortschreitende Vervollkommnung in dem
+                     Stückwerk von Zeit, Raum und Daseyn, das wir übersehen, nicht die gepriesene,
+                     verheissene, gewisser-<pb n="3.354" xml:id="pbIII354"/> massen nur von unsrem
+                     Fleisse abhängende der Civilisation, die kaum so zu nennen ist, und sich immer
+                     selbst in Ueberbildung ihr Grab gräbt; sondern nur zu vertrauen, dass die Kraft
+                     der Natur und der Ideen unerschöpft bleibt, dass nirgend etwas Neues erzeugt
+                     werden kann, ohne nicht auch in unser mit dem Ganzen eng vereinigtes Wesen, und
+                     unsern Genuss überzugehen, und dass in der Gegenwart und auf uns gekommenen
+                     Vergangenheit ein auch für die längste Lebenszeit unerschöpflicher Stoff zu
+                     fruchtbarer Bearbeitung liegt.</p>
+                  <p>Zu thun ist, die Fruchtbarkeit zu neuen, lebendigen geistigen Erzeugungen immer
+                     zu erhalten, entgegen zu arbeiten allem Todten und Mechanischen, das gewöhnlich
+                     sich fortentwickelnde Leben immer mit Ordnung und Ernst zu behandeln, und
+                     soviel es möglich ist, durch Geist und Gemüth zu beleben.</p>
+               </item>
+               <item n="4">
+                  <p><hi>ad nr</hi>. 3. S. 5 [352]. Das Menschengeschlecht entsteht auf der Erde,
+                     wie die Geschlechter der Thiere; es pflanzt sich so fort; vereinigt sich so in
+                     Herden, geht so aus einander in Nationen, nur mit grösserem Bedürfniss nach
+                     Geselligkeit, bleibt oder wandert, nach physischen Bedürfnissen oder
+                     Imaginationsgelüsten, hat durch eben diese Bedürfnisse, verbunden mit den
+                     Leidenschaften, Revolutionen, Kriege u. s. f., in Allem diesem muss man nicht
+                     nach den Endabsichten, sondern nach den Ursachen fragen, und diese sind oft
+                     physisch und animalisch. Die Bewegung des Menschengeschlechts, welche die
+                     Weltgeschichte zeigt, entspringt, wie alle Bewegung in der Natur, aus dem
+                     Drange zu wirken und zu zeugen, und den Hemmungen, die dieser Drang erleidet,
+                     und folgt Gesetzen, die nur nicht immer sichtbar sind. An alles dies chaotische
+                     Fluthen knüpft sich, da der Mensch einmal eine intellektuelle Natur ist, Geist
+                     und Idee an, gelingt, oder misglückt, pflanzt sich in gewissen von Nationen zu
+                     Nationen übergetragenen Formen fort, und ändert, erweitert oder verengt,
+                     veredelt oder verschlechtert sich. Aber plötzlich wird wieder das Edelste, das
+                     er hervorgebracht hat, verschlungen von Naturbegebenheiten, oder Barbarei; es
+                     ist sichtbar, dass das Schicksal das Geistig-Gebildete nicht achtet, und das
+                     ist die Unbarmherzigkeit der Weltgeschichte. Aus den Revolutionen gehen aber
+                     wieder neue Formen hervor, die Fülle der Kraft tritt in immer wechselnden und
+                     sich immer veredelnden Gestalten auf, und die Endabsicht, wie das Wesen alles
+                     Geschehenden besteht nur darin, dass sie sich ausspricht, und sich aus
+                     chaotischem <pb n="3.355" xml:id="pbIII355"/> Fluten zur Klarheit bringt. Jede
+                     noch so rohe und wilde Naturbewegung begleitet aber die nie untergehende Idee.
+                     Wo ein Krater einstürzt, ein Vulkan sich erhebt, hängt sich Schönheit, oder
+                     Erhabenheit um seine Formen; wo eine Nation auftritt, lebt geistige Form, und
+                     Phantasie und Gemüth rührender Ton in ihrer Sprache. Drum ist in jedem
+                     Untergang Trost, und in jedem Wechsel Ersatz.</p></item>
+               <item n="5">
+                  <p>ad nr. 3. S. 5 [352]. Leben heisst durch eine geheimnissvolle Kraft eine
+                     Gedankenform in einer Masse von Materie, als Gesetz, herrschend erhalten. In
+                     der physischen Welt heisst diese Form und dies Gesetz Organisation, in der
+                     intellectuellen und moralischen Charakter. Zeugen heisst, jene geheimnissvolle
+                     Kraft beginnen lassen, oder mit andern Worten eine Kraft anzünden, die
+                     plötzlich eine gewisse Quantität von Materie in einer durchaus bestimmten Form
+                     von der Masse losreisst, und nun fortdauernd diese Form in ihrer
+                     Eigenthümlichkeit allen andern Formen entgegenstellt. Die wahre Individualität
+                     entsteht also von innen heraus, plötzlich und auf Einmal, und wird so wenig
+                     durch das Leben hervorgebracht, dass sie nur im Leben zum Bewusstseyn kommt,
+                     und oft noch verdunkelt, oder verdreht. Da aber der Mensch ein Thier der
+                     Geselligkeit ist — sein distinctiver Charakter — weil er eines Andern nicht zum
+                     Schutz, zur Hülfe, zur Zeugung, zum Gewohnheitsleben (wie einige Thierarten),
+                     sondern deshalb bedarf, weil er sich zum Bewusstseyn des Ichs erhebt, und ich
+                     ohne Du vor seinem Verstand und seiner Empfindung ein Unding sind: so reisst
+                     sich in seiner Individualität (in seinem Ich) zugleich die seiner Gesellschaft
+                     (seines Du) los. Die Nation ist also auch ein Individuum, und der Einzelne ein
+                     Individuum vom Individuum. Durch den nicht zu begreifenden, aber darum doch
+                     unläugbaren Zusammenhang der Organisation mit dem Charakter wird diese
+                     Individualität fester, und es sind verschiedene Kreise derselben möglich, in
+                     deren jedem entfernterem immer die Organisation eine wichtigere Rolle
+                     spielt.</p></item>
+               <item n="6">
+                  <p>Was sind die treibenden Kräfte der Weltgeschichte? Es sind die bewegenden der
+                     Schicksale des Menschengeschlechts, und — im Ganzen und Grossen betrachtet —
+                     die Kräfte der Zeugung, Bildung und Trägheit. </p>
+                  <p>Durch die erste entstehen neue Nationen, und neue Individuen, oder Umformungen
+                     alter, die neuen Entstehungen gleich kommen. Die Naturrevolutionen spielen
+                     hierbei die erste und wichtigste Rolle. <pb n="3.356" xml:id="pbIII356"/> Die
+                     Trennungen und Verbindungen, die Ansiedelungen und Wanderungen, welche in den
+                     ersten Uranfängen unsrer Geschichte, und noch über sie hinaus, Stämme gebildet
+                     und geschieden haben, gehören wohl grösstentheils geographischen, klimatischen,
+                     und physischen Ursachen an. Auf sie folgen die Umwandlungen, welche Nationen
+                     durch geschichtliche Revolutionen erfahren, und endlich die, welche ohne
+                     einzelne grosse Ereignisse nur eine Folge des einmal eingeleiteten Laufs der
+                     Begebenheiten sind. Es ist gleich wichtig und anziehend, zu untersuchen, was
+                     zur Erzeugung merkwürdiger Nationen und Individuen vorzüglich beigetragen hat.
+                     Dass die leuchtendsten Beispiele von Nationen, welche die Geschichte aufstellt,
+                     nicht allmählich gebildet, sondern auf Einmal und aus dem Nichts hervorgegangen
+                     sind, beweisen die sich so sehr verschiedenen Griechen und Römer. Der
+                     Kunstcharakter der ersteren lässt gar nicht den Begriff stufenweiser Bildung
+                     zu; und wie Rom da stand, war auch in ihm die Idee eines nie nachgebenden und
+                     immer weiter greifenden Staates gegeben.</p>
+                  <p>Die Kraft der Bildung ist das wozu Nationen und Einzelne sich emporarbeiten. In
+                     diesem Gebiet üben Ideen ihre Macht aus, und hier entsteht die wichtige Frage,
+                     die Gränzen der Bildung, das wozu sie führen kann, zu bestimmen. Die Nation,
+                     die, da sie, soviel es möglich ist, fast ganz nur aus Bildung besteht, hierin
+                     am besten zum Beispiel dienen kann, ist die Französische. Es giebt einen
+                     gewissen Cyclus allgemeiner Ideen, welche durch die Denk- und Empfindungskräfte
+                     der Menschen unmittelbar überall mehr von selbst vorhanden, als mitgetheilt
+                     sind. Es sind dies vor allen diejenigen, auf welchen Religion, Verfassung,
+                     öffentliches, häusliches und einsames Leben (also zugleich Vergnügungen, Kunst,
+                     Philosophie und Wissenschaft) beruht. Sie vorzüglich sind die bildenden Kräfte
+                     der Nationen. Aber Aehnlichkeiten der letzteren in ihnen führen nicht immer auf
+                     Abstammung, oder Mittheilung, so wenig als Aehnlichkeit in den Sprachen.</p>
+                  <p>Die Kraft der Trägheit zeigt sich in dem animalischen, und im intellektuellen,
+                     moralischen, durch Gewohnheit und Leidenschaft animalisch werdenden Leben der
+                     Nationen und Einzelnen. Die Einförmigkeit der Aegypter, Indianer, Mexicaner u.
+                     s. f. ist eine Frucht dieser Kraft.</p>
+                  <p>Aus diesen verschiedenen, einzeln oder zusammen wirkenden Kräften, deren
+                     Wirkung aber oft schwer zu erkennen ist, gehen <pb n="3.357" xml:id="pbIII357"
+                     /> die Schicksale des Menschengeschlechts hervor, und bei jeder in demselben
+                     auftretenden merkwürdigen Gestalt (sey es einer Nation, oder eines Individuums)
+                     lässt sich, ausser ihrer Beschreibung und Würdigung, nur fragen, wie sie
+                     entstanden, wie zu dem geworden ist, was wir in ihr erblicken?</p>
+               </item>
+               <item n="7">
+                  <p><hi>ad nr</hi>. 3. S. 7 [353]. Unter dem Ganzen, auf das man sehen soll, wird
+                     aber hier nicht die jetzt oder jedesmal lebende Menschheit, sondern der Begriff
+                     des Menschengeschlechtes verstanden. Dieser stellt sich theilweise in jeder
+                     einzelnen Nation und jedem einzelnen Individuum, allenfalls wegen des möglichen
+                     Zusammenhanges aller zugleich lebenden in jedem einzelnen Zeitalter, aber als
+                     Ganzes nur in der nie zu erreichenden Totalität aller nach und nach zur
+                     Wirklichkeit kommenden Einzelheiten dar. Dass der Begriff der Menschheit, auch
+                     durch diese ganze Totalität, jemals wirklich erweitert, die alten Marksteine
+                     der Schöpfung verrückt würden, ist in der Zeit unmöglich. <hi xml:lang="grc">Μὴ
+                        μάτευε θεὸς γενέσθαι</hi>!<note type="footnote" n="ii)" resp="gnd-116890657"
+                              ><hi><persName ref="gnd-118554727">Humboldt</persName>s Erinnerung
+                           vermischt hier zwei Stellen aus <persName ref="gnd-118594427"
+                              >Pindar</persName>: <quote xml:lang="grc">Μὴ ματεύσῃ θεὸς
+                              γενέσθαι</quote>
+                           <bibl><title>Olympia</title>
+                              <biblScope unit="poem" n="5">5</biblScope>, <biblScope unit="verse"
+                                 n="24">24</biblScope></bibl> und <quote xml:lang="grc">Μὴ μάτευε
+                              Ζευς γενέσθαι</quote>
+                           <bibl><title>Isthmia</title>
+                              <biblScope unit="poem" n="4">4</biblScope>, <biblScope unit="verse"
+                                 n="12">12</biblScope></bibl>.</hi></note> Aber möglich und
+                     nothwendig ist, dass der Inbegriff der Menschheit, die Tiefe innerhalb ihrer
+                     Gränzen nach und nach zur Klarheit des Bewusstseyns komme, und der Geist durch
+                     das Streben danach, und das theilweise Gelingen die Idee der Menschheit und
+                     (wie eines durch das Ich gegebenen Du's) die der Gottheit, d. i. der Kraft und
+                     der Gesetzmässigkeit an sich, rein und fruchtbar in sich aufnehme. Wenn dies
+                     aber Nutzen der Weltgeschichte ist, so ist es nicht Zweck der
+                     Menschenschicksale. Solche Zwecke, wie man sie nenne, giebt es nicht; die
+                     Schicksale des Menschengeschlechts rollen fort, wie die Ströme vom Berge dem
+                     Meere zufliessen, wie das Feld Gras und Kräuter spriesst, wie sich Insecten
+                     einspinnen und zu Schmetterlingen werden, wie Völker drängen und sich drängen
+                     lassen, vernichten und aufgerieben werden. Die Kraft des Universums, vom
+                     Standpunkte der Zeit betrachtet, auf dem wir befasst sind, ist ein
+                     unaufhaltsames Fortwälzen; und nicht daher aus wenigen Jahrtausenden
+                     herausgegrübelte, einem fremden, mangelhaft gefühlten, und noch mangelhafter
+                     erkannten Wesen angedichtete Absichten, sondern die Kraft der Natur und der
+                     Menschheit muss man in der Weltgeschichte erkennen. Da aber das Ganze nur am
+                     Einzelnen erkennbar ist, so muss man Nationen und Individuen
+                  studiren.</p></item>
+               <pb n="3.358" xml:id="pbIII358"/>
+               <item n="8">
+                  <p>Die Fehler bei der jetzigen Ansicht der Weltgeschichte sind:</p>
+                  <p>dass man fast nur auf Cultur und Civilisation sieht, schlechterdings eine
+                     fortschreitende Vervollkommnung im Kopfe hat, daher sich willkührlich Stufen
+                     dieser Vervollkommnung bildet, und dagegen die wichtigsten Keime, aus denen
+                     sich Grosses entspinnen wird, so wie sich aus ähnlichen Grosses entsponnen hat,
+                     übersieht.</p>
+                  <p>dass man die Geschlechter der Menschen zu sehr als Vernunft und
+                     Verstandeswesen, zu wenig als Naturproducte betrachtet.</p>
+                  <p>dass man die Vollendung des Menschengeschlechts in Erreichung einer
+                     allgemeinen, abstract gedachten Vollkommenheit, nicht in der Entwicklung eines
+                     Reichthums grosser individueller Formen sucht.</p>
+               </item>
+               <item n="9">
+                  <p>Nach dem hier angegebenen Gesichtspunkt muss man in der Weltgeschichte
+                     achten:</p>
+                  <p>auf die einzelnen Nationen und Individuen, von denen man gleichsam eine Reihe
+                     von Monographien, soviel möglich, nach ihren Abstammungen geordnet, aufstellen
+                     muss;</p>
+                  <p>auf die Einwirkung, die sie auf einander und auf ihre Bildung ausgeübt
+                     haben;</p>
+                  <p>auf das Verhältniss, in dem sie einzeln und zusammen mit dem Begriff der
+                     Menschheit überhaupt und den einzelnen durch ihn gegebenen allgemeinen Ideen,
+                     und mit einander in Beziehung hierauf stehen;</p>
+                  <p>auf den Einfluss der jedesmal zugleich existirenden auf die ganze Masse und die
+                     ganze Dauer des Menschengeschlechts;</p>
+                  <p>auf die Entstehung neuer interessanter Erscheinungen in der Menschengeschichte,
+                     und auf das Fortleben der einzelnen Völkerhaufen in dem einmal betretenen
+                     Gleise.</p>
+                  <p>Bei dieser Methode werden zugleich alle Fäden des Zusammenhanges menschlicher
+                     Begebenheiten von ihren Anfängen bis zu ihrem Ende verfolgt, und auch da, wo
+                     dieser Zusammenhang nicht vorhanden, oder nicht sichtbar ist, die ganze
+                     Mannigfaltigkeit menschlicher Gestalten, so weit sie anziehend, oder belehrend
+                     seyn kann, durchmustert. Die Weltgeschichte wird unter einem dreifachen
+                     Gesichtspunkt:</p>
+                  <p>als einer der wichtigsten Theile der Wirksamkeit der Kraft des Universums;</p>
+                  <p>als ein durch Studium und Scharfsinn zu entwirrender Knäuel oft kurz
+                     abgerissener, oft aber auch lang zusammenhängender Fäden;</p>
+                  <pb n="3.359" xml:id="pbIII359"/>
+                  <p>als ein Massstab der für das Menschengeschlecht zu erwartenden Glückseligkeit
+                     und Vollkommenheit, und eine Lehre beide zu erhalten und zu erhöhen</p>
+                  <p>betrachtet.</p>
+                  <p>Um aber diese Betrachtungen an der wirklichen Geschichte anstellen zu können,
+                     müssen erst viele philosophische Untersuchungen vorhergehen, um vorher im
+                     Allgemeinen die Möglichkeit der Erscheinungen und ihres Zusammenhanges zu
+                     prüfen, und ihren Werth an sich und Einfluss um sich her richtig zu würdigen.
+                     Diese Prüfung und Würdigung ist es aber besser, immer zugleich an der Hand der
+                     Erfahrung anzustellen, und gleich in sie, soviel als irgend nothwendig ist, von
+                     der Geschichte auszunehmen, da hier immer zugleich mit von
+                     Erfahrungsgegenständen die Rede ist. Auf das, nach dieser Methode, in dem
+                     raisonnirenden Theil schon historisch Ausgeführte darf sich der geschichtliche
+                     alsdann nur kurz beziehn.</p>
+               </item>
+            </list>
+         </div>
+         <div type="notes">
+            <head>
+               <title type="main">Bemerkungen zur Entstehungsgeschichte </title>
+            </head>
+            <p>Handschrift (12 halbbeschriebene Folioseiten) im Archiv in <placeName
+                  ref="geo-2823708">Tegel</placeName>. — Erster Druck: <bibl><title>Sechs
+                     ungedruckte Aufsätze über das klassische Altertum von <persName
+                        ref="gnd-118554727">Wilhelm von Humboldt</persName></title>, herausgegeben
+                  von <editor><persName ref="gnd-116890657">Albert Leitzmann</persName></editor> S.
+                     <biblScope unit="page" from="55" to="66">55—66</biblScope> (<date when="1896"
+                     >1896</date>)</bibl>.</p>
+            <p>Das Wasserzeichen der Handschrift ist dasselbe wie bei den beiden vorhergehenden
+               Abhandlungen, bezeugt also die Entstehung des Aufsatzes in <placeName
+                  ref="geo-2761369">Wien</placeName>, ohne daß für <date when="1812">1812</date>
+               oder <date when="1814">1814</date> damit eine Entscheidung gefällt wäre. Ich habe
+               mich für <date when="1814">1814</date> entschieden, um die Arbeit von der folgenden
+               Nummer, zu der sie aufs engste gehört, nicht durch einen noch größeren Zeitraum zu
+               trennen, als unbedingt nötig ist, obwohl die Probleme der Geschichte schon <date
+                  when="1812">1812</date> in der Ankündigung der Monographie über die <placeName
+                  ref="geo-3336903">Bask</placeName>en kurz berührt werden, also schon damals
+                  <persName ref="gnd-118554727">Humboldt</persName> beschäftigt haben (vgl. im
+               allgemeinen <bibl><author>Kittel</author>, <title><persName ref="gnd-118554727"
+                        >Wilhelm von Humboldt</persName>s geschichtliche Weltanschauung im Lichte
+                     des klassischen Subjektivismus der Denker und Dichter von <placeName
+                        ref="geo-554234">Königsberg</placeName>, <placeName ref="geo-2895044"
+                        >Jena</placeName> und <placeName ref="geo-2812482"
+                     >Weimar</placeName></title>, <pubPlace>Leipzig</pubPlace>
+                  <date when="1901">1901</date></bibl>).</p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>
