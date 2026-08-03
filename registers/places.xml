@@ -1431,7 +1431,31 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <region/>
                 <note>Das antike Persien, auch als Perserreich oder Achämenidenreich bekannt, war eines der größten Reiche der Antike und erstreckte sich zeitweise von Ägypten bis nach Indien.</note>
                 <ptr type="geonames" target="https://www.geonames.org/130758"/>
-                <ptr type="info" target="https://en.wikipedia.org/wiki/Iran"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Achaemenid_Empire"/>
+            </place>
+                <place xml:id="geo-3996063" type="A.PCLI">
+                <placeName type="main">Mexico</placeName>
+                <placeName type="sort">Mexico</placeName>
+                <location>
+                    <geo>23 -102</geo>
+                </location>
+                <country>Mexico</country>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3996063"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Mexico"/>
+            </place>
+            <place type="A.PCLI" xml:id="geo-2629691" when="2026-08-03" resp="tei">
+                <placeName type="main">Island</placeName>
+                <placeName type="sort">Iceland</placeName>
+                <location>
+                    <geo>65 -18</geo>
+                </location>
+                <country>Iceland</country>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2629691"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Iceland"/>
             </place>
         </listPlace>
     </standOff>
