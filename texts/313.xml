@@ -1,0 +1,302 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>Betrachtungen über die bewegenden Ursachen in der Weltgeschichte</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI enconding</resp>
+               <persName xml:id="sbp">
+                  <forename>Silvia</forename>
+                  <surname>Berigüete Pastor</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Wilhelm von Humboldt: Schriften</publisher>
+            <date when="2026-08">August 2026</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+            <idno type="URI">https://www.wvh-schriften.de</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Dritter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI"
+                     >https://archive.org/details/gesammelteschrif03humbuoft/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="360" to="366"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date when="1818">1818</date>
+            <placeName ref="geo-2643743">London</placeName>
+         </creation>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#type">
+               <term>Essay</term>
+            </keywords>
+            <keywords scheme="#topic">
+               <term>Geschichte</term>
+               <term>Philosophie</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text xmlns="http://www.tei-c.org/ns/1.0">
+      <body>
+         <div type="original">
+            <pb n="3.360" xml:id="pbIII360"/>
+            <head>
+               <title type="main">Betrachtungen über die bewegenden Ursachen in der
+                  Weltgeschichte</title>
+            </head>
+            <p>Die gegenwärtigen Betrachtungen sind von allen bisherigen Bearbeitungen der
+               Weltgeschichte verschieden.</p>
+            <p>Ihre Absicht ist nicht, den Zusammenhang der Ereignisse unter einander zu erklären,
+               die Ursachen der Schicksale des Menschengeschlechts in den Begebenheiten aufzusuchen,
+               und aus den einzelnen Thatsachen ein so zusammenhängendes Gewebe zu bilden, als ihre
+               in einander gegründete Folge erlaubt.</p>
+            <p>Sie sind ebensowenig bestimmt, wie in den sogenannten Geschichten der Menschheit, und
+               ihrer Cultur zu geschehen pflegt, den innern Zusammenhang der Zwecke zu verfolgen,
+               und zu zeigen, wie das Menschengeschlecht von rohen und unförmlichen Anfängen zu
+               immer wachsender Vollkommenheit gediehen ist.</p>
+            <p>Wenn man dies mit Recht die Philosophie der Weltgeschichte nennt, so gilt es hier,
+               wenn der Ausdruck nicht zu kühn ist, die Physik derselben. Nicht den Endursachen,
+               sondern den bewegenden soll nachgespürt: es sollen nicht vorangehende Begebenheiten,
+               aus welchen nachfolgende entstanden sind, aufgezählt; die Kräfte selbst sollen
+               nachgewiesen werden, welchen beide ihren Ursprung verdanken. Es ist daher hier um
+               eine Zergliederung der Weltgeschichte zu thun, um eine Auflösung des durch die oben
+               berührte Bearbeitung derselben gebildeten Gewebes; allein um eine Auflösung in neue,
+               in jener nicht ent-<pb n="3.361" xml:id="pbIII361"/> haltene Bestandteile. Auf die
+               Endursachen aber führt auch die gegenwärtige Arbeit zurück, da die ersten bewegenden
+               nur in einem Gebiete liegen können, in welchem Kraft und Absicht sich gegenseitig
+               berühren und fordern.</p>
+            <p>Es bedarf übrigens kaum der Bemerkung, dass der Begriff einer die Weltbegebenheiten
+               lenkenden Vorschung hier nur darum bei Seite gesetzt wird, weil er, zum
+               Erklärungsgrund angenommen, alle fernere Untersuchung abschneidet. Die für uns
+               erkennbaren bewegenden Ursachen können nur in der Natur und Beschaffenheit des von
+               jener ersten und höchsten Geschaffenen aufgefunden werden.</p>
+            <milestone unit="separator"/>
+            <p>Die Ursachen der Weltbegebenheiten lassen sich auf einen der drei folgenden
+               Gegenstände zurückbringen:</p>
+            <p>die Natur der Dinge,</p>
+            <p>die Freiheit des Menschen, und</p>
+            <p>die Fügung des Zufalls.</p>
+            <p>Die Natur der Dinge ist entweder durchaus, oder innerhalb gewisser Gränzen bestimmt,
+               und dieselbe; und zu ihr muss ganz vorzüglich auch die moralische der Menschen
+               gerechnet werden, da auch der Mensch, vorzüglich wenn man ihn, wie er im Ganzen, und
+               als Masse handelt, betrachtet, sich in einem gewissen gleichförmigen Gleise erhält,
+               von denselben Gegenständen ungefähr dieselben Eindrücke empfängt, und auf sie
+               ungefähr auf dieselbe Weise zurückwirkt. Von dieser Seite betrachtet, liesse sich die
+               ganze Weltgeschichte in der Vergangenheit und Zukunft gewissermassen mathematisch
+               berechnen, und die Vollständigkeit der Berechnung hienge nur von dem Umfang unsrer
+               Bekanntschaft mit den wirkenden Ursachen ab. Bis auf einen gewissen Grad ist dies
+               auch unläugbar wahr. In dem Wachsen und Sinken der mehresten Völker lässt sich ein
+               fast ganz gleichförmiger Gang wahrnehmen; wenn man den Zustand der Welt unmittelbar
+               nach dem Ende des zweiten Punischen Krieges und den Charakter der <placeName
+                  ref="geo-8354456">Röm</placeName>er betrachtet, so lässt sich die <placeName
+                  ref="geo-8354456">Röm</placeName>ische Weltherrschaft Schritt vor Schritt fast mit
+               vollkommener Nothwendigkeit herleiten: gewisse Gegenden, wie in <placeName
+                  ref="geo-3175395">Italien</placeName> die <placeName ref="geo-3174618"
+                  >Lombardie</placeName>, in Nord-<placeName ref="geo-2921044"
+                  >Deutschland</placeName> die Mitte von <placeName ref="geo-2842566"
+                  >Sachsen</placeName>, in <placeName ref="geo-3017382">Frankreich</placeName> die
+                  <placeName ref="geo-3027258">Champagne</placeName>, sind gewissermassen von der
+               Natur zu Kriegsschauplätzen und <pb n="3.362" xml:id="pbIII362"/> Schlachtfeldern
+               bestimmt; in der Politik giebt es Punkte, die, wie in der alten Geschichte <placeName
+                  ref="geo-2523118">Sicilien</placeName>, in der neuen <placeName ref="geo-3333250"
+                  >Brabant</placeName>, Jahrhunderte hindurch das Ziel streitender Leidenschaften
+               und Absichten bleiben; man findet Zeitalter — wie das zwischen der Schlacht bei
+                  <placeName ref="geo-254144">Salamis</placeName> und dem Ende des <placeName
+                  ref="geo-255620">Peloponnes</placeName>ischen Krieges, als die wetteifernde Macht
+                  <placeName ref="geo-264371">Athen</placeName>s und <placeName ref="geo-12041331"
+                  >Sparta</placeName>’s keine Alleinherrschaft in <placeName ref="geo-390903"
+                  >Griechenland</placeName>, dem einzigen Punkte, von dem sie damals hätte ausgehen
+               können, erlaubte, das unmittelbar nach <persName ref="gnd-118560093">Karl’s
+                  5.</persName> Tode, als die Grösse seines nun getheilten Reichs kein anderes hatte
+               emporkommen lassen, das zwischen <persName ref="gnd-118816829">Ludwigs 14.</persName>
+               Tode, und der <placeName ref="geo-3017382">Franz</placeName>ösischen Revolution, als
+               die Macht der Staaten gewissermassen zu einer Art Mechanik geworden war, die sich
+               nach und nach allen mittheilte, und dadurch alle in ein gewisses Gleichgewicht
+               versetzte — wo sich beinahe die Unmöglichkeit beweisen lässt, dass irgend ein auch
+               noch so ausserordentlicher Mann hätte eine Art von Weltherrschaft ausüben können.
+               Selbst die dem ersten Anblick nach zufälligsten Ereignisse, wie Heirathen,
+               Todesfälle, uneheliche Geburten, Verbrechen, zeigen in einer Reihe von Jahren eine
+               bewundernswürdige, und nur dadurch erklärliche Regelmässigkeit, dass auch die
+               willkührlichen Handlungen der Menschen den Charakter der Natur annehmen, die immer
+               einem nach gleichförmigen Gesetzen in sich zurückkehrenden Gange folgt. Das Studium
+               dieser mechanischen, und — da nichts einen so wichtigen Einfluss auf die menschlichen
+               Begebenheiten ausübt, als die Kraft der moralischen Wahlverwandtschaften — chemischen
+               Erklärungsart der Weltgeschichte ist im höchsten Grade wichtig, und wird es
+               vorzüglich, wenn man dasselbe auf die genauere Kenntniss der Gesetze lenkt, nach
+               welchen die einzelnen Bestandtheile der Geschichte, die Kräfte und Reagentien,
+               wirken, und Rückwirkungen empfangen. So lässt sich z. B. aus der innern Natur der
+               Sprachen, und dem Beispiel vieler einzelnen, der <placeName ref="geo-390903"
+                  >Griech</placeName>ischen, Lateinischen, <placeName ref="geo-3175395"
+                  >Italien</placeName>ischen, <placeName ref="geo-3017382">Franz</placeName>ösischen
+               beweisen, dass die Lebensdauer, und mithin die sich erhaltende Kraft und Schönheit
+               einer Sprache von demjenigen, was man ihr Material nennen könnte, von der Fülle und
+               Lebendigkeit der Empfindungsweise der Nationen, durch deren Brust und Lippen sie
+               gegangen ist, ganz und gar aber nicht von der Cultur dieser Nationen, abhängt; dass
+               daher keine Sprache gedeihen kann, die von einer zu geringen Masse von Menschen
+               gesprochen wird; dass nur diejenigen zu einem solchen Umfang gelangen, dass sich
+               gleichsam eine eigne Welt in ihnen bildet, deren Völker sich, wie <pb n="3.363"
+                  xml:id="pbIII363"/> man gewöhnlich, über alle bekannte Geschichte hinaus, an ihrer
+               lexikalischen und vorzüglich grammatikalischen Gestalt erkennen kann, Jahrhunderte
+               lang durch wunderbare Schicksale durchgekämpft haben: endlich dass jede still steht,
+               sobald ihre Nation aufhört ein reges inneres Daseyn, als Masse, als Nation zu führen.
+               Das Leben der Nationen selbst hat ebensowohl seine Organisation, seine Stufen, und
+               seine Veränderungen, wie das der Individuen. Denn es giebt für den Menschen, ausser
+               der wirklichen numerischen Individualität, unläugbar noch andere Abstufungen und
+               Erweiterungen derselben, in der Familie, der Nation durch die verschiedenen Kreise
+               kleinerer und grösserer Stämme hindurch, und dem ganzen Geschlecht. In jedem dieser
+               verschiedenen Umfänge sind nicht bloss ähnlich organisirte Menschen durch weitere und
+               engere Bande verbunden; sondern es giebt Beziehungen, wo wirklich alle, wie die
+               Glieder Eines Leibes, nur Ein und ebendasselbe Wesen sind. Bei den Nationen hat man
+               bis jetzt fast immer nur auf die äussern, auf sie einwirkenden Ursachen, vorzüglich
+               Religion und Staatsverfassung, aber viel zu wenig auf ihre inneren Verschiedenheiten,
+               z. B. auf die merkwürdigste aller, dass einige, wie gewisse in Gesellschaft lebende
+               Thiergeschlechter kastenweise, andre individuen-weise leben, und auf die, welche aus
+               einer mehr, oder minder angemessnen Theilung derselben in kleinere Stämme und dem
+               Zusammenwirken dieser entspringt. Auf ähnliche Weise gewinnt eine genaue und
+               vollständige Untersuchung noch vielen Gegenständen die Einsicht in ihre bestimmte
+               Wirkungsart ab, und das erste Geschäft einer Zergliederung der Weltgeschichte, wie
+               die gegenwärtige, ist es, diese Untersuchungen so weit, als möglich fortzusetzen, und
+               mit der Masse der Weltbegebenheiten zu vergleichen.</p>
+            <p>Allein es würde ewig vergeblich bleiben, hieraus eigentlich ihre Erklärung suchen zu
+               wollen. Ihr Zusammenhang ist nur zum Theil mechanisch, nur soweit, als todte Kräfte,
+               oder lebendige gewissermassen ihnen ähnlich wirken; wo derselbe hingegen das Gebiet
+               der Freiheit berührt, hört alle Berechnung auf; das Neue und nie Erfahrene kann
+               plötzlich aus einem grossen Geiste, oder einem mächtigen Willen hervorgehn, die sich
+               nur innerhalb sehr weiter Gränzen, und nur nach einem ganz andern Massstabe be¬
+               urtheilen lassen. Dies ist eigentlich der schöne und begeisternde Theil der
+               Weltgeschichte, da er von der Schöpfungskraft des menschlichen Charakters beherrscht
+               wird. So wie ein kräftiger <pb n="3.364" xml:id="pbIII364"/> Geist, sich selbst
+               bewusst oder unbewusst, von grossen Ideen beherrscht, über einem, der Form fähigen
+               Stoffe brütet; so kommt allemal etwas jenen Ideen Verwandtes, und daher dem
+               gewöhnlichen Naturgange Fremdes hervor. Diesem demungeachtet immer angehörend, hängt
+               es mit allem, was ihm vorausgegangen ist, allerdings in äusserer Folge zusammen,
+               allein seine innere Kraft lässt sich aus nichts von allem diesem, und überhaupt nicht
+               mechanisch erklären. Von welcher Art des Stoffes, und welcher Gattung der Geburten
+               die Rede sey, gilt gleich, und die Erscheinung ist durchaus dieselbe bei dem Denker,
+               dem Dichter, dem Künstler, dem Krieger, und dem Staatsmanne, von welchen beiden
+               letzteren vorzüglich die Weltbegebenheiten abhängen. Alle folgen einer höheren Kraft,
+               und bringen, wo ihr Unternehmen gelingt, etwas hervor, von dem sie selbst vorher nur
+               eine dunkle Ahndung hatten; ihr Wirken gehört einer Ordnung der Dinge an, von der wir
+               nur soviel einsehen, dass sie in einem, dem um uns her ganz entgegengesetzten
+               Zusammenhange steht. Auf eine ähnliche Weise, als hier das Genie, greift die
+               Leidenschaft in den Gang der Weltbegebenheiten ein. Die wahre, tiefe, wirklich diesen
+               Namen (der oft an die bloss augenblicklich heftige Begierde verschwendet wird)
+               verdienende Leidenschaft ist der Vernunftidee darin ähnlich, dass sie etwas
+               Unendliches und Unerreichbares, aber als Begierde, mit endlichen und sinnlichen
+               Mitteln und an endlichen Gegenständen, als solchen, sucht. Sie ist daher ein völliges
+               Verwechslen der Sphären, und führt immer, mehr oder weniger, eine Zerstörung der
+               eignen körperlichen Kräfte mit sich. Wenn sie wirklich ein blosses Verwechslen der
+               Sphären, und ihr Ziel selbst unendlich ist, wie in der religiösen Schwärmerei, und
+               der reinen Liebe, so ist sie höchstens ein Irrthum zu nennen, und kann nur der
+               Irrthum einer edlen Seele seyn, deren endliches Daseyn selbst man einen Irrthum der
+               Natur nennen könnte. Die Sehnsucht nach dem Göttlichen verzehrt alsdann die irrdische
+               Kraft. Allein meistentheils ist die Leidenschaft nur in der Form ihres Strebens
+               unendlich, und es kommt auf die Natur ihres begränzten und an sich geringfügigen
+               Gegenstandes an, ob diese Form sie zu adeln vermag, oder sie verhasst und verächtlich
+               macht. Auf die hier erwähnte Weise haben indess nur wenige Leidenschaften eine
+               weltgeschichtliche Wichtigkeit. Denn wo bloss gewöhnliche Leidenschaft durch die
+               Verbindung der Umstände, wie bei dem Tod der Virginia, und in unzähligen andern
+               Beispielen dieser Art, <pb n="3.365" xml:id="pbIII365"/> grosse Veränderungen
+               herbeiführt, da wird dies billig nur in die Reihe der zufälligen Ereignisse gesetzt.
+               Dass die Wirksamkeit des Genies und der tiefen Leidenschaft einer, von dem
+               mechanischen Naturgange verschiedenen Ordnung der Dinge angehört, ist unverkennbar;
+               allein strenge genommen ist dies mit jedem Ausfluss der menschlichen Individualitat
+               der Fall. Denn dasjenige, was derselben zum Grunde liegt, ist etwas an sich
+               Unerforschbares, Selbetständiges, seine Wirksamkeit selbst Beginnendes, und aus
+               keinem der Einflüsse, welche es erfährt, (da es vielmehr alle durch Rückwirkung
+               bestimmt) Erklärbares. Selbst wenn die Materie des Handlens dieselbe wäre, so wird
+               dasselbe verschieden durch die individuelle Form, die nur eben hinreichende, oder
+               überschiessende Kraft, die Leichtigkeit oder Anstrengung, und alle die unnennbaren
+               kleinen Bestimmungen, welche das Gepräge der Individualität ausmachen, und die man in
+               jedem Augenblicke des täglichen Lebens bemerkt. Eben diese aber gewinnen, als
+               Charaktere von Nationen und Zeitaltern, auch weltgeschichtliche Wichtigkeit, und die
+               Betrachtung der Geschichte der <placeName ref="geo-390903">Griech</placeName>en,
+                  <placeName ref="geo-2921044">Deutsch</placeName>en, <placeName ref="geo-3017382"
+                  >Franz</placeName>osen und <placeName ref="geo-6269131">Engländ</placeName>er
+               zeigt z. B. deutlich, welchen entscheidenden Einfluss nur die Verschiedenheit der
+               Weile und Stätigkeit in ihrem Gedanken- und Empfindungsgange auf ihre eignen und die
+               Schicksale der Welt gehabt hat.</p>
+            <p>Zwei, ihrem Wesen nach von einander verschiedene, scheinbar sogar entgegengesetzte
+               Reihen der Dinge sind also die in die Augen fallenden bewegenden Ursachen in der
+               Weltgeschichte: die Naturnothwendigkeit, von der sich auch der Mensch nicht ganz
+               losmachen kann, und die Freiheit, die vielleicht auch, nur auf eine uns unbekannte
+               Weise, in den Veränderungen der nicht menschlichen Natur mitwirkt. Beide beschränken
+               sich immer gegenseitig, allein mit dem merkwürdigen Unterschiede, dass sich viel
+               leichter bestimmen lässt, was die Naturnothwendigkeit der Freiheit nie auszuführen
+               gestatten, als was diese in jener zu unternehmen beginnen wird. Die Ergründung beider
+               führt auf den Menschen zurück; allein die Freiheit erscheint mehr im Einzelnen, die
+               Naturnothwendigkeit mehr an Massen und dem Geschlecht, und um das Reich der ersteren
+               noch auf gewisse Weise auszumessen, muss man vorzüglich den Begriff der
+               Individualität entwickeln, nächstdem aber sich an die Ideen wenden, die, als ihr in
+               der Unendlichkeit gegebener Typus, derselben zum Ursprung dienen, und wieder von ihr
+               um sich her nachgebildet <pb n="3.366" xml:id="pbIII366"/> werden. Denn die
+               Individualität in jeder Gattung des Lebens ist nur eine von einer untheilbaren Kraft
+               nach einem gleichförmigen Typus (da nur dies, nicht etwas wirklich Gedachtes hier
+               unter: Idee verstanden wird) beherrschte Masse des Stoffes; und die Idee und die
+               sinnliche Gestaltung irgend einer Gattung von Individuen können beide, jene als
+               Bildungsursach, diese als Symbol, zur Auffindung eine der andren hinleiten. Der
+               Streit der Freiheit und Naturnothwendigkeit kann weder in der Erfahrung, noch in dem
+               Verstande auf eine befriedigende Weise gelöst erkannt werden.</p>
+         </div>
+         <div type="notes">
+            <head>
+               <title type="main">Bemerkungen zur Entstehungsgeschichte </title>
+            </head>
+            <p>Handschrift (11 halbbeschriebene Folioseiten) im Archiv in <placeName
+                  ref="geo-2823708">Tegel</placeName>.</p>
+            <p>Die Handschrift dieses Aufsatzes, der sich inhaltlich aufs engste an den
+               vorhergehenden anschließt, zeigt ein <placeName ref="geo-6269131"
+               >engl</placeName>isches Wasserzeichen, weshalb er während <persName
+                  ref="gnd-118554727">Humboldt</persName>s <placeName ref="geo-2643743"
+                  >london</placeName>er Zeit, also im <date when="1818">Jahre 1818</date> verfaßt
+               sein muß; in seinen Briefen wird er ebensowenig wie die beiden vorhergehenden
+               erwähnt.</p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>
