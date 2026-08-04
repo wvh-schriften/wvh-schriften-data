@@ -1,0 +1,166 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>Anhang. Vorrede zu Alexander von Humboldts Schrift über die unterirdischen
+               Gasarten</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI enconding</resp>
+               <persName xml:id="sbp">
+                  <forename>Silvia</forename>
+                  <surname>Berigüete Pastor</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Wilhelm von Humboldt: Schriften</publisher>
+            <date when="2026-08">August 2026</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+            <idno type="URI">https://www.wvh-schriften.de</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Dritter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI"
+                     >https://archive.org/details/gesammelteschrif03humbuoft/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="367" to="368"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date when="1799">1799</date>
+            <placeName ref="geo-2988507">Paris</placeName>
+         </creation>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#type">
+               <term>Essay</term>
+            </keywords>
+            <keywords scheme="#topic">
+               <term>Wissenschaft</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text xmlns="http://www.tei-c.org/ns/1.0">
+      <body>
+         <div type="original">
+            <pb n="3.367" xml:id="pbIII367"/>
+            <head>
+               <title type="main"><emph>Anhang</emph>.</title>
+               <title type="main">Vorrede zu <persName ref="gnd-118554700">Alexander von
+                     Humboldt</persName>s Schrift über die unterirdischen Gasarten</title>
+            </head>
+            <p>Schon seit mehreren Jahren war <persName ref="gnd-118554700">mein Bruder</persName>
+               mit der Zerlegung der unterirrdischen Gasarten, und mit Versuchen, ihren Nachtheil zu
+               vermindern, beschäftigt. Die Wichtigkeit dieses mit der Gesundheit und dem Leben
+               einer zahlreichen Menschenklasse so nahe verbundenen Gegenstandes machte ihm diese
+               Arbeiten vorzugsweise vor andern werth, und liess ihn die Gefahr nicht scheuen, die,
+               wie die Folge dieser Blätter zeigen wird, mit mehreren dieser Versuche verknüpft war.
+               Seine Lage als Oberbergmeister gab ihm überdies Gelegenheit, eine grössere Anzahl
+               interessanter Beobachtungen zu sammeln, und sicherer und besser, als es der blosse
+               Theoretiker zu thun im Stande gewesen wäre, das Ausführbare von dem Unausführbaren
+               abzusondern. </p>
+            <p>Zwei Jahre sind jetzt verflossen, seitdem der Apparat der Rettungslampe zu Stande
+               gekommen, versendet und in mehreren Zeitschriften beschrieben worden ist. Bei der
+               grossen Aufmerksamkeit, die man dieser Erfindung geschenkt hat, wurde eine
+               Beschreibung von dem Erfinder selbst gewünscht. Auch bereitete sich <persName
+                  ref="gnd-118554700">mein Bruder</persName> in der That dazu vor. Da aber Reisen
+               und andere chemische Arbeiten ihn abhielten, sich ununterbrochen damit zu
+               beschäftigen; so würde die gegenwärtige Schrift schwer-<pb n="3.368"
+                  xml:id="pbIII368"/> lich ohne die Hülfe seiner Freunde zu Stande gekommen seyn.
+               Nur dasjenige, was darin die unterirrdische Meteorologie betrift, so wie den Plan des
+               Ganzen arbeitete er selbst bei seinem Aufenthalte in <placeName ref="geo-2766824"
+                  >Salzburg</placeName> und <placeName ref="geo-2988507">Paris</placeName> aus; das
+               Uebrige wurde (um die Erwartung des Publikums nicht zu lange unbefriedigt zu lassen)
+               aus kleinen, früher von ihm gemachten Aufsätzen von fremder Hand zusammengesetzt und
+               hinzugefügt. Doch darf er sich mit Grunde schmeicheln, dass seine Ideen durchaus
+               genau und richtig dargestellt sind. Sehr viele überaus nützliche Materialien zu
+               dieser Schrift verdankt er besonders dem <persName ref="gnd-104260106">Herrn
+                  Bergamtsassessor Freiesleben</persName> zu <placeName ref="geo-2873632"
+                  >Marienberg</placeName>, welcher dem Publikum bereits, als geognostischer
+               Schriftsteller, rühmlichst bekannt ist.</p>
+            <p>Da <persName ref="gnd-118554700">mein Bruder</persName> auch jetzt schon seit einigen
+               Monaten abwesend und auf einer weiteren Reise begriffen ist; so habe <persName
+                  ref="gnd-118554727">ich</persName> es für nöthig gehalten, diesen Bogen einige
+               wenige Worte über die Entstehung dieser Arbeit vorzusetzen.</p>
+            <p><persName ref="gnd-118554727">Ich</persName> füge nur noch die einzige Bemerkung
+               hinzu, dass, wie <persName ref="gnd-118554727">ich</persName> an mir selbst erfahren
+               habe, diese Schrift auch noch demjenigen interessant seyn wird, welchem das
+               Technische des Bergbaues fremd ist, und der sich selbst nicht mit den genaueren
+               Versuchen der analytischen Chemie beschäftigt. Der erste Theil derselben, welcher die
+               Grundzüge zu einer unterirrdischen Meteorologie enthält, deckt einen bisher noch fast
+               ganz unbekannten Theil der Natur auf, führt in eine gleichsam neue, unterirrdische
+               Schöpfung, überrascht durch anziehende Vergleichungen in der obern und untern
+               Atmosphäre, und gewährt nicht bloss dem Nachdenken und der wissenschaftlichen
+               Neugierde, sondern selbst der Einbildungskraft reichliche Nahrung. Der zweite macht
+               mit den Beschwerden und Gefahren des Bergbaues näher bekannt, und wenn es schon
+               überhaupt ein erhebendes Schauspiel ist, den Kunstfleiss des Menschen im Kampfe mit
+               überlegenen Elementen zu sehen, so wird hier noch die menschenfreundliche Theilnahme
+               für eine arbeitsame und achtungswürdige Menschenklasse erweckt.</p>
+            <signed rend="right">Wilhelm von Humboldt.</signed>
+         </div>
+         <div type="notes">
+            <head>
+               <title type="main">Bemerkungen zur Entstehungsgeschichte </title>
+            </head>
+            <p>Erster Druck: <bibl><title>Über die unterirdischen Gasarten und die Mittel ihren
+                     Nachteil zu vermindern, ein Beitrag zur Physik der praktischen
+                     Bergbaukunde</title> von <author><persName ref="gnd-118554700">Friedrich
+                        Alexander von Humboldt</persName></author> S. <biblScope unit="page"
+                     from="3" to="4">III—VI</biblScope> (<date when="1799">1799</date>)</bibl>.</p>
+
+            <p>Über dieses Werk <persName ref="gnd-118554700">seines Bruders</persName>, zu dem
+                  <persName ref="gnd-118554727">Humboldt</persName>, nachdem <persName
+                  ref="gnd-118554700">jener</persName> im <date when="1798-10">Oktober 1798</date>
+               von <placeName ref="geo-2988507">Paris</placeName> nach <placeName ref="geo-2510769"
+                  >Spanien</placeName> gegangen war, um sich nach Amerika einzuschiffen, die Vorrede
+               geschrieben hat, vgl. <bibl><author>Bruhns</author>, <title><persName
+                        ref="gnd-118554700">Alexander von Humboldt</persName></title>
+                  <biblScope unit="chapter" n="1">1</biblScope>, <biblScope unit="page" n="244"
+                     >244</biblScope>. <biblScope unit="page" n="253">253</biblScope>. <biblScope
+                     unit="page" n="261">261</biblScope>
+                  <biblScope unit="note" n="2">Anm. 2</biblScope></bibl>.</p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>
