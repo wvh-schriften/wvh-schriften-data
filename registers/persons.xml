@@ -5542,6 +5542,22 @@
                 <occupation ref="https://d-nb.info/gnd/4175743-9">Privatlehrer</occupation>
                 <occupation ref="https://d-nb.info/gnd/4167564-2">Librettist</occupation>
             </person>
+            <person xml:id="gnd-104260106">
+                <persName type="main">Freiesleben, Johann Carl</persName>
+                <persName type="sort">Freiesleben, Johann Carl</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1774-07-17"/>
+                    <placeName ref="https://d-nb.info/gnd/4018266-6">Freiberg</placeName>
+                </birth>
+                <death>
+                    <date when="1846-03-20"/>
+                    <placeName ref="https://d-nb.info/gnd/1268732117">Niederauerbach (Vogtland)</placeName>
+                </death>
+                <note type="bio">Mineraloge, Deutschland</note>
+                <occupation ref="https://d-nb.info/gnd/4329065-6">Mineraloge</occupation>
+                <occupation ref="https://d-nb.info/gnd/4329065-6">Mineraloge</occupation>
+            </person>
         </listPerson>
     </standOff>
 </TEI>
