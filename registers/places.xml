@@ -1481,6 +1481,90 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <ptr type="geonames" target="https://www.geonames.org/2873632"/>
                 <ptr type="info" target="https://en.wikipedia.org/wiki/Marienberg"/>
             </place>
+        <place type="A.ADM1" xml:id="geo-3174618" when="2026-08-04" resp="tei">
+                <placeName type="main">Lombardie</placeName>
+                <placeName type="sort">Lombardia</placeName>
+                <location>
+                    <geo>45.66667 9.5</geo>
+                </location>
+                <country>Italy</country>
+                <region>Lombardy</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3174618"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Lombardy"/>
+            </place>
+            <place type="A.ADM1" xml:id="geo-2842566" when="2026-08-04" resp="tei">
+                <placeName type="main">Sachsen</placeName>
+                <placeName type="sort">Saxony</placeName>
+                <location>
+                    <geo>51 13.25</geo>
+                </location>
+                <country>Germany</country>
+                <region>Saxony</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2842566"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Saxony"/>
+            </place>
+            <place xml:id="geo-3027258" type="L.RGN">
+                <placeName type="main">Champagne</placeName>
+                <placeName type="sort">Champagne</placeName>
+                <location>
+                    <geo>49 4.5</geo>
+                </location>
+                <country>France</country>
+                <region>Grand Est</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3027258"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Champagne_%28province%29"/>
+            </place>
+            <place type="T.ISL" xml:id="geo-2523118" when="2026-08-04" resp="tei">
+                <placeName type="main">Sizilien</placeName>
+                <placeName type="sort">Sicily</placeName>
+                <location>
+                    <geo>37.62304 13.93457</geo>
+                </location>
+                <country>Italy</country>
+                <region>Sicily</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2523118"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Sicily"/>
+            </place>
+            <place type="P.PPLA3" xml:id="geo-254144" when="2026-08-04" resp="tei">
+                <placeName type="main">Salamis</placeName>
+                <placeName type="sort">Salamína</placeName>
+                <location>
+                    <geo>37.96427 23.49649</geo>
+                </location>
+                <country>Greece</country>
+                <region>Attica</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/254144"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Salamina_%28city%29"/>
+            </place>
+            <place type="L.RGN" xml:id="geo-255620" when="2026-08-04" resp="tei">
+                <placeName type="main">Peloponnes</placeName>
+                <placeName type="sort">Peloponnese</placeName>
+                <location>
+                    <geo>37.5 22.33333</geo>
+                </location>
+                <country>Greece</country>
+                <region>Peloponnese</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/255620"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Peloponnese"/>
+            </place>
+            <place type="A.ADM2" xml:id="geo-3333250" when="2026-08-04" resp="tei">
+                <placeName type="main">Brabant</placeName>
+                <placeName type="sort">Provincie Vlaams-Brabant</placeName>
+                <location>
+                    <geo>50.91667 4.58333</geo>
+                </location>
+                <country>Belgium</country>
+                <region>Flanders</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3333250"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Flemish_Brabant"/>
+            </place>
         </listPlace>
     </standOff>
 </TEI>
