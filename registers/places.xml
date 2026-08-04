@@ -1457,6 +1457,30 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <ptr type="geonames" target="https://www.geonames.org/2629691"/>
                 <ptr type="info" target="https://en.wikipedia.org/wiki/Iceland"/>
             </place>
+                <place xml:id="geo-2766824" type="P.PPLA">
+                <placeName type="main">Salzburg</placeName>
+                <placeName type="sort">Salzburg</placeName>
+                <location>
+                    <geo>47.79941 13.04399</geo>
+                </location>
+                <country>Austria</country>
+                <region>Salzburg</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2766824"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Salzburg"/>
+            </place>
+            <place xml:id="geo-2873632" type="P.PPL">
+                <placeName type="main">Marienberg</placeName>
+                <placeName type="sort">Marienberg</placeName>
+                <location>
+                    <geo>50.65051 13.16122</geo>
+                </location>
+                <country>Germany</country>
+                <region>Saxony</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2873632"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Marienberg"/>
+            </place>
         </listPlace>
     </standOff>
 </TEI>
