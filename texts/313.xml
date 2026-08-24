@@ -118,9 +118,11 @@
             <milestone unit="separator"/>
             <p>Die Ursachen der Weltbegebenheiten lassen sich auf einen der drei folgenden
                Gegenstände zurückbringen:</p>
-            <p rend="center">die Natur der Dinge,</p>
-            <p rend="center">die Freiheit des Menschen, und</p>
-            <p rend="center">die Fügung des Zufalls.</p>
+			<list rend="center">
+            	<item>die Natur der Dinge,</item>
+            	<item>die Freiheit des Menschen, und</item>
+            	<item>die Fügung des Zufalls.</item>
+			</list>
             <p>Die Natur der Dinge ist entweder durchaus, oder innerhalb gewisser Gränzen bestimmt,
                und dieselbe; und zu ihr muss ganz vorzüglich auch die moralische der Menschen
                gerechnet werden, da auch der Mensch, vorzüglich wenn man ihn, wie er im Ganzen, und
