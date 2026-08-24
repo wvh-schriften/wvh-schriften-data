@@ -672,9 +672,11 @@
                vous, et vous ne mériteriez point le rang que vous tenez, si son voile étoit moins
                difficile à soulever.</p>
             <p>Chaque ouvrage de l’art peut être distingué par trois sortes de mérite, par</p>
-            <p rend="center"><emph>Le mérite du poète,</emph></p>
-            <p rend="center"><emph>Le mérite de la logique,</emph></p>
-            <p rend="center"><emph>Le mérite de l’artiste.</emph></p>
+			<list rend="center">
+            	<item><emph>Le mérite du poète,</emph></item>
+            	<item><emph>Le mérite de la logique,</emph></item>
+            	<item><emph>Le mérite de l’artiste.</emph></item>
+			</list>
             <p>Il peut être conçu avec génie, raisonné avec justesse, et exécuté d’une manière
                grande et savante. La combinaison du plan est l’affaire du raisonnement, elle est
                entièrement susceptible d’analyse et de discussion; et celui même qui seroit dénué de
