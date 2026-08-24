@@ -430,11 +430,13 @@
                   <item n="34">
                      <p>Der Gegenstand unsres vorliegenden Geschäfts ist folglich die Untersuchung
                         des Geistes der Menschheit; und in drei auf einander folgenden Büchern
-                        werden wir nach einander die Fragen:</p>
-                     <p rend="center">worin dieser Geist besteht?</p>
-                     <p rend="center">wie er erkannt? und</p>
-                     <p rend="center">wie er gebildet wird?</p>
-                     <p>zu beantworten haben.</p>
+                        werden wir nach einander die Fragen:
+                        <list rend="center">
+      						<item>worin dieser Geist besteht?</item>
+      						<item>wie er erkannt? und</item>
+      						<item>wie er gebildet wird?</item>
+   				</list>
+                     zu beantworten haben.</p>
                   </item>
                </list>
             </div>
