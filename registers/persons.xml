@@ -281,7 +281,7 @@
                 <occupation ref="https://d-nb.info/gnd/4168391-2">Lyriker</occupation>
                 <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
             </person>
-            <person xml:id="gnd-118554727" when="2025-07-31" resp="wvh-schriften">
+            <person xml:id="gnd-118554727" when="2026-08-25" resp="tei">
                 <persName type="main">Humboldt, Wilhelm von</persName>
                 <persName type="sort">Humboldt, Wilhelm von</persName>
                 <gender value="M">male</gender>
@@ -320,7 +320,6 @@
                 <occupation ref="https://d-nb.info/gnd/4045790-4">Philosoph</occupation>
                 <occupation ref="https://d-nb.info/gnd/4029050-5">Jurist</occupation>
                 <occupation ref="https://d-nb.info/gnd/4128272-3">Kaufmann</occupation>
-                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
                 <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
             </person>
             <person xml:id="gnd-118540238" when="2025-07-31" resp="wvh-schriften">
@@ -704,7 +703,7 @@
                 <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
                 <occupation ref="https://d-nb.info/gnd/4018333-6">Freiherr</occupation>
             </person>
-            <person xml:id="gnd-11855333X" when="2025-08-01" resp="wvh-schriften">
+            <person xml:id="gnd-11855333X" when="2026-08-25" resp="tei">
                 <persName type="main">Homer</persName>
                 <persName type="sort">Homer</persName>
                 <gender value="M">male</gender>
@@ -712,7 +711,7 @@
                 </note>
                 <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
             </person>
-            <person xml:id="person-000002" when="2025-07-31" resp="wvh-schriften">
+            <person xml:id="person-000002" when="2026-08-25" resp="tei">
         <persName type="main">Ossian (fiktiver Gestalt)</persName>
         <persName type="sort">4222107-9</persName>
         <gender value="M">male</gender>
@@ -2276,7 +2275,7 @@
                 <occupation ref="https://d-nb.info/gnd/4170836-2">Musikwissenschaftler</occupation>
                 <occupation ref="https://d-nb.info/gnd/4032009-1">Komponist</occupation>
             </person>
-            <person xml:id="gnd-118595083">
+            <person xml:id="gnd-118595083" when="2026-08-25" resp="tei">
                 <persName type="main">Plinius Secundus, Gaius</persName>
                 <persName type="sort">Plinius Secundus, Gaius</persName>
                 <gender value="M">male</gender>
@@ -2850,7 +2849,7 @@
                 <note type="bio">König der Lykier; Kämpfer im Trojanischen Krieg</note>
                 <occupation ref="https://d-nb.info/gnd/4221861-5">Sagengestalt</occupation>
             </person>
-            <person xml:id="gnd-118621769">
+            <person xml:id="gnd-118621769" when="2026-08-25" resp="tei">
                 <persName type="main">Theokrit</persName>
                 <persName type="sort">Theokrit</persName>
                 <gender value="M">male</gender>
@@ -4718,7 +4717,7 @@
                 <note type="bio">Jugendfreundin Wilhelm v. Humboldts</note>
                 <occupation ref="https://d-nb.info/gnd/4053311-6">Schriftstellerin</occupation>
             </person>
-            <person xml:id="gnd-119390043">
+            <person xml:id="gnd-119390043" when="2026-08-25" resp="tei">
                 <persName type="main">Farinelli, Arturo</persName>
                 <persName type="sort">Farinelli, Arturo</persName>
                 <gender value="M">male</gender>
@@ -5521,7 +5520,6 @@
         </death>
         <note type="bio">Ein griechischer Feldherr, der als „der Letzte der Hellenen“ bezeichnet wurde. Er war ein bedeutender Stratege des Achäischen Bundes und spielte eine zentrale Rolle im Widerstand gegen die wachsende römische Vormachtstellung in Griechenland.</note>
      </person>
-            
         <person xml:id="gnd-118563386">
                 <persName type="main">Klopstock, Friedrich Gottlieb</persName>
                 <persName type="sort">Klopstock, Friedrich Gottlieb</persName>
@@ -5557,6 +5555,93 @@
                 <note type="bio">Mineraloge, Deutschland</note>
                 <occupation ref="https://d-nb.info/gnd/4329065-6">Mineraloge</occupation>
                 <occupation ref="https://d-nb.info/gnd/4329065-6">Mineraloge</occupation>
+            </person>
+            <person xml:id="gnd-132760746">
+                <persName type="main">Risco, Manuel</persName>
+                <persName type="sort">Risco, Manuel</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1735"/>
+                    <placeName ref="https://d-nb.info/gnd/107712497X">Haro</placeName>
+                </birth>
+                <death>
+                    <date when="1801"/>
+                </death>
+                <note type="bio">Span. Augustiner und Historiker. Nachfolger von Flórez beim Verfassen von <title>España sagrada</title>.</note>
+                <occupation ref="https://d-nb.info/gnd/4025098-2">Historiker</occupation>
+            </person>
+            <person xml:id="gnd-118558498">
+                <persName type="main">Jovellanos, Gaspar Melchor de</persName>
+                <persName type="sort">Jovellanos, Gaspar Melchor de</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1744-01-05"/>
+                    <placeName ref="https://d-nb.info/gnd/4353691-8">Gijón</placeName>
+                </birth>
+                <death>
+                    <date when="1811-11-27"/>
+                </death>
+                <note type="bio">Span. Jurist, Staatsmann und Schriftsteller. Anhänger der spanischen und französischen Aufklärung des 18. Jahrhunderts und Verteidiger des Merkantilismus.</note>
+                <occupation ref="https://d-nb.info/gnd/4029050-5">Jurist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+                <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+            </person>
+            <person xml:id="gnd-123303869">
+                <persName type="main">Oihénart, Arnauld</persName>
+                <persName type="sort">Oihenart, Arnauld</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1592-08-17"/>
+                </birth>
+                <death>
+                    <date when="1667"/>
+                </death>
+                <note type="bio">Baskischer Jurist, Politiker, Historiker und Dichter.</note>
+                <occupation ref="https://d-nb.info/gnd/4029050-5">Jurist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4025098-2">Historiker</occupation>
+            </person>
+            <person xml:id="gnd-104319585">
+                <persName type="main">Moret, José de</persName>
+                <persName type="sort">Moret, José de</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1615-07-05"/>
+                    <placeName ref="https://d-nb.info/gnd/4115835-0">Pamplona</placeName>
+                </birth>
+                <death>
+                    <date when="1687-11-12"/>
+                </death>
+                <note type="bio">Span. Jesuit und Historiker. Gilt als der erste offizielle Chronist von Navarra.</note>
+                <occupation ref="https://d-nb.info/gnd/4025098-2">Historiker</occupation>
+            </person>
+            <person xml:id="person-000033">
+                <persName type="main">Prestamero, Lorenzo</persName>
+                <persName type="sort">Prestamero, Lorenzo</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1733"/>
+                </birth>
+                <death>
+                    <date when="1817"/>
+                </death>
+                <note type="bio">Baskischer Schriftsteller, Archivar und Numismatiker. Humanist und Vertreter der Aufklärung des 18. Jhs. in Baskenland.</note>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+                <occupation ref="https://d-nb.info/gnd/4025098-2">Historiker</occupation>
+            </person>
+            <person xml:id="gnd-101974863X">
+                <persName type="main">Townsend, Joseph</persName>
+                <persName type="sort">Townsend, Joseph</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1739"/>
+                </birth>
+                <death>
+                    <date when="1816"/>
+                </death>
+                <note type="bio">Britischer Geologe, Arzt und Priester. Bekannt für seine Abhandlung <title>über die Armengesetze</title>, in der er eine naturalistische Wirtschaftstheorie darlegte.</note>
+                <occupation ref="https://d-nb.info/gnd/4059756-8">Theologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4177613-6">Reisender</occupation>
             </person>
         </listPerson>
     </standOff>
