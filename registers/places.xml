@@ -301,7 +301,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <ptr type="geonames" target="https://www.geonames.org/2879139"/>
                 <ptr type="info" target="https://en.wikipedia.org/wiki/Leipzig"/>
             </place>
-            <place xml:id="geo-8378481" type="A.ADM1H">
+            <place type="A.ADM1H" xml:id="geo-8378481" when="2026-08-03" resp="tei">
                 <placeName type="main">Arabien</placeName>
                 <placeName type="sort">Arabien</placeName>
                 <location>
@@ -1431,9 +1431,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <region/>
                 <note>Das antike Persien, auch als Perserreich oder Achämenidenreich bekannt, war eines der größten Reiche der Antike und erstreckte sich zeitweise von Ägypten bis nach Indien.</note>
                 <ptr type="geonames" target="https://www.geonames.org/130758"/>
-                <ptr type="info" target="https://en.wikipedia.org/wiki/Achaemenid_Empire"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Iran"/>
             </place>
-                <place xml:id="geo-3996063" type="A.PCLI">
+        <place xml:id="geo-3996063" type="A.PCLI">
                 <placeName type="main">Mexico</placeName>
                 <placeName type="sort">Mexico</placeName>
                 <location>
@@ -1457,7 +1457,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <ptr type="geonames" target="https://www.geonames.org/2629691"/>
                 <ptr type="info" target="https://en.wikipedia.org/wiki/Iceland"/>
             </place>
-                <place xml:id="geo-2766824" type="P.PPLA">
+            <place xml:id="geo-2766824" type="P.PPLA">
                 <placeName type="main">Salzburg</placeName>
                 <placeName type="sort">Salzburg</placeName>
                 <location>
@@ -1481,7 +1481,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <ptr type="geonames" target="https://www.geonames.org/2873632"/>
                 <ptr type="info" target="https://en.wikipedia.org/wiki/Marienberg"/>
             </place>
-        <place type="A.ADM1" xml:id="geo-3174618" when="2026-08-04" resp="tei">
+            <place type="A.ADM1" xml:id="geo-3174618" when="2026-08-04" resp="tei">
                 <placeName type="main">Lombardie</placeName>
                 <placeName type="sort">Lombardia</placeName>
                 <location>
@@ -1564,6 +1564,306 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <note/>
                 <ptr type="geonames" target="https://www.geonames.org/3333250"/>
                 <ptr type="info" target="https://en.wikipedia.org/wiki/Flemish_Brabant"/>
+            </place>
+            <place xml:id="geo-3034475" type="P.PPLA3">
+                <placeName type="main">Bayonne</placeName>
+                <placeName type="sort">Bayonne</placeName>
+                <location>
+                    <geo>43.49316 -1.473</geo>
+                </location>
+                <country>France</country>
+                <region>New Aquitaine</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3034475"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place xml:id="geo-3120935" type="A.ADM2">
+                <placeName type="main">Gipuzkoa</placeName>
+                <placeName type="sort">Gipuzkoa</placeName>
+                <location>
+                    <geo>43.16667 -2.16667</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3120935"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Gipuzkoa"/>
+            </place>
+            <place xml:id="geo-3130717" type="A.ADM2">
+                <placeName type="main">Araba / Álava</placeName>
+                <placeName type="sort">Araba / Álava</placeName>
+                <location>
+                    <geo>42.83333 -2.75</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3130717"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/%C3%81lava"/>
+            </place>
+            <place xml:id="geo-3115780" type="P.PPLA3">
+                <placeName type="main">Nájera</placeName>
+                <placeName type="sort">Nájera</placeName>
+                <location>
+                    <geo>42.41822 -2.72865</geo>
+                </location>
+                <country>Spain</country>
+                <region>La Rioja</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3115780"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place xml:id="geo-3118150" type="P.PPLA">
+                <placeName type="main">Logroño</placeName>
+                <placeName type="sort">Logroño</placeName>
+                <location>
+                    <geo>42.46615 -2.45115</geo>
+                </location>
+                <country>Spain</country>
+                <region>La Rioja</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3118150"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Logro%C3%B1o"/>
+            </place>
+            <place xml:id="geo-3104469" type="A.ADM2">
+                <placeName type="main">Bizkaia</placeName>
+                <placeName type="sort">Bizkaia</placeName>
+                <location>
+                    <geo>43.25 -2.91667</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3104469"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Biscay"/>
+            </place>
+            <place xml:id="geo-3114956" type="H.STM">
+                <placeName type="main">Oria</placeName>
+                <placeName type="sort">Oria</placeName>
+                <location>
+                    <geo>43.29008 -2.13217</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3114956"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Oria_%28river%29"/>
+            </place>
+            <place xml:id="geo-3129824" type="H.STM">
+                <placeName type="main">Araxes</placeName>
+                <placeName type="sort">Araxes</placeName>
+                <location>
+                    <geo>43.12949 -2.08655</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3129824"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place xml:id="geo-6269239" type="S.PAL">
+                <placeName type="main">Palacio de Aranjuez</placeName>
+                <placeName type="sort">Palacio de Aranjuez</placeName>
+                <location>
+                    <geo>40.03645 -3.60819</geo>
+                </location>
+                <country>Spain</country>
+                <region>Madrid</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/6269239"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place xml:id="geo-3121881" type="P.PPLA3">
+                <placeName type="main">Hondarribia</placeName>
+                <placeName type="sort">Hondarribia</placeName>
+                <location>
+                    <geo>43.36859 -1.79622</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3121881"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Hondarribia"/>
+            </place>
+            <place xml:id="geo-3110044" type="P.PPLA2">
+                <placeName type="main">Donostia / San Sebastián</placeName>
+                <placeName type="sort">Donostia / San Sebastián</placeName>
+                <location>
+                    <geo>43.31283 -1.97499</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3110044"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place xml:id="geo-3114700" type="P.PPL">
+                <placeName type="main">Oiartzun</placeName>
+                <placeName type="sort">Oiartzun</placeName>
+                <location>
+                    <geo>43.29828 -1.86129</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3114700"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place type="H.STM" xml:id="geo-3123754" when="2026-08-25" resp="tei">
+                <placeName type="main">Ebro Fluss</placeName>
+                <placeName type="sort">Ebro River</placeName>
+                <location>
+                    <geo>40.73024 0.86985</geo>
+                </location>
+                <country>Spain</country>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3123754"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Ebro"/>
+            </place>
+            <place xml:id="geo-3115609" type="A.ADM1">
+                <placeName type="main">Navarra</placeName>
+                <placeName type="sort">Navarra</placeName>
+                <location>
+                    <geo>42.75 -1.66667</geo>
+                </location>
+                <country>Spain</country>
+                <region>Navarre</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3115609"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Navarre"/>
+            </place>
+            <place type="P.PPLA3" xml:id="geo-2861650" when="2026-08-25" resp="tei">
+                <placeName type="main">Nürnberg</placeName>
+                <placeName type="sort">Nuremberg</placeName>
+                <location>
+                    <geo>49.45421 11.07752</geo>
+                </location>
+                <country>Germany</country>
+                <region>Bavaria</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2861650"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Nuremberg"/>
+            </place>
+            <place xml:id="geo-2979309" type="P.PPL">
+                <placeName type="main">Saint-Jean-de-Luz</placeName>
+                <placeName type="sort">Saint-Jean-de-Luz</placeName>
+                <location>
+                    <geo>43.38871 -1.66267</geo>
+                </location>
+                <country>France</country>
+                <region>New Aquitaine</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2979309"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place xml:id="geo-2510409" type="P.PPLA">
+                <placeName type="main">Toledo</placeName>
+                <placeName type="sort">Toledo</placeName>
+                <location>
+                    <geo>39.8581 -4.02263</geo>
+                </location>
+                <country>Spain</country>
+                <region>Castille-La Mancha</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2510409"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Toledo%2C_Spain"/>
+            </place>
+            <place xml:id="geo-1528735" type="P.PPLA">
+                <placeName type="main">Batken</placeName>
+                <placeName type="sort">Batken</placeName>
+                <location>
+                    <geo>40.0604 70.81929</geo>
+                </location>
+                <country>Kyrgyzstan</country>
+                <region>Batken</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/1528735"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Batken"/>
+            </place>
+            <place xml:id="geo-3016598" type="H.STM">
+                <placeName type="main">Garonne</placeName>
+                <placeName type="sort">Garonne</placeName>
+                <location>
+                    <geo>45.03333 -0.6</geo>
+                </location>
+                <country>France</country>
+                <region>New Aquitaine</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3016598"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Garonne"/>
+            </place>
+            <place xml:id="geo-3128045" type="H.STM">
+                <placeName type="main">Bidasoa</placeName>
+                <placeName type="sort">Bidasoa</placeName>
+                <location>
+                    <geo>43.36656 -1.78768</geo>
+                </location>
+                <country>Spain</country>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3128045"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Bidasoa"/>
+            </place>
+            <place xml:id="geo-1115007" type="H.STM">
+                <placeName type="main">Indus River</placeName>
+                <placeName type="sort">Indus River</placeName>
+                <location>
+                    <geo>23.99247 67.43444</geo>
+                </location>
+                <country>China</country>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/1115007"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Indus_River"/>
+            </place>
+            <place type="A.ADM1" xml:id="geo-3114710" when="2026-08-25" resp="tei">
+                <placeName type="main">Asturien</placeName>
+                <placeName type="sort">Asturias</placeName>
+                <location>
+                    <geo>43.33333 -6</geo>
+                </location>
+                <country>Spain</country>
+                <region>Asturias</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3114710"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Asturias"/>
+            </place>
+            <place xml:id="geo-3116503" type="P.PPL">
+                <placeName type="main">Arrasate / Mondragón</placeName>
+                <placeName type="sort">Arrasate / Mondragón</placeName>
+                <location>
+                    <geo>43.06441 -2.48977</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3116503"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Mondrag%C3%B3n"/>
+            </place>
+            <place xml:id="geo-3104375" type="H.STM">
+                <placeName type="main">Zadorra</placeName>
+                <placeName type="sort">Zadorra</placeName>
+                <location>
+                    <geo>42.66746 -2.8996</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3104375"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Zadorra"/>
+            </place>
+            <place xml:id="geo-3111017" type="P.PPLA3">
+                <placeName type="main">Leintz-Gatzaga</placeName>
+                <placeName type="sort">Leintz-Gatzaga</placeName>
+                <location>
+                    <geo>42.98684 -2.56851</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3111017"/>
+                <ptr type="info" target="https://undefined"/>
             </place>
         </listPlace>
     </standOff>
