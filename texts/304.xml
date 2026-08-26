@@ -233,7 +233,8 @@
                               <bibl><author><persName ref="person-000036"
                            >Mannert</persName></author>. <biblScope unit="chapter" n="1"
                            >I</biblScope>. <biblScope unit="page" n="355">355</biblScope></bibl>.
-                     [Oihenarts Werk ist S. 119 Anm. * [3)] genauer zitiert. <persName
+                     [<persName ref="gnd-123303869"
+                              >Oihenart</persName>s Werk ist S. 119 Anm. * [3)] genauer zitiert. <persName
                         ref="gnd-123986281">Florez</persName> war der Herausgeber der nachher
                      genannten <title><placeName ref="geo-2510769">España</placeName>
                         sagrada</title>. <bibl><author><persName ref="person-000036"
@@ -1125,7 +1126,7 @@
                      ref="geo-2950159">Berlin</placeName></orgName>. Unter dem Haupttitel stehen
                noch die Worte <quote>im Wagen</quote>. — Erster Druck: <bibl><title level="a"
                      >Reiseskizzen aus <placeName ref="geo-3104469">Biscaya</placeName></title>
-                  <author>Wilhelm von Humboldt</author>s <title level="m">Gesammelte Werke</title>
+                  <author><persName ref="gnd-118554727">Wilhelm von Humboldt</persName></author>s <title level="m">Gesammelte Werke</title>
                   <biblScope unit="volume" n="3">3</biblScope>, <biblScope unit="page" from="213"
                      to="240">213—240</biblScope> (<date when="1843">1843</date>)</bibl>.</p>
             <p>Auch diese kleinen Probestücke der <placeName ref="geo-2510769"
