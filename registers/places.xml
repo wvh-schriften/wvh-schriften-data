@@ -725,8 +725,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <ptr type="geonames" target="https://www.geonames.org/2980916"/>
                 <ptr type="info" target="https://en.wikipedia.org/wiki/Saint-Denis%2C_Seine-Saint-Denis"/>
             </place>
-            <place xml:id="geo-174982" type="A.PCLI">
-                <placeName type="main">Republic of Armenia</placeName>
+            <place type="A.PCLI" xml:id="geo-174982" when="2026-08-26" resp="tei">
+                <placeName type="main">Armenien</placeName>
                 <placeName type="sort">Republic of Armenia</placeName>
                 <location>
                     <geo>40.25 45</geo>
@@ -1864,6 +1864,126 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <note/>
                 <ptr type="geonames" target="https://www.geonames.org/3111017"/>
                 <ptr type="info" target="https://undefined"/>
+            </place>
+            <place type="A.ADM1H" xml:id="geo-3037350" when="2026-08-25" resp="tei">
+                <placeName type="main">Aquitanien</placeName>
+                <placeName type="sort">Aquitaine</placeName>
+                <location>
+                    <geo>44.33333 -0.25</geo>
+                </location>
+                <country>France</country>
+                <region>Aquitaine</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3037350"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Aquitaine"/>
+            </place>
+            <place xml:id="geo-3120304" type="P.PPLA3">
+                <placeName type="main">Irun</placeName>
+                <placeName type="sort">Irun</placeName>
+                <location>
+                    <geo>43.33904 -1.78938</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3120304"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Irun"/>
+            </place>
+            <place xml:id="geo-3112011" type="P.PPLA3">
+                <placeName type="main">Errenteria</placeName>
+                <placeName type="sort">Errenteria</placeName>
+                <location>
+                    <geo>43.31195 -1.90234</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3112011"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place xml:id="geo-2987914" type="P.PPLA2">
+                <placeName type="main">Perpignan</placeName>
+                <placeName type="sort">Perpignan</placeName>
+                <location>
+                    <geo>42.69764 2.89541</geo>
+                </location>
+                <country>France</country>
+                <region>Occitanie</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/2987914"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place xml:id="geo-3016565" type="L.RGN">
+                <placeName type="main">Gascogne</placeName>
+                <placeName type="sort">Gascogne</placeName>
+                <location>
+                    <geo>43.5 0</geo>
+                </location>
+                <country>France</country>
+                <region>Occitanie</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3016565"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Gascony"/>
+            </place>
+            <place xml:id="geo-3034723" type="L.RGN">
+                <placeName type="main">Pays Basque</placeName>
+                <placeName type="sort">Pays Basque</placeName>
+                <location>
+                    <geo>43.25 -1</geo>
+                </location>
+                <country>France</country>
+                <region>New Aquitaine</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3034723"/>
+                <ptr type="info" target="https://undefined"/>
+            </place>
+            <place xml:id="geo-3336899" type="A.ADM1">
+                <placeName type="main">Aragon</placeName>
+                <placeName type="sort">Aragon</placeName>
+                <location>
+                    <geo>41.5 -0.66667</geo>
+                </location>
+                <country>Spain</country>
+                <region>Aragon</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3336899"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Aragon"/>
+            </place>
+            <place xml:id="geo-3129502" type="P.PPL">
+                <placeName type="main">Armentia</placeName>
+                <placeName type="sort">Armentia</placeName>
+                <location>
+                    <geo>42.83333 -2.7</geo>
+                </location>
+                <country>Spain</country>
+                <region>Basque Country</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3129502"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Armentia"/>
+            </place>
+            <place xml:id="geo-409313" type="A.ADM1">
+                <placeName type="main">Ararat</placeName>
+                <placeName type="sort">Ararat</placeName>
+                <location>
+                    <geo>39.91667 44.83333</geo>
+                </location>
+                <country>Armenia</country>
+                <region>Ararat</region>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/409313"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Ararat_Province"/>
+            </place>
+            <place xml:id="geo-3129894" type="T.MTS">
+                <placeName type="main">Sierra de Aralar</placeName>
+                <placeName type="sort">Sierra de Aralar</placeName>
+                <location>
+                    <geo>42.97953 -2.05225</geo>
+                </location>
+                <country>Spain</country>
+                <region/>
+                <note/>
+                <ptr type="geonames" target="https://www.geonames.org/3129894"/>
+                <ptr type="info" target="https://en.wikipedia.org/wiki/Aralar_Range"/>
             </place>
         </listPlace>
     </standOff>
