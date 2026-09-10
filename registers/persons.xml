@@ -6017,7 +6017,6 @@
                         Germanorum</title>.</note>
                 <occupation ref="https://d-nb.info/gnd/118958461">Historiker</occupation>
             </person>
-
             <person xml:id="gnd-118657119">
                 <persName type="main">Barbaro, Ermolao</persName>
                 <persName type="sort">Barbaro, Ermolao</persName>
@@ -6034,7 +6033,6 @@
                 <occupation ref="https://d-nb.info/gnd/118657119">Humanist</occupation>
                 <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
             </person>
-
             <person xml:id="gnd-118641328">
                 <persName type="main">Noah, biblische Person</persName>
                 <persName type="sort">Noah</persName>
@@ -6044,7 +6042,6 @@
                     die Sintflut überlebte. Nach der Sintflut schloss Gott mit Noah einen
                     Bund.</note>
             </person>
-
             <person xml:id="person-000034">
                 <persName type="main">Sancho VI., König von Navarra</persName>
                 <persName type="sort">Sancho VI., Navarra, König</persName>
@@ -6061,7 +6058,6 @@
                     offiziell den Titel König von Navarra an. Er förderte die Gründung und
                     Entwicklung mehrerer Städte, darunter Vitoria und San Sebastián.</note>
             </person>
-
             <person xml:id="gnd-118648101">
                 <persName type="main">Alfonso VIII., König von Kastilien</persName>
                 <persName type="sort">Alfonso VIII., Kastilien, König</persName>
@@ -6077,9 +6073,6 @@
                     Garcés von Navarra. Bekannt für seinen Sieg über die Almohaden in der Schlacht
                     bei Las Navas de Tolosa 1212.</note>
             </person>
-
-
-
             <person xml:id="gnd-132735369">
                 <persName type="main">Pacheco, Juan</persName>
                 <persName type="sort">Pacheco, Juan</persName>
@@ -6097,7 +6090,6 @@
                 <occupation ref="https://d-nb.info/gnd/4056040-0">Adliger</occupation>
                 <occupation>Großmeister des Santiagoordens</occupation>
             </person>
-
             <person xml:id="person-000035">
                 <persName type="main">Urbina, Ramón María de</persName>
                 <persName type="sort">Urbina, Ramón María de</persName>
@@ -6113,7 +6105,6 @@
                     Modernisierung der Stadt.</note>
                 <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
             </person>
-
             <person xml:id="person-000036">
                 <persName type="main">Mannert, Konrad</persName>
                 <persName type="sort">Mannert, Konrad</persName>
@@ -6133,8 +6124,6 @@
                 <occupation ref="https://d-nb.info/gnd/4020219-5">Geograf</occupation>
                 <occupation ref="https://d-nb.info/gnd/4025243-7">Hochschullehrer</occupation>
             </person>
-
-
             <person xml:id="person-000037">
                 <persName type="main">Bowles, William</persName>
                 <persName type="sort">Bowles, William</persName>
@@ -6151,7 +6140,6 @@
                         <title>Introducción a la historia natural y a la geografía física de
                         España</title>, die 1775 in Madrid erschien.</note>
             </person>
-
             <person xml:id="gnd-118579703">
                 <persName type="main">Mazarin, Jules</persName>
                 <persName type="sort">Mazarin, Jules</persName>
@@ -6170,7 +6158,6 @@
                 <occupation ref="https://d-nb.info/gnd/4038432-2">Kardinal</occupation>
                 <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
             </person>
-
             <person xml:id="gnd-12405921X">
                 <persName type="main">Méndez de Haro y Guzmán, Luis</persName>
                 <persName type="sort">Méndez de Haro y Guzmán, Luis</persName>
@@ -6187,7 +6174,6 @@
                     1659 zum Pyrenäenfrieden zwischen Spanien und Frankreich führten.</note>
                 <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
             </person>
-
             <person xml:id="person-000038">
                 <persName type="main">Carrillo de Acuña, Alfonso</persName>
                 <persName type="sort">Carrillo de Acuña, Alfonso</persName>
@@ -6205,6 +6191,22 @@
                     von Kastilien und später Isabella I. von Kastilien.</note>
                 <occupation ref="https://d-nb.info/gnd/4001968-2">Erzbischof</occupation>
                 <occupation ref="https://d-nb.info/gnd/4046517-2">Politiker</occupation>
+            </person>
+            <person xml:id="gnd-100419461">
+                <persName type="main">Astarloa y Aguirre, Pablo Pedro</persName>
+                <persName type="sort">Pablo Pedro Astarloa</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1752-06-29"/>
+                    <placeName ref="https://d-nb.info/gnd/7727311-4">Durango</placeName>
+                </birth>
+                <death>
+                    <date when="1806-06-02"/>
+                    <placeName ref="https://d-nb.info/gnd/4036862-2">Madrid</placeName>
+                </death>
+                <note type="bio">Baskischer Priester und Linguist, der vor allem für seine Pionierarbeit und Verteidigung der baskischen Sprache bekannt ist</note>
+                <occupation ref="https://d-nb.info/gnd/4047233-4">Priester</occupation>
+                <occupation ref="https://d-nb.info/gnd/4224183-2">Linguist</occupation>
             </person>
         </listPerson>
     </standOff>
