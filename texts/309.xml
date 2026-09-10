@@ -1,0 +1,666 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Ankündigung einer Schrift über die Vaskische Sprache und Nation, nebst Angabe
+                    des Gesichtspunctes und Inhalts derselben</title>
+                <author>
+                    <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                    </persName>
+                </author>
+                <respStmt>
+                    <resp>TEI enconding</resp>
+                    <persName xml:id="sbp">
+                        <forename>Silvia</forename>
+                        <surname>Berigüete Pastor</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Wilhelm von Humboldt: Schriften</publisher>
+                <date when="2026-09">September 2026</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+                        Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+                <idno type="URI">https://www.wvh-schriften.de</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+                <biblStruct>
+                    <monogr>
+                        <author>
+                            <persName ref="gnd-118554727">
+                                <surname>Humboldt</surname>
+                                <forename>Wilhelm von</forename>
+                            </persName>
+                        </author>
+                        <title>Wilhelm von Humboldts Werke. Dritter Band</title>
+                        <editor>
+                            <persName ref="gnd-116890657">
+                                <surname>Leitzmann</surname>
+                                <forename>Albert</forename>
+                            </persName>
+                        </editor>
+                        <idno type="URI"
+                            >https://archive.org/details/gesammelteschrif03humbuoft/mode/2up</idno>
+                        <imprint>
+                            <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                            <pubPlace>Berlin</pubPlace>
+                            <date when="1904">1904</date>
+                        </imprint>
+                        <biblScope unit="page" from="288" to="299"/>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>This digital edition follows the TEI P5 Guidelines.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date when="1809-01-19">19. Januar 1809</date>
+                <placeName ref="geo-2950159">Berlin</placeName>
+            </creation>
+            <langUsage>
+                <language ident="de">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#type">
+                    <term>Essay</term>
+                </keywords>
+                <keywords scheme="#topic">
+                    <term>Linguistik</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <div type="original">
+                <pb n="3.288" xml:id="pbIII288"/>
+                <head>
+                    <title type="main">Ankündigung einer Schrift über die <placeName
+                            ref="geo-3336903">Vask</placeName>ische Sprache und Nation, nebst Angabe
+                        des Gesichtspunctes und Inhalts derselben</title>
+                </head>
+                <div type="introduction">
+                    <p>Bei dem Entschluss, einen einzelnen abgesonderten Volksstamm, wie der
+                            <placeName ref="geo-3336903">Vask</placeName>ische ist, mit aller
+                        Ausführlichkeit und Genauigkeit zu beschreiben, welche die vorhandenen
+                        Hülfsmittel erlauben, habe <persName ref="gnd-118554727">ich</persName>
+                        vorzüglich die Forderungen vor Augen gehabt, welche, meiner Ueberzeugung
+                        nach, an eine gewisse und höchst nothwendige Bearbeitung der Weltgeschichte
+                        (da dieselbe unläugbar mehrere, von verschiedenen Gesichtspuncten aus,
+                        erlaubt und fordert) gemacht werden müssen.</p>
+                    <p>Das Menschengeschlecht ist in Nationen, Stämme und Racen getheilt; wie
+                        selbstständig und frei das Individuum überall da ist, wo es sich seines
+                        Willens und seiner sittlichen Unabhängigkeit bewusst wird, so gehört doch
+                        das ganze Geschlecht auch auf eine ähnliche Weise, als die Geschlechter der
+                        Pflanzen und Thiere, <pb n="3.289" xml:id="pbIII289"/> der Natur an. Sowohl
+                        auf seine ursprünglichen Anlagen, als auf die Entwickelung derselben wirkt
+                        die Race, von welcher der Mensch abstammt, der Boden, auf dem er entsteht,
+                        die Luft, die er einathmet, die Gegend, die ihn umgiebt, der Himmel, zu dem
+                        er emporblickt. Ein Stamm ist vor dem andern beglückt, und das Höchste und
+                        Schönste, was die ältere und neuere Geschichte von nationeller Entwickelung
+                        darbietet, ist nicht sowohl Frucht der Anstrengung, des Fleisses, der
+                        Bildung, als Erzeugniss einer von Natur glücklichen Spannung, Stimmung und
+                        Mischung der Kräfte des Geistes und Gemüths. In welchem Zeitpunct man nun
+                        die neben einander bestehenden Nationen in ihrem ununterbrochen forteilenden
+                        Laufe betrachten mag, wandern, trennen, vereinigen, mischen sie sich.
+                        sterben aus, körperlich durch wirklichen Untergang, oder geistig durch
+                        Ausartung, machen neuen Platz, oder treten selbst, in veränderter Gestalt,
+                        wieder auf. Allein jeder von irgend einer Seite her errungene Vorzug wirkt
+                        weiter fort, und ist gleichsam eine Eroberung in dem Gebiete desjenigen, was
+                        sich in der Menschheit durch die That darstellen lässt, und so entstehen
+                        immer andre und andre, mehr oder minder vollkommene, aber einander
+                        gegenseitig unterstützende und durch einander gewinnende Formen der
+                        Menschheit.</p>
+                    <p>Diesen Gesichtspunct, von welchem aus das Menschengeschlecht gleichsam in
+                        seiner, ursprünglich hauptsächlich durch die physische Natur (Gebirge,
+                        Meere, Flüsse) veranlassten <emph>Trennung</emph> betrachtet wird, zu
+                        ergreifen. ist nicht weniger Pflicht der Weltgeschichte, als die einzelnen
+                        grossen Begebenheiten und moralischen Umwälzungen zu verfolgen, die auf
+                            <emph>Vereinigung</emph> der kleineren Massen gerichtet sind, und das
+                        moralische Daseyn der ganzen Menschheit Einem immer höher gesteckten Ziele
+                        zuzuführen streben. Wie aber diess gewissermassen zwiefache Bemühen
+                        fruchtbar in einander greifen muss, ist hier nicht der Ort,
+                        auseinanderzusetzen. Hier ist nur von dem <emph>einen</emph> Geschäfte der
+                        Weltgeschichte die Rede. der mannigfaltigen Verwandtschaft der Nationen und
+                        Racen, ihrem vielfachen Einwirken auf einander, ihrer Veredlung und
+                        Ausartung, und somit der Thätigkeit der Natur selbst. die aus nie ruhender
+                        Werkstatt neue und neue Gestalten hervorführt, nachzuspüren; unmittelbar den
+                        Menschen und die Grösse der sich in ihm ausprägenden Idee ins Auge zu
+                        fassen; das Menschengeschlecht wie eine ungeheure Pflanze zu betrachten, die
+                        sich in wechselnden Richtungen, parasitisch wuchernd, über <pb n="3.290"
+                            xml:id="pbIII290"/> den Erdboden hin erstreckt, wo Boden und Himmel ihr
+                        lächeln, freudig emporspriesst, sonst niedrig hinkriecht, ihre Wurzeln zwar
+                        der Erde vertraut, aber vom Thau und der Sonne einer andern höhern Welt
+                        erfrischt und erwärmt wird: und auf diese Weise dasselbe unmittelbar an die
+                        Natur, und diese an die Ideen zu knüpfen, in deren Herrschaft das organische
+                        Leben beider besteht, — wodurch nothwendig in jeder Brust der Gedanke rege,
+                        und fruchtbar bis zur That erhalten wird: von welchen Vätern entsprossen,
+                        welche Kinder und Enkel der Jetztlebende hinterlassen muss.</p>
+                    <p>In diesem Geschäfte aber muss der Weltgeschichte auf mannigfaltige Weise, und
+                        vor allem durch genaue, ausführliche und treue Beschreibungen einzelner
+                        Stämme vorgearbeitet werden, an welchen es bis jetzt noch fast ganz fehlt.
+                        Denn da der Unterschied der Nationen sich am bestimmtesten und reinsten in
+                        ihren Sprachen ausdrückt, so muss in einer solchen Beschreibung das Studium
+                        der Sprache mit dem der Sitten und der Geschichte zusammenstossen: und — so
+                        schätzbare Beiträge auch hierzu in neuern Zeiten geliefert worden sind — so
+                        ist doch das vereinte Sprach- und Geschichtsstudium noch lange nicht zu
+                        einem befriedigenden Grade der Vollkommenheit gediehen; ja es ist noch nicht
+                        einmal dahin gelangt, dass es die Bearbeitung irgend eines einzelnen Theils
+                        in diesem Gebiete durch leitende allgemeine Ansichten beträchtlich
+                        erleichtern könnte. Es fehlt noch an festen Grundsätzen, die
+                        Verwandtschaftsgrade der Sprachen zu bestimmen; man ist noch zu wenig einig
+                        über die Zeichen, welche die Abstammung verschiedener Völker von einander
+                        beurkunden; man begnügt sich noch viel zu häufig mit der fragmentarischen
+                        Vergleichung einzelner Sitten, und ein paar Dutzend auf gut Glück aus einer
+                        Sprache herausgerissener Wörter; es stehen noch in diesem gränzenlos weiten
+                        Gebiete zu wenige Thatsachen, als sichere Anhaltungs- und
+                        Vergleichungspuncte fest: man hat selbst noch zu schwankende Begriffe über
+                        die Art, wie die Sprache einer Nation zugleich Massstab und Mittel ihrer
+                        Bildung ist, um nicht die Vereinigung des Sprach- Geschichts- und
+                        Völkerstudiums zur Kenntniss und Würdigung des Menschengeschlechts — als
+                        eines grossen, in Racen, Stämme und Nationen getheilten, Naturgesetzen und
+                        unabänderlich gegebenen Bedingungen unterworsenen, aber auch zugleich sich
+                        selbst durch Freiheit bestimmenden Ganzen — für ein neues, wohl von fern
+                        gesehenes, allenfalls flüchtig durch-<pb n="3.291" xml:id="pbIII291"/>
+                        streiftes, aber erst jetzt wahrhaft zu bearbeitendes Feld anerkennen zu
+                        müssen.</p>
+                    <p>Ich erwähne indess hier dieser Mängel nicht zu einem Vorwurf für andere,
+                        sondern nur zu einer vorläufigen Entschuldigung der Arbeit, die <persName
+                            ref="gnd-118554727">ich</persName> selbst unternommen habe. Denn wo
+                        alles auf das engste zusammenhängt, da ist es unmöglich, einen einzelnen
+                        Volksstamm, <persName ref="gnd-118554727">ich</persName> sage nicht, richtig
+                        in seine wahre Stelle zu setzen, sondern auch nur genau zu beschreiben, ohne
+                        ihn mit andern zu vergleichen. Wie sehr aber wird diese Vergleichung
+                        erschwert, da es, so viel <persName ref="gnd-118554727">mir</persName>
+                        bekannt ist, noch über keinen einzigen Volksstamm vollständige, zu einem
+                        ähnlichen Zweck angestellte Untersuchungen giebt, da nicht einmal
+                        Bearbeitungen der Sprachen vorhanden sind, welche dieselben, zu allgemeinen
+                        Vergleichungen gehörig vorgerichtet, in die Hand lieferten, sondern man
+                        überall an den rohen Stoff, an zu ganz anderem Zweck gemachte Sprachlehren
+                        und Wörterbücher, Versuche allgemeiner Sprachgeschichten, welche in das
+                        Einzelne nicht so ausführlich eingehen können, an etymologische Werke, deren
+                        Verfasser oft, ohne feste Grundsätze arbeitend, nur den grössern oder
+                        geringeren Vorrath an Sprachkenntnissen, den sie besassen, mit grosser
+                        Willkühr benutzt haben, oder an einzelne, in geschichtlichen Untersuchungen
+                        zerstreute, wenn gleich schätzbare und selbst trefliche Bemerkungen,
+                        Hypothesen und Systeme verwiesen wird.</p>
+                    <p>Indem <persName ref="gnd-118554727">ich</persName> nun versuche, eine
+                        einzelne, aber vollständige Beschreibung, eine wahre <emph>Monographie des
+                                <placeName ref="geo-3336903">Vask</placeName>ischen
+                            Volksstammes</emph> zu liefern, werde <persName ref="gnd-118554727"
+                            >ich</persName> dahin streben, diese Hindernisse zu überwinden, und so
+                        viel zu leisten, als bei den noch viel grösseren, in <persName
+                            ref="gnd-118554727">mir</persName> selbst liegenden, in deren Bemerkung
+                        es unnütz seyn würde, dem Leser vorzugreifen, möglich ist. <persName
+                            ref="gnd-118554727">Ich</persName> werde <persName ref="gnd-118554727"
+                            >mich</persName> bemühen, die <placeName ref="geo-3336903"
+                            >Vask</placeName>en nach ihren Sitten, ihrer Sprache und ihrer
+                        Geschichte, zu welcher natürlich die ganze Untersuchung über die Urbewohner
+                        der <placeName ref="geo-2510769">Spani</placeName>schen Halbinsel gehört,
+                        hinlänglich zu schildern, um danach die Frage entscheiden zu können, ob sie
+                        ein abgesonderter Volksstamm, oder nur Theil eines andern grösseren sind:
+                        und sie in der einen, oder andern Eigenschaft in der Gechlechtstafel aller
+                        Völkerstämme, in so fern eine solche möglich ist, richtig zu
+                        classificiren.</p>
+                    <p>Mein vorzüglichstes Augenmerk aber wird dahin gehen, die Materialien so
+                        vollständig zu liefern, und so wenig einer vorgefassten Meynung gemäss,
+                        sondern so allgemein zu ordnen, dass <pb n="3.292" xml:id="pbIII292"/> die
+                        Classificirung, wenn die meinige Zweifel erregen sollte, mit Hülfe der
+                        gelieferten Thatsachen, auch von andern anders angestellt werden kann. Auf
+                        diese Weise darf <persName ref="gnd-118554727">ich</persName>
+                        <persName ref="gnd-118554727">mir</persName> schmeicheln, dass diese Schrift
+                        wenigstens immer das Verdienst haben wird, Hülfsmittel an die Hand zu geben,
+                        welche, bei der Unzulänglichkeit der gedruckten, sonst schwer zu erhalten
+                        sind, und es unnütz zu machen, eine schon gemachte Arbeit noch einmal von
+                        neuem vorzunehmen, wie sonst so oft bei Sprachuntersuchungen der Fall ist,
+                        mit denen sich mehrere nacheinander beschäftigen.</p>
+                    <p>Dass <persName ref="gnd-118554727">ich</persName>
+                        <persName ref="gnd-118554727">mir</persName> gerade die <placeName
+                            ref="geo-3336903">Vask</placeName>en zum Gegenstande gewählt habe, war
+                        zunächst Werk des Zufalls. Meine Reise nach <placeName ref="geo-2510769"
+                            >Spanien</placeName> hatte <persName ref="gnd-118554727">mich</persName>
+                        für die Nation und das Land interessirt, beide wurden <persName
+                            ref="gnd-118554727">mir</persName> im eigentlichsten Verstande theuer,
+                        als <persName ref="gnd-118554727">ich</persName> eine eigene Reise nach
+                            <placeName ref="geo-3336903">Biscaya</placeName> und den <placeName
+                            ref="geo-3034723">Basq</placeName>uischen Distrikten unternahm, und
+                            <persName ref="gnd-118554727">mich</persName> einige Wochen in den
+                        abgelegensten Gebirgsgegenden daselbst aufhielt. Nachher aber, als <persName
+                            ref="gnd-118554727">ich</persName> mein Studium mit todten Hülfsmitteln
+                        fortsetzte, zog <persName ref="gnd-118554727">mich</persName> die
+                        Eigenthümlichkeit der Sprache, des Volks und des Landes fortdauernd an. In
+                        der That bieten die <placeName ref="geo-3336903">Vask</placeName>en, zu
+                        einem wie kleinen Häuflein sie auch zusammengeschmolzen sind, und obgleich
+                        sie sich auch ehemals nicht (wie die Germanen, Slaven und andere) so
+                        verbreitet und in verschiedene Zweige getheilt zu haben scheinen, dass
+                            <persName ref="gnd-118554727">ich</persName> es wagen möchte, sie einen
+                            <emph>Völker-</emph>, nicht blossen <emph>Volksstamm</emph> zu nennen,
+                        doch für eine in der hier angegebenen Absicht anzustellende Untersuchung
+                        einen sehr interessanten Gegenstand dar. Geographisch und historisch bilden
+                        sie ein fest geschlossenes, abgesondertes Ganzes. Gewiss mächtig und weit
+                        verbreitet innerhalb der Pyrenäen, hat man, meines Erachtens, keine sicheren
+                        Spuren, wie sie, ausserhalb derselben, vielleicht gleichfalls eine wichtige
+                        Rolle gespielt haben. Alles was sie je gross und interessant gemacht hat,
+                        hinter sich erblickend, ist der Untergang ihrer Nationalität, und selbst
+                        ihrer Sprache in kurzem beinahe mit Sicherheit vorauszusehen. Der jetzigen
+                        Kleinheit des Völkchens ungeachtet, hat sich die Sprache fast in eben dem
+                        Umfange von Wörtern und Formenverschiedenheiten erhalten, den sie ehemals
+                        besessen haben mag. Schon die in wunderbarer Reinheit unverändert
+                        gebliebenen und grösstentheils leicht verständlichen Ort- und Familiennamen
+                        haben viele, dem jetzigen Sprachgebrauch mehr oder weniger fremde Wurzeln
+                        aufbewahrt. Denn da jeder einzelne Meierhof seine eigne, von seiner Lage,
+                        oder den ihn umgebenden Bäumen <pb n="3.293" xml:id="pbIII293"/> und
+                        Pflanzen hergenommene Benennung trägt, so wird dadurch das ganze Land zu
+                        einer lebendigen Sprachurkunde. Es finden daher fast alle Fragen, welche man
+                        über den Bau und die Natur der reichsten und vollständigsten Sprachen
+                        aufwerfen kann, auch in der <placeName ref="geo-3336903"
+                        >Vask</placeName>ischen ihre Beantwortung. Es giebt auch über diese Sprache
+                        gerade genug, und dennoch wieder zu wenig erschöpfende Vorarbeiten, um eine
+                        neue Bearbeitung möglich und nothwendig zu machen. In sich selbst aber ist
+                        die <placeName ref="geo-3336903">Vask</placeName>ische Sprache von einem so
+                        wunderbaren und eigenthümlichen Bau, dass die meisten ihrer früheren
+                        Bearbeiter alle Aehnlichkeit mit irgend einer andern gänzlich abläugnen: sie
+                        trägt offenbar das Gepräge an sich, dass sie sich in den frühesten Zeiten
+                        von ihren Schwestern schied, nachher in dem Munde vieler und zahlreicher
+                        Völkerschaften war, und endlich nach und nach so sehr in wenige einsame
+                        Gebirgsthäler zusammengedrängt wurde, dass die grosse Zahl ihrer
+                        mannigfaltigen Formen und Zeichen ausser allem Verhältniss mit der geringen
+                        der Familien steht, welche sich ihrer bedienen. In der doppelten Rücksicht
+                        also des Studiums der Sprache im Allgemeinen, und der Urgeschichte Europas
+                        ist sie in hohem Grade merkwürdig. Die schwierige Frage, welche Völker
+                        zuerst <placeName ref="geo-2510769">Spanien</placeName> und <placeName
+                            ref="geo-2264397">Portugall</placeName> bewohnt haben? auf welchem Wege
+                        sie dahin gekommen? welche Vermischungen oder Trennungen sie darin erfahren
+                        haben? deren Beantwortung nothwendig auch zugleich über die ursprüngliche
+                        Bevölkerung <placeName ref="geo-3017382">Frankreich</placeName>s und eines
+                        Theils von <placeName ref="geo-3175395">Italien</placeName> Licht verbreiten
+                        muss; die dunklen und noch immer nicht zur Genüge gelösten Aufgaben über den
+                        Celtischen Völkerstamm, seine Sitze. Wanderungen und Ueberbleibsel; die
+                        Verwandtschaft des <placeName ref="geo-3336903">Vask</placeName>ischen mit
+                        dem Gaelischen und sogenannten Kymrischen, und mehrere andere zweifelhafte
+                        Puncte dieser Art sind mit der gegenwärtigen Untersuchung nahe verwandt, und
+                        können zum Theil nur durch die genauere Erörterung der <placeName
+                            ref="geo-3336903">Vask</placeName>ischen Sprache aufgeklärt werden.
+                        Endlich dient das <placeName ref="geo-3336903">Vask</placeName>ische zur
+                        Herleitung vieler Wörter in den abendländischen Europäischen Sprachen, und
+                        ist für das Studium der Quellen der <placeName ref="geo-2510769"
+                            >Spani</placeName>schen ein so unentbehrliches Hülfsmittel, dass, ohne
+                        genaue Kenntniss desselben, eine etymologische Arbeit über diese
+                        schlechterdings unmöglich seyn würde.</p>
+                    <p>Um nun den Zweck, den <persName ref="gnd-118554727">ich</persName>
+                        <persName ref="gnd-118554727">mir</persName>, von dem hier angegebenen
+                        Gesichtspunct aus, bei meiner Schrift vorsetze, vollständig zu erreichen,
+                        werde <persName ref="gnd-118554727">ich</persName> sie in folgende drei
+                        Abschnitte zerlegen. </p>
+                </div>
+                <div type="section" n="1">
+                    <pb n="3.294" xml:id="pbIII294"/>
+                    <head>
+                        <title type="main">I.</title>
+                    </head>
+                    <p>In dem ersten werde <persName ref="gnd-118554727">ich</persName> die
+                        Bemerkungen mittheilen, die <persName ref="gnd-118554727">ich</persName> bei
+                        meinem Aufenthalte in dem <placeName ref="geo-3336903"
+                            >Spanischen</placeName> und <placeName ref="geo-3034723">Französischen
+                            Vaskenlande</placeName> niedergeschrieben habe, und <persName
+                            ref="gnd-118554727">mich</persName> bemühen, dem Leser dadurch einen
+                        anschaulichen Begriff des Ländchens und seiner Bewohner zu verschaffen.
+                        Diess ist durchaus nöthig, um vieles selbst in der Sprache, in welche
+                        natürlich die Sitten der Nation, und die Localität des Landes verwebt sind,
+                        richtig zu verstehen; es ist aber auch an sich interessant, sich in die
+                        Mitte einer emsigen muth- und talentvollen Nation zu versetzen, die den
+                        Norden eines südlichen Landes, und Gebirge an einer Küste bewohnt, mithin
+                        zugleich Berg- und Seevolk ist, und vieles in ihrem Charakter vereinigt, was
+                        man sonst nur einzeln antrift; die ferner zu der Zeit, als <persName
+                            ref="gnd-118554727">ich</persName> sie sah, noch eine freie Verfassung
+                        besass, einen in viele kleine, wieder durch einzelne Localgebräuche
+                        getrennte Ortschaften getheilten Föderativstaat bildete, und so durch Lage,
+                        Verfassung und Lebendigkeit des Charakters <persName ref="gnd-118554727"
+                            >mich</persName> nicht selten an die kleinen Freistaaten des alten
+                            <placeName ref="geo-390903">Griechenland</placeName>s erinnerte. Um nun
+                        hiebei der Form und Anschaulichkeit der Darstellung keinen Eintrag zu thun,
+                        werde <persName ref="gnd-118554727">ich</persName> diesem Theil die Form
+                        einer, aber sehr kurzen und der Kleinheit des Landes und geringen Dauer
+                        meiner Wanderung angemessenen Reisebeschreibung lassen.</p>
+                </div>
+                <div type="section" n="2">
+                    <head>
+                        <title type="main">II.</title>
+                    </head>
+                    <p>Der zweite Abschnitt wird eine Analyse, oder Zergliederung der <placeName
+                            ref="geo-3336903">Vask</placeName>ischen Sprache liefern, begleitet von
+                        einem Anhange <placeName ref="geo-3336903">Vask</placeName>ischer
+                        Sprachproben von den ältesten Zeiten, aus welchen Denkmale übrig sind, bis
+                        auf uns herab.</p>
+                    <p>Ich werde hierbei eine, so viel möglich, kurze, aber systematische und
+                        erschöpfende Methode zu wählen suchen, um, so weit es geschehen kann, keine
+                        Seite unberührt zu lassen, welche zum Vergleichungspuncte dienen kann, und
+                        einen vollständigen Begriff nicht nur von dem grammatikalischen, sondern
+                        auch lexikalischen Bau des <placeName ref="geo-3336903"
+                        >Vask</placeName>ischen zu geben; erst das Verhältniss aller Theile der
+                        Sprache zu einander, und dann der ganzen Sprache, als Darstellungsmittel, zu
+                        ihrem Gegenstande, demjenigen was dargestellt werden soll (obgleich diess
+                        nie von ihr selbst geschieden werden kann), auseinanderzusetzen. <persName
+                            ref="gnd-118554727">Ich</persName> werde aber dabei auch immer so viele
+                        andere Sprachen, als möglich, vor Augen haben, um der <pb n="3.295"
+                            xml:id="pbIII295"/> gewählten Methode zugleich allgemeinere
+                        Anwendbarkeit zu geben, und auf diese Weise einen Versuch anzustellen, wie
+                        man nach und nach ähnliche Zergliederungen aller Sprachen zu allgemeiner
+                        Vergleichung anfertigen, und in einer grossen allgemeinen
+                            <emph>Sprachencyclopädie</emph> zusammenfassen könnte.</p>
+                    <p>Denn die Idee eines solchen, freilich nur von Vielen gemeinschaftlich
+                        auszuführenden Werks, zu dem aber doch Einer mit dem nachher zu
+                        verbessernden Plan auftreten müsste, habe <persName ref="gnd-118554727"
+                            >ich</persName> seit vielen Jahren bei <persName ref="gnd-118554727"
+                            >mir</persName> herumgetragen, und werde daher auch die Schrift über die
+                            <placeName ref="geo-3336903">Vask</placeName>ische Sprache mit Rücksicht
+                        darauf, und als einen Beitrag dazu im Voraus bearbeiten.</p>
+                    <p>Dieser allgemeinen Beziehung auf das gesammte Sprachstudium wegen sey es
+                            <persName ref="gnd-118554727">mir</persName> erlaubt, hier über die Art
+                        der Sprachzergliederung, die <persName ref="gnd-118554727">ich</persName> im
+                        Sinn habe, noch einige Worte hinzuzufügen.</p>
+                    <p>Man kann es als einen festen Grundsatz annehmen, dass Alles in einer Sprache
+                        auf Analogie beruht, und ihr Bau, bis in seine feinsten Theile hinein, ein
+                        organischer Bau ist. Nur wo die Sprachbildung bei einer Nation Störungen
+                        erleidet, wo ein Volk Sprachelemente von einem andern entlehnt, oder
+                        gezwungen wird, sich einer fremden Sprache ganz oder zum Theil zu bedienen,
+                        finden Ausnahmen von dieser Regel Statt. Dieser Fall tritt nun zwar wohl bei
+                        allen, uns jetzt bekannten Sprachen ein — da wir von den Ursprachen und
+                        Urstämmen durch Klüfte getrennt sind, über die keine Ueberlieferung mehr
+                        hinüberhilft — und selbst in den tiefsten Wäldern Amerikas dürfte man
+                        schwerlich ein Beispiel eines, durch reine, vor Erlernung einer andern
+                        Sprache geschehene Absonderung entstandenen, und durchaus unvermischt
+                        gebliebenen Stammes antreffen. Allein wo eine Sprache ein fremdes Element in
+                        sich aufnimmt, oder sich mit einer andern vermischt, da beginnt auch
+                        sogleich ihre assimilirende Thätigkeit, und ihr Bemühen, nach und nach
+                        denjenigen Stoff, welcher in der Vermischung den kürzern zieht, so viel als
+                        möglich, in die, dem andern eigenthümliche analogische Bildung zu
+                        verwandeln, so dass durch diese Mischungen zwar kürzere und längere
+                        analogische Reihen entstehen, nicht leicht aber ganz unorganische Masse
+                        zurückbleibt.</p>
+                    <p>Auch die wirklich vorhandene Analogie lässt sich indess nicht immer mit Glück
+                        bis in ihre feinsten Zweige verfolgen. Die Zeit verwischt ihre Spuren;
+                        Mittelglieder der Reihen gehen, da die Elemente der Sprache auch in ihrem
+                        wechselnden Entstehen und <pb n="3.296" xml:id="pbIII296"/> Untergehen
+                        lebendigen Individuen gleichen, verloren; ja der Mensch selbst, welcher die
+                        Sprache mit bilden geholfen hat, und noch hilft, ist sich nicht immer der
+                        Analogie, welcher er instinctmässig folgt, bewusst, und das in ihren
+                        einzelnen Gliedern zertrennte Bewusstseyn der Nation lässt sich nicht in
+                        Einen Brennpunct lebendig vereinigen. Zu dem eigentlichen Wesen der Sprache
+                        kommt man überdiess durch keine, auch noch so vollständige Zergliederung. Es
+                        gleicht einem Hauche, der das Ganze umgiebt, aber, zu fein, an dem einzelnen
+                        Element seine Form für das Auge verliert, wie der Nebel des Gebirgs nur aus
+                        der Ferne Gestalt hat, so wie man aber in ihn hineintritt, formlos
+                        umherstiebt. Man nähert sich diesem ihrem Wesen aber, je mehr verschiedene
+                        Sprachen man genauer betrachtet, dadurch in das allgemeine Geschäft der
+                        Sprachbildung der gesammten Menschheit eindringend; je mehr man jede
+                        einzelne — und dazu sind die Zergliederungen unentbehrliche Vorarbeiten —
+                        als den individuell bestimmten Ausdruck einer gewissen nationellen
+                        Charakterform zu erkennen bemüht ist. Wenn man diesen Weg richtig verfolgt,
+                        gelangt man indess freilich selbst über die Gränzen des blossen
+                        Sprachstudiums hinaus. Denn die Sprache ist überall Vermittlerin, erst
+                        zwischen der unendlichen und endlichen Natur, dann zwischen einem und dem
+                        andern Individuum; zugleich und durch denselben Act macht sie die
+                        Vereinigung möglich, und entsteht aus derselben: nie liegt ihr ganzes Wesen
+                        in einem Einzelnen, sondern muss immer zugleich aus dem andern errathen,
+                        oder erahndet werden; sie lässt sich aber auch nicht aus beiden erklären,
+                        sondern ist (wie überall dasjenige, bei dem wahre Vermittelung Statt findet)
+                        etwas Eignes. Unbegreifliches, eben nur durch die Idee der Vereinigung des,
+                        für uns und unsre Vorstellungsart, durchaus Geschiedenen Gegebenes, und nur
+                        innerhalb dieser Idee Befangenes. Ihre Betrachtung, die jedoch, um nicht
+                        chimärisch zu werden, von der ganz trocknen, sogar mechanischen
+                        Zergliederung des Körperlichen und Construirbaren in ihr anfangen muss,
+                        führt also bis in die letzten Tiefen der Menschheit. Man muss sich nur
+                        durchaus von der Idee losmachen, dass sie sich so von demjenigen, was sie
+                        bezeichnet, absondern lasse, wie z. B. der Name eines Menschen von seiner
+                        Person, und dass sie, gleich einem verabredeten Chiffre, ein Erzeugniss der
+                        Reflexion und der Uebereinkunft, oder überhaupt das Werk der Menschen (wie
+                        man den Begriff in der Erfahrung nimmt) oder gar des Einzelnen sey. <pb
+                            n="3.297" xml:id="pbIII297"/> Als ein wahres, unerklärliches Wunder
+                        bricht sie aus dem Munde einer Nation, und als ein nicht minder
+                        staunenswerthes, wenn gleich täglich unter uns wiederholtes, und mit
+                        Gleichgültigkeit ubersehenes, aus dem Lallen jedes Kindes hervor, und ist
+                        (um jetzt nicht der überirrdischen Verwandtschaft des Menschen zu gedenken
+                        die leuchtendste Spur und der sicherste Beweis, dass der Mensch nicht eine
+                            <emph>an sich</emph> abgesonderte Individualitât besitzt, dass
+                            <emph>Ich</emph> und <emph>Du</emph> nicht bloss sich wechselseitig
+                        fordernde, sondern, wenn man bis zu dem Puncte der Trennung zurückgehen
+                        könnte, wahrhaft identische Begriffe sind, und dass es in diesem Sinn Kreise
+                        der Individualität giebt, von dem schwachen, hülfsbedürftigen und
+                        hinfälligen Einzelnen hin bis zum uralten Stamme der Menschheit, weil sonst
+                        alles Verstehen bis in alle Ewigkeit hin unmöglich seyn würde. Es ist hier
+                        nicht der Ort, diese Sätze weiter auszuführen, <persName ref="gnd-118554727"
+                            >ich</persName> glaubte sie aber andeuten zu müssen, weil, meiner
+                        Meynung nach, auf ihnen die richtige Ansicht des organischen Lebens des
+                        Menschengeschlechts in seinen Stämmen und Nationen, und mithin
+                        grösstentheils auch der Weltgeschichte beruht, und weil es wichtig war, den
+                        Gedanken zu verhüten, als wähnte ich, durch trockne und immer dürftige
+                        Zergliederung das wundervolle Wesen der Sprache selbst zu ergründen. Die
+                        erste Pflicht des Schriftstellers ist. Achtung für seinen Gegenstand
+                        auszudrücken.</p>
+                    <p>Da folglich, nach dem Vorigen, die Analogie durch keine Sprache ganz
+                        durchgeht, und die vorhandene (sowohl die der Laute unter einander, als
+                        derselben mit den durch sie bezeichneten Begriffen) nicht immer erkannt
+                        werden kann; so besteht jede Sprache auf der einen Seite aus einer grossen
+                        Menge analogisch gebildeter Reihen, auf der andern aus Grundstoffen, von
+                        denen sich weiter keine Rechenschaft geben lässt.</p>
+                    <p>Diesen zwiefachen Bestandtheil der Sprache nun muss eine gelungene
+                        Zergliederung derselben vollständig und genau nachweisen, jede Spur
+                        systematischer Regelmässigkeit verfolgend, die Sprache nach allen Richtungen
+                        hin untersuchen, und sich nur in Acht nehmen, nicht aus Begierde des Suchens
+                        Gefundenes mit Erdichtetem zu verwechseln. Eine solche Zergliederung dient
+                        zugleich auch zur Erleichterung der Erlernung einer Sprache. Nur wird sie
+                        bei diesem Zwecke ein wenig anders verfahren müssen, als wenn sie auf die
+                        Beförderung des allgemeinen wissenschaftlichen Sprachstudiums ausgeht. In
+                        der ersteren Hinsicht braucht <pb n="3.298" xml:id="pbIII298"/> sie nur die
+                        ganz sicheren und wirklich durchgreifenden Analogien aufzustellen; in der
+                        letzteren muss sie, selbst auf die Gefahr, dass die fernere Forschung keine
+                        reichere Ausbeute gebe, auf jeden Punct aufmerksam machen, auf dem sich,
+                        auch nur von fern, eine Spur der Analogie ahnden lässt, der es ihre Pflicht
+                        ist, bis in ihre feinsten Fäserchen nachzugehen. Ihr letztes Resultat ist
+                        alsdann ein zwiefaches: ein System mehr, oder weniger allgemeiner und
+                        sicherer Regeln, Grundsätze und Analogien, der eigentliche Organismus der
+                        Sprache, und eine gleichsam unorganische Masse von nicht weiter zerlegbaren
+                        Sprachelementen.</p>
+                    <p>In einer solchen Zergliederung ist natürlich die Auseinandersetzung des
+                        Systems der Redefügung, oder des grammatischen, bei weitem leichter als die
+                        des Systems der Wortbildung, oder des lexikalischen, und <persName
+                            ref="gnd-118554727">ich</persName> bescheide <persName
+                            ref="gnd-118554727">mich</persName> natürlich, die analogische
+                        Wortbildung des <placeName ref="geo-3336903">Vask</placeName>ischen nicht
+                        vollständig darlegen zu können. Allein man kann auf der andern Seite
+                        unmöglich die klaren, sichern, sich gleichsam aufdringenden Analogien
+                        zurückweisen, und es ist auch gut, andre Sprachforscher auf die weiter zu
+                        untersuchenden Puncte aufmerksam zu machen. <persName ref="gnd-118554727"
+                            >Ich</persName> dürfte überdiess schon darum diese Seite nicht unberührt
+                        lassen, weil gerade der von <persName ref="gnd-118554727">mir</persName> am
+                        meisten benutzte <placeName ref="geo-3336903">Vask</placeName>ische
+                            Sprachforscher<note type="footnote" n="i)" resp="gnd-116890657"
+                                ><hi>Gemeint ist Astarloa.</hi></note> sich hierüber selbst ein
+                        System gebildet hat, das, falsch oder richtig, auf jeden Fall erwähnt und
+                        beurtheilt werden muss.</p>
+                    <p>Zum Beschlusse dieses Abschnitts werde <persName ref="gnd-118554727"
+                            >ich</persName> eine allgemeine Vergleichung der <placeName
+                            ref="geo-3336903">Vask</placeName>ischen Sprache mit andern Sprachen
+                        anstellen, um, wo möglich, nach ihren allgemeinen Beschaffenheiten, die
+                        Classe, und, nach ihrer Verwandtschaft, die Familie zu bestimmen, in welche
+                        sie gehört. <persName ref="gnd-118554727">Ich</persName> trenne diese
+                        raisonnirende Vergleichung, bei welcher <persName ref="gnd-118554727"
+                            >ich</persName> veranlasst seyn werde, eine Classificirung der bekannten
+                        Sprachen zu versuchen, absichtlich von der Darstellung der
+                        Eigenthümlichkeiten der Sprache selbst, weil es wichtig ist, derselben
+                        keinen Einfluss auf diese zu verstatten, und weil es doch jedem unter den
+                        Lesern überlassen bleiben muss, sie, je nachdem er wieder mit andern
+                        Sprachen vertraut ist, zu berichtigen und zu erweitern.</p>
+                </div>
+                <div type="section" n="3">
+                    <head>
+                        <title type="main">III.</title>
+                    </head>
+                    <p>Der dritte Abschnitt wird endlich, nach der Schilderung des Landes und seiner
+                        Bewohner, und nach der Zergliederung der <pb n="3.299" xml:id="pbIII299"/>
+                        Sprache, historische und philosophische Untersuchungen über die <placeName
+                            ref="geo-3336903">Vask</placeName>ische Nation und Sprache, als
+                        Resultate der beiden ersten Abschnitte enthalten: und es wird darauf
+                        ankommen, hier, mit Zusammennehmung aller einwirkenden Umstände, die Stelle
+                        zu bestimmen, welche beide unter den Nationen und Sprachen, sowohl nach
+                        ihrer Abkunft, als nach ihrem Werth und ihrer Wichtigkeit in der Geschichte
+                        des Menschengeschlechts, und für die Kenntniss und die Erweiterung des
+                        Begriffs der Sprache überhaupt einnehmen. Dieser letzte Theil wird
+                        nothwendig die Resultate meiner eigenen Ideen und Ueberzeugungen enthalten
+                        müssen; <persName ref="gnd-118554727">ich</persName> schmeichle <persName
+                            ref="gnd-118554727">mir</persName> aber, dass die beiden ersten so
+                        beschaffen seyn sollen, dass jeder Sachkundige danach den dritten auf seine
+                        Weise selbst aus- oder umbilden könne.</p>
+                    <p>Auf diese Art wünsche <persName ref="gnd-118554727">ich</persName> die
+                        Bearbeitung meines Gegenstandes, so viel als möglich, in sich abzurunden und
+                        zu vollenden, und diesen kleinen Winkel Europens dergestalt zu behandeln,
+                        dass, indem von allen Puncten her Licht auf ihn zuströmt, auch er wieder
+                        Helligkeit auf einige zurückstrahle.</p>
+                    <p>Da indess auch die ausführlichste Schrift über denselben nicht gerade stark
+                        an Bogenzahl zu seyn braucht, so hoffe ich, die meinige binnen einem,
+                        längstens anderthalb Jahren dem Publikum übergeben zu können.</p>
+                </div>
+            </div>
+            <div type="notes">
+                <head>
+                    <title type="main">Bemerkungen zur Entstehungsgeschichte </title>
+                </head>
+                <p> Erster Druck: <bibl><editor><persName ref="gnd-118607987"
+                            >Schlegel</persName></editor>s <orgName ref="zdb-512925-4">Deutsches
+                            Museum</orgName>
+                        <biblScope unit="issue" n="2">2</biblScope>, <biblScope unit="page"
+                            from="485" to="502">485—502</biblScope> (<date when="1812-12"
+                            >Dezemberheft 1812</date>)</bibl>. <persName ref="gnd-118607987"
+                        >Schlegel</persName> fügt am Schluß folgende Anmerkung bei: <quote>Für die
+                        Freunde der Sprachforschung, denen das angekündigte Werk eine langerwartete,
+                        erwünschte Erscheinung sein wird, bemerken wir, dass einige <emph><placeName
+                                ref="geo-3336903">Vask</placeName>´ische Sprachproben</emph> von dem
+                        Verfasser im <emph><placeName ref="geo-554234">Königsberg</placeName>er
+                            Archiv für Philosophie, Theologie, Sprachkunde und Geschichte</emph> im
+                        3. Stück <date when="1812">1812</date> zu finden sind. Ein Wortregister
+                        nebst einigen grammatikalischen Bemerkungen werden im <emph><bibl><biblScope
+                                    unit="issue" n="3">3. Teile</biblScope> des <orgName
+                                    ref="org-00001">Mithridates</orgName></bibl></emph>
+                        erscheinen.</quote> Zugleich erschien die Ankündigung auf 8 besonders
+                    paginierten Seiten als Beilage zum dritten Stück des ersten Bandes von
+                    Delbrücks, Erfurdts, Herbarts, Hüllmanns, Krauses und Vaters <placeName
+                        ref="geo-554234">Königsberg</placeName>er Archiv für Philosophie, Theologie,
+                    Sprachkunde und Geschichte.</p>
+                <p>Der Gedanke einer umfassenden Monographie des <placeName key="geo-3336903"
+                        >baski</placeName>schen Volksstamms, in der eigene Eindrücke von Land und
+                    Volk mit grammatischen, lexikalischen und antiquarischen Untersuchungen zu einem
+                    Gesamtbilde vereinigt werden sollten, trat <persName key="gnd-118554727"
+                        >Humboldt</persName> gleich nach der Rückkehr von seiner Reise ins
+                        <placeName key="geo-3336903">Baskenland</placeName> im <date from="1801-03"
+                        to="1801-05">Frühjar 1801</date> in <placeName key="geo-2988507"
+                        >Paris</placeName> nahe und er begann nach der Rückkehr nach <placeName
+                        key="geo-2921044">Deutschland</placeName>
+                    <date from="1801-06" to="1801-08">im Sommer des Jahres</date> alsbald die
+                    eigentliche Reisebeschreibung niederzuschreiben und zu den sprachlichen und
+                    urgeschichtlichen Teilen des Werks Studien und Materialien zu sammeln (an
+                        <persName key="gnd-117444154">Wolf</persName>. <date when="1801-12">12.
+                        Dezember 1801</date>). Da <persName key="gnd-118518658">Campe</persName>
+                    einmal gegen <persName key="gnd-118554727">Humboldt</persName> den Wunsch
+                    geäußert hatte, Verleger der <placeName key="geo-2510769">spani</placeName>schen
+                    Reisebeschreibung zu werden, so trat <persName key="gnd-118554727"
+                        >Humboldt</persName> nun zunächst mit ihm in Verlagsunterhandlungen für
+                    seine Arbeit, die aus vier Abteilungen, einer eigentlich beschreibenden, einer
+                    grammatischen, einer historischen und einer lexikalischen, bestehen sollte; die
+                    Drucklegung in <placeName key="geo-2950159">Berlin</placeName> unter der
+                    Aufsicht eines des <placeName key="geo-2510769">Spani</placeName>schen kundigen
+                    Korrektors machte er zur Bedingung und versprach das Ganze nach seiner
+                    Übersiedelung nach <placeName key="geo-3169070">Rom</placeName>
+                    <date when="1803-03-27">bis Ostern 1803</date> zu vollenden (an <persName
+                        key="gnd-118518658">Campe</persName>, <date when="1802-06-28">28. Juni
+                        1802</date>). Kaum aber hatte <persName key="gnd-118518658">Campe</persName>
+                    seine Bereitwilligkeit erklärt, das Werk in Verlag zu nehmen, so mußte <persName
+                        key="gnd-118554727">Humboldt</persName> selbst ihn bitten darauf zu
+                    verzichten: es hatte sich kein andrer Korrektor der gewünschten Qualität in
+                        <placeName key="geo-2950159">Berlin</placeName> gefunden als der Buchhändler
+                        <persName key="gnd-11892737X">Sander</persName> und da dieser nur unter der
+                    Bedingung, selbst Verleger sein zu können, die Aufsicht über den Druck
+                    übernehmen wollte, so hatte <persName key="gnd-118554727">Humboldt</persName>
+                    mit ihm abschließen müssen (an <persName key="gnd-118518658">Campe</persName>,
+                        <date when="1802-08-19">19. August 1802</date>). Nach der Übersiedelung nach
+                        <placeName key="geo-3169070">Rom</placeName> wurde die Arbeit trotz der
+                    Fülle neuer Eindrücke in den Jahren <date when="1803">1803</date> und <date
+                        when="1804">1804</date> so rasch gefördert, daß wenigstens die eigentliche
+                    Reiseschilderung und die Beschreibung von Land und Leuten, wenn auch der früher
+                    in Aussicht gestellte Erscheinungstermin, <date when="1803-03-27">Ostern
+                        1803</date>, so wenig wie ein später erhoffter, <date when="1804-09-29"
+                        >Michaelis 1804</date>, innegehalten werden konnte, doch zu <date
+                        when="1805-01">Beginn des Jahres 1805</date> vollendet war (<persName
+                        key="gnd-118554727">Humboldt</persName> an <persName key="gnd-118540238"
+                        >Goethe</persName>, <date when="1803-01-28">28. Januar 1803</date>; an
+                        <persName key="gnd-116519770">Brinkmann</persName>, <date when="1803-10-22"
+                        >22. Oktober 1803</date> und <date when="1804-02-04">4. Februar 1804</date>;
+                    an <persName key="gnd-119044064">Schweighäuser</persName>, <date
+                        when="1803-11-02">2. November 1803</date> und <date when="1804-06-21">21.
+                        Juni 1804</date>; an <persName key="gnd-11855073X">Heyne</persName>, <date
+                        when="1804-01-14">14. Januar 1804</date>; an <persName key="gnd-118540238"
+                        >Goethe</persName>, <date when="1806-04-12">12. April 1806</date>; vgl. auch
+                        <persName key="gnd-118554719">Karoline von Humboldt</persName> an <persName
+                        key="gnd-118607847">Schlabrendorf</persName>, <date when="1805-02-28">28.
+                        Februar 1805</date>). Nicht ebenso rasch rückte die Bearbeitung der
+                    grammatischen, lexikalischen und urgeschichtlichen Teile des Werks vorwärts und
+                    die Konzentration der Gedankenwelt <persName key="gnd-118554727"
+                        >Humboldt</persName>s auf das klassische Altertum in den letzten <placeName
+                        key="geo-3169070">röm</placeName>ischen Jahren ließ die Barbarenwelt der
+                        <placeName key="geo-3336903">Bask</placeName>en mehr und mehr in tiefe
+                    Vergessenheit versinken (<persName key="gnd-118554727">Humboldt</persName> an
+                        <persName key="gnd-119044064">Schweighäuser</persName>, <date
+                        when="1806-07-02">2. Juli 1806</date> und <date when="1807-07-18">18. Juli
+                        1807</date>). Darum ruhte der Plan lange, bis er <persName
+                        key="gnd-118554727">Humboldt</persName> im Beginn seiner wiener Zeit aufs
+                    neue nahetrat und zunächst wenigstens die grammatischen Anmerkungen zu <persName
+                        key="gnd-118500651">Adelung</persName> ausgearbeitet wurden. Daß er damals
+                    wieder an eine Vollendung des Ganzen dachte (an <persName key="gnd-11856448X"
+                        >Körner</persName>, <date when="1812-01-03">3. Januar 1812</date>), zeigt
+                    die Abfassung und Veröffentlichung der Vorankündigung im <placeName
+                        key="geo-554234">Königsberg</placeName>er Archiv und in <persName
+                        ref="gnd-118607987">Schlegel</persName>s <orgName ref="zdb-512925-4"
+                        >Museum</orgName>, die das fertige Werk in ein bis anderthalb Jahren in
+                    Aussicht stellte. Die politischen Aufgaben, die <persName key="gnd-118554727"
+                        >Humboldt</persName> seit der <placeName key="geo-2017370"
+                    >russ</placeName>ischen Katastrophe in den Freiheitskriegen, im <placeName
+                        key="geo-2761369">wien</placeName>er Kongreß, in den <placeName
+                        key="geo-2988507">paris</placeName>er Friedensverhandlungen erwuchsen, haben
+                    dann die Vollendung der Monographie aufs ungewisse vertagt. Der ganze
+                    umfängliche Plan löste sich gewissermaßen wieder in seine Elemente auf: für den
+                    beabsichtigten grammatisch-lexikalischen Teil mußten die Anmerkungen zu
+                        <persName key="gnd-118500651">Adelung</persName> als Ersatz dienen, der
+                    urgeschichtliche wurde <date when="1820">1820</date> und <date when="1821"
+                        >1821</date> zu einem besonderen Buche erweitert; die schon in <placeName
+                        key="geo-3169070">Rom</placeName> vollendete Reisebeschreibung, die sich im
+                    Nachlaß leider unerklärlicherweise nicht vorgefunden hat, blieb ganz
+                    unveröffentlicht. Daß die Erörterungen der Ankündigung in gedrängter Form die
+                    Keime der späteren sprachphilosophischen Arbeiten <persName key="gnd-118554727"
+                        >Humboldt</persName>s enthalten, hat <persName key="gnd-118617583"
+                        >Steinthal</persName> gezeigt. Gleich beim Erscheinen fanden sie die
+                    Anerkennung <persName key="gnd-118542257">Jakob Grimm</persName>s
+                                (<bibl><editor><persName key="gnd-118706640"
+                            >Holtei</persName></editor>, <title>Dreihundert Briefe aus zwei
+                            Jahrhunderten</title>
+                        <biblScope unit="volume" n="1">1</biblScope>, <biblScope unit="page" n="157"
+                            >157</biblScope></bibl>; vgl. auch <bibl><author><persName
+                                key="gnd-118607200">Scherer</persName></author>, <title><persName
+                                key="gnd-118542257">Jakob Grimm</persName></title>
+                        <biblScope unit="edition"><hi rend="sup">2</hi></biblScope> S. <biblScope
+                            unit="page" n="165">165</biblScope></bibl>).</p>
+            </div>
+        </body>
+    </text>
+</tei:TEI>
