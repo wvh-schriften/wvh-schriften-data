@@ -128,6 +128,11 @@
                 <orgName type="sort">Mithridates</orgName>
                 <note>Ein monumentales sprachwissenschaftliches Werk von Johann Christoph Adelung, das von 1806 bis 1817 in vier Bänden erschien und nach dessen Tod von Johann Severin Vater vollendet wurde. Es enthält Sprachproben in fast 500 Sprachen.</note>
             </org>
+		<org xml:id="zdb-512925-4">
+        	<orgName type="main">Deutsches Museum</orgName>
+        	<orgName type="sort">Deutsches Museum</orgName>
+        	<note>Eine literarische und kulturelle Zeitschrift, die von Friedrich von Schlegel herausgegeben wurde. In dieser Zeitschrift erschienen insgesamt 24 Hefte.</note>
+		</org>
     </listOrg>
    </standOff>
 </TEI>
